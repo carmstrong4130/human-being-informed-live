@@ -41,9 +41,10 @@ export const Route = createFileRoute("/$stateSlug")({
         { title },
         {
           name: "description",
-          content: config
-            ? `What laws ${config.name} is voting on, who is voting, and when — linked to official state sources.`
-            : "That state is not covered yet. Utah is the first state available on Be Informed.",
+          content:
+            config && enabled
+              ? `What laws ${config.name} is voting on, who is voting, and when — linked to official state sources.`
+              : "That state is not covered yet. Utah is the first state available on Be Informed.",
         },
         { property: "og:title", content: title },
         {
