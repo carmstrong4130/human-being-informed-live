@@ -15,8 +15,8 @@ const PARTY_NAMES: Record<string, string> = {
 };
 
 const PARTY_COLORS: Record<string, string> = {
-  R: "text-[#A3373C]",
-  D: "text-[#2A5CA5]",
+  R: "text-party-r",
+  D: "text-party-d",
 };
 
 export default function PartyTag({ party }: { party: PartyCode }) {

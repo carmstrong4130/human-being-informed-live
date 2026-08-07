@@ -1,12 +1,12 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate } from "@tanstack/react-router";
 
 import { STATES } from "@/config/states";
 import { DC_MARKER, INSET_SEPARATORS, MAP_VIEWBOX, STATE_SHAPES } from "./us-map-shapes";
 
 const BASE_SHAPE = "stroke-hairline transition-colors duration-150 [stroke-width:0.75]";
-const INACTIVE = "fill-white hover:fill-stategray";
+const INACTIVE = "fill-background hover:fill-stategray";
 const ACTIVE =
-  "fill-white hover:fill-stategreen focus-visible:fill-stategreen cursor-pointer outline-none";
+  "fill-background hover:fill-stategreen focus-visible:fill-stategreen cursor-pointer outline-none";
 
 /**
  * The clickable US map. Geometry comes from the CC0 Wikimedia base map
