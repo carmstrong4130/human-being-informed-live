@@ -34,7 +34,8 @@ function formatConvenes(iso: string): string {
 export const Route = createFileRoute("/$stateSlug")({
   head: ({ params }) => {
     const config = stateBySlug(params.stateSlug);
-    const title = config ? `${config.name} — Be Informed` : "Not found — Be Informed";
+    const enabled = Boolean(config?.enabled);
+    const title = config && enabled ? `${config.name} — Be Informed` : "Not found — Be Informed";
     return {
       meta: [
         { title },
