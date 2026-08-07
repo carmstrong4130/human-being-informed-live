@@ -28,7 +28,7 @@ export default function USMap() {
         const name = config?.name ?? shape.name;
 
         const go = () => {
-          if (enabled && config) navigate(`/${config.slug}`);
+          if (enabled && config) navigate({ to: `/${config.slug}` });
         };
 
         return (
