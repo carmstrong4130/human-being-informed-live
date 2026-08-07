@@ -1,0 +1,1495 @@
+[
+  {
+    "id": "INTBUS",
+    "name": "Business and Labor Interim Committee",
+    "chamber": null,
+    "members": [
+      "BALLAMG",
+      "CULLIKA",
+      "HAWKIJ",
+      "IVORYK",
+      "KYLEJB",
+      "MALOYC",
+      "MATTHA",
+      "MCCAYD",
+      "NGUYEH",
+      "PITCHS",
+      "SANDASD",
+      "SAWYEJ",
+      "SCHULM",
+      "SHALLD",
+      "SNIDEC",
+      "THURSNK",
+      "VICKEEJ",
+      "WEILET",
+      "WHYTESL",
+      "WILCORD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTBUS"
+  },
+  {
+    "id": "SPECWL",
+    "name": "Child Welfare Legislative Oversight Panel",
+    "chamber": null,
+    "members": [
+      "ACTONCK",
+      "ESCAML",
+      "HOLLIS",
+      "JOHNSJD",
+      "WATKICF"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPECWL"
+  },
+  {
+    "id": "APPCRI",
+    "name": "Criminal Justice Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "ACTONCK",
+      "BALLAMG",
+      "BRAMMB",
+      "CULLIKA",
+      "DUNNIJA",
+      "FILLML",
+      "HARPEWA",
+      "IPSONDL",
+      "LARSOJ",
+      "LISONK",
+      "MILLGR",
+      "OWENSD",
+      "PETERM",
+      "PITCHS",
+      "ROMERAY"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPCRI"
+  },
+  {
+    "id": "APPECD",
+    "name": "Economic and Community Development Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "CULLIKA",
+      "GROVEK",
+      "LHANSEN",
+      "HOLLIS",
+      "KYLEJB",
+      "MAUGAV",
+      "MUSSECR",
+      "OKERLC",
+      "OWENSD",
+      "PETERT",
+      "PITCHS",
+      "SANDASD",
+      "STEVEJW",
+      "TEUSCJ",
+      "WATKICF"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPECD"
+  },
+  {
+    "id": "INTEDW",
+    "name": "Economic Development and Workforce Services Interim Committee",
+    "chamber": null,
+    "members": [
+      "CUTLEP",
+      "DUNNIJA",
+      "FIEFID",
+      "FITISJ",
+      "LHANSEN",
+      "HAWKIJ",
+      "HAYESS",
+      "JACKC",
+      "KWANK",
+      "LARSOJ",
+      "MCKELMK",
+      "MILLNA",
+      "MOSSCS",
+      "SHALLD",
+      "SHELLT",
+      "STEVEJW",
+      "TEUSCJ",
+      "VICKEEJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTEDW"
+  },
+  {
+    "id": "INTEDU",
+    "name": "Education Interim Committee",
+    "chamber": null,
+    "members": [
+      "AUXIET",
+      "BALDEH",
+      "BISHORW",
+      "DEFAYA",
+      "ELISOJ",
+      "FILLML",
+      "HAYESS",
+      "JOHNSJD",
+      "LISONK",
+      "MOSSCS",
+      "OKERLC",
+      "PETERK",
+      "PETERVL",
+      "PIERUC",
+      "RIEBEK",
+      "THOMJA",
+      "WALTER",
+      "WELTOD",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTEDU"
+  },
+  {
+    "id": "SPEEJC",
+    "name": "Elected Officials and Judicial Compensation Commission",
+    "chamber": null,
+    "members": [],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEEJC"
+  },
+  {
+    "id": "APPEXE",
+    "name": "Executive Appropriations Committee",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "BOLINB",
+      "BROOKW",
+      "CULLIKA",
+      "DAILEJ",
+      "ESCAML",
+      "HAYESS",
+      "KWANK",
+      "MCKELMK",
+      "OWENSDO",
+      "PETERVL",
+      "PIERUC",
+      "PLUMBJ",
+      "RIEBEK",
+      "ROMERAY",
+      "SANDASD",
+      "SCHULM",
+      "SNIDEC",
+      "STEVEJW",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPEXE"
+  },
+  {
+    "id": "SPEFFO",
+    "name": "Federal Funds Legislative Oversight Committee - Rural Health Transformation Grant",
+    "chamber": null,
+    "members": [
+      "BROOKW",
+      "DAILEJ",
+      "MONSOL",
+      "PETERVL",
+      "PLUMBJ",
+      "STRATKJ",
+      "VICKEEJ",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEFFO"
+  },
+  {
+    "id": "SPEFED",
+    "name": "Federalism Commission",
+    "chamber": null,
+    "members": [
+      "ALBRECR",
+      "BISHORW",
+      "CHRISKJ",
+      "DAILEJ",
+      "DOMINR",
+      "HINKIDP",
+      "IVORYK",
+      "KWANK",
+      "OWENSD",
+      "PETERM",
+      "ROBERC",
+      "STRATKJ",
+      "THOMJA",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEFED"
+  },
+  {
+    "id": "APPGEN",
+    "name": "General Government Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "ABBOTN",
+      "BLOUIN",
+      "BRAMMB",
+      "BUSSEM",
+      "CUTLEP",
+      "DOMINR",
+      "HAWKIJ",
+      "LOUBEA",
+      "MALOYC",
+      "MCKELMK",
+      "PLUMBJ",
+      "SHEPHL",
+      "STODDA",
+      "THURSNK",
+      "VICKEEJ",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPGEN"
+  },
+  {
+    "id": "SPEADM",
+    "name": "General Oversight Committee",
+    "chamber": null,
+    "members": [
+      "BALDEH",
+      "BRAMMB",
+      "DAILEJ",
+      "ESCAML",
+      "JOHNSJD",
+      "KWANK",
+      "LEETA",
+      "MACPHM",
+      "MCCAYD",
+      "ROMERAY",
+      "SHEPHL",
+      "THURSNK",
+      "WALTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEADM"
+  },
+  {
+    "id": "INTGOC",
+    "name": "Government Operations Interim Committee",
+    "chamber": null,
+    "members": [
+      "BRAMMB",
+      "CUTLEP",
+      "FIEFID",
+      "LARSOJ",
+      "LOUBEA",
+      "MACPHM",
+      "MCKELMK",
+      "MILLGR",
+      "MUSSECR",
+      "PETERM",
+      "PLUMBJ",
+      "ROBERC",
+      "ROMERAY",
+      "SHEPHL",
+      "STODDA",
+      "STRONMA",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTGOC"
+  },
+  {
+    "id": "INTHHS",
+    "name": "Health and Human Services Interim Committee",
+    "chamber": null,
+    "members": [
+      "ABBOTN",
+      "ACTONCK",
+      "ADAMSJS",
+      "BARLOSE",
+      "BOLINB",
+      "CHEVRK",
+      "DAILEJ",
+      "ELIASS",
+      "ESCAML",
+      "FITISJ",
+      "GRICIS",
+      "GROVEK",
+      "HALLK",
+      "HOLLIS",
+      "MONSOL",
+      "PACEG",
+      "STEVEJW",
+      "STRATKJ",
+      "WARDR"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTHHS"
+  },
+  {
+    "id": "APPHED",
+    "name": "Higher Education Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "DEFAYA",
+      "GROVEK",
+      "HALLK",
+      "HAYESS",
+      "JOHNSJD",
+      "KOFORJ",
+      "KWANK",
+      "LEETA",
+      "MCKELMK",
+      "MILLNA",
+      "PETERK",
+      "RIEBEK",
+      "STRONMA",
+      "VICKEEJ",
+      "WALTER",
+      "WILCORD",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPHED"
+  },
+  {
+    "id": "HSTBUS",
+    "name": "House Business, Labor, and Commerce Committee",
+    "chamber": "house",
+    "members": [
+      "BALLAMG",
+      "DUNNIJA",
+      "IVORYK",
+      "KYLEJB",
+      "MALOYC",
+      "MATTHA",
+      "NGUYEH",
+      "PETERT",
+      "ROBERC",
+      "SAWYEJ",
+      "SCHULM",
+      "TEUSCJ",
+      "THURSNK",
+      "WHYTESL",
+      "WILCORD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTBUS"
+  },
+  {
+    "id": "HSTEDW",
+    "name": "House Economic Development and Workforce Services Committee",
+    "chamber": "house",
+    "members": [
+      "CUTLEP",
+      "FIEFID",
+      "LHANSEN",
+      "HAWKIJ",
+      "JACKC",
+      "MAUGAV",
+      "MILLGR",
+      "OWENSDO",
+      "SHALLD",
+      "SHELLT"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTEDW"
+  },
+  {
+    "id": "HSTEDU",
+    "name": "House Education Committee",
+    "chamber": "house",
+    "members": [
+      "AUXIET",
+      "DEFAYA",
+      "ELISOJ",
+      "HAYESS",
+      "LISONK",
+      "MACPHM",
+      "MILLET",
+      "MOSSCS",
+      "PECKNI",
+      "PETERK",
+      "PETERVL",
+      "PIERUC",
+      "THOMJA",
+      "WALTER",
+      "WELTOD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTEDU"
+  },
+  {
+    "id": "HSTETH",
+    "name": "House Ethics Committee",
+    "chamber": "house",
+    "members": [
+      "ELISOJ",
+      "HAWKIJ",
+      "MATTHA",
+      "OWENSDO",
+      "ROMERAY",
+      "STODDA",
+      "TEUSCJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTETH"
+  },
+  {
+    "id": "HSTGOC",
+    "name": "House Government Operations Committee",
+    "chamber": "house",
+    "members": [
+      "CUTLEP",
+      "FIEFID",
+      "HAYESS",
+      "LOUBEA",
+      "MACPHM",
+      "MALOYC",
+      "PETERM",
+      "PIERUC",
+      "ROMERAY",
+      "STODDA",
+      "WELTOD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTGOC"
+  },
+  {
+    "id": "HSTHHS",
+    "name": "House Health and Human Services Committee",
+    "chamber": "house",
+    "members": [
+      "ABBOTN",
+      "ACTONCK",
+      "BARLOSE",
+      "BOLINB",
+      "CHEVRK",
+      "DAILEJ",
+      "ELIASS",
+      "FITISJ",
+      "GRICIS",
+      "HALLK",
+      "HOLLIS",
+      "MONSOL",
+      "WARDR"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTHHS"
+  },
+  {
+    "id": "HSTJUD",
+    "name": "House Judiciary Committee",
+    "chamber": "house",
+    "members": [
+      "ABBOTN",
+      "ACTONCK",
+      "AUXIET",
+      "GRICIS",
+      "HAWKIJ",
+      "LISONK",
+      "LOUBEA",
+      "MAUGAV",
+      "MILLGR",
+      "THOMJA"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTJUD"
+  },
+  {
+    "id": "HSTLAW",
+    "name": "House Law Enforcement and Criminal Justice Committee",
+    "chamber": "house",
+    "members": [
+      "BALLAMG",
+      "HALLK",
+      "HOLLIS",
+      "LEETA",
+      "PETERVL",
+      "SHEPHL",
+      "STODDA",
+      "STRONMA",
+      "WHYTESL",
+      "WILCORD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTLAW"
+  },
+  {
+    "id": "SPEHEO",
+    "name": "House Legislative Expense Oversight Committee",
+    "chamber": "house",
+    "members": [
+      "ROMERAY",
+      "SCHULM",
+      "SNIDEC"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEHEO"
+  },
+  {
+    "id": "HSTNAE",
+    "name": "House Natural Resources, Agriculture, and Environment Committee",
+    "chamber": "house",
+    "members": [
+      "ALBRECR",
+      "ARTHUJ",
+      "BOLINB",
+      "BROOKW",
+      "CHEWSH",
+      "KOFORJ",
+      "KOHLEM",
+      "MONSOL",
+      "OWENSDO",
+      "SCHULM",
+      "SHALLD",
+      "SHIPPRP",
+      "SNIDEC",
+      "WATKICF"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTNAE"
+  },
+  {
+    "id": "HSTPOL",
+    "name": "House Political Subdivisions Committee",
+    "chamber": "house",
+    "members": [
+      "ARTHUJ",
+      "DUNNIJA",
+      "FITISJ",
+      "LHANSEN",
+      "KOHLEM",
+      "LEETA",
+      "MILLET",
+      "PETERK",
+      "TEUSCJ",
+      "WALTER",
+      "WARDR"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTPOL"
+  },
+  {
+    "id": "HSTPUT",
+    "name": "House Public Utilities and Energy Committee",
+    "chamber": "house",
+    "members": [
+      "ALBRECR",
+      "BROOKW",
+      "CHEWSH",
+      "DOMINR",
+      "JACKC",
+      "MOSSCS",
+      "PECKNI",
+      "PETERT",
+      "SHELLT",
+      "SHIPPRP",
+      "SNIDEC",
+      "WATKICF"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTPUT"
+  },
+  {
+    "id": "HSTREV",
+    "name": "House Revenue and Taxation Committee",
+    "chamber": "house",
+    "members": [
+      "BARLOSE",
+      "CHRISKJ",
+      "DAILEJ",
+      "ELIASS",
+      "ELISOJ",
+      "KOFORJ",
+      "KYLEJB",
+      "NGUYEH",
+      "OKERLC",
+      "SHEPHL",
+      "STRONMA"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTREV"
+  },
+  {
+    "id": "HSTRUL",
+    "name": "House Rules Committee",
+    "chamber": "house",
+    "members": [
+      "HOLLIS",
+      "LEETA",
+      "MATTHA",
+      "PETERK",
+      "ROBERC",
+      "TEUSCJ",
+      "WILCORD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTRUL"
+  },
+  {
+    "id": "HSTTRA",
+    "name": "House Transportation Committee",
+    "chamber": "house",
+    "members": [
+      "CHEVRK",
+      "CHRISKJ",
+      "DEFAYA",
+      "DOMINR",
+      "IVORYK",
+      "MATTHA",
+      "OKERLC",
+      "PETERM",
+      "ROBERC",
+      "ROMERAY",
+      "SAWYEJ",
+      "THURSNK"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=HSTTRA"
+  },
+  {
+    "id": "INTJUD",
+    "name": "Judiciary Interim Committee",
+    "chamber": null,
+    "members": [
+      "ABBOTN",
+      "ACTONCK",
+      "AUXIET",
+      "BALDEH",
+      "BRAMMB",
+      "CULLIKA",
+      "ESCAML",
+      "GRICIS",
+      "LISONK",
+      "LOUBEA",
+      "MALOYC",
+      "MAUGAV",
+      "MILLGR",
+      "PACEG",
+      "THOMJA",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTJUD"
+  },
+  {
+    "id": "INTLAW",
+    "name": "Law Enforcement and Criminal Justice Interim Committee",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "BALLAMG",
+      "BISHORW",
+      "HALLK",
+      "HOLLIS",
+      "IPSONDL",
+      "JOHNSJD",
+      "LEETA",
+      "MACPHM",
+      "MUSSECR",
+      "PITCHS",
+      "STODDA",
+      "STRONMA",
+      "WHYTESL",
+      "WILCORD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTLAW"
+  },
+  {
+    "id": "SPEAUD",
+    "name": "Legislative Audit Subcommittee",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "CULLIKA",
+      "ESCAML",
+      "ROMERAY",
+      "SCHULM",
+      "SNIDEC"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEAUD"
+  },
+  {
+    "id": "SPEMAN",
+    "name": "Legislative Management Committee",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "BOLINB",
+      "CULLIKA",
+      "DAILEJ",
+      "ESCAML",
+      "HAYESS",
+      "KWANK",
+      "MCKELMK",
+      "OWENSDO",
+      "PIERUC",
+      "PLUMBJ",
+      "RIEBEK",
+      "ROMERAY",
+      "SCHULM",
+      "SNIDEC",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEMAN"
+  },
+  {
+    "id": "SPELPC",
+    "name": "Legislative Process Committee",
+    "chamber": null,
+    "members": [
+      "DUNNIJA",
+      "ESCAML",
+      "FILLML",
+      "MOSSCS",
+      "PIERUC",
+      "SANDASD",
+      "STODDA",
+      "WILCORD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPELPC"
+  },
+  {
+    "id": "SPELRD",
+    "name": "Legislative Redistricting Committee",
+    "chamber": null,
+    "members": [
+      "BROOKW",
+      "ESCAML",
+      "FILLML",
+      "GRICIS",
+      "IPSONDL",
+      "MCKELMK",
+      "OWENSDO",
+      "PIERUC",
+      "ROBERC",
+      "SANDASD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPELRD"
+  },
+  {
+    "id": "SPESWD",
+    "name": "Legislative Water Development Commission",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "ALBRECR",
+      "BOLINB",
+      "CHEWSH",
+      "HINKIDP",
+      "IPSONDL",
+      "KOHLEM",
+      "MCKELMK",
+      "NGUYEH",
+      "OWENSDO",
+      "PETERT",
+      "PLUMBJ",
+      "SNIDEC",
+      "STRATKJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESWD"
+  },
+  {
+    "id": "SPEMCG",
+    "name": "Medical Cannabis Governance Structure Working Group",
+    "chamber": null,
+    "members": [
+      "BROOKW",
+      "DAILEJ",
+      "ESCAML",
+      "OWENSD",
+      "VICKEEJ",
+      "WARDR"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEMCG"
+  },
+  {
+    "id": "SPENAL",
+    "name": "Native American Legislative Liaison Committee",
+    "chamber": null,
+    "members": [
+      "ESCAML",
+      "FITISJ",
+      "HINKIDP",
+      "MONSOL",
+      "OWENSDO",
+      "PLUMBJ",
+      "ROMERAY",
+      "SHELLT",
+      "SHIPPRP",
+      "WATKICF",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPENAL"
+  },
+  {
+    "id": "INTNAE",
+    "name": "Natural Resources, Agriculture, and Environment Interim Committee",
+    "chamber": null,
+    "members": [
+      "ALBRECR",
+      "ARTHUJ",
+      "BLOUIN",
+      "BOLINB",
+      "BROOKW",
+      "CHEWSH",
+      "HINKIDP",
+      "KOHLEM",
+      "MONSOL",
+      "OWENSDO",
+      "OWENSD",
+      "PETERT",
+      "SANDASD",
+      "SCHULM",
+      "SHIPPRP",
+      "SNIDEC",
+      "STRATKJ",
+      "WALTER",
+      "WATKICF"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTNAE"
+  },
+  {
+    "id": "APPNAE",
+    "name": "Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "ALBRECR",
+      "ARTHUJ",
+      "BARLOSE",
+      "BLOUIN",
+      "CHEWSH",
+      "HINKIDP",
+      "KOHLEM",
+      "MCCAYD",
+      "MONSOL",
+      "MUSSECR",
+      "NGUYEH",
+      "SANDASD",
+      "SHELLT",
+      "SHIPPRP",
+      "SNIDEC",
+      "STEVEJW",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPNAE"
+  },
+  {
+    "id": "SPEOLY",
+    "name": "Olympic and Paralympic Winter Games Coordination Committee",
+    "chamber": null,
+    "members": [
+      "CULLIKA",
+      "ESCAML",
+      "HALLK",
+      "HAWKIJ",
+      "MATTHA",
+      "MCKELMK"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEOLY"
+  },
+  {
+    "id": "INTPOL",
+    "name": "Political Subdivisions Interim Committee",
+    "chamber": null,
+    "members": [
+      "ARTHUJ",
+      "BLOUIN",
+      "BUSSEM",
+      "DUNNIJA",
+      "LHANSEN",
+      "HARPEWA",
+      "IPSONDL",
+      "KOFORJ",
+      "KOHLEM",
+      "LEETA",
+      "MAUGAV",
+      "MILLET",
+      "MUSSECR",
+      "PETERVL",
+      "TEUSCJ",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTPOL"
+  },
+  {
+    "id": "APPPED",
+    "name": "Public Education Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "AUXIET",
+      "BALDEH",
+      "BISHORW",
+      "BROOKW",
+      "ELIASS",
+      "ESCAML",
+      "FILLML",
+      "HINKIDP",
+      "JOHNSJD",
+      "MACPHM",
+      "MILLET",
+      "MILLNA",
+      "MOSSCS",
+      "PIERUC",
+      "THOMJA",
+      "WHYTESL"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPPED"
+  },
+  {
+    "id": "INTPUT",
+    "name": "Public Utilities, Energy, and Technology Interim Committee",
+    "chamber": null,
+    "members": [
+      "ALBRECR",
+      "BROOKW",
+      "CHEWSH",
+      "CHRISKJ",
+      "DOMINR",
+      "HINKIDP",
+      "JACKC",
+      "KWANK",
+      "MILLNA",
+      "OWENSDO",
+      "OWENSD",
+      "PECKNI",
+      "PETERT",
+      "SANDASD",
+      "SHELLT",
+      "SHIPPRP",
+      "SNIDEC",
+      "WATKICF"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTPUT"
+  },
+  {
+    "id": "INTRIE",
+    "name": "Retirement and Independent Entities Interim Committee",
+    "chamber": null,
+    "members": [
+      "ACTONCK",
+      "CHRISKJ",
+      "CULLIKA",
+      "DAILEJ",
+      "ELISOJ",
+      "ESCAML",
+      "FILLML",
+      "HARPEWA",
+      "LEETA",
+      "MILLGR",
+      "PLUMBJ",
+      "SHIPPRP",
+      "THURSNK",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTRIE"
+  },
+  {
+    "id": "INTREV",
+    "name": "Revenue and Taxation Interim Committee",
+    "chamber": null,
+    "members": [
+      "BARLOSE",
+      "CULLIKA",
+      "DAILEJ",
+      "ELIASS",
+      "ELISOJ",
+      "FILLML",
+      "KOFORJ",
+      "KYLEJB",
+      "MCCAYD",
+      "MILLET",
+      "NGUYEH",
+      "OKERLC",
+      "PECKNI",
+      "PLUMBJ",
+      "SHEPHL",
+      "WARDR",
+      "WELTOD",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTREV"
+  },
+  {
+    "id": "SPERZC",
+    "name": "Revitalization Zone Committee",
+    "chamber": null,
+    "members": [
+      "CULLIKA",
+      "HAWKIJ",
+      "MCCAYD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPERZC"
+  },
+  {
+    "id": "SSTBUS",
+    "name": "Senate Business and Labor Committee",
+    "chamber": "senate",
+    "members": [
+      "CULLIKA",
+      "IPSONDL",
+      "MCCAYD",
+      "MUSSECR",
+      "PITCHS",
+      "SANDASD",
+      "VICKEEJ",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTBUS"
+  },
+  {
+    "id": "SPEBUS",
+    "name": "Senate Business and Labor Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "CULLIKA",
+      "ESCAML",
+      "MCCAYD",
+      "MUSSECR",
+      "PITCHS",
+      "SANDASD",
+      "VICKEEJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEBUS"
+  },
+  {
+    "id": "SSTEDW",
+    "name": "Senate Economic Development and Workforce Services Committee",
+    "chamber": "senate",
+    "members": [
+      "ADAMSJS",
+      "JOHNSJD",
+      "KWANK",
+      "MILLNA",
+      "OWENSD",
+      "STEVEJW"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTEDW"
+  },
+  {
+    "id": "SPEEDW",
+    "name": "Senate Economic Development and Workforce Services Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BLOUIN",
+      "FILLML",
+      "JOHNSJD",
+      "KWANK",
+      "MILLNA",
+      "OWENSD",
+      "STEVEJW"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEEDW"
+  },
+  {
+    "id": "SSTEDU",
+    "name": "Senate Education Committee",
+    "chamber": "senate",
+    "members": [
+      "BALDEH",
+      "FILLML",
+      "HINKIDP",
+      "JOHNSJD",
+      "MCKELMK",
+      "RIEBEK",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTEDU"
+  },
+  {
+    "id": "SPEEDU",
+    "name": "Senate Education Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BALDEH",
+      "ESCAML",
+      "JOHNSJD",
+      "MCKELMK",
+      "MILLNA",
+      "RIEBEK",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEEDU"
+  },
+  {
+    "id": "SSTETH",
+    "name": "Senate Ethics Committee",
+    "chamber": "senate",
+    "members": [
+      "ESCAML",
+      "GROVEK",
+      "KWANK",
+      "MCKELMK",
+      "MILLNA",
+      "PLUMBJ",
+      "RIEBEK",
+      "SANDASD"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTETH"
+  },
+  {
+    "id": "SSTGOP",
+    "name": "Senate Government Operations and Political Subdivisions Committee",
+    "chamber": "senate",
+    "members": [
+      "BLOUIN",
+      "BUSSEM",
+      "MCKELMK",
+      "PLUMBJ",
+      "SANDASD",
+      "VICKEEJ",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTGOP"
+  },
+  {
+    "id": "SPEGOV",
+    "name": "Senate Government Operations Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BLOUIN",
+      "BUSSEM",
+      "PLUMBJ",
+      "SANDASD",
+      "STRATKJ",
+      "VICKEEJ",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEGOV"
+  },
+  {
+    "id": "SSTHHS",
+    "name": "Senate Health and Human Services Committee",
+    "chamber": "senate",
+    "members": [
+      "ADAMSJS",
+      "BUSSEM",
+      "ESCAML",
+      "GROVEK",
+      "PLUMBJ",
+      "STEVEJW",
+      "STRATKJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTHHS"
+  },
+  {
+    "id": "SPEHHS",
+    "name": "Senate Health and Human Services Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "ESCAML",
+      "GROVEK",
+      "PLUMBJ",
+      "STEVEJW",
+      "STRATKJ",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEHHS"
+  },
+  {
+    "id": "SPESJC",
+    "name": "Senate Judicial Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BRAMMB",
+      "CULLIKA",
+      "IPSONDL",
+      "KWANK",
+      "MCCAYD",
+      "PITCHS",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESJC"
+  },
+  {
+    "id": "SPEJUD",
+    "name": "Senate Judiciary Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BRAMMB",
+      "CULLIKA",
+      "ESCAML",
+      "MCKELMK",
+      "MUSSECR",
+      "PITCHS",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEJUD"
+  },
+  {
+    "id": "SSTJLC",
+    "name": "Senate Judiciary, Law Enforcement, and Criminal Justice Committee",
+    "chamber": "senate",
+    "members": [
+      "BALDEH",
+      "BRAMMB",
+      "CULLIKA",
+      "ESCAML",
+      "FILLML",
+      "MCKELMK",
+      "MUSSECR",
+      "PITCHS",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTJLC"
+  },
+  {
+    "id": "SPELEC",
+    "name": "Senate Law Enforcement and Criminal Justice Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BRAMMB",
+      "CULLIKA",
+      "ESCAML",
+      "FILLML",
+      "IPSONDL",
+      "OWENSD",
+      "PITCHS"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPELEC"
+  },
+  {
+    "id": "SPESEO",
+    "name": "Senate Legislative Expense Oversight Committee",
+    "chamber": "senate",
+    "members": [
+      "ADAMSJS",
+      "CULLIKA",
+      "ESCAML"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPESEO"
+  },
+  {
+    "id": "SSTNAE",
+    "name": "Senate Natural Resources, Agriculture, and Environment Committee",
+    "chamber": "senate",
+    "members": [
+      "BLOUIN",
+      "GROVEK",
+      "HINKIDP",
+      "OWENSD",
+      "SANDASD",
+      "STEVEJW",
+      "STRATKJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTNAE"
+  },
+  {
+    "id": "SPENAT",
+    "name": "Senate Natural Resources, Agriculture, and Environment Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "GROVEK",
+      "HINKIDP",
+      "OWENSD",
+      "PLUMBJ",
+      "RIEBEK",
+      "SANDASD",
+      "STRATKJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPENAT"
+  },
+  {
+    "id": "SPEPOL",
+    "name": "Senate Political Subdivisions Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BLOUIN",
+      "MUSSECR",
+      "PLUMBJ",
+      "SANDASD",
+      "VICKEEJ",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEPOL"
+  },
+  {
+    "id": "SPERET",
+    "name": "Senate Retirement and Independent Entities Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BALDEH",
+      "CULLIKA",
+      "FILLML",
+      "GROVEK",
+      "HARPEWA",
+      "KWANK",
+      "PLUMBJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPERET"
+  },
+  {
+    "id": "SSTREV",
+    "name": "Senate Revenue and Taxation Committee",
+    "chamber": "senate",
+    "members": [
+      "BRAMMB",
+      "CULLIKA",
+      "ESCAML",
+      "FILLML",
+      "HARPEWA",
+      "MCCAYD",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTREV"
+  },
+  {
+    "id": "SPEREV",
+    "name": "Senate Revenue and Taxation Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "BRAMMB",
+      "CULLIKA",
+      "ESCAML",
+      "FILLML",
+      "MCCAYD",
+      "PLUMBJ",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEREV"
+  },
+  {
+    "id": "SSTRUL",
+    "name": "Senate Rules Committee",
+    "chamber": "senate",
+    "members": [
+      "ESCAML",
+      "FILLML",
+      "GROVEK",
+      "IPSONDL",
+      "KWANK",
+      "MCCAYD",
+      "STRATKJ",
+      "WEILET",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTRUL"
+  },
+  {
+    "id": "SSTTPT",
+    "name": "Senate Transportation, Public Utilities, Energy, and Technology Committee",
+    "chamber": "senate",
+    "members": [
+      "ADAMSJS",
+      "HARPEWA",
+      "IPSONDL",
+      "KWANK",
+      "MILLNA",
+      "RIEBEK",
+      "WILSOCH",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SSTTPT"
+  },
+  {
+    "id": "SPETRA",
+    "name": "Senate Transportation, Public Utilities, Energy, and Technology Confirmation Committee",
+    "chamber": "senate",
+    "members": [
+      "HARPEWA",
+      "IPSONDL",
+      "KWANK",
+      "MILLNA",
+      "RIEBEK",
+      "WILSOCH",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPETRA"
+  },
+  {
+    "id": "APPSOC",
+    "name": "Social Services Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "BALDEH",
+      "BUSSEM",
+      "CHEVRK",
+      "DAILEJ",
+      "ESCAML",
+      "FIEFID",
+      "FITISJ",
+      "GRICIS",
+      "JACKC",
+      "PACEG",
+      "PECKNI",
+      "PLUMBJ",
+      "STRATKJ",
+      "WARDR",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPSOC"
+  },
+  {
+    "id": "SUBOVE",
+    "name": "Subcommittee on Oversight",
+    "chamber": null,
+    "members": [
+      "ADAMSJS",
+      "CULLIKA",
+      "DAILEJ",
+      "ESCAML",
+      "KWANK",
+      "ROMERAY",
+      "SCHULM",
+      "SNIDEC"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SUBOVE"
+  },
+  {
+    "id": "APPTIF",
+    "name": "Transportation and Infrastructure Appropriations Subcommittee",
+    "chamber": null,
+    "members": [
+      "BOLINB",
+      "CHRISKJ",
+      "ELISOJ",
+      "HARPEWA",
+      "IPSONDL",
+      "IVORYK",
+      "KWANK",
+      "MATTHA",
+      "MCCAYD",
+      "OWENSDO",
+      "RIEBEK",
+      "ROBERC",
+      "SAWYEJ",
+      "SHALLD",
+      "STRATKJ",
+      "WELTOD",
+      "WILSOCH",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=APPTIF"
+  },
+  {
+    "id": "INTTRA",
+    "name": "Transportation Interim Committee",
+    "chamber": null,
+    "members": [
+      "BUSSEM",
+      "CHEVRK",
+      "CHRISKJ",
+      "DEFAYA",
+      "DOMINR",
+      "GROVEK",
+      "HARPEWA",
+      "IVORYK",
+      "MATTHA",
+      "PETERM",
+      "PETERK",
+      "PIERUC",
+      "RIEBEK",
+      "ROBERC",
+      "ROMERAY",
+      "SAWYEJ",
+      "THURSNK",
+      "WINTER"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=INTTRA"
+  },
+  {
+    "id": "TSKBHL",
+    "name": "Utah Behavioral Health Legislative Policy Committee",
+    "chamber": null,
+    "members": [
+      "DAILEJ",
+      "ELIASS",
+      "ESCAML",
+      "VICKEEJ",
+      "WILSOCH"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=TSKBHL"
+  },
+  {
+    "id": "SPEUSL",
+    "name": "Utah Commission on Uniform State Laws",
+    "chamber": null,
+    "members": [
+      "MCKELMK",
+      "TEUSCJ"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEUSL"
+  },
+  {
+    "id": "SPEVMA",
+    "name": "Veterans and Military Affairs Commission",
+    "chamber": null,
+    "members": [
+      "ARTHUJ",
+      "ESCAML",
+      "PETERVL",
+      "PIERUC",
+      "WEILET"
+    ],
+    "officialUrl": "https://le.utah.gov/committee/committee.jsp?year=2026&com=SPEVMA"
+  }
+]

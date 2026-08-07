@@ -1,0 +1,26 @@
+{
+  "lastUpdated": "2026-08-06T01:32:33.140Z",
+  "session": {
+    "id": null,
+    "label": "2026 General Session",
+    "convenes": null,
+    "inSession": false,
+    "next": {
+      "id": "2027GS",
+      "label": "2027 General Session",
+      "convenes": "2027-01-19"
+    }
+  },
+  "counts": {
+    "legislators": 104,
+    "committees": 80,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Utah State Legislature",
+    "url": "https://le.utah.gov"
+  },
+  "lastUpdatedRoster": "2026-08-06T01:30:31.396Z",
+  "lastUpdatedCalendars": "2026-08-06T01:32:33.140Z"
+}
