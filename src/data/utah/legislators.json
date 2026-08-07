@@ -1,0 +1,938 @@
+[
+  {
+    "id": "PETERT",
+    "name": "Thomas W. Peterson",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://house.utleg.gov/rep/PETERT/",
+    "imageUrl": "/legislators/PETERT.jpg"
+  },
+  {
+    "id": "PETERM",
+    "name": "Michael J. Petersen",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://house.utleg.gov/rep/PETERM/",
+    "imageUrl": "/legislators/PETERM.jpg"
+  },
+  {
+    "id": "THOMJA",
+    "name": "Jason E. Thompson",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://house.utleg.gov/rep/THOMJA/",
+    "imageUrl": "/legislators/THOMJA.jpg"
+  },
+  {
+    "id": "AUXIET",
+    "name": "Tiara Auxier",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://house.utleg.gov/rep/AUXIET/",
+    "imageUrl": "/legislators/AUXIET.jpg"
+  },
+  {
+    "id": "SNIDEC",
+    "name": "Casey Snider",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://house.utleg.gov/rep/SNIDEC/",
+    "imageUrl": "/legislators/SNIDEC.jpg"
+  },
+  {
+    "id": "BISHORW",
+    "name": "Rob Bishop",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://house.utleg.gov/rep/BISHORW/",
+    "imageUrl": null
+  },
+  {
+    "id": "WILCORD",
+    "name": "Ryan D. Wilcox",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://house.utleg.gov/rep/WILCORD/",
+    "imageUrl": "/legislators/WILCORD.jpg"
+  },
+  {
+    "id": "KYLEJB",
+    "name": "Jason B. Kyle",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://house.utleg.gov/rep/KYLEJB/",
+    "imageUrl": "/legislators/KYLEJB.jpg"
+  },
+  {
+    "id": "SAWYEJ",
+    "name": "Jake Sawyer",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://house.utleg.gov/rep/SAWYEJ/",
+    "imageUrl": "/legislators/SAWYEJ.jpg"
+  },
+  {
+    "id": "KOFORJ",
+    "name": "Jill Koford",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://house.utleg.gov/rep/KOFORJ/",
+    "imageUrl": "/legislators/KOFORJ.jpg"
+  },
+  {
+    "id": "HALLK",
+    "name": "Katy Hall",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://house.utleg.gov/rep/HALLK/",
+    "imageUrl": "/legislators/HALLK.jpg"
+  },
+  {
+    "id": "SCHULM",
+    "name": "Mike Schultz",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://house.utleg.gov/rep/SCHULM/",
+    "imageUrl": "/legislators/SCHULM.jpg"
+  },
+  {
+    "id": "PETERK",
+    "name": "Karen M. Peterson",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://house.utleg.gov/rep/PETERK/",
+    "imageUrl": "/legislators/PETERK.jpg"
+  },
+  {
+    "id": "LISONK",
+    "name": "Karianne Lisonbee",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://house.utleg.gov/rep/LISONK/",
+    "imageUrl": "/legislators/LISONK.jpg"
+  },
+  {
+    "id": "DEFAYA",
+    "name": "Ariel Defay",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://house.utleg.gov/rep/DEFAYA/",
+    "imageUrl": "/legislators/DEFAYA.jpg"
+  },
+  {
+    "id": "LEETA",
+    "name": "Trevor Lee",
+    "chamber": "house",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://house.utleg.gov/rep/LEETA/",
+    "imageUrl": "/legislators/LEETA.jpg"
+  },
+  {
+    "id": "BARLOSE",
+    "name": "Stewart E. Barlow",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://house.utleg.gov/rep/BARLOSE/",
+    "imageUrl": "/legislators/BARLOSE.jpg"
+  },
+  {
+    "id": "CUTLEP",
+    "name": "Paul A. Cutler",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://house.utleg.gov/rep/CUTLEP/",
+    "imageUrl": "/legislators/CUTLEP.jpg"
+  },
+  {
+    "id": "WARDR",
+    "name": "Raymond P. Ward",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://house.utleg.gov/rep/WARDR/",
+    "imageUrl": "/legislators/WARDR.jpg"
+  },
+  {
+    "id": "BALLAMG",
+    "name": "Melissa G. Ballard",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://house.utleg.gov/rep/BALLAMG/",
+    "imageUrl": "/legislators/BALLAMG.jpg"
+  },
+  {
+    "id": "HOLLIS",
+    "name": "Sandra Hollins",
+    "chamber": "house",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://house.utleg.gov/rep/HOLLIS/",
+    "imageUrl": "/legislators/HOLLIS.jpg"
+  },
+  {
+    "id": "DAILEJ",
+    "name": "Jennifer Dailey-Provost",
+    "chamber": "house",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://house.utleg.gov/rep/DAILEJ/",
+    "imageUrl": "/legislators/DAILEJ.jpg"
+  },
+  {
+    "id": "NGUYEH",
+    "name": "Hoang Nguyen",
+    "chamber": "house",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://house.utleg.gov/rep/NGUYEH/",
+    "imageUrl": "/legislators/NGUYEH.jpg"
+  },
+  {
+    "id": "MILLGR",
+    "name": "Grant Amjad Miller",
+    "chamber": "house",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://house.utleg.gov/rep/MILLGR/",
+    "imageUrl": "/legislators/MILLGR.jpg"
+  },
+  {
+    "id": "ROMERAY",
+    "name": "Angela Romero",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://house.utleg.gov/rep/ROMERAY/",
+    "imageUrl": "/legislators/ROMERAY.jpg"
+  },
+  {
+    "id": "MACPHM",
+    "name": "Matt MacPherson",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://house.utleg.gov/rep/MACPHM/",
+    "imageUrl": "/legislators/MACPHM.jpg"
+  },
+  {
+    "id": "LOUBEA",
+    "name": "Anthony E. Loubet",
+    "chamber": "house",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://house.utleg.gov/rep/LOUBEA/",
+    "imageUrl": "/legislators/LOUBEA.jpg"
+  },
+  {
+    "id": "PECKNI",
+    "name": "Nicholeen P. Peck",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://house.utleg.gov/rep/PECKNI/",
+    "imageUrl": "/legislators/PECKNI.jpg"
+  },
+  {
+    "id": "BOLINB",
+    "name": "Bridger Bolinder",
+    "chamber": "house",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://house.utleg.gov/rep/BOLINB/",
+    "imageUrl": "/legislators/BOLINB.jpg"
+  },
+  {
+    "id": "FITISJ",
+    "name": "Jake Fitisemanu",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://house.utleg.gov/rep/FITISJ/",
+    "imageUrl": "/legislators/FITISJ.jpg"
+  },
+  {
+    "id": "MAUGAV",
+    "name": "Verona Mauga",
+    "chamber": "house",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://house.utleg.gov/rep/MAUGAV/",
+    "imageUrl": "/legislators/MAUGAV.jpg"
+  },
+  {
+    "id": "HAYESS",
+    "name": "Sahara Hayes",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://house.utleg.gov/rep/HAYESS/",
+    "imageUrl": "/legislators/HAYESS.jpg"
+  },
+  {
+    "id": "OWENSDO",
+    "name": "Doug Owens",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://house.utleg.gov/rep/OWENSDO/",
+    "imageUrl": "/legislators/OWENSDO.jpg"
+  },
+  {
+    "id": "MOSSCS",
+    "name": "Carol S. Moss",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://house.utleg.gov/rep/MOSSCS/",
+    "imageUrl": "/legislators/MOSSCS.jpg"
+  },
+  {
+    "id": "DOMINR",
+    "name": "Rosalba Dominguez",
+    "chamber": "house",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://house.utleg.gov/rep/DOMINR/",
+    "imageUrl": "/legislators/DOMINR.jpg"
+  },
+  {
+    "id": "DUNNIJA",
+    "name": "James A. Dunnigan",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://house.utleg.gov/rep/DUNNIJA/",
+    "imageUrl": "/legislators/DUNNIJA.jpg"
+  },
+  {
+    "id": "MATTHA",
+    "name": "Ashlee Matthews",
+    "chamber": "house",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://house.utleg.gov/rep/MATTHA/",
+    "imageUrl": "/legislators/MATTHA.jpg"
+  },
+  {
+    "id": "ACTONCK",
+    "name": "Cheryl K. Acton",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://house.utleg.gov/rep/ACTONCK/",
+    "imageUrl": "/legislators/ACTONCK.jpg"
+  },
+  {
+    "id": "IVORYK",
+    "name": "Ken Ivory",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://house.utleg.gov/rep/IVORYK/",
+    "imageUrl": "/legislators/IVORYK.jpg"
+  },
+  {
+    "id": "STODDA",
+    "name": "Andrew Stoddard",
+    "chamber": "house",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://house.utleg.gov/rep/STODDA/",
+    "imageUrl": "/legislators/STODDA.jpg"
+  },
+  {
+    "id": "ARTHUJ",
+    "name": "John Arthur",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://house.utleg.gov/rep/ARTHUJ/",
+    "imageUrl": "/legislators/ARTHUJ.jpg"
+  },
+  {
+    "id": "OKERLC",
+    "name": "Clinton Okerlund",
+    "chamber": "house",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://house.utleg.gov/rep/OKERLC/",
+    "imageUrl": "/legislators/OKERLC.jpg"
+  },
+  {
+    "id": "ELIASS",
+    "name": "Steve Eliason",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://house.utleg.gov/rep/ELIASS/",
+    "imageUrl": "/legislators/ELIASS.jpg"
+  },
+  {
+    "id": "TEUSCJ",
+    "name": "Jordan D. Teuscher",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://house.utleg.gov/rep/TEUSCJ/",
+    "imageUrl": "/legislators/TEUSCJ.jpg"
+  },
+  {
+    "id": "MILLET",
+    "name": "Tracy Miller",
+    "chamber": "house",
+    "party": "R",
+    "district": "45",
+    "bioUrl": "https://house.utleg.gov/rep/MILLET/",
+    "imageUrl": "/legislators/MILLET.jpg"
+  },
+  {
+    "id": "ROBERC",
+    "name": "Calvin Roberts",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://house.utleg.gov/rep/ROBERC/",
+    "imageUrl": "/legislators/ROBERC.jpg"
+  },
+  {
+    "id": "STRONMA",
+    "name": "Mark A. Strong",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://house.utleg.gov/rep/STRONMA/",
+    "imageUrl": "/legislators/STRONMA.jpg"
+  },
+  {
+    "id": "FIEFID",
+    "name": "Doug Fiefia",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://house.utleg.gov/rep/FIEFID/",
+    "imageUrl": "/legislators/FIEFID.jpg"
+  },
+  {
+    "id": "PIERUC",
+    "name": "Candice B. Pierucci",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://house.utleg.gov/rep/PIERUC/",
+    "imageUrl": "/legislators/PIERUC.jpg"
+  },
+  {
+    "id": "GRICIS",
+    "name": "Stephanie Gricius",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://house.utleg.gov/rep/GRICIS/",
+    "imageUrl": "/legislators/GRICIS.jpg"
+  },
+  {
+    "id": "LHANSEN",
+    "name": "Leah Hansen",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://house.utleg.gov/rep/LHANSEN/",
+    "imageUrl": "/legislators/LHANSEN.jpg"
+  },
+  {
+    "id": "MALOYC",
+    "name": "A. Cory Maloy",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://house.utleg.gov/rep/MALOYC/",
+    "imageUrl": "/legislators/MALOYC.jpg"
+  },
+  {
+    "id": "CHRISKJ",
+    "name": "Kay J. Christofferson",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://house.utleg.gov/rep/CHRISKJ/",
+    "imageUrl": "/legislators/CHRISKJ.jpg"
+  },
+  {
+    "id": "CHEVRK",
+    "name": "Kristen Chevrier",
+    "chamber": "house",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://house.utleg.gov/rep/CHEVRK/",
+    "imageUrl": "/legislators/CHEVRK.jpg"
+  },
+  {
+    "id": "HAWKIJ",
+    "name": "Jon Hawkins",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://house.utleg.gov/rep/HAWKIJ/",
+    "imageUrl": "/legislators/HAWKIJ.jpg"
+  },
+  {
+    "id": "PETERVL",
+    "name": "Val L. Peterson",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://house.utleg.gov/rep/PETERVL/",
+    "imageUrl": "/legislators/PETERVL.jpg"
+  },
+  {
+    "id": "ABBOTN",
+    "name": "Nelson T. Abbott",
+    "chamber": "house",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://house.utleg.gov/rep/ABBOTN/",
+    "imageUrl": "/legislators/ABBOTN.jpg"
+  },
+  {
+    "id": "SHALLD",
+    "name": "David Shallenberger",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://house.utleg.gov/rep/SHALLD/",
+    "imageUrl": "/legislators/SHALLD.jpg"
+  },
+  {
+    "id": "KOHLEM",
+    "name": "Mike L. Kohler",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://house.utleg.gov/rep/KOHLEM/",
+    "imageUrl": "/legislators/KOHLEM.jpg"
+  },
+  {
+    "id": "PACEG",
+    "name": "Grant Pace",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://house.utleg.gov/rep/PACEG/",
+    "imageUrl": "/legislators/PACEG.jpg"
+  },
+  {
+    "id": "SHEPHL",
+    "name": "Lisa Shepherd",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://house.utleg.gov/rep/SHEPHL/",
+    "imageUrl": "/legislators/SHEPHL.jpg"
+  },
+  {
+    "id": "THURSNK",
+    "name": "Norman K Thurston",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://house.utleg.gov/rep/THURSNK/",
+    "imageUrl": "/legislators/THURSNK.jpg"
+  },
+  {
+    "id": "WHYTESL",
+    "name": "Stephen L. Whyte",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://house.utleg.gov/rep/WHYTESL/",
+    "imageUrl": "/legislators/WHYTESL.jpg"
+  },
+  {
+    "id": "LARSOJ",
+    "name": "Jackie Larson",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://house.utleg.gov/rep/LARSOJ/",
+    "imageUrl": "/legislators/LARSOJ.jpg"
+  },
+  {
+    "id": "WELTOD",
+    "name": "Doug Welton",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://house.utleg.gov/rep/WELTOD/",
+    "imageUrl": "/legislators/WELTOD.jpg"
+  },
+  {
+    "id": "SHELLT",
+    "name": "Troy Shelley",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://house.utleg.gov/rep/SHELLT/",
+    "imageUrl": "/legislators/SHELLT.jpg"
+  },
+  {
+    "id": "WATKICF",
+    "name": "Christine F. Watkins",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://house.utleg.gov/rep/WATKICF/",
+    "imageUrl": "/legislators/WATKICF.jpg"
+  },
+  {
+    "id": "CHEWSH",
+    "name": "Scott H. Chew",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://house.utleg.gov/rep/CHEWSH/",
+    "imageUrl": "/legislators/CHEWSH.jpg"
+  },
+  {
+    "id": "MONSOL",
+    "name": "Logan Monson",
+    "chamber": "house",
+    "party": "R",
+    "district": "69",
+    "bioUrl": "https://house.utleg.gov/rep/MONSOL/",
+    "imageUrl": "/legislators/MONSOL.jpg"
+  },
+  {
+    "id": "ALBRECR",
+    "name": "Carl R. Albrecht",
+    "chamber": "house",
+    "party": "R",
+    "district": "70",
+    "bioUrl": "https://house.utleg.gov/rep/ALBRECR/",
+    "imageUrl": "/legislators/ALBRECR.jpg"
+  },
+  {
+    "id": "SHIPPRP",
+    "name": "Rex P. Shipp",
+    "chamber": "house",
+    "party": "R",
+    "district": "71",
+    "bioUrl": "https://house.utleg.gov/rep/SHIPPRP/",
+    "imageUrl": "/legislators/SHIPPRP.jpg"
+  },
+  {
+    "id": "ELISOJ",
+    "name": "Joseph Elison",
+    "chamber": "house",
+    "party": "R",
+    "district": "72",
+    "bioUrl": "https://house.utleg.gov/rep/ELISOJ/",
+    "imageUrl": "/legislators/ELISOJ.jpg"
+  },
+  {
+    "id": "JACKC",
+    "name": "Colin W. Jack",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://house.utleg.gov/rep/JACKC/",
+    "imageUrl": "/legislators/JACKC.jpg"
+  },
+  {
+    "id": "WALTER",
+    "name": "R. Neil Walter",
+    "chamber": "house",
+    "party": "R",
+    "district": "74",
+    "bioUrl": "https://house.utleg.gov/rep/WALTER/",
+    "imageUrl": "/legislators/WALTER.jpg"
+  },
+  {
+    "id": "BROOKW",
+    "name": "Walt Brooks",
+    "chamber": "house",
+    "party": "R",
+    "district": "75",
+    "bioUrl": "https://house.utleg.gov/rep/BROOKW/",
+    "imageUrl": "/legislators/BROOKW.jpg"
+  },
+  {
+    "id": "SANDASD",
+    "name": "Scott D. Sandall",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://senate.utah.gov/sen/SANDASD/",
+    "imageUrl": "/legislators/SANDASD.jpg"
+  },
+  {
+    "id": "WILSOCH",
+    "name": "Chris H. Wilson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://senate.utah.gov/sen/WILSOCH/",
+    "imageUrl": "/legislators/WILSOCH.jpg"
+  },
+  {
+    "id": "JOHNSJD",
+    "name": "John D. Johnson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://senate.utah.gov/sen/JOHNSJD/",
+    "imageUrl": "/legislators/JOHNSJD.jpg"
+  },
+  {
+    "id": "MUSSECR",
+    "name": "Calvin R. Musselman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://senate.utah.gov/sen/MUSSECR/",
+    "imageUrl": "/legislators/MUSSECR.jpg"
+  },
+  {
+    "id": "MILLNA",
+    "name": "Ann Millner",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://senate.utah.gov/sen/MILLNA/",
+    "imageUrl": "/legislators/MILLNA.jpg"
+  },
+  {
+    "id": "STEVEJW",
+    "name": "Jerry W Stevenson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://senate.utah.gov/sen/STEVEJW/",
+    "imageUrl": "/legislators/STEVEJW.jpg"
+  },
+  {
+    "id": "ADAMSJS",
+    "name": "J. Stuart Adams",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://senate.utah.gov/sen/ADAMSJS/",
+    "imageUrl": "/legislators/ADAMSJS.jpg"
+  },
+  {
+    "id": "WEILET",
+    "name": "Todd Weiler",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://senate.utah.gov/sen/WEILET/",
+    "imageUrl": "/legislators/WEILET.jpg"
+  },
+  {
+    "id": "PLUMBJ",
+    "name": "Jen Plumb",
+    "chamber": "senate",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://senate.utah.gov/sen/PLUMBJ/",
+    "imageUrl": "/legislators/PLUMBJ.jpg"
+  },
+  {
+    "id": "ESCAML",
+    "name": "Luz Escamilla",
+    "chamber": "senate",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://senate.utah.gov/sen/ESCAML/",
+    "imageUrl": "/legislators/ESCAML.jpg"
+  },
+  {
+    "id": "BUSSEM",
+    "name": "Emily Buss",
+    "chamber": "senate",
+    "party": "F",
+    "district": "11",
+    "bioUrl": "https://senate.utah.gov/sen/BUSSEM/",
+    "imageUrl": "/legislators/BUSSEM.jpg"
+  },
+  {
+    "id": "KWANK",
+    "name": "Karen Kwan",
+    "chamber": "senate",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://senate.utah.gov/sen/KWANK/",
+    "imageUrl": "/legislators/KWANK.jpg"
+  },
+  {
+    "id": "BLOUIN",
+    "name": "Nate Blouin",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://senate.utah.gov/sen/BLOUIN/",
+    "imageUrl": "/legislators/BLOUIN.jpg"
+  },
+  {
+    "id": "PITCHS",
+    "name": "Stephanie Pitcher",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://senate.utah.gov/sen/PITCHS/",
+    "imageUrl": "/legislators/PITCHS.jpg"
+  },
+  {
+    "id": "RIEBEK",
+    "name": "Kathleen A. Riebe",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://senate.utah.gov/sen/RIEBEK/",
+    "imageUrl": "/legislators/RIEBEK.jpg"
+  },
+  {
+    "id": "HARPEWA",
+    "name": "Wayne A. Harper",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://senate.utah.gov/sen/HARPEWA/",
+    "imageUrl": "/legislators/HARPEWA.jpg"
+  },
+  {
+    "id": "FILLML",
+    "name": "Lincoln Fillmore",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://senate.utah.gov/sen/FILLML/",
+    "imageUrl": "/legislators/FILLML.jpg"
+  },
+  {
+    "id": "MCCAYD",
+    "name": "Daniel McCay",
+    "chamber": "senate",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://senate.utah.gov/sen/MCCAYD/",
+    "imageUrl": "/legislators/MCCAYD.jpg"
+  },
+  {
+    "id": "CULLIKA",
+    "name": "Kirk A. Cullimore",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://senate.utah.gov/sen/CULLIKA/",
+    "imageUrl": "/legislators/CULLIKA.jpg"
+  },
+  {
+    "id": "WINTER",
+    "name": "Ronald M. Winterton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://senate.utah.gov/sen/WINTER/",
+    "imageUrl": "/legislators/WINTER.jpg"
+  },
+  {
+    "id": "BRAMMB",
+    "name": "Brady Brammer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://senate.utah.gov/sen/BRAMMB/",
+    "imageUrl": "/legislators/BRAMMB.jpg"
+  },
+  {
+    "id": "BALDEH",
+    "name": "Heidi Balderree",
+    "chamber": "senate",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://senate.utah.gov/sen/BALDEH/",
+    "imageUrl": "/legislators/BALDEH.jpg"
+  },
+  {
+    "id": "GROVEK",
+    "name": "Keith Grover",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://senate.utah.gov/sen/GROVEK/",
+    "imageUrl": "/legislators/GROVEK.jpg"
+  },
+  {
+    "id": "STRATKJ",
+    "name": "Keven J. Stratton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://senate.utah.gov/sen/STRATKJ/",
+    "imageUrl": "/legislators/STRATKJ.jpg"
+  },
+  {
+    "id": "MCKELMK",
+    "name": "Michael K. McKell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://senate.utah.gov/sen/MCKELMK/",
+    "imageUrl": "/legislators/MCKELMK.jpg"
+  },
+  {
+    "id": "HINKIDP",
+    "name": "David P. Hinkins",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://senate.utah.gov/sen/HINKIDP/",
+    "imageUrl": "/legislators/HINKIDP.jpg"
+  },
+  {
+    "id": "OWENSD",
+    "name": "Derrin R. Owens",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://senate.utah.gov/sen/OWENSD/",
+    "imageUrl": "/legislators/OWENSD.jpg"
+  },
+  {
+    "id": "VICKEEJ",
+    "name": "Evan J. Vickers",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://senate.utah.gov/sen/VICKEEJ/",
+    "imageUrl": "/legislators/VICKEEJ.jpg"
+  },
+  {
+    "id": "IPSONDL",
+    "name": "Don L. Ipson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://senate.utah.gov/sen/IPSONDL/",
+    "imageUrl": "/legislators/IPSONDL.jpg"
+  }
+]
