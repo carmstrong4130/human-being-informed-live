@@ -77,21 +77,28 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "Be Informed" },
+      {
+        name: "description",
+        content:
+          "A fact-only look at what laws are being voted on at the state level, who is voting on them, and when — every item linked to its official government source.",
+      },
+      { property: "og:title", content: "Be Informed" },
+      {
+        property: "og:description",
+        content:
+          "What's being voted on, when, y whom? Official state legislative data, linked to the source.",
+      },
       { property: "og:type", content: "website" },
+      { property: "og:url", content: "https://www.humanbeinginformed.com" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
       {
         rel: "stylesheet",
         href: appCss,
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/favicon.svg", type: "image/svg+xml" },
     ],
   }),
   shellComponent: RootShell,
