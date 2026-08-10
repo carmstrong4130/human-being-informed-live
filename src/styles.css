@@ -155,12 +155,14 @@
   --sidebar-border: rgba(255, 255, 255, 0.1);
   --sidebar-ring: #2fb05c;
 
-  --page: #1d1d1f;
+  --page: #0a0a0a;
   --ink: #f5f5f7;
-  --inksec: #a1a1a6;
-  --hairline: rgba(255, 255, 255, 0.15);
+  --inksec: #6b7280;
+  --hairline: rgba(255, 255, 255, 0.08);
   --stategreen: #2fb05c;
-  --stategray: #2c2c2e;
+  --stategray: #1a1a1a;
+  --stateinactive: #1a1a1a;
+  --statestroke: #333333;
   --party-r: #ff6b6b;
   --party-d: #6aa7ff;
 }
