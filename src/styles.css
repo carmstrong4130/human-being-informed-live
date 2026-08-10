@@ -64,10 +64,13 @@
   --color-hairline: var(--hairline);
   --color-stategreen: var(--stategreen);
   --color-stategray: var(--stategray);
+  --color-stateinactive: var(--stateinactive);
+  --color-statestroke: var(--statestroke);
   --color-party-r: var(--party-r);
   --color-party-d: var(--party-d);
 
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-sans: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Sora", "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 :root {
