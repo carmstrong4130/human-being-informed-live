@@ -115,6 +115,8 @@
   --hairline: #d2d2d7;
   --stategreen: #2fb05c;
   --stategray: #e8e8ed;
+  --stateinactive: #e8e8ed;
+  --statestroke: #d2d2d7;
   --party-r: #a3373c;
   --party-d: #2a5ca5;
 }
