@@ -34,7 +34,7 @@ function Home() {
         Be Informed
       </h1>
       <p className="mt-3 text-center text-[19px] text-inksec sm:text-[21px]">
-        what&apos;s being voted on, when, y whom?
+        What&apos;s being voted on where yo live?
       </p>
 
       <div className="mt-16 w-full max-w-[900px]">
