@@ -3,10 +3,10 @@ import { useNavigate } from "@tanstack/react-router";
 import { STATES } from "@/config/states";
 import { DC_MARKER, INSET_SEPARATORS, MAP_VIEWBOX, STATE_SHAPES } from "./us-map-shapes";
 
-const BASE_SHAPE = "stroke-hairline transition-colors duration-150 [stroke-width:0.75]";
-const INACTIVE = "fill-background hover:fill-stategray";
+const BASE_SHAPE = "transition-all duration-150 [stroke-width:0.75]";
+const INACTIVE = "fill-stateinactive stroke-statestroke hover:fill-stategray";
 const ACTIVE =
-  "fill-background hover:fill-stategreen focus-visible:fill-stategreen cursor-pointer outline-none";
+  "fill-stategreen stroke-stategreen/60 drop-shadow-[0_0_10px_rgba(47,176,92,0.35)] hover:brightness-110 hover:drop-shadow-[0_0_18px_rgba(47,176,92,0.55)] cursor-pointer outline-none";
 
 /**
  * The clickable US map. Geometry comes from the CC0 Wikimedia base map
