@@ -17,7 +17,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "What's being voted on, when, y whom? Official state legislative data, linked to the source.",
+          "What's being voted on where you live? Official state legislative data, linked to the source.",
       },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "https://www.humanbeinginformed.com" },
@@ -34,7 +34,7 @@ function Home() {
         Be Informed
       </h1>
       <p className="mt-3 text-center text-[19px] text-inksec sm:text-[21px]">
-        what&apos;s being voted on, when, y whom?
+        What&apos;s being voted on where yo live?
       </p>
 
       <div className="mt-16 w-full max-w-[900px]">
