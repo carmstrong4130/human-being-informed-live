@@ -51,7 +51,9 @@ export default function LegislatorList({ legislators, label }: LegislatorListPro
   const [expanded, setExpanded] = useState(false);
 
   if (legislators.length === 0) {
-    return <p className="text-[15px] text-inksec">Voting membership not published for this event.</p>;
+    return (
+      <p className="text-[15px] text-inksec">Voting membership not published for this event.</p>
+    );
   }
 
   const hidden = legislators.length - COLLAPSED_COUNT;

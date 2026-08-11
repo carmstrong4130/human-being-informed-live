@@ -1,9 +1,10 @@
 import type { PartyCode } from "@/lib/types";
 
 /**
- * Party is stated, never emphasized — muted text only, no fills. Utah's roster
- * currently carries R, D and F (Forward), so anything unrecognized falls
- * through to a neutral treatment rather than being dropped.
+ * Party is stated, never emphasized — muted text only, no fills. Codes come
+ * straight from the states, so the list below is a courtesy expansion rather
+ * than a whitelist: anything unrecognized falls through to a neutral treatment
+ * rather than being dropped.
  */
 const PARTY_NAMES: Record<string, string> = {
   R: "Republican",
@@ -12,6 +13,14 @@ const PARTY_NAMES: Record<string, string> = {
   I: "Independent",
   L: "Libertarian",
   U: "Unaffiliated",
+  N: "Nonpartisan",
+  G: "Green",
+  P: "Progressive",
+  C: "Conservative",
+  W: "Working Families",
+  DFL: "Democratic-Farmer-Labor",
+  IP: "Independence",
+  NPA: "No Party Affiliation",
 };
 
 const PARTY_COLORS: Record<string, string> = {

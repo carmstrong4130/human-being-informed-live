@@ -14,8 +14,9 @@ function formatUpdated(iso: string): string | null {
 }
 
 /**
- * le.utah.gov asks that its data be attributed; the credit is unconditional
- * here regardless of how the site is used.
+ * Every source is credited by name and linked. le.utah.gov asks for attribution
+ * explicitly; the credit is unconditional here for all states regardless of how
+ * the site is used.
  */
 export default function SiteFooter({ meta }: { meta?: StateMeta }) {
   const updated = meta ? formatUpdated(meta.lastUpdated) : null;
@@ -24,8 +25,7 @@ export default function SiteFooter({ meta }: { meta?: StateMeta }) {
     <footer className="mt-20 border-t border-hairline pt-8 text-[13px] text-inksec">
       {meta && (
         <p>
-          Data from the{" "}
-          <SourceLink href={meta.source.url}>{meta.source.name}</SourceLink>
+          Data from the <SourceLink href={meta.source.url}>{meta.source.name}</SourceLink>
         </p>
       )}
       {updated && <p className="mt-1">Data last updated {updated}</p>}

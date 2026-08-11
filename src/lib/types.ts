@@ -1,13 +1,18 @@
 /**
  * Shared types for the JSON data files under `src/data/<state>/`.
  *
- * These are the contract between `scripts/fetch-utah.ts` (writer) and the
- * React pages (readers). Keep them deliberately generic: today the only
- * governing bodies are state chambers and their committees, but the shape is
- * meant to grow into county / city councils without renaming anything.
+ * These are the contract between the fetchers (`scripts/fetch-utah.ts` and
+ * `scripts/fetch-states.ts`) and the React pages (readers). Keep them
+ * deliberately generic: today the only governing bodies are state chambers and
+ * their committees, but the shape is meant to grow into county / city councils
+ * without renaming anything.
  */
 
-export type Chamber = "house" | "senate";
+/**
+ * "legislature" covers the bodies that are not one of two chambers: Nebraska's
+ * unicameral Legislature and the Council of the District of Columbia.
+ */
+export type Chamber = "house" | "senate" | "legislature";
 
 /** Raw party code as published by the state (Utah currently emits R, D and F). */
 export type PartyCode = string;
@@ -23,7 +28,12 @@ export interface Legislator {
   district: string;
   /** Official biography page on the chamber's own site. */
   bioUrl: string;
-  /** Locally hosted portrait, e.g. "/legislators/PETERT.jpg". Null if none was available. */
+  /**
+   * Portrait to show. Utah's are mirrored locally ("/legislators/PETERT.jpg");
+   * the other states hotlink the official photo the state publishes, rather than
+   * committing 7,000+ images. Null if none was available — the UI falls back to
+   * initials, and also does so if a remote URL fails to load.
+   */
   imageUrl: string | null;
 }
 

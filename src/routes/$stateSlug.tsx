@@ -6,7 +6,7 @@ import SourceLink from "@/components/SourceLink";
 import VoteEventCard from "@/components/VoteEventCard";
 import { stateBySlug } from "@/config/states";
 import { stateData } from "@/data";
-import type { VoteEvent } from "@/lib/types";
+import type { StateMeta, VoteEvent } from "@/lib/types";
 import NotFound from "@/components/NotFound";
 
 function dayKey(event: VoteEvent): string {
@@ -31,7 +31,30 @@ function formatConvenes(iso: string): string {
   return d.toLocaleDateString(undefined, { month: "long", day: "numeric", year: "numeric" });
 }
 
+/** "https://www.leg.state.nv.us/" → "leg.state.nv.us", for the visible link text. */
+function sourceHost(url: string): string {
+  try {
+    return new URL(url).hostname.replace(/^www\./, "");
+  } catch {
+    return url;
+  }
+}
+
+/** The session label, or null when no session has been resolved for this state yet. */
+function sessionLabel(meta: StateMeta): string | null {
+  const label = (meta.session.label ?? "").trim();
+  return label === "" ? null : label;
+}
+
 export const Route = createFileRoute("/$stateSlug")({
+  // The data folders are loaded lazily (one chunk per state), so this has to be
+  // a loader rather than a synchronous read in the component. TanStack Start
+  // runs it on the server for SSR and on the client for navigation.
+  loader: async ({ params }) => {
+    const config = stateBySlug(params.stateSlug);
+    if (!config?.enabled) return null;
+    return await stateData(config.slug);
+  },
   head: ({ params }) => {
     const config = stateBySlug(params.stateSlug);
     const enabled = Boolean(config?.enabled);
@@ -44,13 +67,12 @@ export const Route = createFileRoute("/$stateSlug")({
           content:
             config && enabled
               ? `What laws ${config.name} is voting on, who is voting, and when — linked to official state sources.`
-              : "That state is not covered yet. Utah is the first state available on Be Informed.",
+              : "That page doesn't exist. Be Informed covers every state legislature — pick one from the map.",
         },
         { property: "og:title", content: title },
         {
           property: "og:description",
-          content:
-            "Official state legislative data: what's being voted on, who votes, and when.",
+          content: "Official state legislative data: what's being voted on, who votes, and when.",
         },
         { property: "og:type", content: "website" },
         { property: "og:url", content: `https://www.humanbeinginformed.com/${config?.slug ?? ""}` },
@@ -64,7 +86,7 @@ export const Route = createFileRoute("/$stateSlug")({
 function StatePage() {
   const { stateSlug } = useParams({ from: "/$stateSlug" });
   const config = stateBySlug(stateSlug);
-  const data = config?.enabled ? stateData(config.slug) : null;
+  const data = Route.useLoaderData();
 
   const legislatorsById = useMemo(
     () => new Map((data?.legislators ?? []).map((l) => [l.id, l])),
@@ -86,43 +108,56 @@ function StatePage() {
     });
   }, [data]);
 
-  // Unknown slug, or a state we have not turned on yet.
+  // Unknown slug, a state we have not turned on yet, or no data folder for it.
   if (!config || !config.enabled || !data) return <NotFound />;
 
   const { meta } = data;
+  const label = sessionLabel(meta);
   const next = meta.session.next;
+
+  // Three honest cases: in session with nothing listed, adjourned, or no session
+  // data resolved for this state yet. Never assert a status we have not fetched.
+  const quietExplanation = !label
+    ? `No upcoming votes have been published for the ${meta.source.name} yet.`
+    : meta.session.inSession
+      ? `The ${meta.source.name} is in session, but nothing is on its published floor calendars or committee agendas right now.`
+      : `The ${meta.source.name} is not currently in session.`;
 
   return (
     <main className="mx-auto min-h-screen max-w-[820px] px-6 py-16">
-      <Link
-        to="/"
-        className="text-[15px] text-inksec transition-colors hover:text-ink"
-      >
+      <Link to="/" className="text-[15px] text-inksec transition-colors hover:text-ink">
         ← Be Informed
       </Link>
 
       <h1 className="mt-6 text-[40px] font-semibold tracking-tight text-ink">{config.name}</h1>
-      <p className="mt-2 text-[17px] text-inksec">
-        {meta.session.inSession
-          ? `${meta.session.label} — live floor calendars and committee agendas`
-          : `${meta.session.label} — adjourned`}
-      </p>
+      {label && (
+        <p className="mt-2 text-[17px] text-inksec">
+          {meta.session.inSession
+            ? `${label} — live floor calendars and committee agendas`
+            : `${label} — adjourned`}
+        </p>
+      )}
 
       {grouped.length === 0 ? (
         <section className="mt-14 border-t border-hairline pt-10">
           <h2 className="text-[21px] font-semibold text-ink">Nothing is scheduled for a vote</h2>
           <p className="mt-3 max-w-prose text-[17px] leading-relaxed text-inksec">
-            The Utah Legislature is not currently in session.
-            {next && ` The ${next.label} convenes ${formatConvenes(next.convenes)}.`}
+            {quietExplanation}
+            {!meta.session.inSession &&
+              next &&
+              ` The ${next.label} convenes ${formatConvenes(next.convenes)}.`}
           </p>
           <p className="mt-4 text-[15px]">
-            <SourceLink href={meta.source.url}>le.utah.gov</SourceLink>
+            <SourceLink href={meta.source.url}>{sourceHost(meta.source.url)}</SourceLink>
           </p>
-          <p className="mt-10 text-[15px] text-inksec">
-            {meta.counts.legislators} legislators and {meta.counts.committees} committees are on
-            file and will be listed against each bill once floor calendars and committee agendas
-            reopen.
-          </p>
+          {meta.counts.legislators > 0 && (
+            <p className="mt-10 text-[15px] text-inksec">
+              {meta.counts.legislators} legislators
+              {meta.counts.committees > 0 && ` and ${meta.counts.committees} committees`} are on
+              file and will be listed against each bill once floor calendars and committee agendas
+              reopen.
+            </p>
+          )}
         </section>
       ) : (
         <div className="mt-14">

@@ -5,7 +5,7 @@ export default function NotFound() {
     <main className="mx-auto flex min-h-screen max-w-[640px] flex-col items-center justify-center px-6 text-center">
       <h1 className="text-[32px] font-semibold tracking-tight text-ink">Nothing here yet</h1>
       <p className="mt-3 text-[17px] text-inksec">
-        Utah is the only state currently covered. More will follow.
+        That page doesn&apos;t exist. Every state is on the map.
       </p>
       <Link
         to="/"
