@@ -7,6 +7,10 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# This repo is bun-locked (bun.lock). If you install with npm instead, its
+# lockfile must not be committed or CI's frozen-lockfile install breaks.
+package-lock.json
+
 node_modules
 dist
 dist-ssr

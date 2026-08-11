@@ -1,0 +1,11 @@
+// The data fetchers run under Node (or bun), not in the browser, so they need
+// node globals rather than vite/client. Kept separate so the app's tsconfig —
+// which Lovable manages — stays untouched.
+{
+  "extends": "./tsconfig.json",
+  "include": ["scripts/**/*.ts"],
+  "compilerOptions": {
+    "types": ["node"],
+    "lib": ["ES2022"]
+  }
+}

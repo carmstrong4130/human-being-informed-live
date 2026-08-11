@@ -9,7 +9,13 @@
     "build:dev": "vite build --mode development",
     "preview": "vite preview",
     "lint": "eslint .",
-    "format": "prettier --write ."
+    "typecheck": "tsc --noEmit && tsc --noEmit -p tsconfig.scripts.json",
+    "format": "prettier --write .",
+    "data:utah:roster": "node scripts/fetch-utah.ts --mode=roster",
+    "data:utah:calendars": "node scripts/fetch-utah.ts --mode=calendars",
+    "data:states:roster": "node scripts/fetch-states.ts --mode=roster",
+    "data:states:calendars": "node scripts/fetch-states.ts --mode=calendars",
+    "data:sitemap": "node scripts/build-sitemap.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
