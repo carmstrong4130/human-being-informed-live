@@ -1,0 +1,794 @@
+[
+  {
+    "id": "ocd-organization/7314b30c-7778-4fe6-bb11-fdc7a1113291",
+    "name": "Agriculture and Natural Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/c06af980-c553-4f79-a39d-295b7226f029",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b",
+      "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/AgricultureNaturalResources"
+  },
+  {
+    "id": "ocd-organization/4b8f47a3-6ca1-47f9-859a-198d20c051ee",
+    "name": "Agriculture, Water and Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "ocd-person/851b5f31-0694-4674-a3b8-468b6eb1f0a8",
+      "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913",
+      "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
+      "ocd-person/475639af-fb56-4fde-9a78-213593db91d0",
+      "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
+      "ocd-person/8de5b6ec-a488-4f1f-b96d-d78b90cb7fe7",
+      "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
+      "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
+      "ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22",
+      "ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73",
+      "ocd-person/f3cd2006-7729-41b0-a009-0c5cf64e95e0"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/AgricultureWaterNaturalResources"
+  },
+  {
+    "id": "ocd-organization/6e777480-0559-443a-a819-d0f3c7c24560",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
+      "ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2",
+      "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
+      "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "ocd-person/0c2271df-5808-42ff-9550-700f454b8b3a",
+      "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b",
+      "ocd-person/66254480-6178-4312-8a18-268ec84153cc",
+      "ocd-person/e8a7d2a2-1907-450d-8c61-8c328839e922"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/Appropriations"
+  },
+  {
+    "id": "ocd-organization/b7a22dfd-b67c-4807-b403-8080d560d735",
+    "name": "Appropriations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
+      "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
+      "ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
+      "ocd-person/8dae5ba5-6741-4aca-8c1e-24f014fda187",
+      "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/Appropriations"
+  },
+  {
+    "id": "ocd-organization/11d38fec-5717-4d94-a2ee-4c75d33d14d2",
+    "name": "Artificial Intelligence Impact Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ab377224-ab70-4c20-a535-baa429520e7c",
+      "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/ArtificialIntelligenceImpactTaskForce"
+  },
+  {
+    "id": "ocd-organization/e71d6bcc-982e-4280-8fc4-421ab4526d69",
+    "name": "Black Coloradan Racial Equity Study Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e4e1f1a9-7134-4d90-9fed-2aa7a0e3a307",
+      "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
+      "ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0",
+      "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/BlackColoradanRacialEquityStudyCommission"
+  },
+  {
+    "id": "ocd-organization/2c85f4ed-d294-41bc-a1ce-79d56542860e",
+    "name": "Budget",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2",
+      "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
+      "ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556",
+      "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
+      "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
+      "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b"
+    ],
+    "officialUrl": "https://leg.colorado.gov/agencies/joint-budget-committee"
+  },
+  {
+    "id": "ocd-organization/9176cc74-0cd4-404d-929b-17ab72c60b7f",
+    "name": "Business Affairs and Labor",
+    "chamber": "house",
+    "members": [
+      "ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0",
+      "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",
+      "ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a",
+      "ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1",
+      "ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8",
+      "ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08",
+      "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/04df7ed2-3683-4e00-ae08-9660cd6d878b",
+      "ocd-person/d5be5146-f7a9-46eb-86f9-b0d1cebc4e9c",
+      "ocd-person/e7b1210b-3400-4ad4-a461-a55023e54042",
+      "ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7",
+      "ocd-person/851b5f31-0694-4674-a3b8-468b6eb1f0a8"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/BusinessAffairsLabor"
+  },
+  {
+    "id": "ocd-organization/dfca5261-ebdf-4422-84f1-c5e993e7e65f",
+    "name": "Business, Labor and Technology",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c06af980-c553-4f79-a39d-295b7226f029",
+      "ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b",
+      "ocd-person/506f18ea-3611-408b-aa0e-73adf9681efe",
+      "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/BusinessLaborTechnology"
+  },
+  {
+    "id": "ocd-organization/700d48b3-8939-4ab9-891d-07498674c7de",
+    "name": "Capital Development",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
+      "ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b",
+      "ocd-person/f3cd2006-7729-41b0-a009-0c5cf64e95e0"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026a/year-round/CapitalDevelopmentCommittee"
+  },
+  {
+    "id": "ocd-organization/35ddd19e-2ba5-4813-a824-d163b17dcae7",
+    "name": "Capitol Building Advisory",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
+      "ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/CapitolBuildingAdvisoryCommittee"
+  },
+  {
+    "id": "ocd-organization/4c9585c5-3032-4388-b711-8969a907f9aa",
+    "name": "Commission on Medicaid",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
+      "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
+      "ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556",
+      "ocd-person/c8c1a9c5-c7c2-4894-8829-fc83251bcaf2",
+      "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/d5ec869e-db7a-480f-b270-428805b90cee",
+      "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/CommissiononMedicaid"
+  },
+  {
+    "id": "ocd-organization/8ef351d2-f50d-4e1f-81b0-08f2f75b794f",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22",
+      "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
+      "ocd-person/af9e96aa-fb8b-49bb-96d8-e6c2c1ceb2b5",
+      "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7",
+      "ocd-person/48d0af72-b21b-44a5-afc2-325b80f1c551",
+      "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
+      "ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913",
+      "ocd-person/d5ec869e-db7a-480f-b270-428805b90cee",
+      "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
+      "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162",
+      "ocd-person/489b3afa-1e08-40f4-918a-f01c186b6f73",
+      "ocd-person/561892b1-c618-43cb-9767-9237514f0a92"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/Education"
+  },
+  {
+    "id": "ocd-organization/b35c17f0-6ec7-4f20-8228-9005844c2257",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
+      "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/Education"
+  },
+  {
+    "id": "ocd-organization/238f15f8-d0ab-4a47-b158-e7d56ce087c3",
+    "name": "Energy and Environment",
+    "chamber": "house",
+    "members": [
+      "ocd-person/45c957a4-0017-4c0c-8650-393d656fc5a0",
+      "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd",
+      "ocd-person/5f8d1bd0-329b-4a87-8d2f-cb62b8f2e921",
+      "ocd-person/df050043-0b4f-4b51-8df0-ffd6cd6cd5b2",
+      "ocd-person/09ef4f5a-7c9d-463a-8ab6-52c861f97a74",
+      "ocd-person/655c629d-72f6-45d1-bd8f-a241e200d089",
+      "ocd-person/0c2271df-5808-42ff-9550-700f454b8b3a",
+      "ocd-person/767c8676-7cf0-45bf-9e20-e615d4d13c5e",
+      "ocd-person/475639af-fb56-4fde-9a78-213593db91d0",
+      "ocd-person/8de5b6ec-a488-4f1f-b96d-d78b90cb7fe7",
+      "ocd-person/ce4bd827-c1bc-4736-a580-f4f0215e727d",
+      "ocd-person/cba33581-a61a-41c5-9773-c949f2b06d0a"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/EnergyEnvironment"
+  },
+  {
+    "id": "ocd-organization/896030fd-e949-4d06-9000-dfb4309cdd50",
+    "name": "Ethics",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08",
+      "ocd-person/d450c0d3-b829-4855-ad0d-1228c5284a4f",
+      "ocd-person/09af4a19-c07e-49b2-b320-104f3784705b"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/other/HouseCommitteeonEthics"
+  },
+  {
+    "id": "ocd-organization/00654910-47da-44df-94d9-1ba42a10a58d",
+    "name": "Executive Committee of the Legislative Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/53facaaf-5673-4c76-b15a-6b5061965ae1",
+      "ocd-person/e4e1f1a9-7134-4d90-9fed-2aa7a0e3a307",
+      "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
+      "ocd-person/544a4247-320e-456a-b5dd-f0373bdad788",
+      "ocd-person/d8b6809c-61d9-4ea3-b21b-c846051468c2",
+      "ocd-person/ab377224-ab70-4c20-a535-baa429520e7c"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/ExecutiveCommitteeoftheLegislativeCouncil"
+  },
+  {
+    "id": "ocd-organization/b43f88fc-5e87-4387-8417-f55706b52da6",
+    "name": "Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/09af4a19-c07e-49b2-b320-104f3784705b",
+      "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a",
+      "ocd-person/767c8676-7cf0-45bf-9e20-e615d4d13c5e",
+      "ocd-person/d7569723-ddde-4706-a857-422804198fa8",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
+      "ocd-person/e7b1210b-3400-4ad4-a461-a55023e54042",
+      "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",
+      "ocd-person/561892b1-c618-43cb-9767-9237514f0a92",
+      "ocd-person/e8a7d2a2-1907-450d-8c61-8c328839e922"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/Finance"
+  },
+  {
+    "id": "ocd-organization/3d86813f-79a5-409b-b34a-15588d140412",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "ocd-person/a033ad21-bdb7-4af2-be2e-e21c3e4cfa24",
+      "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
+      "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74",
+      "ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/Finance"
+  },
+  {
+    "id": "ocd-organization/59166cc3-ddd6-426d-a86c-ef165aace7f2",
+    "name": "Health and Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d5ec869e-db7a-480f-b270-428805b90cee",
+      "ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7",
+      "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "ocd-person/5f8d1bd0-329b-4a87-8d2f-cb62b8f2e921",
+      "ocd-person/df050043-0b4f-4b51-8df0-ffd6cd6cd5b2",
+      "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7",
+      "ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8",
+      "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913",
+      "ocd-person/e1a861fa-2163-4ef5-a891-fc9d36c2504b",
+      "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162",
+      "ocd-person/d5be5146-f7a9-46eb-86f9-b0d1cebc4e9c"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/HealthHumanServices"
+  },
+  {
+    "id": "ocd-organization/7f482102-d2ea-4db7-8a23-446f8d736fbb",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/506f18ea-3611-408b-aa0e-73adf9681efe",
+      "ocd-person/2de0a3a1-a1e3-477f-88b9-3212fa52fb9c",
+      "ocd-person/5226ebdd-0710-49da-b446-61fac19765ce",
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2",
+      "ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/HealthHumanServices"
+  },
+  {
+    "id": "ocd-organization/bf4761ec-493b-40d0-b6f1-4c7f496a5b08",
+    "name": "Health Insurance Exchange Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0",
+      "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
+      "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "ocd-person/8e95ac06-ddbb-4f6c-ba7e-854a92860be4",
+      "ocd-person/fa06bf42-5305-4b04-95d0-a63f94ae8913",
+      "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/ColoradoHealthInsuranceExchangeOversightCommittee"
+  },
+  {
+    "id": "ocd-organization/aafc8ed7-d5a0-4e29-958d-6dcde59f0b06",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08",
+      "ocd-person/9c2accab-1bbf-495c-8036-137e48ba684d",
+      "ocd-person/af9e96aa-fb8b-49bb-96d8-e6c2c1ceb2b5",
+      "ocd-person/a34a6b10-12d9-4109-86d1-76c311463333",
+      "ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458",
+      "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
+      "ocd-person/d7569723-ddde-4706-a857-422804198fa8",
+      "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "ocd-person/04df7ed2-3683-4e00-ae08-9660cd6d878b",
+      "ocd-person/cba33581-a61a-41c5-9773-c949f2b06d0a",
+      "ocd-person/e8a7d2a2-1907-450d-8c61-8c328839e922"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/Judiciary"
+  },
+  {
+    "id": "ocd-organization/b22717e3-bfa9-4c07-907a-e5234d57c6f8",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2",
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/8e95ac06-ddbb-4f6c-ba7e-854a92860be4",
+      "ocd-person/f0fa561d-39cf-48f3-ae8c-84b4d30d2662",
+      "ocd-person/2de0a3a1-a1e3-477f-88b9-3212fa52fb9c",
+      "ocd-person/e5055578-02cb-435c-9fe0-b877318e3b1b",
+      "ocd-person/4d753f6e-b7e3-420d-a684-e9a27f7ab27b"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/Judiciary"
+  },
+  {
+    "id": "ocd-organization/e2b7b3ac-5c9f-4911-83da-e37d3ef8b695",
+    "name": "Legal Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d2b25169-0772-4e97-aa9e-49f82f0f5d08",
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/8e95ac06-ddbb-4f6c-ba7e-854a92860be4",
+      "ocd-person/8dae5ba5-6741-4aca-8c1e-24f014fda187",
+      "ocd-person/0c2271df-5808-42ff-9550-700f454b8b3a",
+      "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2",
+      "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",
+      "ocd-person/3e7145a3-8729-497c-a168-db98d22cf015"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/CommitteeonLegalServices"
+  },
+  {
+    "id": "ocd-organization/272c0b07-d994-470a-882a-e856cc275a6e",
+    "name": "Legislative Audit",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "ocd-person/b680cb39-442c-4dd2-81bd-88696cfe9df2",
+      "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
+      "ocd-person/655c629d-72f6-45d1-bd8f-a241e200d089",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d",
+      "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/LegislativeAuditCommittee"
+  },
+  {
+    "id": "ocd-organization/ebafa1b0-2591-4740-86a7-4b9625b2fce7",
+    "name": "Legislative Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/53facaaf-5673-4c76-b15a-6b5061965ae1",
+      "ocd-person/e4e1f1a9-7134-4d90-9fed-2aa7a0e3a307",
+      "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/5f8d1bd0-329b-4a87-8d2f-cb62b8f2e921",
+      "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "ocd-person/544a4247-320e-456a-b5dd-f0373bdad788",
+      "ocd-person/8dae5ba5-6741-4aca-8c1e-24f014fda187",
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea",
+      "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
+      "ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22",
+      "ocd-person/d8b6809c-61d9-4ea3-b21b-c846051468c2",
+      "ocd-person/ab377224-ab70-4c20-a535-baa429520e7c",
+      "ocd-person/09af4a19-c07e-49b2-b320-104f3784705b",
+      "ocd-person/561892b1-c618-43cb-9767-9237514f0a92"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/LegislativeCouncil"
+  },
+  {
+    "id": "ocd-organization/3bf2ffe3-270a-455c-b3c5-18224e10ae45",
+    "name": "Legislative Emergency Preparedness, Response and Recovery",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/LegislativeEmergencyPreparednessResponseandRecovery"
+  },
+  {
+    "id": "ocd-organization/4336c823-afc1-4cec-b859-2cae8ad4dfa6",
+    "name": "Legislative Oversight Committee Concerning Colorado Jail Standards",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/d7569723-ddde-4706-a857-422804198fa8",
+      "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/LegislativeOversightCommitteeConcerningColoradoJailStandards"
+  },
+  {
+    "id": "ocd-organization/dc73ccb4-0d76-41fe-8139-ad10313d6f13",
+    "name": "Legislative Oversight Committee Concerning Tax Policy and Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",
+      "ocd-person/ade56d2d-41d7-436d-b76b-85051f036c7a",
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1",
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/LegislativeOversightCommitteeConcerningTaxPolicyTaskForce"
+  },
+  {
+    "id": "ocd-organization/4f17ddf6-4301-458c-970a-3a62379658e7",
+    "name": "Local Government and Housing",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e",
+      "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74",
+      "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
+      "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/LocalGovernmentHousing"
+  },
+  {
+    "id": "ocd-organization/0b3fe81e-a591-4d14-87d9-1dd4baa411e0",
+    "name": "Pension Review Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
+      "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
+      "ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7",
+      "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1",
+      "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/PensionReviewCommission"
+  },
+  {
+    "id": "ocd-organization/07ad16f7-47c4-436f-80cf-750f6a69073c",
+    "name": "Pension Review Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
+      "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
+      "ocd-person/c02b7bf5-a583-43c0-b6d6-2e757c7d42b7",
+      "ocd-person/c9fd6b10-91a3-44ec-ac6a-48f73eee3ed1",
+      "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/5dae0c7f-430e-42a2-906d-9e177782f91b"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/PensionReviewCommission"
+  },
+  {
+    "id": "ocd-organization/b18f8912-c50d-4930-a494-553fd313e6ce",
+    "name": "Sales and Use Tax Simplification Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1",
+      "ocd-person/fb530f21-a08e-473c-b215-9a4de6a86ee9",
+      "ocd-person/e8a7d2a2-1907-450d-8c61-8c328839e922"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/SalesandUseTaxSimplificationTaskForce"
+  },
+  {
+    "id": "ocd-organization/768df0a3-a787-461d-8416-dbaa9590414d",
+    "name": "State, Civic, Military and Veterans Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/655c629d-72f6-45d1-bd8f-a241e200d089",
+      "ocd-person/faaae748-7c57-47df-bdf7-1811e0a61458",
+      "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "ocd-person/a34a6b10-12d9-4109-86d1-76c311463333",
+      "ocd-person/e1a861fa-2163-4ef5-a891-fc9d36c2504b",
+      "ocd-person/8e6bc6cb-fe7e-4640-a938-eb32536e95c5",
+      "ocd-person/9c2accab-1bbf-495c-8036-137e48ba684d",
+      "ocd-person/64f01ef4-238f-4e48-9657-e221e0d030c0",
+      "ocd-person/66254480-6178-4312-8a18-268ec84153cc",
+      "ocd-person/3e7145a3-8729-497c-a168-db98d22cf015"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/StateCivicMilitaryVeteransAffairs"
+  },
+  {
+    "id": "ocd-organization/c795be5a-afeb-4bba-bf65-fc0855612bab",
+    "name": "State, Veterans and Military Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f0fa561d-39cf-48f3-ae8c-84b4d30d2662",
+      "ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff",
+      "ocd-person/e5055578-02cb-435c-9fe0-b877318e3b1b",
+      "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d",
+      "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/StateVeteransMilitaryAffairs"
+  },
+  {
+    "id": "ocd-organization/77d2e72c-e5fc-436b-9878-6e5cca8f16ee",
+    "name": "Statewide Health Care Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/45c957a4-0017-4c0c-8650-393d656fc5a0",
+      "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8",
+      "ocd-person/8e95ac06-ddbb-4f6c-ba7e-854a92860be4",
+      "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/2de0a3a1-a1e3-477f-88b9-3212fa52fb9c",
+      "ocd-person/b44045eb-e2fb-4723-9e91-d68fb55c0bf7"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/StatewideHealthCareReviewCommittee"
+  },
+  {
+    "id": "ocd-organization/28bb7b07-edaf-4bad-b781-4fd103b9783e",
+    "name": "Statutory Revision",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "ocd-person/a34a6b10-12d9-4109-86d1-76c311463333",
+      "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
+      "ocd-person/9c2accab-1bbf-495c-8036-137e48ba684d",
+      "ocd-person/3e7145a3-8729-497c-a168-db98d22cf015",
+      "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/StatutoryRevisionCommittee"
+  },
+  {
+    "id": "ocd-organization/d8fc0cc5-2e2c-40af-82a1-0d82204140f6",
+    "name": "Technology",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "ocd-person/fa9b604d-5981-4de1-97bc-9400e03909c9",
+      "ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/04df7ed2-3683-4e00-ae08-9660cd6d878b",
+      "ocd-person/ab377224-ab70-4c20-a535-baa429520e7c"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026a/year-round/JointTechnologyCommittee"
+  },
+  {
+    "id": "ocd-organization/2ab19489-f597-44a7-a6d3-bd1de5be3354",
+    "name": "Transportation and Energy",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/5226ebdd-0710-49da-b446-61fac19765ce",
+      "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff",
+      "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e",
+      "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/senate/TransportationEnergy"
+  },
+  {
+    "id": "ocd-organization/b9c58b3d-f296-423b-9320-75bae3a2ffc2",
+    "name": "Transportation Legislation Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5226ebdd-0710-49da-b446-61fac19765ce",
+      "ocd-person/8e6bc6cb-fe7e-4640-a938-eb32536e95c5",
+      "ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd",
+      "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1",
+      "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "ocd-person/48d0af72-b21b-44a5-afc2-325b80f1c551",
+      "ocd-person/09ef4f5a-7c9d-463a-8ab6-52c861f97a74",
+      "ocd-person/f84befdc-bf1b-4b0b-92df-27155caf403f",
+      "ocd-person/ebf0c3de-2f58-436f-af67-12863f9cb552",
+      "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
+      "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/4a72c7ee-c3e5-4c61-8e79-3301cb70a599",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
+      "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be",
+      "ocd-person/dc9056b8-fb9c-4a66-99b8-210acce64bff",
+      "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e",
+      "ocd-person/dbe86f29-2ecb-449e-aaf6-3fc91baf2e0e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/TransportationLegislationReviewCommittee"
+  },
+  {
+    "id": "ocd-organization/780212c3-6492-4722-aafa-53cd7f42f9a6",
+    "name": "Transportation, Housing and Local Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/8e6bc6cb-fe7e-4640-a938-eb32536e95c5",
+      "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2",
+      "ocd-person/34dbb5f1-239b-4924-911e-27ff91bde5cd",
+      "ocd-person/278f042b-4fe3-4325-ad59-bc240e4fda0c",
+      "ocd-person/0c428ee3-a327-4906-96c9-c46da7dfd7f1",
+      "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "ocd-person/48d0af72-b21b-44a5-afc2-325b80f1c551",
+      "ocd-person/09ef4f5a-7c9d-463a-8ab6-52c861f97a74",
+      "ocd-person/f84befdc-bf1b-4b0b-92df-27155caf403f",
+      "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
+      "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
+      "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
+      "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/house/TransportationHousingLocalGovernment"
+  },
+  {
+    "id": "ocd-organization/eff97247-a7c3-4832-b84c-bebcdd6fdd6c",
+    "name": "Treatment of Persons with Behavioral Health Disorders in the Criminal and Juvenile Justice Systems",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/09ef4f5a-7c9d-463a-8ab6-52c861f97a74",
+      "ocd-person/e0edd86c-a50d-4e78-96ac-f3e8217de4a8",
+      "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
+      "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162",
+      "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/TreatmentofPersonswithBehavioralHealthDisordersintheCriminalandJuvenileJusticeSystems"
+  },
+  {
+    "id": "ocd-organization/8fb20769-49d7-4096-8067-b8bebbb1b35b",
+    "name": "Uniform State Laws Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a34a6b10-12d9-4109-86d1-76c311463333",
+      "ocd-person/5dbb7ac2-a4c8-42b8-bfb1-1b012737fa74"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/ColoradoCommissiononUniformStateLaws"
+  },
+  {
+    "id": "ocd-organization/77fb2422-5ed7-4e38-8bad-b302c24fe1b3",
+    "name": "Water Resources and Agriculture Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/2d0d060c-6d5f-45da-a069-fe2be14547eb",
+      "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "ocd-person/c2cade07-9c95-4439-938c-77ac4ed44fab",
+      "ocd-person/53facaaf-5673-4c76-b15a-6b5061965ae1",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
+      "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "ocd-person/f3cd2006-7729-41b0-a009-0c5cf64e95e0"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/year-round/WaterResourcesandAgricultureReviewCommittee"
+  },
+  {
+    "id": "ocd-organization/7b3a15e8-2d2b-4b93-af75-8a6c8ae4287a",
+    "name": "Wildfire Matters Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/bd50bf12-cf63-4a3d-a887-93008333e694",
+      "ocd-person/5226ebdd-0710-49da-b446-61fac19765ce",
+      "ocd-person/2718c918-a38c-49c2-a120-5503164f959f",
+      "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
+      "ocd-person/475639af-fb56-4fde-9a78-213593db91d0",
+      "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
+      "ocd-person/b4002b84-79a0-481a-94a8-00136c2dabb6",
+      "ocd-person/9b1256a4-11c6-4c9e-81e6-2e0a3c5871be",
+      "ocd-person/851b5f31-0694-4674-a3b8-468b6eb1f0a8",
+      "ocd-person/473bd095-778d-4418-8e61-96a2b8005c8e"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/interim/WildfireMattersReviewCommittee"
+  },
+  {
+    "id": "ocd-organization/b68ab358-e972-4403-8882-b04ebe57739a",
+    "name": "Workplace Harassment",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f38f9f4b-9d3a-4e79-a96f-fab94d553d89",
+      "ocd-person/4aba3e11-9554-405d-b926-5435eb77fa26",
+      "ocd-person/7631027c-2467-4112-8f03-abad6c6ed8f2",
+      "ocd-person/9e1ed481-cc42-4186-a8fe-891abba60162",
+      "ocd-person/27716b46-14de-4097-a29c-1a882ae3cd3a",
+      "ocd-person/9e529237-916b-407c-a60e-abd8e0708329",
+      "ocd-person/ef2507af-95ba-4a2f-84d5-84771785bfc2"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/other/HouseWorkplaceHarassment"
+  },
+  {
+    "id": "ocd-organization/81bd7413-0a2b-49b5-81ac-95911fbe0f4c",
+    "name": "Workplace Harassment",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0ddf3b75-c450-419e-8235-553157770e49",
+      "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
+      "ocd-person/4be512fb-5ebc-422c-a858-d250cb5568ad",
+      "ocd-person/fce5c955-f43d-4f80-bad5-8369223bc0ea"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2026A/other/SenateWorkplaceHarassmentCommittee"
+  },
+  {
+    "id": "ocd-organization/f9b3cf7d-daac-449a-8d6c-8b6499633691",
+    "name": "Youth Advisory Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f0fa561d-39cf-48f3-ae8c-84b4d30d2662",
+      "ocd-person/d5be5146-f7a9-46eb-86f9-b0d1cebc4e9c",
+      "ocd-person/5a396024-8dcf-438c-beca-a730e972d9d8",
+      "ocd-person/2372415a-2aea-4423-8a3a-bed2d40493a6",
+      "ocd-person/c1a18202-08ad-487f-99bb-b1a606c15a22"
+    ],
+    "officialUrl": "https://leg.colorado.gov/committees/2025A/interim/ColoradoYouthAdvisoryCouncilCommittee"
+  }
+]

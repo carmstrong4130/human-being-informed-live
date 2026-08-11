@@ -1,0 +1,1561 @@
+[
+  {
+    "id": "ocd-organization/0629912e-243c-4df5-86b4-8cdfffdb90bf",
+    "name": "Abandoned Landfill Remediation Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1822&year=2026"
+  },
+  {
+    "id": "ocd-organization/02018727-33b0-44cf-abc8-d8029d08692c",
+    "name": "Administration",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955",
+      "ocd-person/98b8120c-7a9c-4415-9e7b-8bfcdc8fa8a5",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/admn"
+  },
+  {
+    "id": "ocd-organization/ac9fba2f-b882-4dad-b718-c2accc0587b0",
+    "name": "Administration and Accounts",
+    "chamber": "house",
+    "members": [
+      "ocd-person/920c5b79-73a0-477b-a90d-1a290e48e014",
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17",
+      "ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec",
+      "ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0",
+      "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
+      "ocd-person/a9a55831-48ad-4f2e-b548-0b7652b2b681",
+      "ocd-person/96d0d8da-dcff-4f59-b051-e0da15584b7b",
+      "ocd-person/f36fd5fa-6d20-43d4-9555-ce4d2d472849",
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2928&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/ef07b748-1800-41f7-b0dc-d2bb2b046de9",
+    "name": "Administrative Rules",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/c5e38dee-7f82-4795-a134-b984b6878458",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
+      "ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4",
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2954&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/faf07d6a-bf31-4400-9e78-ce232d79381a",
+    "name": "Agriculture",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f3eb420f-df97-4edf-b8c9-e0fa231c6860",
+      "ocd-person/05c84580-b849-4320-9aa4-e34d8b977aca",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688",
+      "ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4",
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/89ef08d6-96fd-4d5f-9a48-d8093ba60052",
+      "ocd-person/0f4f5a2e-bc86-4c2a-9ab1-041d1c844283",
+      "ocd-person/ace530aa-6fbb-40a0-b91e-94820a287b2e",
+      "ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e",
+      "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
+      "ocd-person/f7c7d32d-5d88-489a-9adf-76c9837b3272",
+      "ocd-person/d6be1f75-f237-41ad-af36-a7d1c6e3a9c6",
+      "ocd-person/633fd335-98a2-42a7-acac-cb78eeca9a12",
+      "ocd-person/fa6c1b05-02e8-4c6f-9a84-d1f58885ea04",
+      "ocd-person/31ee0443-77bc-415d-9774-d09dee750243",
+      "ocd-person/96d0d8da-dcff-4f59-b051-e0da15584b7b",
+      "ocd-person/733d6ca4-9be3-4541-bcc9-75b7431cfc39",
+      "ocd-person/5f182358-80ec-4463-a8b0-2dd660ac97ab",
+      "ocd-person/443938dd-c7a0-4061-890a-8bd4ec4a1924",
+      "ocd-person/53e00142-c4a0-41e7-bef7-fedb8de2bcdc",
+      "ocd-person/b3e74d72-fdba-4c02-b75c-1ba8cc5b44b2",
+      "ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2929&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/64b211a8-4a3b-4209-8fcb-5dc99121ec6a",
+    "name": "Agriculture, Food Production and Outdoor Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/agri"
+  },
+  {
+    "id": "ocd-organization/3f75d846-9c14-439f-ad52-4909823fff86",
+    "name": "Appropriations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e",
+      "ocd-person/867469f6-f988-49ec-be8c-4a065db3f223",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8",
+      "ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb",
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/aprp"
+  },
+  {
+    "id": "ocd-organization/8a3e0579-60ee-4cff-bc4f-0b42187c1dfc",
+    "name": "Budget",
+    "chamber": "house",
+    "members": [
+      "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
+      "ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2",
+      "ocd-person/55b3b80d-f69c-4f9f-aaed-4d1e5cd2634d",
+      "ocd-person/d9dd5492-e605-4fc6-a18a-8772a7682a08",
+      "ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3",
+      "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
+      "ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979",
+      "ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4",
+      "ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f",
+      "ocd-person/d6be1f75-f237-41ad-af36-a7d1c6e3a9c6",
+      "ocd-person/0b281a28-10f1-496b-aa00-29e59a57d253",
+      "ocd-person/49c68d0e-cf5d-4b46-9890-c887a428929e",
+      "ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68",
+      "ocd-person/6e5b11bc-fc9c-4822-9a82-1a5a59771c00",
+      "ocd-person/709dba3b-3a48-4429-94e7-fada7faa0d90",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17",
+      "ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd",
+      "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
+      "ocd-person/22e282f9-afbf-46b8-ac81-0780f5372d0d",
+      "ocd-person/9815268f-50dc-451b-9bb2-b36f3c556ac4",
+      "ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321",
+      "ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692",
+      "ocd-person/e6caa351-c418-431a-bf50-1bd16923ae49",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4",
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
+      "ocd-person/9adf60fd-19a0-429c-ab41-5cbc8e6391fc",
+      "ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef",
+      "ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2930&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/e614fdf4-d29f-448d-971d-321234a00cdd",
+    "name": "Budget Conference",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/55b3b80d-f69c-4f9f-aaed-4d1e5cd2634d",
+      "ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4",
+      "ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e",
+      "ocd-person/709dba3b-3a48-4429-94e7-fada7faa0d90",
+      "ocd-person/867469f6-f988-49ec-be8c-4a065db3f223",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17",
+      "ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/47f4d77d-149c-410a-a324-067172efda3c",
+      "ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8",
+      "ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb",
+      "ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321",
+      "ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4",
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
+      "ocd-person/9adf60fd-19a0-429c-ab41-5cbc8e6391fc"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=4371&year=2026&code=R"
+  },
+  {
+    "id": "ocd-organization/14eff57b-8e0b-4571-bcae-2828539dc1df",
+    "name": "Capitol Security",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/56f5920f-46d9-4991-b029-5984b80cd7ff",
+      "ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/419c30c0-b3f2-4d4b-a2f1-ee08050e845b",
+      "ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2956&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/8221d036-2d04-4759-9103-4f5dfc0c4275",
+    "name": "Children and Families",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4",
+      "ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4",
+      "ocd-person/fff43ce1-d209-4556-ba74-32f9ba46d3c0",
+      "ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc",
+      "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
+      "ocd-person/a4d25b21-09c7-49d8-aaca-a07a18dad245",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/31ee0443-77bc-415d-9774-d09dee750243",
+      "ocd-person/34a05fb9-bb36-416e-ada9-6be70b48b6b2",
+      "ocd-person/47f4d77d-149c-410a-a324-067172efda3c",
+      "ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b",
+      "ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255",
+      "ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992",
+      "ocd-person/ea5a5b0f-1c94-4c8d-a39f-e76357ebb2bf",
+      "ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2936&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/aec091a5-7eb9-4113-8f68-eb8df1af6645",
+    "name": "Commerce",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/350514c2-7875-44c4-8ef3-20da25540793",
+      "ocd-person/e6caa351-c418-431a-bf50-1bd16923ae49",
+      "ocd-person/83283f83-e8d3-4e03-949c-1bdfae4bfd7f",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992",
+      "ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd",
+      "ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843",
+      "ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=4295&year=2026&code=R"
+  },
+  {
+    "id": "ocd-organization/2188eb9e-737b-4828-9c1f-d84717c63a91",
+    "name": "Commerce, Consumer Protection, Energy and the Environment",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8",
+      "ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/comm"
+  },
+  {
+    "id": "ocd-organization/b888223d-3ba0-4523-ba07-1b9d3de255bb",
+    "name": "Consent and Procedure",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7",
+      "ocd-person/54f9145f-2529-448e-8238-b00d049a782c",
+      "ocd-person/6c3609dd-62d2-4030-9b24-7b5d49a16677",
+      "ocd-person/28245e55-fddc-46db-85a7-ce9ca55da6d7",
+      "ocd-person/ef435f26-5456-4e1b-9d53-16d972983db0",
+      "ocd-person/49c68d0e-cf5d-4b46-9890-c887a428929e",
+      "ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df",
+      "ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade",
+      "ocd-person/da48983a-852b-4d3b-b635-285f37d8d012"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2937&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/024d458d-c40c-4a39-844c-b0c164e44707",
+    "name": "Conservation and Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/633fd335-98a2-42a7-acac-cb78eeca9a12",
+      "ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0",
+      "ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3",
+      "ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4",
+      "ocd-person/720cb5cb-6d39-4cdf-be60-020493ac19d9",
+      "ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd",
+      "ocd-person/d29468e7-eb61-45e7-89ad-4dfb93a0baf2",
+      "ocd-person/0c02ea62-5611-4292-bf13-316c50c3a866",
+      "ocd-person/f3eb420f-df97-4edf-b8c9-e0fa231c6860",
+      "ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692",
+      "ocd-person/e6caa351-c418-431a-bf50-1bd16923ae49",
+      "ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd",
+      "ocd-person/7ff101ee-474f-410d-9644-88bb17ae7519",
+      "ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2938&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/1dba4bb5-6e1c-42e9-b65e-dc8d7900f11d",
+    "name": "Corrections and Public Institutions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd",
+      "ocd-person/54f9145f-2529-448e-8238-b00d049a782c",
+      "ocd-person/28245e55-fddc-46db-85a7-ce9ca55da6d7",
+      "ocd-person/720cb5cb-6d39-4cdf-be60-020493ac19d9",
+      "ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/ec53a7aa-4a63-4c8f-8f74-8002d5c654e5",
+      "ocd-person/49c68d0e-cf5d-4b46-9890-c887a428929e",
+      "ocd-person/31ee0443-77bc-415d-9774-d09dee750243",
+      "ocd-person/47f4d77d-149c-410a-a324-067172efda3c",
+      "ocd-person/9815268f-50dc-451b-9bb2-b36f3c556ac4",
+      "ocd-person/dc271660-9483-4b46-8c96-4794078b130f",
+      "ocd-person/fe941ee4-f34a-4685-873c-29adbb732b2c",
+      "ocd-person/6f65a218-7bef-4fa3-b86c-907ed92296d8"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2939&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/7cf0dcad-b022-43f9-876b-67c034bedc38",
+    "name": "Crime and Public Safety",
+    "chamber": "house",
+    "members": [
+      "ocd-person/acd99a81-de49-4ab0-9bb5-bb4fa72c02c5",
+      "ocd-person/9814247b-44fc-473f-b770-a44c77292d77",
+      "ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362",
+      "ocd-person/54f9145f-2529-448e-8238-b00d049a782c",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/21a85544-7b2f-4d34-9654-a1ebfaa34881",
+      "ocd-person/e0e9f47c-af7c-45f3-9d7e-1a158a19b362",
+      "ocd-person/18f02633-c607-4c80-9088-742b28a49122",
+      "ocd-person/83283f83-e8d3-4e03-949c-1bdfae4bfd7f",
+      "ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347",
+      "ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4",
+      "ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd",
+      "ocd-person/24c9a1f1-0023-4733-aa18-80f252645723",
+      "ocd-person/733d6ca4-9be3-4541-bcc9-75b7431cfc39",
+      "ocd-person/500e226f-ea79-4915-ab13-a11ab4d9e48e",
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/ea5a5b0f-1c94-4c8d-a39f-e76357ebb2bf",
+      "ocd-person/53e00142-c4a0-41e7-bef7-fedb8de2bcdc",
+      "ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2940&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/e4e3f968-6147-4f7b-af6c-f72fe95a9aa3",
+    "name": "Economic and Workforce Development",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/c5e38dee-7f82-4795-a134-b984b6878458",
+      "ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f"
+    ],
+    "officialUrl": "https://senate.mo.gov/Committees/CommitteeDetails/74"
+  },
+  {
+    "id": "ocd-organization/079bf44f-bfb5-42ff-abdd-c8448e05988c",
+    "name": "Economic Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/272db469-eb67-4752-8307-c46a95eaace0",
+      "ocd-person/da48983a-852b-4d3b-b635-285f37d8d012",
+      "ocd-person/8014964b-117f-40a4-a466-ac597dd70983",
+      "ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589",
+      "ocd-person/b2f744fa-f71d-4865-a704-afcd3d030ff7",
+      "ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10",
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2",
+      "ocd-person/0b281a28-10f1-496b-aa00-29e59a57d253",
+      "ocd-person/6e5b11bc-fc9c-4822-9a82-1a5a59771c00",
+      "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
+      "ocd-person/e5a2f458-8afb-41b6-9bf0-79143ea24a25",
+      "ocd-person/8e0bb3e7-085b-471c-a588-a1de9b466706",
+      "ocd-person/1d96c354-2527-4449-9b40-36bb78fe2cb7",
+      "ocd-person/b45073a9-ed4d-4d2c-89cd-edf310e7d373",
+      "ocd-person/350514c2-7875-44c4-8ef3-20da25540793",
+      "ocd-person/6f65a218-7bef-4fa3-b86c-907ed92296d8"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2941&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/467cbfa6-f504-4bdd-98c3-1f6799d52b6b",
+    "name": "Education",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
+      "ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/47f4d77d-149c-410a-a324-067172efda3c",
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2957&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/325e8b53-cb0e-41cb-b1de-bbdb3750ba71",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9"
+    ],
+    "officialUrl": "https://senate.mo.gov/Committees/CommitteeDetails/75"
+  },
+  {
+    "id": "ocd-organization/d2adc298-7051-449e-a982-a9be88600626",
+    "name": "Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
+      "ocd-person/920c5b79-73a0-477b-a90d-1a290e48e014",
+      "ocd-person/76bc7488-cc9e-4b47-91da-4557fb577ff5",
+      "ocd-person/e0e9f47c-af7c-45f3-9d7e-1a158a19b362",
+      "ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec",
+      "ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347",
+      "ocd-person/616dd247-4438-44de-97b4-cd3a5a3e554d",
+      "ocd-person/c509449e-070c-462c-810e-f14315c9df42",
+      "ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e",
+      "ocd-person/fb57ce9b-bd82-4f93-8774-2cfef191289a",
+      "ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370",
+      "ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4",
+      "ocd-person/709dba3b-3a48-4429-94e7-fada7faa0d90",
+      "ocd-person/7f91f845-d612-45d2-bc08-421c4e91357a",
+      "ocd-person/24c9a1f1-0023-4733-aa18-80f252645723",
+      "ocd-person/22e282f9-afbf-46b8-ac81-0780f5372d0d",
+      "ocd-person/4f9135f0-db97-4860-af00-182d0026feae"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2942&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/12e3bf4b-2b6d-410b-a713-f9546e0feb52",
+    "name": "Elementary and Secondary Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f",
+      "ocd-person/e0e9f47c-af7c-45f3-9d7e-1a158a19b362",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/fff43ce1-d209-4556-ba74-32f9ba46d3c0",
+      "ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc",
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
+      "ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347",
+      "ocd-person/a4d25b21-09c7-49d8-aaca-a07a18dad245",
+      "ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/5fae2678-d379-4ef0-9481-0f78f544d0c4",
+      "ocd-person/6e5b11bc-fc9c-4822-9a82-1a5a59771c00",
+      "ocd-person/1da3a25b-64fa-48d4-8441-e1dca4526f7f",
+      "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
+      "ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b",
+      "ocd-person/ba1cff78-9a39-4e6e-a998-c8dc324d7b80",
+      "ocd-person/e5a2f458-8afb-41b6-9bf0-79143ea24a25",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b",
+      "ocd-person/129ff7c8-e210-47d5-a30c-777571984925",
+      "ocd-person/4f9135f0-db97-4860-af00-182d0026feae"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2943&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/b4621103-1ba3-45b6-9642-c25ed987115e",
+    "name": "Emerging Issues",
+    "chamber": "house",
+    "members": [
+      "ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42",
+      "ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f",
+      "ocd-person/733d6ca4-9be3-4541-bcc9-75b7431cfc39",
+      "ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2",
+      "ocd-person/49609474-e343-4c1d-8e6b-677f31c228b7",
+      "ocd-person/f7c7d32d-5d88-489a-9adf-76c9837b3272",
+      "ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2",
+      "ocd-person/1da3a25b-64fa-48d4-8441-e1dca4526f7f",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/8e0bb3e7-085b-471c-a588-a1de9b466706",
+      "ocd-person/4d403f59-65f6-484f-9aeb-fe05380d4bcf",
+      "ocd-person/53e00142-c4a0-41e7-bef7-fedb8de2bcdc",
+      "ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0",
+      "ocd-person/39bcc093-37e9-469a-866d-5b6f10c52381"
+    ],
+    "officialUrl": "https://archive.house.mo.gov/Committees.aspx?category=all&committee=3040&year=2025&code=R"
+  },
+  {
+    "id": "ocd-organization/19b9a65e-a185-4d10-b8a3-a1555df67796",
+    "name": "Emerging Issues and Professional Registration",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/867469f6-f988-49ec-be8c-4a065db3f223",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/934fdfca-5cdf-4c67-a3b0-b23e433f87f6",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://senate.mo.gov/Committees/CommitteeDetails/76"
+  },
+  {
+    "id": "ocd-organization/3718c33c-9518-4df3-a56e-6617c2f0719e",
+    "name": "Ethics",
+    "chamber": "house",
+    "members": [
+      "ocd-person/56f5920f-46d9-4991-b029-5984b80cd7ff",
+      "ocd-person/500e226f-ea79-4915-ab13-a11ab4d9e48e",
+      "ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0",
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/b7335950-e605-45b7-9c64-1e725315deca",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/56a68a64-7a44-4052-b5f2-e9f7c626e311",
+      "ocd-person/4f9135f0-db97-4860-af00-182d0026feae",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688",
+      "ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2945&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/b0dfdb7e-cfbc-450a-82cf-ef83b7426292",
+    "name": "Families, Seniors and Health",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1722&year=2026"
+  },
+  {
+    "id": "ocd-organization/ad06d2da-2859-4dad-93be-e6e7c62cc3fb",
+    "name": "Financial Institutions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d9dd5492-e605-4fc6-a18a-8772a7682a08",
+      "ocd-person/4d403f59-65f6-484f-9aeb-fe05380d4bcf",
+      "ocd-person/f36fd5fa-6d20-43d4-9555-ce4d2d472849",
+      "ocd-person/18f02633-c607-4c80-9088-742b28a49122",
+      "ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0",
+      "ocd-person/49609474-e343-4c1d-8e6b-677f31c228b7",
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
+      "ocd-person/a9a55831-48ad-4f2e-b548-0b7652b2b681",
+      "ocd-person/92aabb0f-94de-4d54-b4d0-23f09035d8a0",
+      "ocd-person/5fae2678-d379-4ef0-9481-0f78f544d0c4",
+      "ocd-person/709dba3b-3a48-4429-94e7-fada7faa0d90",
+      "ocd-person/1a644e87-8691-4e86-af73-6a2af0f56c82",
+      "ocd-person/9adf60fd-19a0-429c-ab41-5cbc8e6391fc",
+      "ocd-person/da48983a-852b-4d3b-b635-285f37d8d012"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2946&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/c7742682-52f0-4955-9249-e30f3560ee04",
+    "name": "Fiscal Oversight",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8",
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831"
+    ],
+    "officialUrl": "https://senate.mo.gov/Committees/CommitteeDetails/77"
+  },
+  {
+    "id": "ocd-organization/11b9482f-da30-4ccf-913c-cf5bfa50a5f8",
+    "name": "Fiscal Review",
+    "chamber": "house",
+    "members": [
+      "ocd-person/06e17e6f-a17c-4654-9ead-d0aa98a95110",
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/9adf60fd-19a0-429c-ab41-5cbc8e6391fc",
+      "ocd-person/55b3b80d-f69c-4f9f-aaed-4d1e5cd2634d",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
+      "ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2947&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/fe4d5a46-f542-4ec8-a527-5d6adf07e8d2",
+    "name": "Gaming Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955",
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1802&year=2026"
+  },
+  {
+    "id": "ocd-organization/9bf76bc7-e380-4bc4-a6c1-cc14ac9c24a0",
+    "name": "General Laws",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/7f91f845-d612-45d2-bc08-421c4e91357a",
+      "ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3",
+      "ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347",
+      "ocd-person/c509449e-070c-462c-810e-f14315c9df42",
+      "ocd-person/f3eb420f-df97-4edf-b8c9-e0fa231c6860",
+      "ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4",
+      "ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937",
+      "ocd-person/b7335950-e605-45b7-9c64-1e725315deca",
+      "ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4",
+      "ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df",
+      "ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255",
+      "ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e",
+      "ocd-person/fe941ee4-f34a-4685-873c-29adbb732b2c",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2948&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/2217eca8-12df-4b33-8b9b-16d9e9b69fb1",
+    "name": "General Laws",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c5e38dee-7f82-4795-a134-b984b6878458",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/genl"
+  },
+  {
+    "id": "ocd-organization/59f7aea0-72fd-4f2c-a474-3360099d1949",
+    "name": "Government Accountability",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/21a85544-7b2f-4d34-9654-a1ebfaa34881",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937",
+      "ocd-person/06e17e6f-a17c-4654-9ead-d0aa98a95110",
+      "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831",
+      "ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2958&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/de7295e8-b92b-4015-8a32-04b277747f95",
+    "name": "Government Efficiency",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/21a85544-7b2f-4d34-9654-a1ebfaa34881",
+      "ocd-person/06f2e023-3786-4c2f-b057-fd9087a6a1db",
+      "ocd-person/a4d25b21-09c7-49d8-aaca-a07a18dad245",
+      "ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4",
+      "ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e",
+      "ocd-person/b24e59bc-bc91-456f-9b96-bd1f501c1d49",
+      "ocd-person/fa6c1b05-02e8-4c6f-9a84-d1f58885ea04",
+      "ocd-person/06e17e6f-a17c-4654-9ead-d0aa98a95110",
+      "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
+      "ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b",
+      "ocd-person/56a68a64-7a44-4052-b5f2-e9f7c626e311",
+      "ocd-person/e5a2f458-8afb-41b6-9bf0-79143ea24a25",
+      "ocd-person/dc271660-9483-4b46-8c96-4794078b130f",
+      "ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade",
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/7ff101ee-474f-410d-9644-88bb17ae7519"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=3045&year=2025&code=R"
+  },
+  {
+    "id": "ocd-organization/bc770e9a-e5f0-4001-8a07-69528a4a979a",
+    "name": "Government Efficiency",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e",
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1723&year=2026"
+  },
+  {
+    "id": "ocd-organization/8317349f-4d55-4888-9730-21e01b1154b0",
+    "name": "Gubernatorial Appointments",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955",
+      "ocd-person/98b8120c-7a9c-4415-9e7b-8bfcdc8fa8a5",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e",
+      "ocd-person/43563b48-1d26-4a85-bad2-615971201d41",
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/guap"
+  },
+  {
+    "id": "ocd-organization/159d392e-6846-489d-b4b6-e87024957066",
+    "name": "Health and Mental Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1df6dc2e-0d12-40d6-b368-4d0b3a19ef95",
+      "ocd-person/96d0d8da-dcff-4f59-b051-e0da15584b7b",
+      "ocd-person/ec53a7aa-4a63-4c8f-8f74-8002d5c654e5",
+      "ocd-person/fff43ce1-d209-4556-ba74-32f9ba46d3c0",
+      "ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/89ef08d6-96fd-4d5f-9a48-d8093ba60052",
+      "ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec",
+      "ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2",
+      "ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4",
+      "ocd-person/24c9a1f1-0023-4733-aa18-80f252645723",
+      "ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b",
+      "ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992",
+      "ocd-person/129ff7c8-e210-47d5-a30c-777571984925",
+      "ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f",
+      "ocd-person/b3e74d72-fdba-4c02-b75c-1ba8cc5b44b2"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2950&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/dc451768-37ce-4308-bb14-34bd5abcb31a",
+    "name": "Higher Education and Workforce Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10",
+      "ocd-person/272db469-eb67-4752-8307-c46a95eaace0",
+      "ocd-person/9adf60fd-19a0-429c-ab41-5cbc8e6391fc",
+      "ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c",
+      "ocd-person/b2f744fa-f71d-4865-a704-afcd3d030ff7",
+      "ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd",
+      "ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0",
+      "ocd-person/616dd247-4438-44de-97b4-cd3a5a3e554d",
+      "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
+      "ocd-person/1df6dc2e-0d12-40d6-b368-4d0b3a19ef95",
+      "ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4",
+      "ocd-person/350514c2-7875-44c4-8ef3-20da25540793",
+      "ocd-person/05c84580-b849-4320-9aa4-e34d8b977aca"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2952&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/64712ded-05dd-45b2-9c25-1fee1bb225ca",
+    "name": "Insurance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0f4f5a2e-bc86-4c2a-9ab1-041d1c844283",
+      "ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df",
+      "ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843",
+      "ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c",
+      "ocd-person/b2f744fa-f71d-4865-a704-afcd3d030ff7",
+      "ocd-person/18f02633-c607-4c80-9088-742b28a49122",
+      "ocd-person/ef435f26-5456-4e1b-9d53-16d972983db0",
+      "ocd-person/49609474-e343-4c1d-8e6b-677f31c228b7",
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/b7335950-e605-45b7-9c64-1e725315deca",
+      "ocd-person/06e17e6f-a17c-4654-9ead-d0aa98a95110",
+      "ocd-person/5fae2678-d379-4ef0-9481-0f78f544d0c4",
+      "ocd-person/da48983a-852b-4d3b-b635-285f37d8d012",
+      "ocd-person/39bcc093-37e9-469a-866d-5b6f10c52381"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2953&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/c6cfbc42-0afc-46cb-890a-071754ba6623",
+    "name": "Insurance and Banking",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
+      "ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/c5e38dee-7f82-4795-a134-b984b6878458",
+      "ocd-person/867469f6-f988-49ec-be8c-4a065db3f223",
+      "ocd-person/934fdfca-5cdf-4c67-a3b0-b23e433f87f6",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/insu"
+  },
+  {
+    "id": "ocd-organization/41c965c7-b0eb-49aa-8546-d872aab88432",
+    "name": "Intergovernmental Affairs Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4f9135f0-db97-4860-af00-182d0026feae",
+      "ocd-person/4d403f59-65f6-484f-9aeb-fe05380d4bcf",
+      "ocd-person/d29468e7-eb61-45e7-89ad-4dfb93a0baf2",
+      "ocd-person/28245e55-fddc-46db-85a7-ce9ca55da6d7",
+      "ocd-person/06f2e023-3786-4c2f-b057-fd9087a6a1db",
+      "ocd-person/ef435f26-5456-4e1b-9d53-16d972983db0",
+      "ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10",
+      "ocd-person/0c02ea62-5611-4292-bf13-316c50c3a866",
+      "ocd-person/92aabb0f-94de-4d54-b4d0-23f09035d8a0",
+      "ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68",
+      "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
+      "ocd-person/ba1cff78-9a39-4e6e-a998-c8dc324d7b80",
+      "ocd-person/1d96c354-2527-4449-9b40-36bb78fe2cb7",
+      "ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e",
+      "ocd-person/7a66b805-a3a7-4440-b404-a562c1e00059",
+      "ocd-person/272db469-eb67-4752-8307-c46a95eaace0",
+      "ocd-person/b45073a9-ed4d-4d2c-89cd-edf310e7d373"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=4335&year=2026&code=R"
+  },
+  {
+    "id": "ocd-organization/b2202300-fa6e-4c79-9449-cb6c43830c41",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3",
+      "ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e",
+      "ocd-person/c509449e-070c-462c-810e-f14315c9df42",
+      "ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e",
+      "ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/d6be1f75-f237-41ad-af36-a7d1c6e3a9c6",
+      "ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68",
+      "ocd-person/34a05fb9-bb36-416e-ada9-6be70b48b6b2",
+      "ocd-person/56a68a64-7a44-4052-b5f2-e9f7c626e311",
+      "ocd-person/500e226f-ea79-4915-ab13-a11ab4d9e48e",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/dc271660-9483-4b46-8c96-4794078b130f",
+      "ocd-person/fe941ee4-f34a-4685-873c-29adbb732b2c"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2970&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/61204c6c-78c5-4ab9-a676-057a02628079",
+    "name": "Judiciary and Civil and Criminal Jurisprudence",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/2f4b4782-bc17-40fd-88b7-53840c68ee3a",
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/judi"
+  },
+  {
+    "id": "ocd-organization/91ff9773-61a2-43ea-b7b8-87057921b125",
+    "name": "Justice System",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/acd99a81-de49-4ab0-9bb5-bb4fa72c02c5",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
+      "ocd-person/500e226f-ea79-4915-ab13-a11ab4d9e48e",
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2967&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/6b17f649-c5c2-4bdf-9a70-616e47327701",
+    "name": "Legislative Research",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/7f91f845-d612-45d2-bc08-421c4e91357a",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/934fdfca-5cdf-4c67-a3b0-b23e433f87f6",
+      "ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b",
+      "ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/64a3bd7d-7dc8-4ce6-bd30-6101b2b7926e",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2959&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/7b7e10ce-adf9-4c3c-a0b7-954ced17a285",
+    "name": "Legislative Review",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/1da3a25b-64fa-48d4-8441-e1dca4526f7f",
+      "ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4",
+      "ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589",
+      "ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc",
+      "ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e",
+      "ocd-person/b1fb2c50-2091-4264-abed-e89079479bc0",
+      "ocd-person/0f4f5a2e-bc86-4c2a-9ab1-041d1c844283",
+      "ocd-person/733d6ca4-9be3-4541-bcc9-75b7431cfc39",
+      "ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2971&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/6211290b-89b4-4fbb-a7b0-06c91033624f",
+    "name": "Life Sciences",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0c02ea62-5611-4292-bf13-316c50c3a866",
+      "ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2",
+      "ocd-person/1df6dc2e-0d12-40d6-b368-4d0b3a19ef95",
+      "ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=4326&year=2026&code=R"
+  },
+  {
+    "id": "ocd-organization/7927dba5-5f33-4beb-bba8-429e43b6e887",
+    "name": "Local Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/49609474-e343-4c1d-8e6b-677f31c228b7",
+      "ocd-person/1d96c354-2527-4449-9b40-36bb78fe2cb7",
+      "ocd-person/d29468e7-eb61-45e7-89ad-4dfb93a0baf2",
+      "ocd-person/28245e55-fddc-46db-85a7-ce9ca55da6d7",
+      "ocd-person/06f2e023-3786-4c2f-b057-fd9087a6a1db",
+      "ocd-person/0c02ea62-5611-4292-bf13-316c50c3a866",
+      "ocd-person/0f4f5a2e-bc86-4c2a-9ab1-041d1c844283",
+      "ocd-person/fb57ce9b-bd82-4f93-8774-2cfef191289a",
+      "ocd-person/92aabb0f-94de-4d54-b4d0-23f09035d8a0",
+      "ocd-person/709dba3b-3a48-4429-94e7-fada7faa0d90",
+      "ocd-person/34a05fb9-bb36-416e-ada9-6be70b48b6b2",
+      "ocd-person/56a68a64-7a44-4052-b5f2-e9f7c626e311",
+      "ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321",
+      "ocd-person/920c5b79-73a0-477b-a90d-1a290e48e014",
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
+      "ocd-person/ea5a5b0f-1c94-4c8d-a39f-e76357ebb2bf"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2972&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/fcd8bd3d-9799-49d8-a2ed-17582e9f31c3",
+    "name": "Local Government, Elections and Pensions",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bfad4ef7-fad2-46e6-8f12-f8ea9feaa0cb",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0",
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/lgov"
+  },
+  {
+    "id": "ocd-organization/0545509c-a850-4f0b-9a64-942cf913a85c",
+    "name": "Pensions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/54f9145f-2529-448e-8238-b00d049a782c",
+      "ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c",
+      "ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b",
+      "ocd-person/fff43ce1-d209-4556-ba74-32f9ba46d3c0",
+      "ocd-person/d9dd5492-e605-4fc6-a18a-8772a7682a08",
+      "ocd-person/4d763e2a-ab08-46ea-8561-9b3b74b34971",
+      "ocd-person/a4d25b21-09c7-49d8-aaca-a07a18dad245",
+      "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/e5a2f458-8afb-41b6-9bf0-79143ea24a25",
+      "ocd-person/8e0bb3e7-085b-471c-a588-a1de9b466706",
+      "ocd-person/1a644e87-8691-4e86-af73-6a2af0f56c82",
+      "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
+      "ocd-person/05c84580-b849-4320-9aa4-e34d8b977aca"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2973&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/9844a43d-17b4-413e-ba39-2fe7efa47c10",
+    "name": "Professional Registration and Licensing",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fa6c1b05-02e8-4c6f-9a84-d1f58885ea04",
+      "ocd-person/08f76b3a-4317-4d18-a44b-f2d6a673f1e3",
+      "ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4",
+      "ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c",
+      "ocd-person/18f02633-c607-4c80-9088-742b28a49122",
+      "ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec",
+      "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
+      "ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347",
+      "ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2",
+      "ocd-person/ec53a7aa-4a63-4c8f-8f74-8002d5c654e5",
+      "ocd-person/b7335950-e605-45b7-9c64-1e725315deca",
+      "ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370",
+      "ocd-person/633fd335-98a2-42a7-acac-cb78eeca9a12",
+      "ocd-person/0b281a28-10f1-496b-aa00-29e59a57d253",
+      "ocd-person/5fae2678-d379-4ef0-9481-0f78f544d0c4",
+      "ocd-person/56f5920f-46d9-4991-b029-5984b80cd7ff",
+      "ocd-person/443938dd-c7a0-4061-890a-8bd4ec4a1924",
+      "ocd-person/9815268f-50dc-451b-9bb2-b36f3c556ac4",
+      "ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade",
+      "ocd-person/b45073a9-ed4d-4d2c-89cd-edf310e7d373",
+      "ocd-person/b6ab609a-1abc-40ee-9ac1-889ccb08a9f0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2974&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/5922a4bf-eb04-401c-bca0-37e66f300d26",
+    "name": "Progress and Development",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/43563b48-1d26-4a85-bad2-615971201d41",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/prog"
+  },
+  {
+    "id": "ocd-organization/39cc3aba-b79b-452f-9c4e-042b50549ba0",
+    "name": "Property Tax Reform Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef",
+      "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e",
+      "ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2",
+      "ocd-person/66b84db3-dd1a-4c94-8a78-bbf219068347",
+      "ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979",
+      "ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4",
+      "ocd-person/3055e426-4c34-404c-b286-820e978cb05c",
+      "ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e",
+      "ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108",
+      "ocd-person/92aabb0f-94de-4d54-b4d0-23f09035d8a0",
+      "ocd-person/06e17e6f-a17c-4654-9ead-d0aa98a95110",
+      "ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/7a66b805-a3a7-4440-b404-a562c1e00059",
+      "ocd-person/53e00142-c4a0-41e7-bef7-fedb8de2bcdc",
+      "ocd-person/b3e74d72-fdba-4c02-b75c-1ba8cc5b44b2",
+      "ocd-person/4f9135f0-db97-4860-af00-182d0026feae",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=3017&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/dba60836-1e5b-4691-8bde-52fdcf8130df",
+    "name": "Public Assistance",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc",
+      "ocd-person/55b3b80d-f69c-4f9f-aaed-4d1e5cd2634d",
+      "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
+      "ocd-person/c47d84db-02de-4687-bd5b-c6dbc71cc8c4",
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/f1d83642-4aa6-4fea-80f1-4c3f422c63ed",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2963&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/12d6a3b4-f204-425f-bb41-cb9d02a334fe",
+    "name": "Public Employee Retirement",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/54f9145f-2529-448e-8238-b00d049a782c",
+      "ocd-person/8df40920-38e1-4892-aa6b-764467bf79b7",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
+      "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/24c9a1f1-0023-4733-aa18-80f252645723",
+      "ocd-person/43563b48-1d26-4a85-bad2-615971201d41",
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2964&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/922ac3a8-0a03-48eb-a9f1-df4e129d8bfa",
+    "name": "Redistricting Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b",
+      "ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/1235305e-980d-4eb8-8743-8d0d8a455c4e",
+      "ocd-person/0b281a28-10f1-496b-aa00-29e59a57d253",
+      "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
+      "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
+      "ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b",
+      "ocd-person/dc271660-9483-4b46-8c96-4794078b130f",
+      "ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd",
+      "ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=4337&year=2026&code=R"
+  },
+  {
+    "id": "ocd-organization/9091c712-241f-4501-a6d3-e341090b329d",
+    "name": "Rules Committee on Administrative Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd",
+      "ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef",
+      "ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937",
+      "ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42",
+      "ocd-person/18f02633-c607-4c80-9088-742b28a49122",
+      "ocd-person/b1fb2c50-2091-4264-abed-e89079479bc0",
+      "ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0",
+      "ocd-person/c509449e-070c-462c-810e-f14315c9df42",
+      "ocd-person/1df6dc2e-0d12-40d6-b368-4d0b3a19ef95",
+      "ocd-person/4d403f59-65f6-484f-9aeb-fe05380d4bcf",
+      "ocd-person/e0d1f714-8603-40c6-8c3e-04934648caa4"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2975&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/f8d14980-5570-447c-bda2-d0a19aed34bb",
+    "name": "Rules Committee on Legislative Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/24c9a1f1-0023-4733-aa18-80f252645723",
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/a9a55831-48ad-4f2e-b548-0b7652b2b681",
+      "ocd-person/7f91f845-d612-45d2-bc08-421c4e91357a",
+      "ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321",
+      "ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692",
+      "ocd-person/4209f53e-18f3-4c9e-8183-caa385c319ec",
+      "ocd-person/7a66b805-a3a7-4440-b404-a562c1e00059",
+      "ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7",
+      "ocd-person/129ff7c8-e210-47d5-a30c-777571984925"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2976&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/93456a81-d34d-48f1-82ec-0155c194fe75",
+    "name": "Rules, Joint Rules, Resolutions and Ethics",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/98b8120c-7a9c-4415-9e7b-8bfcdc8fa8a5",
+      "ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1761&year=2026"
+  },
+  {
+    "id": "ocd-organization/f85cfff0-2044-4f40-b22b-b41b010842ce",
+    "name": "Rural Economic Development",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/d01a9b1a-a262-4d27-9de9-b7ad0ff8c7f0",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
+      "ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9",
+      "ocd-person/e2fb607f-9af9-4d80-b473-8ed33e3d942d"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2965&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/8f89e8f5-335e-4581-a78f-05de8aa352ab",
+    "name": "Rural Healthcare Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/29fe2ddb-6025-4e60-942d-fd0880ebad5b",
+      "ocd-person/87d06121-1f5c-49ed-88dc-f5c70e88533e",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/618e91b0-663d-4095-9a38-eefab6304e5f"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1821&year=2026"
+  },
+  {
+    "id": "ocd-organization/f54bf01b-e6ce-46db-acf1-491cc88583ed",
+    "name": "Rural Issues Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e",
+      "ocd-person/49c68d0e-cf5d-4b46-9890-c887a428929e",
+      "ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4",
+      "ocd-person/ace530aa-6fbb-40a0-b91e-94820a287b2e",
+      "ocd-person/633fd335-98a2-42a7-acac-cb78eeca9a12",
+      "ocd-person/0f113187-3958-449e-9c4e-3e81390c1dd4",
+      "ocd-person/96d0d8da-dcff-4f59-b051-e0da15584b7b",
+      "ocd-person/443938dd-c7a0-4061-890a-8bd4ec4a1924",
+      "ocd-person/22e282f9-afbf-46b8-ac81-0780f5372d0d",
+      "ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3",
+      "ocd-person/920c5b79-73a0-477b-a90d-1a290e48e014",
+      "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
+      "ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=4338&year=2026&code=R"
+  },
+  {
+    "id": "ocd-organization/55378ba0-3c3d-44c6-9c12-35f7b948aec7",
+    "name": "Select Committee on Equal Protection and Diversity, Equity and Inclusion",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/43563b48-1d26-4a85-bad2-615971201d41",
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1796&year=2026"
+  },
+  {
+    "id": "ocd-organization/efcf9856-6063-4503-ad58-55b163d223ec",
+    "name": "Select Committee on Government Modernization and Transformation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/77b71863-3523-489a-a6a8-953ffa0d8955",
+      "ocd-person/87967de8-0f0d-45d5-9248-2767f9157d7b",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1724&year=2026"
+  },
+  {
+    "id": "ocd-organization/903d291f-a6c8-4877-88ec-cbcec2d85b5c",
+    "name": "Select Committee on Property Taxes and the State Tax Commission",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
+      "ocd-person/9f6b3ff8-f439-44d0-bdf7-315451e52cb7",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/d8594030-4826-48c5-af43-674470f1dd44",
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/Committees/CommitteeDetail?id=1725&year=2026"
+  },
+  {
+    "id": "ocd-organization/5847ef8b-3608-4577-8701-8e75f6770932",
+    "name": "Substance Abuse Prevention and Treatment Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108",
+      "ocd-person/048bc29f-0bab-4fa1-8a1e-647b0eba4dcd",
+      "ocd-person/483aaa6b-d64a-48d0-8bc4-bca6c252f8dc",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0",
+      "ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68",
+      "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
+      "ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd",
+      "ocd-person/1df6dc2e-0d12-40d6-b368-4d0b3a19ef95",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/bb98b6a0-ba5f-45f8-ad14-b798515fa8a0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2989&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/5c71948f-63ff-437a-a6cc-99eceda3de0d",
+    "name": "Tax Policy",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/163f458d-ad80-4bad-9223-69e1f6fec4d2",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/5e3e358e-622b-462c-ba56-ea42bf7c1fc2",
+      "ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4",
+      "ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17",
+      "ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831",
+      "ocd-person/802c155f-8979-418f-b13b-b75de93caf31"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2966&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/dc7e16eb-22a0-427b-a348-ac9b6c0e843a",
+    "name": "Tax Reform Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370",
+      "ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4",
+      "ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17",
+      "ocd-person/1f082953-c9f5-4a72-a281-cdb9fe4bda5e",
+      "ocd-person/8f5928b4-5528-4506-8075-4e69c5864b42",
+      "ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979",
+      "ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255",
+      "ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7",
+      "ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2985&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/890888ee-9514-40f5-a462-0ff70d40c49e",
+    "name": "Tourism Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/83283f83-e8d3-4e03-949c-1bdfae4bfd7f",
+      "ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c",
+      "ocd-person/6f65a218-7bef-4fa3-b86c-907ed92296d8",
+      "ocd-person/9c485ac1-4ad5-4466-9392-a9014827ef56",
+      "ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b",
+      "ocd-person/89ef08d6-96fd-4d5f-9a48-d8093ba60052",
+      "ocd-person/b24e59bc-bc91-456f-9b96-bd1f501c1d49",
+      "ocd-person/f7c7d32d-5d88-489a-9adf-76c9837b3272",
+      "ocd-person/b7335950-e605-45b7-9c64-1e725315deca",
+      "ocd-person/0b281a28-10f1-496b-aa00-29e59a57d253",
+      "ocd-person/5f182358-80ec-4463-a8b0-2dd660ac97ab",
+      "ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade",
+      "ocd-person/350514c2-7875-44c4-8ef3-20da25540793"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2986&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/4b180f84-8da2-4d55-95ef-fbf9af670363",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1da3a25b-64fa-48d4-8441-e1dca4526f7f",
+      "ocd-person/ace530aa-6fbb-40a0-b91e-94820a287b2e",
+      "ocd-person/76bc7488-cc9e-4b47-91da-4557fb577ff5",
+      "ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589",
+      "ocd-person/4d763e2a-ab08-46ea-8561-9b3b74b34971",
+      "ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd",
+      "ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec",
+      "ocd-person/1cd15a85-b074-4d67-8fcd-1cbccfc924f4",
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
+      "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
+      "ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3",
+      "ocd-person/c5b24334-9dfa-4356-8aa2-8f91c2a3d692",
+      "ocd-person/1d96c354-2527-4449-9b40-36bb78fe2cb7",
+      "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
+      "ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843",
+      "ocd-person/7ff101ee-474f-410d-9644-88bb17ae7519"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=3056&year=2025&code=R"
+  },
+  {
+    "id": "ocd-organization/d4535b29-18a9-40ac-b50c-a81842354129",
+    "name": "Transportation Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/4d763e2a-ab08-46ea-8561-9b3b74b34971",
+      "ocd-person/4f5340d3-7637-4eb2-be68-890073af50af",
+      "ocd-person/34df0cd7-f366-4d01-a1e7-d6241e34deec",
+      "ocd-person/1da3a25b-64fa-48d4-8441-e1dca4526f7f",
+      "ocd-person/867469f6-f988-49ec-be8c-4a065db3f223",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/24dc0503-f4cf-48b1-afdf-e57157bafec3",
+      "ocd-person/8014964b-117f-40a4-a466-ac597dd70983",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/6ad9db86-5e30-4693-be71-41bacad5b843"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2969&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/576c551d-de9f-42d5-a916-fb6a687e8a87",
+    "name": "Transportation, Infrastructure and Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/de8806cc-fa03-4745-ae1e-198c56492f9a",
+      "ocd-person/867469f6-f988-49ec-be8c-4a065db3f223",
+      "ocd-person/1ab01adf-962d-47ac-977c-2cf25712f583",
+      "ocd-person/ecbee637-2b07-4028-acb3-b82df2edb42a",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9"
+    ],
+    "officialUrl": "https://www.senate.mo.gov/21web/tran"
+  },
+  {
+    "id": "ocd-organization/c3afd874-a92b-4385-8d14-59eca1294d8b",
+    "name": "Urban Issues Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362",
+      "ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10",
+      "ocd-person/7472aac6-4730-456b-8e2f-3b79e45da74c",
+      "ocd-person/6b417baa-36e5-4928-bb3d-b6b8f2cc95dd",
+      "ocd-person/dc271660-9483-4b46-8c96-4794078b130f",
+      "ocd-person/8e0bb3e7-085b-471c-a588-a1de9b466706",
+      "ocd-person/41f72deb-7981-4053-bb15-7eb3580b9ade",
+      "ocd-person/272db469-eb67-4752-8307-c46a95eaace0"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2987&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/1be51c2b-819a-4a7b-9252-9d081f5fae7b",
+    "name": "Utilities",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4d763e2a-ab08-46ea-8561-9b3b74b34971",
+      "ocd-person/3de9f0e2-7062-4363-91d0-c3f17084ced4",
+      "ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108",
+      "ocd-person/e0e9f47c-af7c-45f3-9d7e-1a158a19b362",
+      "ocd-person/4cfed488-abe6-46e5-a3aa-55a73e2984ca",
+      "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
+      "ocd-person/075c14fd-b8dd-433d-ae30-69fb9d210979",
+      "ocd-person/f3250139-5c42-40d9-b535-2e7137f83f1e",
+      "ocd-person/c53c50aa-49b2-415a-9a50-eb947daf3d7f",
+      "ocd-person/f7c7d32d-5d88-489a-9adf-76c9837b3272",
+      "ocd-person/76bc7488-cc9e-4b47-91da-4557fb577ff5",
+      "ocd-person/acd99a81-de49-4ab0-9bb5-bb4fa72c02c5",
+      "ocd-person/9814247b-44fc-473f-b770-a44c77292d77",
+      "ocd-person/1250ea3d-fe5c-46ea-bead-f7249d234e68",
+      "ocd-person/7f91f845-d612-45d2-bc08-421c4e91357a",
+      "ocd-person/3a6ee726-1e30-4f9a-82cc-af57163e571b",
+      "ocd-person/ba1cff78-9a39-4e6e-a998-c8dc324d7b80",
+      "ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255",
+      "ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321",
+      "ocd-person/7a66b805-a3a7-4440-b404-a562c1e00059",
+      "ocd-person/129ff7c8-e210-47d5-a30c-777571984925",
+      "ocd-person/39bcc093-37e9-469a-866d-5b6f10c52381"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2993&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/e810fe96-f602-49d5-8c9b-0227f0e96331",
+    "name": "Veterans and Armed Forces",
+    "chamber": "house",
+    "members": [
+      "ocd-person/841b8b5c-a701-43c0-bb81-8e9515e61ea0",
+      "ocd-person/129ff7c8-e210-47d5-a30c-777571984925",
+      "ocd-person/9814247b-44fc-473f-b770-a44c77292d77",
+      "ocd-person/f2e657d5-999a-4d77-98e3-b06a7c3771f4",
+      "ocd-person/6b7c5c9c-05ba-4a2e-8f23-117edbf2969b",
+      "ocd-person/21a85544-7b2f-4d34-9654-a1ebfaa34881",
+      "ocd-person/720cb5cb-6d39-4cdf-be60-020493ac19d9",
+      "ocd-person/4d763e2a-ab08-46ea-8561-9b3b74b34971",
+      "ocd-person/83283f83-e8d3-4e03-949c-1bdfae4bfd7f",
+      "ocd-person/d29468e7-eb61-45e7-89ad-4dfb93a0baf2",
+      "ocd-person/06f2e023-3786-4c2f-b057-fd9087a6a1db",
+      "ocd-person/fb57ce9b-bd82-4f93-8774-2cfef191289a",
+      "ocd-person/a9a55831-48ad-4f2e-b548-0b7652b2b681",
+      "ocd-person/34a05fb9-bb36-416e-ada9-6be70b48b6b2",
+      "ocd-person/56f5920f-46d9-4991-b029-5984b80cd7ff",
+      "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
+      "ocd-person/8e0bb3e7-085b-471c-a588-a1de9b466706",
+      "ocd-person/3e251c9a-ef4d-436d-9c10-9aa447b3fcbd",
+      "ocd-person/e1a53185-3c84-4f82-87f0-09bd607cf2e7",
+      "ocd-person/ea5a5b0f-1c94-4c8d-a39f-e76357ebb2bf",
+      "ocd-person/b3e74d72-fdba-4c02-b75c-1ba8cc5b44b2",
+      "ocd-person/9c6a9708-529e-422f-82b7-e92385a32688",
+      "ocd-person/6f65a218-7bef-4fa3-b86c-907ed92296d8"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2994&year=2024&code=R"
+  },
+  {
+    "id": "ocd-organization/54b7b1e0-2c7f-4b8d-8117-60c3dfe31367",
+    "name": "Veterans and Military Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/43563b48-1d26-4a85-bad2-615971201d41",
+      "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
+      "ocd-person/a93088fa-ad80-49de-aa94-d03da0add0bc",
+      "ocd-person/e4811e7a-7df7-4275-917d-8bdcc2778fb1",
+      "ocd-person/63dea1c8-8916-4ca8-8821-223a7fef95a9",
+      "ocd-person/20ad6a34-2965-4068-b819-49c5e0d27831"
+    ],
+    "officialUrl": "https://senate.mo.gov/Committees/CommitteeDetails/80"
+  },
+  {
+    "id": "ocd-organization/5b5ebdd4-8ff2-4648-acc1-365585442ae9",
+    "name": "Ways and Means",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1a644e87-8691-4e86-af73-6a2af0f56c82",
+      "ocd-person/4a6e4da5-0cbd-4033-89a3-5bd749b37108",
+      "ocd-person/dc271660-9483-4b46-8c96-4794078b130f",
+      "ocd-person/ef435f26-5456-4e1b-9d53-16d972983db0",
+      "ocd-person/616dd247-4438-44de-97b4-cd3a5a3e554d",
+      "ocd-person/6db49039-f2b0-42ea-990d-92ffef2494c3",
+      "ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370",
+      "ocd-person/c140221e-dfad-45d7-9371-faf3cc12ff17",
+      "ocd-person/661f49f4-e075-491e-aad8-4dde65ecb6df"
+    ],
+    "officialUrl": "https://house.mo.gov/Committees.aspx?category=all&committee=2995&year=2024&code=R"
+  }
+]

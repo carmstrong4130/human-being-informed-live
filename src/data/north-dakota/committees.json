@@ -1,0 +1,1416 @@
+[
+  {
+    "id": "ocd-organization/1a8989d8-cfaa-4bde-ae35-04f3d40113e1",
+    "name": "Administrative Rules",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/983f512c-6f3f-4243-b6c8-b83d9d4f3696",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/6fbb2691-956f-4427-8927-66309b08ed68",
+      "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/f503a00c-951e-43c6-a5e5-8aff9bda4a6a",
+      "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+      "ocd-person/47e7d979-3c08-4c17-bd54-d9cb06f31d9e",
+      "ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381",
+      "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+      "ocd-person/56cc14e2-12cc-4d70-b37a-0aa0397bc841",
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
+      "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
+      "ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e",
+      "ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/interim/administrative-rules-committee"
+  },
+  {
+    "id": "ocd-organization/f5025583-50ce-4685-ad07-bf7dace8f2df",
+    "name": "Advanced Nuclear Energy",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
+      "ocd-person/65381298-5fe3-49d8-9739-8678016f8383",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/9335be7e-11ff-4577-af89-e61195143354",
+      "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c",
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/be77ffd0-b287-4585-8409-5189885d180a",
+      "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63",
+      "ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/advanced-nuclear-energy-committee"
+  },
+  {
+    "id": "ocd-organization/a868dcf3-430f-48cf-8b93-734a966959d3",
+    "name": "Agriculture",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+      "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+      "ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09",
+      "ocd-person/bd6e2ebb-5fc3-4a04-9def-d9e581c39783",
+      "ocd-person/5938951d-3c45-4913-8612-aa70ba790f88",
+      "ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd",
+      "ocd-person/56cc14e2-12cc-4d70-b37a-0aa0397bc841",
+      "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
+      "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+      "ocd-person/4c53491d-adf0-4c18-a645-a63667f2c828",
+      "ocd-person/d0cd1bbe-d84e-49d8-bb5e-1ada10cf187d",
+      "ocd-person/1a0c2ca8-e9ab-4698-a75b-4f40e65a413d",
+      "ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/agriculture"
+  },
+  {
+    "id": "ocd-organization/7819bba6-5542-4e32-a9ba-975810fc825e",
+    "name": "Agriculture and Veterans Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bbce3e80-9e27-4dfe-a7db-0c2b3bcc0b94",
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/f1041f2b-2e6e-41b0-9313-9767f7c03dbe",
+      "ocd-person/450cf40c-eb15-4f0d-843f-3a3e071d54fc",
+      "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
+      "ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/agriculture-and-veterans-affairs"
+  },
+  {
+    "id": "ocd-organization/68ba416a-afef-41ed-9ec3-669e553a47e1",
+    "name": "Agriculture and Water Management",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+      "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+      "ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd",
+      "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
+      "ocd-person/4c53491d-adf0-4c18-a645-a63667f2c828",
+      "ocd-person/d0cd1bbe-d84e-49d8-bb5e-1ada10cf187d",
+      "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
+      "ocd-person/d9bd764d-f08a-4056-ba7d-82bad9e9d17b",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/bbce3e80-9e27-4dfe-a7db-0c2b3bcc0b94",
+      "ocd-person/bf09d70e-a605-43f0-bcca-57ece9c06214",
+      "ocd-person/450cf40c-eb15-4f0d-843f-3a3e071d54fc",
+      "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",
+      "ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/agriculture-and-water-management-committee"
+  },
+  {
+    "id": "ocd-organization/5f7385a0-c7a7-4bbd-aeaf-63dbeac428dd",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+      "ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/appropriations"
+  },
+  {
+    "id": "ocd-organization/c0f7754c-3299-457a-a536-2cfc4cf092e3",
+    "name": "Appropriations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b",
+      "ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/appropriations"
+  },
+  {
+    "id": "ocd-organization/7b3ff8d9-5adc-4f7b-a306-dddfe096aa58",
+    "name": "Appropriations: Education and Environment Division",
+    "chamber": "house",
+    "members": [
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6",
+      "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/appropriations-education-and-environment-division"
+  },
+  {
+    "id": "ocd-organization/6eff72e1-15fc-47f5-bc1b-6b8ec44f847f",
+    "name": "Appropriations: Education and Environment Division",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/appropriations-education-and-environment-division"
+  },
+  {
+    "id": "ocd-organization/dce2c8a7-9b8c-4120-bfcf-34f5c5cc82a3",
+    "name": "Appropriations: Government Operations Division",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/appropriations-government-operations-division"
+  },
+  {
+    "id": "ocd-organization/e3d06259-320e-47a0-8fce-18a37e1cfb2e",
+    "name": "Appropriations: Government Operations Division",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/appropriations-government-operations-division"
+  },
+  {
+    "id": "ocd-organization/5ad69bdd-0d16-4bec-b00d-ef1f4c7b8ab7",
+    "name": "Appropriations: Human Resources Division",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/appropriations-human-resources-division"
+  },
+  {
+    "id": "ocd-organization/887ac96b-cd6b-451d-ac64-d87bc5f13be0",
+    "name": "Appropriations: Human Resources Division",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/appropriations-human-resources-division"
+  },
+  {
+    "id": "ocd-organization/7a6018fe-eeaf-45d9-9bf4-ffad29b6c9ed",
+    "name": "Arrangements for House Committee Rooms",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/arrangements-house-committee-rooms"
+  },
+  {
+    "id": "ocd-organization/a404889a-59b4-4c20-90fc-162101965f45",
+    "name": "Arrangements for Senate Committee Rooms",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/arrangements-senate-committee-rooms"
+  },
+  {
+    "id": "ocd-organization/a9a41c78-0f84-4877-b7cc-1362013681f5",
+    "name": "Budget Section",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+      "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
+      "ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6",
+      "ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/interim/budget-section"
+  },
+  {
+    "id": "ocd-organization/1909b4fe-bc5c-4de0-b690-2a2879bc74f5",
+    "name": "Budget Section Commerce and Legal Services Division",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d",
+      "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/budget-section-commerce-and-legal-services-division"
+  },
+  {
+    "id": "ocd-organization/b1b8d852-5c14-425f-b894-7fb9ecfdb2d0",
+    "name": "Budget Section Education and Environment Division",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/budget-section-education-and-environment-division"
+  },
+  {
+    "id": "ocd-organization/097052fc-e852-47d7-908e-df3a4e1aedc9",
+    "name": "Budget Section Government Operations Division",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b40f2559-d9ae-41c2-b539-bd9c673cd90d",
+      "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/budget-section-government-operations-division"
+  },
+  {
+    "id": "ocd-organization/d940c60d-2455-40a5-ad07-0f10d0957047",
+    "name": "Budget Section Human Resources Division",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/budget-section-human-resources-division"
+  },
+  {
+    "id": "ocd-organization/b6a86f8b-0b75-4259-b93a-69fc5a0657cf",
+    "name": "Budget Section Leadership Division",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+      "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/budget-section-leadership-division"
+  },
+  {
+    "id": "ocd-organization/35198918-92de-4825-8a01-0d83bb112ff8",
+    "name": "Budget Section Regulatory Division",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/5d387655-8234-48d2-a1dd-dd2f4a83ca6f",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/budget-section-regulatory-division"
+  },
+  {
+    "id": "ocd-organization/22ceb2e0-093b-4afd-b2cf-32b2ff0c4701",
+    "name": "Child Custody Review Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",
+      "ocd-person/1db300de-726b-44fc-b3fe-f4c918a55ea1",
+      "ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/child-custody-review-task-force"
+  },
+  {
+    "id": "ocd-organization/b248b26b-973e-40b2-a1dd-56188e070b69",
+    "name": "Committee on Committees",
+    "chamber": "house",
+    "members": [
+      "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/committees"
+  },
+  {
+    "id": "ocd-organization/bb607ca3-35bb-46e1-891f-e4aa3a11a5f6",
+    "name": "Committee on Committees",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/committees"
+  },
+  {
+    "id": "ocd-organization/76f9c463-6913-4dc7-a2b4-a6866655f5f7",
+    "name": "Correction and Revision of the Journal",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+      "ocd-person/7c99cb12-9158-4ddc-8bff-8ecca64cc8fa",
+      "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/correction-and-revision-journal"
+  },
+  {
+    "id": "ocd-organization/f43aa12d-2cfe-4277-b83b-eec176ba534a",
+    "name": "Correction and Revision of the Journal",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e",
+      "ocd-person/f1041f2b-2e6e-41b0-9313-9767f7c03dbe",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/correction-and-revision-journal"
+  },
+  {
+    "id": "ocd-organization/3ae00ec9-7ac5-4f7f-a616-ff40749cc1d6",
+    "name": "Delayed Bills",
+    "chamber": "house",
+    "members": [
+      "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/delayed-bills"
+  },
+  {
+    "id": "ocd-organization/0f8168e3-14d3-4b66-b742-528814c2e958",
+    "name": "Delayed Bills",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/3b75961c-1c9e-4150-84ee-965ffb59fafa",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/delayed-bills"
+  },
+  {
+    "id": "ocd-organization/6262b27f-cd1d-431f-a150-bf61334dd253",
+    "name": "Education",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/7c99cb12-9158-4ddc-8bff-8ecca64cc8fa",
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669",
+      "ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322",
+      "ocd-person/27436563-29f4-4508-be92-0adf91ea442a",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/a8e7843d-466a-4112-9238-707dbbac2696",
+      "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63",
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+      "ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/education-committee"
+  },
+  {
+    "id": "ocd-organization/bf8ad6f6-8338-4fa1-82f4-abb83cd90ee1",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84",
+      "ocd-person/6fbb2691-956f-4427-8927-66309b08ed68",
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/6c9076a0-42ad-4045-81da-7f463d0e57b5",
+      "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+      "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+      "ocd-person/bf1ee8a5-edf3-44c5-82bf-6be1beecd989",
+      "ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/27436563-29f4-4508-be92-0adf91ea442a",
+      "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567",
+      "ocd-person/3bf442fa-fe42-48c3-b10a-6e94bc20e23d"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/education"
+  },
+  {
+    "id": "ocd-organization/d1f95f99-16a8-4a50-b74d-0a7873354fba",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e",
+      "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/17f0bfb4-083b-460d-9b3f-483079df42c6",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/education"
+  },
+  {
+    "id": "ocd-organization/e34f54e9-413c-40f1-837b-a639dd10ed22",
+    "name": "Emergency Response Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d9517a29-cf58-4538-953f-715eee39db16",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+      "ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c",
+      "ocd-person/5938951d-3c45-4913-8612-aa70ba790f88",
+      "ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd",
+      "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
+      "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+      "ocd-person/6c9671e4-274f-41cd-b1ba-d6b2dd55ba5e",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3",
+      "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84",
+      "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/emergency-response-services-committee"
+  },
+  {
+    "id": "ocd-organization/c38eda6a-c3ed-422f-b010-668ec390471d",
+    "name": "Employee Benefits Programs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b",
+      "ocd-person/230e88ef-7b8d-4229-b121-c1df2328c78a",
+      "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df",
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/3e2f8712-9190-4c2d-887a-7e479e27dd81",
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/a7fba7c3-b0ee-4b95-976e-4b38c0b8fa53",
+      "ocd-person/a9b3e13f-b522-4383-b775-45afc7636520",
+      "ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/interim/employee-benefits-programs-committee"
+  },
+  {
+    "id": "ocd-organization/91d28613-bb32-4c09-839a-c871f35dbb5d",
+    "name": "Employment",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/employment"
+  },
+  {
+    "id": "ocd-organization/65c72c8b-5376-4861-9c6e-6302a1880079",
+    "name": "Employment",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/employment"
+  },
+  {
+    "id": "ocd-organization/05fc8282-f975-4d6e-81d1-062330f9f0ec",
+    "name": "Energy and Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08",
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/65381298-5fe3-49d8-9739-8678016f8383",
+      "ocd-person/6fbb2691-956f-4427-8927-66309b08ed68",
+      "ocd-person/7b99ceee-cc27-4b30-96f9-b29845bacdf8",
+      "ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd",
+      "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
+      "ocd-person/230e88ef-7b8d-4229-b121-c1df2328c78a",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/energy-and-natural-resources"
+  },
+  {
+    "id": "ocd-organization/51e9035f-b05c-49e9-98bb-b50f4225101e",
+    "name": "Energy and Natural Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c",
+      "ocd-person/6c9671e4-274f-41cd-b1ba-d6b2dd55ba5e",
+      "ocd-person/4d0233df-e907-42eb-9682-fa31578f52b7",
+      "ocd-person/17f0bfb4-083b-460d-9b3f-483079df42c6",
+      "ocd-person/61200f69-4501-4cfb-a9cf-a37e86d6604c",
+      "ocd-person/157a41fd-5329-42f2-a5c7-d0cc81336f07",
+      "ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/energy-and-natural-resources"
+  },
+  {
+    "id": "ocd-organization/8ca1614a-53ef-4a75-9a9d-e9847e233d5f",
+    "name": "Energy Development and Transmission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/f1041f2b-2e6e-41b0-9313-9767f7c03dbe",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/7b99ceee-cc27-4b30-96f9-b29845bacdf8",
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/4d0233df-e907-42eb-9682-fa31578f52b7",
+      "ocd-person/65381298-5fe3-49d8-9739-8678016f8383",
+      "ocd-person/a7b8cf9d-a22f-479f-ad25-07bd47aab2ba",
+      "ocd-person/6c9671e4-274f-41cd-b1ba-d6b2dd55ba5e",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/61200f69-4501-4cfb-a9cf-a37e86d6604c",
+      "ocd-person/157a41fd-5329-42f2-a5c7-d0cc81336f07",
+      "ocd-person/52538b14-697a-4632-854b-badf925cbfe6",
+      "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84",
+      "ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1",
+      "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/energy-development-and-transmission-committee"
+  },
+  {
+    "id": "ocd-organization/9b6cf2b5-0c81-4858-8b74-c92998e3f05b",
+    "name": "Finance and Taxation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd",
+      "ocd-person/7b99ceee-cc27-4b30-96f9-b29845bacdf8",
+      "ocd-person/4e998af9-35f0-457c-8f37-b2fdaa914dbd",
+      "ocd-person/65381298-5fe3-49d8-9739-8678016f8383",
+      "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
+      "ocd-person/d9517a29-cf58-4538-953f-715eee39db16",
+      "ocd-person/a8e7843d-466a-4112-9238-707dbbac2696",
+      "ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f",
+      "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08",
+      "ocd-person/573043a9-0df8-41f8-a3e3-18a72c38aac6",
+      "ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/finance-and-taxation"
+  },
+  {
+    "id": "ocd-organization/f0189a66-d429-48c5-974e-9b411a8db494",
+    "name": "Finance and Taxation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/450cf40c-eb15-4f0d-843f-3a3e071d54fc",
+      "ocd-person/cc65fd55-6d87-4ef9-95ff-b98592bebc8f",
+      "ocd-person/43e25c66-8935-4938-8634-b8666bfdb876",
+      "ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c",
+      "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b",
+      "ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/finance-and-taxation"
+  },
+  {
+    "id": "ocd-organization/924b152f-c42f-4968-8f24-c8d8119b3090",
+    "name": "Government and Veterans Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df",
+      "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/f503a00c-951e-43c6-a5e5-8aff9bda4a6a",
+      "ocd-person/7c99cb12-9158-4ddc-8bff-8ecca64cc8fa",
+      "ocd-person/3e2f8712-9190-4c2d-887a-7e479e27dd81",
+      "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3",
+      "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+      "ocd-person/a7fba7c3-b0ee-4b95-976e-4b38c0b8fa53",
+      "ocd-person/f1c4c314-4fe7-4aa1-b243-d075dce4444d",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+      "ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5",
+      "ocd-person/1e04adce-2d55-4b2a-bf7b-8a2977cd05f9",
+      "ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/government-and-veterans-affairs"
+  },
+  {
+    "id": "ocd-organization/c635f073-b625-4121-a1f7-4d40c45f1eec",
+    "name": "Government Finance",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/7b99ceee-cc27-4b30-96f9-b29845bacdf8",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/43e25c66-8935-4938-8634-b8666bfdb876",
+      "ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd",
+      "ocd-person/62c94736-93a5-43a9-af8d-5a37b65159c6",
+      "ocd-person/93c8011d-d8c2-4e7e-80ee-3b1cab991039",
+      "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
+      "ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669",
+      "ocd-person/d9517a29-cf58-4538-953f-715eee39db16",
+      "ocd-person/17f0bfb4-083b-460d-9b3f-483079df42c6",
+      "ocd-person/ed4f6720-01ed-42c3-9e33-8fa6ca237b49",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567",
+      "ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004",
+      "ocd-person/573043a9-0df8-41f8-a3e3-18a72c38aac6",
+      "ocd-person/6408b9c3-3e70-4e47-a2c1-d31c11012f4c"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/government-finance-committee"
+  },
+  {
+    "id": "ocd-organization/d30deb95-1b73-42c1-95cd-d70eb35b8600",
+    "name": "Health Care",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/4d0233df-e907-42eb-9682-fa31578f52b7",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a",
+      "ocd-person/3e2f8712-9190-4c2d-887a-7e479e27dd81",
+      "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3",
+      "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+      "ocd-person/a9b3e13f-b522-4383-b775-45afc7636520",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/health-care-committee"
+  },
+  {
+    "id": "ocd-organization/bfaa8063-44c7-4e9b-bd57-b846822c44c4",
+    "name": "Higher Education Funding Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/higher-education-funding-review-committee"
+  },
+  {
+    "id": "ocd-organization/fcaa3445-b82b-494e-ac4d-e074f34b7792",
+    "name": "Higher Education Institutions",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
+      "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/a7fba7c3-b0ee-4b95-976e-4b38c0b8fa53",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/higher-education-institutions-committee"
+  },
+  {
+    "id": "ocd-organization/7ee3e4ec-2c6a-4a74-ab6d-5b6a0ff1def6",
+    "name": "Human Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/fadbd16b-e02e-4448-889b-1072b7308710",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
+      "ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a",
+      "ocd-person/d0cd1bbe-d84e-49d8-bb5e-1ada10cf187d",
+      "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/be77ffd0-b287-4585-8409-5189885d180a",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b",
+      "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+      "ocd-person/1a0c2ca8-e9ab-4698-a75b-4f40e65a413d"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/human-services-committee"
+  },
+  {
+    "id": "ocd-organization/a987107d-30c4-4745-87f8-61d5fe0048fe",
+    "name": "Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
+      "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+      "ocd-person/5938951d-3c45-4913-8612-aa70ba790f88",
+      "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
+      "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+      "ocd-person/fadbd16b-e02e-4448-889b-1072b7308710",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
+      "ocd-person/d0cd1bbe-d84e-49d8-bb5e-1ada10cf187d",
+      "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+      "ocd-person/be77ffd0-b287-4585-8409-5189885d180a",
+      "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+      "ocd-person/1a0c2ca8-e9ab-4698-a75b-4f40e65a413d"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/human-services"
+  },
+  {
+    "id": "ocd-organization/b864749a-5352-4c79-9a37-9ed3b959bbc0",
+    "name": "Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a",
+      "ocd-person/f1041f2b-2e6e-41b0-9313-9767f7c03dbe",
+      "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",
+      "ocd-person/4d0233df-e907-42eb-9682-fa31578f52b7",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/human-services"
+  },
+  {
+    "id": "ocd-organization/23913924-47da-4af9-8bee-c18948f245ca",
+    "name": "Industry and Business",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669",
+      "ocd-person/61200f69-4501-4cfb-a9cf-a37e86d6604c",
+      "ocd-person/6c9671e4-274f-41cd-b1ba-d6b2dd55ba5e",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/157a41fd-5329-42f2-a5c7-d0cc81336f07"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/industry-and-business"
+  },
+  {
+    "id": "ocd-organization/c96f10a3-569a-45bd-8fee-b85f26f5cf3d",
+    "name": "Industry, Business and Labor",
+    "chamber": "house",
+    "members": [
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/230e88ef-7b8d-4229-b121-c1df2328c78a",
+      "ocd-person/a9b3e13f-b522-4383-b775-45afc7636520",
+      "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df",
+      "ocd-person/9335be7e-11ff-4577-af89-e61195143354",
+      "ocd-person/7c99cb12-9158-4ddc-8bff-8ecca64cc8fa",
+      "ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381",
+      "ocd-person/bd6e2ebb-5fc3-4a04-9def-d9e581c39783",
+      "ocd-person/af2974f4-4889-4ea5-9cfd-93d68e2d39a2",
+      "ocd-person/3e2f8712-9190-4c2d-887a-7e479e27dd81",
+      "ocd-person/a7fba7c3-b0ee-4b95-976e-4b38c0b8fa53",
+      "ocd-person/bf09d70e-a605-43f0-bcca-57ece9c06214",
+      "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63",
+      "ocd-person/1e04adce-2d55-4b2a-bf7b-8a2977cd05f9"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/industry-business-and-labor"
+  },
+  {
+    "id": "ocd-organization/28ae235b-4edf-45b0-8bf5-5946dd9fd8e0",
+    "name": "Information Technology",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/157a41fd-5329-42f2-a5c7-d0cc81336f07",
+      "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+      "ocd-person/bf1ee8a5-edf3-44c5-82bf-6be1beecd989",
+      "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
+      "ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/information-technology-committee"
+  },
+  {
+    "id": "ocd-organization/f4904adb-529c-437a-b716-f9e2e395bffb",
+    "name": "Judiciary",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5",
+      "ocd-person/3735ca02-1a6a-4f2f-b13b-1a5118d78ae2",
+      "ocd-person/9335be7e-11ff-4577-af89-e61195143354",
+      "ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09",
+      "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+      "ocd-person/cc65fd55-6d87-4ef9-95ff-b98592bebc8f",
+      "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6",
+      "ocd-person/1db300de-726b-44fc-b3fe-f4c918a55ea1",
+      "ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1",
+      "ocd-person/1e04adce-2d55-4b2a-bf7b-8a2977cd05f9"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/judiciary-committee"
+  },
+  {
+    "id": "ocd-organization/d8d14750-2b03-4b28-b865-36aabca90d28",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6",
+      "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3",
+      "ocd-person/9d903288-c374-46e7-8665-d9ba4ba377b5",
+      "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
+      "ocd-person/50e4864c-095a-43a6-9486-3b071e02ca09",
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/f503a00c-951e-43c6-a5e5-8aff9bda4a6a",
+      "ocd-person/47e7d979-3c08-4c17-bd54-d9cb06f31d9e",
+      "ocd-person/56cc14e2-12cc-4d70-b37a-0aa0397bc841",
+      "ocd-person/4c53491d-adf0-4c18-a645-a63667f2c828",
+      "ocd-person/f1c4c314-4fe7-4aa1-b243-d075dce4444d",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+      "ocd-person/1db300de-726b-44fc-b3fe-f4c918a55ea1",
+      "ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/judiciary"
+  },
+  {
+    "id": "ocd-organization/bebe074f-24f0-4e91-b1cc-86d1f21c1b4a",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
+      "ocd-person/983f512c-6f3f-4243-b6c8-b83d9d4f3696",
+      "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322",
+      "ocd-person/bbce3e80-9e27-4dfe-a7db-0c2b3bcc0b94",
+      "ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/judiciary"
+  },
+  {
+    "id": "ocd-organization/973fac53-38d3-4e0c-9b8e-ef5ea34f0533",
+    "name": "Legacy and Budget Stabilization Fund Advisory Board",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/legacy-and-budget-stabilization-fund-advisory-board"
+  },
+  {
+    "id": "ocd-organization/54f8ab62-524f-4cbc-9620-2418560887b6",
+    "name": "Legislative Audit and Fiscal Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+      "ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896",
+      "ocd-person/860892bd-92d1-4a30-a5e6-3b5f2359e9df",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/983f512c-6f3f-4243-b6c8-b83d9d4f3696",
+      "ocd-person/43e25c66-8935-4938-8634-b8666bfdb876",
+      "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",
+      "ocd-person/6c9076a0-42ad-4045-81da-7f463d0e57b5",
+      "ocd-person/230e88ef-7b8d-4229-b121-c1df2328c78a",
+      "ocd-person/ed4f6720-01ed-42c3-9e33-8fa6ca237b49",
+      "ocd-person/f1041f2b-2e6e-41b0-9313-9767f7c03dbe",
+      "ocd-person/a8e7843d-466a-4112-9238-707dbbac2696",
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567",
+      "ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004",
+      "ocd-person/3bf442fa-fe42-48c3-b10a-6e94bc20e23d"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/interim/legislative-audit-and-fiscal-review-committee"
+  },
+  {
+    "id": "ocd-organization/85e36407-4207-4a8b-84e5-248a6e5959db",
+    "name": "Legislative Management",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
+      "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/interim/legislative-management"
+  },
+  {
+    "id": "ocd-organization/9296aedd-9ec3-47d4-afd3-a760438da5f0",
+    "name": "Legislative Procedure and Arrangements",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be",
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/0bae2d8b-4e48-4f31-9e23-9f438ccac477",
+      "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/813e59ee-0d23-43d7-b6a9-82ff79cf8f4f",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/legislative-procedure-and-arrangements-committee"
+  },
+  {
+    "id": "ocd-organization/a4f848d4-a5ad-4f91-a68a-39e16f45bd24",
+    "name": "Legislative Task Force on Government Efficiency",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f",
+      "ocd-person/43e25c66-8935-4938-8634-b8666bfdb876",
+      "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/legislative-task-force-government-efficiency"
+  },
+  {
+    "id": "ocd-organization/8b230898-dca6-4a33-a886-494efc18f47f",
+    "name": "Memorial Resolutions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+      "ocd-person/39e75205-fa1e-45d4-a04a-2ccee0a83a07",
+      "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/6035e38b-ec58-44f7-9b47-7c6672c575f8",
+      "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/be77ffd0-b287-4585-8409-5189885d180a",
+      "ocd-person/e3f46d13-b49b-4fd9-a604-16ad12393a71"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/house/memorial-resolutions"
+  },
+  {
+    "id": "ocd-organization/838a2d6b-57cc-4266-b020-2e3b01a07d0f",
+    "name": "Memorial Resolutions",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",
+      "ocd-person/450cf40c-eb15-4f0d-843f-3a3e071d54fc",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/senate/memorial-resolutions"
+  },
+  {
+    "id": "ocd-organization/b92d2b3c-f050-4145-8ec9-415d21fbf679",
+    "name": "Political Subdivisions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
+      "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+      "ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/be77ffd0-b287-4585-8409-5189885d180a",
+      "ocd-person/27436563-29f4-4508-be92-0adf91ea442a",
+      "ocd-person/a8e7843d-466a-4112-9238-707dbbac2696",
+      "ocd-person/a9b3e13f-b522-4383-b775-45afc7636520",
+      "ocd-person/bf16c102-641d-4296-96c4-eccab1c1d43f",
+      "ocd-person/8fd64fab-cbe4-4ad3-bd63-447cc527e567"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/political-subdivisions"
+  },
+  {
+    "id": "ocd-organization/8b0e879d-0630-4514-acbd-23ce42184ff7",
+    "name": "Protection and Victim Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3f885f7e-14b0-4ee7-b1fd-71ddbd72c539",
+      "ocd-person/61200f69-4501-4cfb-a9cf-a37e86d6604c",
+      "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",
+      "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
+      "ocd-person/3de00ea0-0ad8-4875-8f7f-445b7e67a6d6",
+      "ocd-person/f1c4c314-4fe7-4aa1-b243-d075dce4444d",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+      "ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1",
+      "ocd-person/1e04adce-2d55-4b2a-bf7b-8a2977cd05f9"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/protection-and-victim-services-committee"
+  },
+  {
+    "id": "ocd-organization/39349d4e-4f38-4bbe-87d3-528a2ac987ea",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/57dff80c-9579-411d-a55e-b76846f15fd8",
+      "ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6",
+      "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/rules"
+  },
+  {
+    "id": "ocd-organization/955139f3-28b6-47f8-ab3c-8f40b8443c39",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+      "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/rules"
+  },
+  {
+    "id": "ocd-organization/3ff1682f-f8c2-4b3f-a92a-56c58cac1be9",
+    "name": "Rural Health Transformation",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/9c0f35c1-03de-443e-97bd-5cdf77581897",
+      "ocd-person/7ba931d2-cba2-4913-92fa-f5b0c3a8baf0",
+      "ocd-person/0e57f5ef-a6aa-4019-bce7-da50c23b3a7a",
+      "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",
+      "ocd-person/5938951d-3c45-4913-8612-aa70ba790f88",
+      "ocd-person/4d0233df-e907-42eb-9682-fa31578f52b7",
+      "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
+      "ocd-person/7c89a861-f0cf-402f-97e1-70953440ee36",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/3ef34927-6fe8-4693-a818-20f654ae6b31",
+      "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
+      "ocd-person/fadbd16b-e02e-4448-889b-1072b7308710",
+      "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
+      "ocd-person/9c20611f-bea1-4176-b98f-3b20537e6818",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a",
+      "ocd-person/d0cd1bbe-d84e-49d8-bb5e-1ada10cf187d",
+      "ocd-person/af21927a-d2f9-454d-93fc-04ec9d585b1e",
+      "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063",
+      "ocd-person/f1041f2b-2e6e-41b0-9313-9767f7c03dbe",
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/be77ffd0-b287-4585-8409-5189885d180a",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/1a0c2ca8-e9ab-4698-a75b-4f40e65a413d",
+      "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
+      "ocd-person/29d5158e-c93e-4d69-9da5-70972c26c896",
+      "ocd-person/ee32295a-16ef-45df-b47e-f74ac5f1765b",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/rural-health-transformation-committee"
+  },
+  {
+    "id": "ocd-organization/cc26aab3-0d90-4c22-a103-42a372b75738",
+    "name": "Special Education Funding",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/633a61c8-9424-445f-b844-b0b40fc1781a",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
+      "ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
+      "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
+      "ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/special-education-funding-committee"
+  },
+  {
+    "id": "ocd-organization/3998cbbb-b349-433e-8350-44b8085b8d6e",
+    "name": "State and Local Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
+      "ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322",
+      "ocd-person/43e25c66-8935-4938-8634-b8666bfdb876",
+      "ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669",
+      "ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a",
+      "ocd-person/66b053e6-9766-40f0-8da3-2a40f517d9e1"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/state-and-local-government"
+  },
+  {
+    "id": "ocd-organization/c2acdf80-d42f-4150-b25e-9b6dc880fd7c",
+    "name": "Tax Reform and Relief Advisory",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
+      "ocd-person/573043a9-0df8-41f8-a3e3-18a72c38aac6",
+      "ocd-person/74e50305-a021-46bd-9d0d-dcd872645cfd",
+      "ocd-person/ffc100fb-2fbe-47d1-bfde-a2e4b0acae3c",
+      "ocd-person/cc65fd55-6d87-4ef9-95ff-b98592bebc8f",
+      "ocd-person/95e4c82b-ae91-4bc6-a3f1-14ad9b8758ce",
+      "ocd-person/0b48f460-f41c-4f21-8620-c64728604e4c",
+      "ocd-person/d9517a29-cf58-4538-953f-715eee39db16",
+      "ocd-person/450cf40c-eb15-4f0d-843f-3a3e071d54fc",
+      "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/tax-reform-and-relief-advisory-committee"
+  },
+  {
+    "id": "ocd-organization/32214b90-7e5c-468c-93ca-0eaf959b33f2",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381",
+      "ocd-person/d9517a29-cf58-4538-953f-715eee39db16",
+      "ocd-person/9335be7e-11ff-4577-af89-e61195143354",
+      "ocd-person/47e7d979-3c08-4c17-bd54-d9cb06f31d9e",
+      "ocd-person/6c9076a0-42ad-4045-81da-7f463d0e57b5",
+      "ocd-person/bf1ee8a5-edf3-44c5-82bf-6be1beecd989",
+      "ocd-person/fadbd16b-e02e-4448-889b-1072b7308710",
+      "ocd-person/af2974f4-4889-4ea5-9cfd-93d68e2d39a2",
+      "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
+      "ocd-person/bf09d70e-a605-43f0-bcca-57ece9c06214",
+      "ocd-person/a8e9d4c9-c6fa-41cf-8440-30ba429d4c63",
+      "ocd-person/1db300de-726b-44fc-b3fe-f4c918a55ea1",
+      "ocd-person/3bf442fa-fe42-48c3-b10a-6e94bc20e23d",
+      "ocd-person/573043a9-0df8-41f8-a3e3-18a72c38aac6"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/house/transportation"
+  },
+  {
+    "id": "ocd-organization/e2aa4f65-453a-4b0d-98e2-a19cabe098d9",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",
+      "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
+      "ocd-person/983f512c-6f3f-4243-b6c8-b83d9d4f3696",
+      "ocd-person/cc65fd55-6d87-4ef9-95ff-b98592bebc8f",
+      "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
+      "ocd-person/03924b26-a081-4722-947b-2738200f9063"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/transportation"
+  },
+  {
+    "id": "ocd-organization/a6b2fffc-2887-4182-943f-15c03a9110f9",
+    "name": "Tribal and State Relations",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5938951d-3c45-4913-8612-aa70ba790f88",
+      "ocd-person/f715b93a-dcf7-4a67-b466-10c2cfad8a60",
+      "ocd-person/7c99cb12-9158-4ddc-8bff-8ecca64cc8fa",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/27436563-29f4-4508-be92-0adf91ea442a",
+      "ocd-person/d87ed27e-35a2-4272-aa04-edf0a2893004",
+      "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/tribal-and-state-relations-committee"
+  },
+  {
+    "id": "ocd-organization/4b4f6453-8df6-4cc0-a939-7016e04fbb98",
+    "name": "Water Topics Overview",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6",
+      "ocd-person/17f0bfb4-083b-460d-9b3f-483079df42c6",
+      "ocd-person/a78a22ef-aefe-43ee-a40e-86026b341381",
+      "ocd-person/bd6e2ebb-5fc3-4a04-9def-d9e581c39783",
+      "ocd-person/c141f4ae-fef0-4dfa-8746-81c116e313c1",
+      "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
+      "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
+      "ocd-person/bbce3e80-9e27-4dfe-a7db-0c2b3bcc0b94",
+      "ocd-person/450cf40c-eb15-4f0d-843f-3a3e071d54fc",
+      "ocd-person/11d3d315-2e0d-4824-8ad2-6fd81962c9d1",
+      "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+      "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",
+      "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575",
+      "ocd-person/960f301d-59c2-4047-96ca-8f026c7cc096",
+      "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21",
+      "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
+      "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/water-topics-overview-committee"
+  },
+  {
+    "id": "ocd-organization/64816628-6acf-4552-9c7d-4f59911a9468",
+    "name": "Workforce Development",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
+      "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
+      "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
+      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
+      "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/workforce-development"
+  }
+]

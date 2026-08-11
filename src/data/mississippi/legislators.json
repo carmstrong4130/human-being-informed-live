@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "ocd-person/c012fed5-c753-4a01-9c3c-9924d178c24d",
+    "name": "Albert Butler",
+    "chamber": "senate",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/butler.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/butler.jpg"
+  },
+  {
+    "id": "ocd-person/80fca1ba-017c-4941-990c-a5e2ff34aea0",
+    "name": "Andy Berry",
+    "chamber": "senate",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/berry.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/Berry.jpg"
+  },
+  {
+    "id": "ocd-person/95d25b69-8eb7-44cd-a789-54351e17970c",
+    "name": "Andy Boyd",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/boyd_(37).xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/boyd_(37).jpg"
+  },
+  {
+    "id": "ocd-person/83f9f72e-ec2d-4351-a227-d8a6aec18eed",
+    "name": "Angela Cockerham",
+    "chamber": "house",
+    "party": "I",
+    "district": "96",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/cockerham.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Angela_Cockerham.jpg"
+  },
+  {
+    "id": "ocd-person/4004cf9a-6d23-4323-b158-00f22078d2b4",
+    "name": "Angela Hill",
+    "chamber": "senate",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/hill.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/hill.jpg"
+  },
+  {
+    "id": "ocd-person/74d0c9b2-58a2-41a7-b2a0-582924a45adf",
+    "name": "Angela Turner-Ford",
+    "chamber": "senate",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/turner-ford.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/turner-ford.jpg"
+  },
+  {
+    "id": "ocd-person/5f65f3a3-db2a-4573-a5c8-59b6cc0dbf40",
+    "name": "Bart Williams",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/williams.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/williams.jpg"
+  },
+  {
+    "id": "ocd-person/4b865b47-4811-4437-be08-0f3bf10d461c",
+    "name": "Becky Currie",
+    "chamber": "house",
+    "party": "R",
+    "district": "92",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/currie.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/currie.jpg"
+  },
+  {
+    "id": "ocd-person/ba13036f-790b-4745-b008-eeb74f1c86a1",
+    "name": "Ben Suber",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/suber.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/suber.jpg"
+  },
+  {
+    "id": "ocd-person/27f187c6-8755-4a18-a32a-dd5b5d7831c8",
+    "name": "Beth Waldo",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/waldo.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Beth_Luther_Waldo.jpeg"
+  },
+  {
+    "id": "ocd-person/af66e7a0-2b1a-4fa0-a66c-e6e7a2541cb1",
+    "name": "Bill Kinkade",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/kinkade.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/kinkade.jpg"
+  },
+  {
+    "id": "ocd-person/2fed984f-0f51-40d2-9881-ec16131a6a2f",
+    "name": "Bill Pigott",
+    "chamber": "house",
+    "party": "R",
+    "district": "99",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/pigott.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/pigott.jpg"
+  },
+  {
+    "id": "ocd-person/15f21051-d36c-4a2a-aa96-100bb8cb693b",
+    "name": "Billy Adam Calvert",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/calvert.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/calvert.jpg"
+  },
+  {
+    "id": "ocd-person/b8541474-47fd-4dd2-8576-53b7fe911039",
+    "name": "Bo Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "70",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/brown.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/brown_(70th).jpg"
+  },
+  {
+    "id": "ocd-person/7fe0478b-3777-490c-93cb-20f83baf3d3f",
+    "name": "Bob Evans",
+    "chamber": "house",
+    "party": "D",
+    "district": "91",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/evans_%2891st%29.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/evans_(91st).jpg"
+  },
+  {
+    "id": "ocd-person/487214e9-b0e2-4741-8bd4-a043a1dd19a5",
+    "name": "Brad Mattox",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mattox.xml",
+    "imageUrl": "https://www.supertalk.fm/wp-content/uploads/2023/08/Brad-Mattox-960x540.png.webp"
+  },
+  {
+    "id": "ocd-person/3b2b3cb2-3ef8-400d-b395-6b0895ea7631",
+    "name": "Bradford Blackmon",
+    "chamber": "senate",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/blackmon.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/blackmon.jpg"
+  },
+  {
+    "id": "ocd-person/307ab2ac-eafb-4d68-8e02-1fff040f50e4",
+    "name": "Brent Anderson",
+    "chamber": "house",
+    "party": "R",
+    "district": "122",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/anderson_(122nd).xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/300/crop/best/80182230_img_6905.jpg"
+  },
+  {
+    "id": "ocd-person/222077fd-0e92-4437-a156-59521d7faffa",
+    "name": "Brent Powell",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/powell.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/powell.jpg"
+  },
+  {
+    "id": "ocd-person/77852654-cea4-4555-899c-641494605220",
+    "name": "Brian Rhodes",
+    "chamber": "senate",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/rhodes.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/rhodes.jpeg"
+  },
+  {
+    "id": "ocd-person/7e27e9e0-fe62-4fc0-b8b0-c2ac9c9ce28d",
+    "name": "Brice Wiggins",
+    "chamber": "senate",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/wiggins.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/wiggins.jpg"
+  },
+  {
+    "id": "ocd-person/f275881b-1096-4a6a-a607-b417eae41f2e",
+    "name": "Briggs Hopson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/hopson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/hopson.jpg"
+  },
+  {
+    "id": "ocd-person/0d191683-0d9c-408f-812b-5d986a3030a6",
+    "name": "Bryant Clark",
+    "chamber": "house",
+    "party": "D",
+    "district": "47",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/clark.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/clark.jpg"
+  },
+  {
+    "id": "ocd-person/dcc9906b-9a0a-4503-9128-006317d5ff3f",
+    "name": "Bubba Carpenter",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/carpenter.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/carpenter.jpg"
+  },
+  {
+    "id": "ocd-person/820dcd6c-fdeb-4244-8ceb-7f5ce3048674",
+    "name": "Bubba Tubb",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/tubb.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/tubb.jpg"
+  },
+  {
+    "id": "ocd-person/6e50b530-8c0e-485a-a568-6d40ba83127d",
+    "name": "Carl Mickens",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mickens.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mickens.jpg"
+  },
+  {
+    "id": "ocd-person/7e340127-bea2-48af-95a8-368b99160880",
+    "name": "Carolyn Crawford",
+    "chamber": "house",
+    "party": "R",
+    "district": "121",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/crawford.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/crawford.jpg"
+  },
+  {
+    "id": "ocd-person/7f1357e0-62b5-412c-b121-6cb5a5aced0e",
+    "name": "Casey Eure",
+    "chamber": "house",
+    "party": "R",
+    "district": "116",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/eure.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/eure.jpg"
+  },
+  {
+    "id": "ocd-person/379b9fd9-2da7-4e20-b0ed-4319ead3a1db",
+    "name": "Cedric Burnett",
+    "chamber": "house",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/burnett.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/burnett.jpg"
+  },
+  {
+    "id": "ocd-person/c854a4e7-61d0-4c5e-8623-694a38f0ad20",
+    "name": "Celeste Hurst",
+    "chamber": "house",
+    "party": "R",
+    "district": "75",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hurst.xml",
+    "imageUrl": "https://static.wixstatic.com/media/4b62c6_190e934501654befbc52179bbb3d45b0~mv2.jpeg/v1/fill/w_605,h_713,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4b62c6_190e934501654befbc52179bbb3d45b0~mv2.jpeg"
+  },
+  {
+    "id": "ocd-person/17a5d5bb-d52b-4d53-a6a0-bcaa7c5538d7",
+    "name": "Chad McMahan",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/mcmahan.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/mcmahan.jpg"
+  },
+  {
+    "id": "ocd-person/74ef0a3e-35c9-4729-b6fd-2c07c165864d",
+    "name": "Cheikh Taylor",
+    "chamber": "house",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/taylor.xml",
+    "imageUrl": "http://www.starkvilledailynews.com/sites/default/files/styles/galleria_zoom/public/field/image/TAYLOR%20MUG_0.png?itok=jRnUfeN0"
+  },
+  {
+    "id": "ocd-person/5aa9d603-5bb2-4c1d-9a0b-1baaf91c425d",
+    "name": "Chris Bell",
+    "chamber": "house",
+    "party": "D",
+    "district": "65",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/bell_(65th).xml",
+    "imageUrl": "https://static.votesmart.org/static/canphoto/40229.jpg"
+  },
+  {
+    "id": "ocd-person/20510bb3-edcd-4cb8-a41a-e0114e6215c9",
+    "name": "Chris Johnson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/johnson_(87th).xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/johnson.jpg"
+  },
+  {
+    "id": "ocd-person/4a046f0b-1286-4bb3-aea0-7284adab76fd",
+    "name": "Chuck Blackwell",
+    "chamber": "house",
+    "party": "R",
+    "district": "88",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/blackwell.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/blackwell.jpg"
+  },
+  {
+    "id": "ocd-person/c22d208a-59c7-4e90-bbe0-37b953a00b41",
+    "name": "Chuck Younger",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/younger.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/younger.jpg"
+  },
+  {
+    "id": "ocd-person/0c9a7d35-4b91-42c7-8af2-39b6514c23d8",
+    "name": "Clay Deweese",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/deweese.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/deweese.jpg"
+  },
+  {
+    "id": "ocd-person/bb9ba950-b671-4c41-b851-4a2c86d2059d",
+    "name": "Clay Mansell",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mansell.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Clay_Mansell.jpg"
+  },
+  {
+    "id": "ocd-person/48567f29-ec70-4ff5-bda5-873f2e42933b",
+    "name": "Dan Eubanks",
+    "chamber": "house",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/eubanks.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/eubanks.jpg"
+  },
+  {
+    "id": "ocd-person/22afa0b0-e76a-4ac0-af9a-fa158c55daea",
+    "name": "Dana McLean",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mclean.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mclean.jpg"
+  },
+  {
+    "id": "ocd-person/32153f0b-aa40-4989-9787-e2608c55a87e",
+    "name": "Daniel Sparks",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/sparks.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/sparks.jpg"
+  },
+  {
+    "id": "ocd-person/da9d953d-a95f-4166-9b94-e6c5e5b40c86",
+    "name": "Daryl Porter",
+    "chamber": "house",
+    "party": "D",
+    "district": "98",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/porter.xml",
+    "imageUrl": "https://www.pepperodom.com/wp-content/uploads/2019/05/daryl-porter-683x1024.jpg"
+  },
+  {
+    "id": "ocd-person/c8e4b4c1-6c8f-4b95-9b48-c73997b3f518",
+    "name": "David Blount",
+    "chamber": "senate",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/blount.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/blount.jpg"
+  },
+  {
+    "id": "ocd-person/d1572354-a456-47fa-aa21-58be9884a3bb",
+    "name": "Dean Kirby",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/Kirby.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/kirby.jpg"
+  },
+  {
+    "id": "ocd-person/8c139a04-43ed-48c5-98cc-e2d308efa65b",
+    "name": "Dennis DeBar",
+    "chamber": "senate",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/debar.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/debar.jpg"
+  },
+  {
+    "id": "ocd-person/3ea1bab4-64f2-4ff3-b0a9-e04a8caa3e9f",
+    "name": "Derrick Simmons",
+    "chamber": "senate",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/simmons_(12th).xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/simmons_(12th).jpg"
+  },
+  {
+    "id": "ocd-person/7051aea6-71cf-4c6e-a3f7-5eebe826aa44",
+    "name": "Doc Harris",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/harris.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/harrisdoc.jpg"
+  },
+  {
+    "id": "ocd-person/035cf383-3d6b-401c-955e-2dcc3a95e4a5",
+    "name": "Don Hartness",
+    "chamber": "senate",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/hartness.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/Hartness.jpg"
+  },
+  {
+    "id": "ocd-person/fd1a4542-8537-4af3-90c8-4052be561c66",
+    "name": "Donnie Bell",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/bell_(21st).xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/bell_(21st).jpg"
+  },
+  {
+    "id": "ocd-person/2118023c-ed1d-455f-b3a6-faeefd0e87b5",
+    "name": "Donnie Scoggin",
+    "chamber": "house",
+    "party": "R",
+    "district": "89",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/scoggin.xml",
+    "imageUrl": "http://files.ctctcdn.com/ee25b30f001/08bd0580-a7b2-481a-a9d2-198a61aec56d.jpg"
+  },
+  {
+    "id": "ocd-person/4fa41145-35bf-442b-bdfe-cf54ea53da69",
+    "name": "Earle Banks",
+    "chamber": "house",
+    "party": "D",
+    "district": "67",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/banks.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/banks.jpg"
+  },
+  {
+    "id": "ocd-person/bb2a876e-ca55-46dd-842d-9b89a910848d",
+    "name": "Elliot Burch",
+    "chamber": "house",
+    "party": "R",
+    "district": "105",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/burch.xml",
+    "imageUrl": "https://static.wixstatic.com/media/220c5e_621b140aa59647afa9d2a4370f2a9253~mv2_d_5184_3456_s_4_2.jpg"
+  },
+  {
+    "id": "ocd-person/706088db-555c-4dac-b9c4-ca6574241ca4",
+    "name": "Fabian Nelson",
+    "chamber": "house",
+    "party": "D",
+    "district": "66",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/nelson.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/fnelson.JPG"
+  },
+  {
+    "id": "ocd-person/002bdecd-2374-44d8-8280-e0636c5f4897",
+    "name": "Fred Shanks",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/shanks.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/shanks.jpg"
+  },
+  {
+    "id": "ocd-person/dcae79b5-ddc5-48e8-86c2-54d5c47f0656",
+    "name": "Gary Brumfield",
+    "chamber": "senate",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/brumfield.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/brumfield.png"
+  },
+  {
+    "id": "ocd-person/2fe9c09d-6213-4576-b0e4-6e89330f41bc",
+    "name": "Gene Newman",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/newman.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/newman.jpg"
+  },
+  {
+    "id": "ocd-person/c135a4b0-9620-4eef-b561-2b08beda7289",
+    "name": "Grace Butler-Washington",
+    "chamber": "house",
+    "party": "D",
+    "district": "69",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/butler-washington.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TamarraGraceButlerWashington.png"
+  },
+  {
+    "id": "ocd-person/c38f3e52-9594-4580-a280-bdaa11a33b66",
+    "name": "Greg Haney",
+    "chamber": "house",
+    "party": "R",
+    "district": "118",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/haney.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/haney.jpg"
+  },
+  {
+    "id": "ocd-person/745b9724-e66d-46ec-874a-d658f01b78a6",
+    "name": "Greg Holloway",
+    "chamber": "house",
+    "party": "D",
+    "district": "76",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/holloway.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/holloway.jpg"
+  },
+  {
+    "id": "ocd-person/9b5e1a7c-98cd-448e-9f75-d59a5591f1a4",
+    "name": "Gregory Elliott",
+    "chamber": "house",
+    "party": "D",
+    "district": "82",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/elliott.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/elliott.jpg"
+  },
+  {
+    "id": "ocd-person/4ead62fd-15e5-4662-8f9b-21a8b0fa8ebe",
+    "name": "Hank Zuber",
+    "chamber": "house",
+    "party": "R",
+    "district": "113",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/zuber.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/zuber.jpg"
+  },
+  {
+    "id": "ocd-person/3a2e8f7d-e657-45e2-93d7-2f5e8499ccfd",
+    "name": "Hester Jackson-McCray",
+    "chamber": "house",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mccray.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mccray.jpg"
+  },
+  {
+    "id": "ocd-person/92659a52-eda2-41a1-9300-40ca7fc3a46b",
+    "name": "Hillman Frazier",
+    "chamber": "senate",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/frazier.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/frazier.jpg"
+  },
+  {
+    "id": "ocd-person/717de4df-c8b0-4387-a767-4d37b577f370",
+    "name": "Hob Bryan",
+    "chamber": "senate",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/bryan.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/bryan.jpg"
+  },
+  {
+    "id": "ocd-person/8a829f4e-388e-41c5-bbc6-9e4292ff9539",
+    "name": "Jansen Owen",
+    "chamber": "house",
+    "party": "R",
+    "district": "106",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/owen.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/owen.jpg"
+  },
+  {
+    "id": "ocd-person/c664f98f-0d57-4d32-abf1-a95dcec7fa31",
+    "name": "Jason Barrett",
+    "chamber": "senate",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/barrett.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/barrett.jpg"
+  },
+  {
+    "id": "ocd-person/fa29dc4f-e4cb-45dd-a450-a1911d529801",
+    "name": "Jason White",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/White.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/white.jpg"
+  },
+  {
+    "id": "ocd-person/7674b0fc-99c4-44a7-85ec-7edd5e6e85a0",
+    "name": "Jay McKnight",
+    "chamber": "house",
+    "party": "R",
+    "district": "95",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mcknight.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mcknight.jpg"
+  },
+  {
+    "id": "ocd-person/c5ec6885-a7dc-48f4-a2e4-7aa85397f337",
+    "name": "Jeff Guice",
+    "chamber": "house",
+    "party": "R",
+    "district": "114",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/guice.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/guice.jpg"
+  },
+  {
+    "id": "ocd-person/ffba30ff-86d3-42db-ab94-0028df181da1",
+    "name": "Jeff Hale",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hale.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/hale.jpg"
+  },
+  {
+    "id": "ocd-person/9839c663-7ae3-4437-82d8-c985975309d8",
+    "name": "Jeff Tate",
+    "chamber": "senate",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/tate.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/tate.jpg"
+  },
+  {
+    "id": "ocd-person/73fee1dd-f8c0-40a7-a4f9-e7576b4ecc3f",
+    "name": "Jeffery Harness",
+    "chamber": "house",
+    "party": "D",
+    "district": "85",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/harness.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/harness.jpg"
+  },
+  {
+    "id": "ocd-person/249c4603-1fce-4c28-84be-5fa6fc5420b4",
+    "name": "Jeffrey Hulum",
+    "chamber": "house",
+    "party": "D",
+    "district": "119",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hulum.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/hulum.jpg"
+  },
+  {
+    "id": "ocd-person/29c08356-5e03-4aed-8518-28da6090a14b",
+    "name": "Jeramey Anderson",
+    "chamber": "house",
+    "party": "D",
+    "district": "110",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/anderson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/anderson_(110th).jpg"
+  },
+  {
+    "id": "ocd-person/33ffa85f-af2b-41bc-89ce-3c59341d17ab",
+    "name": "Jeremy England",
+    "chamber": "senate",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/england.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/england.jpg"
+  },
+  {
+    "id": "ocd-person/52d3da6f-c397-4795-9bd8-5a3f17657129",
+    "name": "Jerry Turner",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/turner.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/turner.jpg"
+  },
+  {
+    "id": "ocd-person/922a1ebe-1f17-497b-af99-5f14b6b0f66a",
+    "name": "Jill Ford",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/ford_(73rd).xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/ford_(73rd).jpg"
+  },
+  {
+    "id": "ocd-person/822c7153-6b04-4db2-bec4-b6f9d074fb75",
+    "name": "Jim Estrada",
+    "chamber": "house",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/estrada.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JimEstrada2023.jpeg"
+  },
+  {
+    "id": "ocd-person/af90acc6-0f51-4638-9b7a-51afc5acb0a3",
+    "name": "Jimmy Fondren",
+    "chamber": "house",
+    "party": "R",
+    "district": "111",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/fondren.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jimmy_Fondren.jpg"
+  },
+  {
+    "id": "ocd-person/f4bd4ab9-cb95-4b3e-95cb-68312eda5b16",
+    "name": "Jody Steverson",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/steverson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/steverson.jpg?rand=41826"
+  },
+  {
+    "id": "ocd-person/cc55837a-0a3e-4bcf-8255-b8786fc2b43f",
+    "name": "Joel Carter",
+    "chamber": "senate",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/carter.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/carter.jpg"
+  },
+  {
+    "id": "ocd-person/bc0bd61c-da9a-40db-bf66-a0108b01275e",
+    "name": "Joey Fillingane",
+    "chamber": "senate",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/fillingane.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/fillingane.jpg"
+  },
+  {
+    "id": "ocd-person/622761e7-fba1-4a35-879b-45a6dd021ab0",
+    "name": "Joey Hood",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hood.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/hood.jpg"
+  },
+  {
+    "id": "ocd-person/26c38427-62d3-440b-9253-c3e485fbd8ea",
+    "name": "John Faulkner",
+    "chamber": "house",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/faulkner.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/faulkner.jpg"
+  },
+  {
+    "id": "ocd-person/a432eb59-5656-4869-aedc-832b2206b4a5",
+    "name": "John Hines",
+    "chamber": "house",
+    "party": "D",
+    "district": "50",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hines.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/hines.jpg"
+  },
+  {
+    "id": "ocd-person/6c7089b2-5e2d-4049-9aee-5fd76004af16",
+    "name": "John Read",
+    "chamber": "house",
+    "party": "R",
+    "district": "112",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/read.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/read.jpg"
+  },
+  {
+    "id": "ocd-person/b05ddbc1-7d61-4f78-bbd3-e0f9ea4de84a",
+    "name": "Johnny DuPree",
+    "chamber": "senate",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/dupree.xml",
+    "imageUrl": "https://www.nationalcivicleague.org/wp-content/uploads/2021/11/DuPree.jpg"
+  },
+  {
+    "id": "ocd-person/392af292-07d5-4bfd-9636-fe4257df61b3",
+    "name": "Jonathan McMillan",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mcmillan.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/mcmillan.jpg"
+  },
+  {
+    "id": "ocd-person/13131d55-19a4-49cd-aba9-e8eef7aedb06",
+    "name": "Joseph Thomas",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/thomas.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/thomas.jpg"
+  },
+  {
+    "id": "ocd-person/13163ae5-a55d-4eff-8b23-b9f7df9e354a",
+    "name": "Josh Harkins",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/harkins.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/harkins.jpg"
+  },
+  {
+    "id": "ocd-person/5ad5b396-01a0-40eb-8d4b-0f76f2727406",
+    "name": "Josh Hawkins",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hawkins.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/80182230_83452a1c-4a99-4e85-9c86-d12418dab31b.jpeg"
+  },
+  {
+    "id": "ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb",
+    "name": "Juan Barnett",
+    "chamber": "senate",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/barnett.xml",
+    "imageUrl": "https://static.votesmart.org/static/canphoto/156222.jpg"
+  },
+  {
+    "id": "ocd-person/2289ffac-b812-4f76-89a8-d8e77df4de2c",
+    "name": "Justin Crosby",
+    "chamber": "house",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/crosby.xml",
+    "imageUrl": "https://cdn.mississippitoday.org/wp-content/uploads/2025/07/16124016/IMG_20250627_163819-200x200.jpg"
+  },
+  {
+    "id": "ocd-person/9eae167e-9e7e-4334-a67e-5b686617c71c",
+    "name": "Justin Keen",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/keen.xml",
+    "imageUrl": "https://desotocountynews.com/wp-content/uploads/2023/01/Justin-Keen-800x445.jpg"
+  },
+  {
+    "id": "ocd-person/78171f60-d4f8-470f-85ef-0636656eb0d5",
+    "name": "Justin Pope",
+    "chamber": "senate",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/pope.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/Senate/Pope.jpg"
+  },
+  {
+    "id": "ocd-person/48af55d6-95ef-4e57-9ec3-a566af0ce517",
+    "name": "Justis Gibbs",
+    "chamber": "house",
+    "party": "D",
+    "district": "72",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/gibbs_(72nd).jpg"
+  },
+  {
+    "id": "ocd-person/a1fef221-e3ca-4598-a7f9-cf6862b3007a",
+    "name": "Kabir Karriem",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/karriem.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/karriem.jpg"
+  },
+  {
+    "id": "ocd-person/d0269daa-032c-482b-9faf-1d569a4645a9",
+    "name": "Kamesha Mumford",
+    "chamber": "senate",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/mumford.xml",
+    "imageUrl": "https://i0.wp.com/www.mississippifreepress.org/wp-content/uploads/2025/11/Kamesha-Mumford_courtesy.jpg?w=1200&quality=89&ssl=1"
+  },
+  {
+    "id": "ocd-person/38d590c5-20ff-42d5-b9dd-af77664213cf",
+    "name": "Karl Gibbs",
+    "chamber": "house",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/gibbs.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/gibbs_(36th).jpg"
+  },
+  {
+    "id": "ocd-person/761527db-bbe0-43e5-90e0-2a06528ebfa4",
+    "name": "Karl Oliver",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/oliver.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/oliver.jpg"
+  },
+  {
+    "id": "ocd-person/cc7b9351-ea3c-4436-8cc7-9ec0f34b3e0a",
+    "name": "Kathy Chism",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/chism.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/chism.jpg"
+  },
+  {
+    "id": "ocd-person/0f07445d-ab7a-4c6f-9b3c-a402436afbed",
+    "name": "Keith Jackson",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/jackson_(45th).xml",
+    "imageUrl": "https://www.theclintoncourier.net/wp-content/uploads/2024/03/Statement-by-Attorney-Christopher-A.-Collins-on-Behalf-of-Keith-Jackson.png"
+  },
+  {
+    "id": "ocd-person/da8a0173-20dc-4979-949d-57d902e744e0",
+    "name": "Ken Morgan",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/morgan.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/morgan.jpg"
+  },
+  {
+    "id": "ocd-person/f0fd6950-d890-445b-834e-a635715b75d5",
+    "name": "Kenji Holloway",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/holloway_(27th).xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KenjiHolloway.jpeg"
+  },
+  {
+    "id": "ocd-person/63655fb4-af7a-4b96-95f0-5aa1bd93da62",
+    "name": "Kent McCarty",
+    "chamber": "house",
+    "party": "R",
+    "district": "101",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mccarty.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mccarty.jpg"
+  },
+  {
+    "id": "ocd-person/b58c7115-6f1d-4de3-9327-eef3b6f0c83c",
+    "name": "Kevin Blackwell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/blackwell.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/blackwell.jpg"
+  },
+  {
+    "id": "ocd-person/9967ba62-2eb6-452e-8445-d3422c62a813",
+    "name": "Kevin Felsher",
+    "chamber": "house",
+    "party": "R",
+    "district": "117",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/felsher.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/felsher.jpg"
+  },
+  {
+    "id": "ocd-person/7a9174a7-1301-407a-8c77-5f70e70fde92",
+    "name": "Kevin Ford",
+    "chamber": "house",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/ford.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/ford.jpg"
+  },
+  {
+    "id": "ocd-person/b339d980-af38-4e76-b53c-215c26191cc1",
+    "name": "Kevin Horan",
+    "chamber": "house",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/horan.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/horan.jpg"
+  },
+  {
+    "id": "ocd-person/58bd4b77-f7d6-45bd-bb3e-0386cf36bbf3",
+    "name": "Kimberly Remak",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/remak.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/KimberlyRemak.jpg"
+  },
+  {
+    "id": "ocd-person/f9eedb57-45af-4743-b869-ece1ccb643e2",
+    "name": "Lance Varner",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/varner.xml",
+    "imageUrl": "https://mcgeerealtyservices.com/wp-content/uploads/2020/09/Lances-Headshot-300x400.gif"
+  },
+  {
+    "id": "ocd-person/b273517c-b673-4bf0-a084-b960bc943953",
+    "name": "Lane Taylor",
+    "chamber": "senate",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/taylor.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/taylor.jpg"
+  },
+  {
+    "id": "ocd-person/57419404-003c-4a1d-93c0-dce987b11c00",
+    "name": "Larry Byrd",
+    "chamber": "house",
+    "party": "R",
+    "district": "104",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/byrd.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/byrd.jpg"
+  },
+  {
+    "id": "ocd-person/843ed177-0a3d-4f96-9df2-28ad7333c5a6",
+    "name": "Lataisha Jackson",
+    "chamber": "house",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://billstatus.ls.state.ms.us/2023/pdf/house_authors/jackson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/jackson.jpg"
+  },
+  {
+    "id": "ocd-person/c38da14f-37fd-48fd-9903-e63ce18c1215",
+    "name": "Lawrence Blackmon",
+    "chamber": "house",
+    "party": "D",
+    "district": "57",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/blackmon.xml",
+    "imageUrl": "https://i0.wp.com/www.theindustrycosign.com/wp-content/uploads/2021/11/Lawrence-Blackmon-the-industry-cosign-big-ced.jpg?w=1170&ssl=1"
+  },
+  {
+    "id": "ocd-person/fe627b98-efb2-43b0-a6e5-7ad967c1a2fc",
+    "name": "Lee Yancey",
+    "chamber": "house",
+    "party": "R",
+    "district": "74",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/yancey.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/yancey.jpg"
+  },
+  {
+    "id": "ocd-person/094c0731-4932-4400-ad96-84c83ba1dd59",
+    "name": "Lydia Chassaniol",
+    "chamber": "senate",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/chassaniol.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/chassaniol.jpg"
+  },
+  {
+    "id": "ocd-person/c3ea3d93-cd2d-48f4-babd-a47bbd951108",
+    "name": "Manly Barton",
+    "chamber": "house",
+    "party": "R",
+    "district": "109",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/barton.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/barton.jpg"
+  },
+  {
+    "id": "ocd-person/3439bb59-6632-4653-83e1-031422ad832f",
+    "name": "Mark Tullos",
+    "chamber": "house",
+    "party": "R",
+    "district": "79",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/tullos.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/tullos.jpg"
+  },
+  {
+    "id": "ocd-person/017dec88-1105-454d-b55b-eeb3a3c85b55",
+    "name": "Michael McLendon",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/mclendon.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/mclendon.jpg"
+  },
+  {
+    "id": "ocd-person/70b45762-64ee-4a16-b15a-194e4e3c9bf6",
+    "name": "Mike Seymour",
+    "chamber": "senate",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/seymour.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/seymour.jpg"
+  },
+  {
+    "id": "ocd-person/eaa39996-c8a7-4568-b01e-d7685667227b",
+    "name": "Mike Thompson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/thompson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/thompson.jpg"
+  },
+  {
+    "id": "ocd-person/e645db95-2862-40dd-b548-b84b6f0b5f3f",
+    "name": "Missy McGee",
+    "chamber": "house",
+    "party": "R",
+    "district": "102",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mcgee.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mcgee.jpg"
+  },
+  {
+    "id": "ocd-person/60cdec6e-abad-4d5c-97ca-83da67ed7a67",
+    "name": "Neil Whaley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/whaley.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/whaley.jpg"
+  },
+  {
+    "id": "ocd-person/befe53fc-f95d-49df-93f4-9985e00151e6",
+    "name": "Nicole Boyd",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/boyd.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/boyd.jpg"
+  },
+  {
+    "id": "ocd-person/86dbc7dc-6cd5-4005-b076-9b1bb674e331",
+    "name": "Noah Sanford",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/sanford.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/sanford.jpg"
+  },
+  {
+    "id": "ocd-person/ee6c2cb7-6d0f-4b45-9e06-2ba1dfae8ecb",
+    "name": "Omeria Scott",
+    "chamber": "house",
+    "party": "D",
+    "district": "80",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/scott.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/scott.jpg"
+  },
+  {
+    "id": "ocd-person/5fb7e1d6-24ab-41e1-b0b2-d1445bf6abd3",
+    "name": "Oscar Denton",
+    "chamber": "house",
+    "party": "D",
+    "district": "55",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/denton.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/denton.jpg"
+  },
+  {
+    "id": "ocd-person/c730cb69-8d30-4676-afe8-0fb513f3845f",
+    "name": "Otha Williams",
+    "chamber": "house",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/williams.xml",
+    "imageUrl": "https://magnoliatribune.com/wp-content/uploads/2025/11/Otha-Williams-1024x1024.jpg"
+  },
+  {
+    "id": "ocd-person/d4007757-e112-43b0-8261-1dd806f658c8",
+    "name": "Otis Anthony",
+    "chamber": "house",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/anthony.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/anthony.jpg"
+  },
+  {
+    "id": "ocd-person/7dcb0b5b-3eb3-4db2-8666-0eb83589289f",
+    "name": "Percy Watson",
+    "chamber": "house",
+    "party": "D",
+    "district": "103",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/watson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/watson.jpg"
+  },
+  {
+    "id": "ocd-person/a91418ca-cbde-4a6f-8c9d-889f406c4ed8",
+    "name": "Perry Bailey",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/bailey_(23rd).xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/bailey_(23rd).jpg"
+  },
+  {
+    "id": "ocd-person/7aef9236-de61-47cf-8243-b5a21fcac9dc",
+    "name": "Philman Ladner",
+    "chamber": "senate",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/ladner.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/Ladner.jpg"
+  },
+  {
+    "id": "ocd-person/35bf01bd-be16-4ce6-b07c-bfff3d25e7e3",
+    "name": "Price Wallace",
+    "chamber": "house",
+    "party": "R",
+    "district": "77",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/wallace.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/wallace.jpg"
+  },
+  {
+    "id": "ocd-person/defa75f7-917e-42da-9d2c-403ad80d1995",
+    "name": "Randy Boyd",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/boyd.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/boyd_(19th).jpg"
+  },
+  {
+    "id": "ocd-person/af2a8aef-177c-49d2-9b77-f1f19f7b8eaa",
+    "name": "Randy Rushing",
+    "chamber": "house",
+    "party": "R",
+    "district": "78",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/rushing.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/rushing.jpg"
+  },
+  {
+    "id": "ocd-person/0fde8bcf-e43a-4b39-a9a5-b7869424e2d9",
+    "name": "Reginald Jackson",
+    "chamber": "senate",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/jackson.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/jackson.jpg"
+  },
+  {
+    "id": "ocd-person/4b4c6bbd-fcbb-4c7e-9746-83acffe80898",
+    "name": "Richard Bennett",
+    "chamber": "house",
+    "party": "R",
+    "district": "120",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/bennett.xml",
+    "imageUrl": "https://static.votesmart.org/static/canphoto/69948.jpg"
+  },
+  {
+    "id": "ocd-person/f8b65fd8-7b11-4954-93fd-47a5cbbd53c8",
+    "name": "Rickey Thompson",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/thompson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/thompson.jpg"
+  },
+  {
+    "id": "ocd-person/d618a68e-ed3a-47a5-be24-852af75d9ab3",
+    "name": "Rita Parks",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/parks.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/parks.jpg"
+  },
+  {
+    "id": "ocd-person/e36cdae5-3437-48fc-93b4-280b09af661b",
+    "name": "Rob Roberson",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/roberson.xml",
+    "imageUrl": "https://robrobersonattorney.com/wp-content/uploads/2019/07/Rob-Roberson.jpg"
+  },
+  {
+    "id": "ocd-person/0de22359-9403-4bec-917a-985b26fd45ff",
+    "name": "Robert Johnson",
+    "chamber": "house",
+    "party": "D",
+    "district": "94",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/johnson.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/johnson.jpg"
+  },
+  {
+    "id": "ocd-person/e7684f57-ee0c-48ea-8157-8f04c2b8e685",
+    "name": "Robert Sanders",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/sanders.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/sanders.jpg"
+  },
+  {
+    "id": "ocd-person/eb5bde8b-1497-4a27-9806-128cf68cb00d",
+    "name": "Rod Hickman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/hickman.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/hickman.jpg"
+  },
+  {
+    "id": "ocd-person/6d293363-c72f-479b-81fc-225071ac4913",
+    "name": "Rodney Hall",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hall.xml",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/fee2ce67-1403-487e-b891-587e625ce15c",
+    "name": "Ronnie Crudup",
+    "chamber": "house",
+    "party": "D",
+    "district": "71",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/crudup.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/crudup.jpg"
+  },
+  {
+    "id": "ocd-person/d79acfe3-5991-41ae-b245-f7b7f877febb",
+    "name": "Sam Creekmore",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/creekmore_iv.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/creekmore_iv.jpg"
+  },
+  {
+    "id": "ocd-person/0bf76f2b-9380-45c1-8809-315a682322a3",
+    "name": "Sam Mims",
+    "chamber": "house",
+    "party": "R",
+    "district": "97",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mims.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mims.jpg"
+  },
+  {
+    "id": "ocd-person/f1012c43-9559-4f7a-8b70-8dd9cf88bab1",
+    "name": "Sarita Simmons",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/simmons_(13th).xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/simmons_(13th).jpg"
+  },
+  {
+    "id": "ocd-person/796d8875-e1a2-4274-bdba-2e689d99929c",
+    "name": "Scott Bounds",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/bounds.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/bounds.jpg"
+  },
+  {
+    "id": "ocd-person/8467b994-f651-446b-b77f-0632ff790ff8",
+    "name": "Scott DeLano",
+    "chamber": "senate",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/delano.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/delano.jpg"
+  },
+  {
+    "id": "ocd-person/de5a9a25-1b08-45ba-9aff-e635905498ba",
+    "name": "Shanda Yates",
+    "chamber": "house",
+    "party": "I",
+    "district": "64",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/yates.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/yates.jpg"
+  },
+  {
+    "id": "ocd-person/4a73b9e6-c66b-4022-b380-6caea6b48265",
+    "name": "Shane Aguirre",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/aguirre.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/aguirre.jpg"
+  },
+  {
+    "id": "ocd-person/9b8df60b-26ba-4cdc-b862-87b15f81fdc1",
+    "name": "Shane Barnett",
+    "chamber": "house",
+    "party": "R",
+    "district": "86",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/barnett.xml",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5472abbae4b0859145039552/1519227639852-W83BICPBB7LGL856WGBQ/Shane.jpg?format=500w"
+  },
+  {
+    "id": "ocd-person/4b5fb3d4-b284-4886-bb0b-4c00febb1724",
+    "name": "Sollie Norwood",
+    "chamber": "senate",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/norwood.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/norwood.jpg"
+  },
+  {
+    "id": "ocd-person/23d69b3d-2f17-4fa9-a23c-c9ad8db4f7a9",
+    "name": "Solomon Osborne",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/osborne.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/osborne.jpg"
+  },
+  {
+    "id": "ocd-person/fa44d12a-cb19-426b-94d3-6fb68b4095c8",
+    "name": "Stacey Hobgood-Wilkes",
+    "chamber": "house",
+    "party": "R",
+    "district": "108",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/hobgood-wilkes.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/hobgood-wilkes.jpg"
+  },
+  {
+    "id": "ocd-person/1253bd3e-36dd-4f23-a671-ab24dc4aed12",
+    "name": "Stephanie Foster",
+    "chamber": "house",
+    "party": "D",
+    "district": "63",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/foster.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/foster.jpg"
+  },
+  {
+    "id": "ocd-person/f1e7e5ba-29b7-42e2-bb70-5ab4c7923c77",
+    "name": "Steve Horne",
+    "chamber": "house",
+    "party": "R",
+    "district": "81",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/horne.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/horne.jpg"
+  },
+  {
+    "id": "ocd-person/df77d55d-10c7-4ecb-9ed9-b8f989da339e",
+    "name": "Steve Lott",
+    "chamber": "house",
+    "party": "R",
+    "district": "107",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/lott.xml",
+    "imageUrl": "https://bloximages.chicago2.vip.townnews.com/stonecountyenterprise.com/content/tncms/assets/v3/editorial/2/fa/2faf492e-910b-11ed-8a24-b33c741f2b91/63bd9eedb8c9d.image.jpg"
+  },
+  {
+    "id": "ocd-person/abfa015f-301e-4e17-9917-535bb9079768",
+    "name": "Steve Massengill",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/massengill.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/massengill.jpg"
+  },
+  {
+    "id": "ocd-person/34b84276-9c36-4f69-b015-ba05a1c5ee58",
+    "name": "Theresa Gillespie Isom",
+    "chamber": "senate",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://ballotpedia.org/Theresa_Gillespie_Isom",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/Senate/Gillespie_Isom.jpg"
+  },
+  {
+    "id": "ocd-person/3312edf4-798e-4333-b2c8-4d73f246de01",
+    "name": "Timaka James-Jones",
+    "chamber": "house",
+    "party": "D",
+    "district": "51",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/james-jones.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TimakaJames-Jones2023.jpg"
+  },
+  {
+    "id": "ocd-person/53869ff4-415d-466a-ad71-c13485b83318",
+    "name": "Timmy Ladner",
+    "chamber": "house",
+    "party": "R",
+    "district": "93",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/ladner.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/ladner.jpg"
+  },
+  {
+    "id": "ocd-person/b37913d2-9f6e-4f1c-b6c8-7a19863be463",
+    "name": "Tracey Rosebud",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/rosebud.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/rosebud.jpg"
+  },
+  {
+    "id": "ocd-person/2601640f-867f-480f-83a1-c59c332c0b82",
+    "name": "Tracy Arnold",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/arnold.xml",
+    "imageUrl": "http://da.mdah.ms.gov/series-files/legislature/composites/2016/500/house-of-representatives/2016_2020HousePhotos/Tracy.Arnold.jpg"
+  },
+  {
+    "id": "ocd-person/c655558e-dfac-468a-a633-85f380c538b6",
+    "name": "Trey Lamar",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/lamar.xml",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5660bc77e4b02bc8dd3c055f/1463509030796-7AM0VGR04ZZUTAOF9TQW/image-asset.jpeg?format=500w"
+  },
+  {
+    "id": "ocd-person/5ff548a6-827f-4ab7-a4a5-5b510712f6a2",
+    "name": "Troy Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "84",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/smith.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/smith.jpg"
+  },
+  {
+    "id": "ocd-person/bd335f00-4e41-4972-b8f4-f2249b410614",
+    "name": "Tyler McCaughn",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/mccaughn.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/mccaughn.jpg"
+  },
+  {
+    "id": "ocd-person/c0d8a1af-3036-4aee-89e7-f98cc40203cd",
+    "name": "Vince Mangold",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/mangold.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/mangold.jpg"
+  },
+  {
+    "id": "ocd-person/61c65e25-07c9-445c-8cef-1e6d53cbbfb3",
+    "name": "Walter Michel",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/michel.xml",
+    "imageUrl": "http://billstatus.ls.state.ms.us/members/senate/michel.jpg"
+  },
+  {
+    "id": "ocd-person/bec0f8f6-7f4c-442b-be25-14e2a2c1f5cb",
+    "name": "Willie Bailey",
+    "chamber": "house",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/bailey.xml",
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/bailey_(49th).jpg"
+  },
+  {
+    "id": "ocd-person/b62cfb62-68b6-4804-a1ff-f0259e7513b4",
+    "name": "Zack Grady",
+    "chamber": "house",
+    "party": "R",
+    "district": "115",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/grady.xml",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ZacharyGrady.jpg"
+  },
+  {
+    "id": "ocd-person/56158045-4973-4fd2-9589-01ad212f2975",
+    "name": "Zakiya Summers",
+    "chamber": "house",
+    "party": "D",
+    "district": "68",
+    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/summers.xml",
+    "imageUrl": "https://stateinnovation.org/wp-content/uploads/2021/04/Zakiya-Summers.png"
+  }
+]

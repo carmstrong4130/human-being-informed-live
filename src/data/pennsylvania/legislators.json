@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "ocd-person/844f3ed7-03df-420f-81bd-3f547c12e61e",
+    "name": "Aaron Bernstine",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1742",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1742.jpg"
+  },
+  {
+    "id": "ocd-person/db196239-5fca-4218-82ee-ce1f6cf03ec4",
+    "name": "Abby Major",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1926",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1926.jpg"
+  },
+  {
+    "id": "ocd-person/4bc74848-3896-4a0a-9310-970458f48d1a",
+    "name": "Abigail Salisbury",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2012",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2012.jpg"
+  },
+  {
+    "id": "ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796",
+    "name": "Aerion Abney",
+    "chamber": "house",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1933",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1933.jpg"
+  },
+  {
+    "id": "ocd-person/be809fa5-6ef4-4071-bb94-ed10fb051f69",
+    "name": "Alec Ryncavage",
+    "chamber": "house",
+    "party": "R",
+    "district": "119",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1967",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1967.jpg"
+  },
+  {
+    "id": "ocd-person/77755456-0f2a-4bbd-ac96-03d83398d6fc",
+    "name": "Amanda Cappelletti",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1923",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1923.jpg"
+  },
+  {
+    "id": "ocd-person/a41016aa-660f-4af7-afcd-ef182e544533",
+    "name": "Amen Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1919",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1919.jpg"
+  },
+  {
+    "id": "ocd-person/19dca465-48d8-4b4a-84e2-79ef9797c986",
+    "name": "Ana Tiburcio",
+    "chamber": "house",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2062/rep-tiburcio",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/628312bf-7920-44b7-b226-90c92f92a123",
+    "name": "Andre Carroll",
+    "chamber": "house",
+    "party": "D",
+    "district": "201",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2019/rep-carroll",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/150754.jpg"
+  },
+  {
+    "id": "ocd-person/23f12d9a-928a-445e-abbe-4976cb082809",
+    "name": "Andrea Verobish",
+    "chamber": "house",
+    "party": "R",
+    "district": "79",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2065/rep-verobish",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/0d86d77b-ff68-4182-be53-09ff196b8174",
+    "name": "Andrew Kuzma",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1946",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1946.jpg"
+  },
+  {
+    "id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
+    "name": "Anita Kulik",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1744",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1744.jpg"
+  },
+  {
+    "id": "ocd-person/e00e0f63-7058-46a4-8b63-f31dc804c614",
+    "name": "Ann Flood",
+    "chamber": "house",
+    "party": "R",
+    "district": "138",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1910",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1910.jpg"
+  },
+  {
+    "id": "ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984",
+    "name": "Anthony Bellmon",
+    "chamber": "house",
+    "party": "D",
+    "district": "203",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1984",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1984.jpg"
+  },
+  {
+    "id": "ocd-person/ea712eba-1da5-45e2-8d9f-022e8307a614",
+    "name": "Art Haywood",
+    "chamber": "senate",
+    "party": "D",
+    "district": "4",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1689",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1689.jpg"
+  },
+  {
+    "id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
+    "name": "Arvind Venkat",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1944",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1944.jpg"
+  },
+  {
+    "id": "ocd-person/48c5b966-eef2-456a-8ca0-f47d584e7883",
+    "name": "Barb Gleim",
+    "chamber": "house",
+    "party": "R",
+    "district": "199",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1864",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1864.jpg"
+  },
+  {
+    "id": "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
+    "name": "Ben Sanchez",
+    "chamber": "house",
+    "party": "D",
+    "district": "153",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1849",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1849.jpg"
+  },
+  {
+    "id": "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
+    "name": "Ben Waxman",
+    "chamber": "house",
+    "party": "D",
+    "district": "182",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1981",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1981.jpg"
+  },
+  {
+    "id": "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
+    "name": "Bob Freeman",
+    "chamber": "house",
+    "party": "D",
+    "district": "136",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=136",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/136.jpg"
+  },
+  {
+    "id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "name": "Bob Merski",
+    "chamber": "house",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1822",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1822.jpg"
+  },
+  {
+    "id": "ocd-person/979ea568-4c43-41bd-ba1e-4c2da172bb82",
+    "name": "Brad Roae",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1083",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1083.jpg"
+  },
+  {
+    "id": "ocd-person/9aea39f8-1503-4fea-9440-1e0e9c2f8fa3",
+    "name": "Brandon Markosek",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1825",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1825.jpg"
+  },
+  {
+    "id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
+    "name": "Brenda Pugh",
+    "chamber": "house",
+    "party": "R",
+    "district": "120",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2033/rep-pugh",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVdrj2w84kNrKi7RN0poR6kywKVZcSV7m-g&s"
+  },
+  {
+    "id": "ocd-person/1a6e36d3-ff44-4e21-bb9d-397a56482b34",
+    "name": "Brett Miller",
+    "chamber": "house",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1699",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1699.jpg"
+  },
+  {
+    "id": "ocd-person/0f035e7e-d035-4d8c-bc5b-876ba70452cc",
+    "name": "Brian Munroe",
+    "chamber": "house",
+    "party": "D",
+    "district": "144",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1972",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1972.jpg"
+  },
+  {
+    "id": "ocd-person/7ec5f0f0-0899-4f54-b284-c4c5931c25bc",
+    "name": "Brian Rasel",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2025/rep-rasel",
+    "imageUrl": "https://www.palegis.us/resources/images/members/200/2025.jpg?20241220"
+  },
+  {
+    "id": "ocd-person/ac7d02d3-9bb7-4cc1-8cee-4283094fe604",
+    "name": "Brian Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1902",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1902.jpg"
+  },
+  {
+    "id": "ocd-person/e5149ed2-f2bb-4054-8064-e2331ffaf1c0",
+    "name": "Bridget Malloy Kosierowski",
+    "chamber": "house",
+    "party": "D",
+    "district": "114",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1866",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1866.jpg"
+  },
+  {
+    "id": "ocd-person/fd5d0580-766c-482c-a12f-e4689e0bcf30",
+    "name": "Bryan Cutler",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1105",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1105.jpg"
+  },
+  {
+    "id": "ocd-person/9b9857aa-5fad-4678-a4f9-7e40bc642f64",
+    "name": "Bud Cook",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1745",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1745.jpg"
+  },
+  {
+    "id": "ocd-person/66b8c0a7-f8be-4acd-aafb-29ca02fcde65",
+    "name": "Camera Bartolotta",
+    "chamber": "senate",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1698",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1698.jpg"
+  },
+  {
+    "id": "ocd-person/462fc474-e481-436e-b47a-7bbde2de3e3a",
+    "name": "Carl Metzgar",
+    "chamber": "house",
+    "party": "R",
+    "district": "69",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1174",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1174.jpg"
+  },
+  {
+    "id": "ocd-person/cafbffed-be4d-4e5b-9d99-9aec024675e2",
+    "name": "Carol Hill-Evans",
+    "chamber": "house",
+    "party": "D",
+    "district": "95",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1749",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1749.jpg"
+  },
+  {
+    "id": "ocd-person/05f5a4fa-4a1e-4242-8664-eca508f36a3c",
+    "name": "Carol Kazeem",
+    "chamber": "house",
+    "party": "D",
+    "district": "159",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1976",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1976.jpg"
+  },
+  {
+    "id": "ocd-person/91c58c1d-de9d-471b-8178-f6ef89c1286b",
+    "name": "Carolyn Comitta",
+    "chamber": "senate",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1790",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1790.jpg"
+  },
+  {
+    "id": "ocd-person/d881386d-8aad-45c7-8705-27f3288f20ea",
+    "name": "Catherine Wallen",
+    "chamber": "house",
+    "party": "R",
+    "district": "193",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2064/rep-wallen",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/851902e6-5649-4c0c-948a-57fb9c1dd40d",
+    "name": "Chad Reichard",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2028/rep-reichard",
+    "imageUrl": "https://seventy.org/uploads/attachments/cly5z27ztjodi7xnpsnqhzmfb-screenshot-2024-07-03-at-11-07-37-am.0.29.1038.1099.max.png"
+  },
+  {
+    "id": "ocd-person/d5bd036c-03f5-4111-b770-15cb2dbe3278",
+    "name": "Charity Krupa",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1949",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1949.jpg"
+  },
+  {
+    "id": "ocd-person/965b26f8-5a4a-4458-a327-a25d89605e65",
+    "name": "Chris Gebhard",
+    "chamber": "senate",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1928",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1928.jpg"
+  },
+  {
+    "id": "ocd-person/d83a0679-02c9-469b-89ed-11f9b46166c5",
+    "name": "Chris Pielli",
+    "chamber": "house",
+    "party": "D",
+    "district": "156",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1975",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1975.jpg"
+  },
+  {
+    "id": "ocd-person/e6a8e555-0d65-4a1f-9673-56ad1e3c7855",
+    "name": "Chris Rabb",
+    "chamber": "house",
+    "party": "D",
+    "district": "200",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1760",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1760.jpg"
+  },
+  {
+    "id": "ocd-person/43d9c3c2-aeec-416c-859d-ad90600bbe0e",
+    "name": "Christina Sappey",
+    "chamber": "house",
+    "party": "D",
+    "district": "158",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1852",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1852.jpg"
+  },
+  {
+    "id": "ocd-person/626de4be-b2f3-4a37-bbbc-ede598381d6b",
+    "name": "Clint Owlett",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1796",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1796.jpg"
+  },
+  {
+    "id": "ocd-person/bb324f66-3a5c-4e90-9c75-d142cce81c92",
+    "name": "Craig Staats",
+    "chamber": "house",
+    "party": "R",
+    "district": "145",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1707",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1707.jpg"
+  },
+  {
+    "id": "ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e",
+    "name": "Craig Williams",
+    "chamber": "house",
+    "party": "R",
+    "district": "160",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1916",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1916.jpg"
+  },
+  {
+    "id": "ocd-person/402d7e3b-1935-47fa-8124-61490037d016",
+    "name": "Cris Dush",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1687",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1687.jpg"
+  },
+  {
+    "id": "ocd-person/70d0ff46-746e-47a0-8c5f-cbe73dbf72ce",
+    "name": "Dallas Kephart",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1952",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1952.jpg"
+  },
+  {
+    "id": "ocd-person/2608882d-9ae2-4522-b8b2-83d905913d3f",
+    "name": "Dan Deasy",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1166",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1166.jpg"
+  },
+  {
+    "id": "ocd-person/96667f6d-d967-4f6a-9cd9-23bf480a98c1",
+    "name": "Dan Frankel",
+    "chamber": "house",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=84",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/84.jpg"
+  },
+  {
+    "id": "ocd-person/b42a625f-25e4-4f25-b942-928c8a3e0bb2",
+    "name": "Dan Goughnour",
+    "chamber": "house",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2060/rep-goughnour",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/431a823e-0268-4921-a62d-5f698211e706",
+    "name": "Dan Laughlin",
+    "chamber": "senate",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1766",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1766.jpg"
+  },
+  {
+    "id": "ocd-person/f4071288-fa18-48bb-99f1-41abd60d215e",
+    "name": "Dan Moul",
+    "chamber": "house",
+    "party": "R",
+    "district": "91",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1101",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1101.jpg"
+  },
+  {
+    "id": "ocd-person/8cb5e285-fdd9-4c63-b7c7-480bf9e477e1",
+    "name": "Dan Williams",
+    "chamber": "house",
+    "party": "D",
+    "district": "74",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1837",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1837.jpg"
+  },
+  {
+    "id": "ocd-person/d4de5cc2-b3b9-49a0-9f20-62c6f4f6a052",
+    "name": "Dane Watro",
+    "chamber": "house",
+    "party": "R",
+    "district": "116",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1964",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1964.jpg"
+  },
+  {
+    "id": "ocd-person/6678bcaf-292f-408a-aa36-90ed8bc8fd08",
+    "name": "Danielle Otten",
+    "chamber": "house",
+    "party": "D",
+    "district": "155",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1850",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1850.jpg"
+  },
+  {
+    "id": "ocd-person/a2579707-5a31-4f4b-a9ed-49847d35eae6",
+    "name": "Danilo Burgos",
+    "chamber": "house",
+    "party": "D",
+    "district": "197",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1863",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1863.jpg"
+  },
+  {
+    "id": "ocd-person/943fdd89-fe0a-43f6-8077-82cd252bdeb2",
+    "name": "Darisha Parker",
+    "chamber": "house",
+    "party": "D",
+    "district": "198",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1920",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1920.jpg"
+  },
+  {
+    "id": "ocd-person/2a2df3c1-9ede-46b7-8d73-896b1e317aff",
+    "name": "Dave Argall",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=69",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/69.jpg"
+  },
+  {
+    "id": "ocd-person/c05046a6-87dd-4956-a172-cad035960391",
+    "name": "Dave Delloso",
+    "chamber": "house",
+    "party": "D",
+    "district": "162",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1853",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1853.jpg"
+  },
+  {
+    "id": "ocd-person/4a0c9e5e-07cc-4b4b-a47a-22be60d1623e",
+    "name": "Dave Madsen",
+    "chamber": "house",
+    "party": "D",
+    "district": "104",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1959",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1959.jpg"
+  },
+  {
+    "id": "ocd-person/2fbada46-9c48-4be5-a49f-e1ca0af132ed",
+    "name": "Dave Zimmerman",
+    "chamber": "house",
+    "party": "R",
+    "district": "99",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1711",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1711.jpg"
+  },
+  {
+    "id": "ocd-person/fb4a0115-dd63-4e25-8d36-0ea6afc55faf",
+    "name": "David Maloney",
+    "chamber": "house",
+    "party": "R",
+    "district": "130",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1226",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1226.jpg"
+  },
+  {
+    "id": "ocd-person/c88ccd9a-3378-4284-9dc6-767a4826526e",
+    "name": "David Rowe",
+    "chamber": "house",
+    "party": "R",
+    "district": "85",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1871",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1871.jpg"
+  },
+  {
+    "id": "ocd-person/2a13f9df-b7e6-4281-82e4-f7263b6fa12e",
+    "name": "Dawn Keefer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1748",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1748.jpg"
+  },
+  {
+    "id": "ocd-person/5271803b-8b46-449c-bf89-44f7d09c6cd2",
+    "name": "Devlin Robinson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1924",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1924.jpg"
+  },
+  {
+    "id": "ocd-person/5913495d-53f8-4c39-8507-650cfe51c08b",
+    "name": "Donna Scheuren",
+    "chamber": "house",
+    "party": "R",
+    "district": "147",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1973",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1973.jpg"
+  },
+  {
+    "id": "ocd-person/cda65f80-13e8-463c-88fa-6f5569a599bf",
+    "name": "Doug Mastriano",
+    "chamber": "senate",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1869",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1869.jpg"
+  },
+  {
+    "id": "ocd-person/885e9a2a-c18b-4f68-b5d0-0b867ec3268d",
+    "name": "Doyle Heffley",
+    "chamber": "house",
+    "party": "R",
+    "district": "122",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1211",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1211.jpg"
+  },
+  {
+    "id": "ocd-person/3d3d4070-dadd-4382-9d40-be2892745773",
+    "name": "Ed Neilson",
+    "chamber": "house",
+    "party": "D",
+    "district": "174",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1615",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1615.jpg"
+  },
+  {
+    "id": "ocd-person/c1cb6f95-37c8-4e25-802e-80387e70ad74",
+    "name": "Eddie Pashinski",
+    "chamber": "house",
+    "party": "D",
+    "district": "121",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1112",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1112.jpg"
+  },
+  {
+    "id": "ocd-person/8a2a9b56-cdfa-45e0-a26e-b45b547a2eae",
+    "name": "Elder Vogel",
+    "chamber": "senate",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1189",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1189.jpg"
+  },
+  {
+    "id": "ocd-person/90d95881-f6ae-4b29-af31-31a8821b8a7c",
+    "name": "Elizabeth Fiedler",
+    "chamber": "house",
+    "party": "D",
+    "district": "184",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1861",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1861.jpg"
+  },
+  {
+    "id": "ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c",
+    "name": "Emily Kinkead",
+    "chamber": "house",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1896",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1896.jpg"
+  },
+  {
+    "id": "ocd-person/80abce94-a517-4357-a70d-cbc791aa34a1",
+    "name": "Eric Davanzo",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1875",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1875.jpg"
+  },
+  {
+    "id": "ocd-person/0910d394-3c42-48ee-aea7-6d4c0c144130",
+    "name": "Eric Nelson",
+    "chamber": "house",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1738",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1738.jpg"
+  },
+  {
+    "id": "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
+    "name": "Eric Weaknecht",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2021/rep-weaknecht",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNTmXpiok-J6R_vUlOit1nC52uvUkP1E-Wag&s"
+  },
+  {
+    "id": "ocd-person/a60da669-bae3-4e1d-a241-370a7ad2c769",
+    "name": "Frank Burns",
+    "chamber": "house",
+    "party": "D",
+    "district": "72",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1163",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1163.jpg"
+  },
+  {
+    "id": "ocd-person/611d3c65-f30f-4dde-8f80-7db4ec405a36",
+    "name": "Frank Farry",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1169",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1169.jpg"
+  },
+  {
+    "id": "ocd-person/3088ff8e-d2d9-46b9-8ea3-bd35af9438c2",
+    "name": "Gary Day",
+    "chamber": "house",
+    "party": "R",
+    "district": "187",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1190",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1190.jpg"
+  },
+  {
+    "id": "ocd-person/18127660-d04e-43c2-b931-084f0c87142c",
+    "name": "Gene Yaw",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1186",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1186.jpg"
+  },
+  {
+    "id": "ocd-person/3beadda2-daa5-4006-a2eb-32f9d9abdc71",
+    "name": "George Margetas",
+    "chamber": "house",
+    "party": "R",
+    "district": "196",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2066/rep-margetas",
+    "imageUrl": "https://votemargetas.com/wp-content/uploads/2025/09/George-Margetas-Portrait-Bio-5.jpg"
+  },
+  {
+    "id": "ocd-person/4c88ce64-4ba6-4f5e-a22f-86bf6a0d5b7f",
+    "name": "Gina Curry",
+    "chamber": "house",
+    "party": "D",
+    "district": "164",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1932",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1932.jpg"
+  },
+  {
+    "id": "ocd-person/3e99b4f3-2efa-4330-b0b9-fb273b1322ea",
+    "name": "Greg Rothman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1733",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1733.jpg"
+  },
+  {
+    "id": "ocd-person/969ce6cb-ddcb-4347-b69d-2019cfbd6e18",
+    "name": "Greg Scott",
+    "chamber": "house",
+    "party": "D",
+    "district": "54",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1950",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1950.jpg"
+  },
+  {
+    "id": "ocd-person/7a1f510f-12e0-4018-b6da-556b404399be",
+    "name": "Greg Vitali",
+    "chamber": "house",
+    "party": "D",
+    "district": "166",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=210",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/210.jpg"
+  },
+  {
+    "id": "ocd-person/d5f1bbaf-5daf-4266-9b18-16042f49db1b",
+    "name": "Heather Boyd",
+    "chamber": "house",
+    "party": "D",
+    "district": "163",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2015",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2015.jpg"
+  },
+  {
+    "id": "ocd-person/fefff26b-b89a-4400-b633-99e5aa09523b",
+    "name": "Izzy Smith-Wade-El",
+    "chamber": "house",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1948",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1948.jpg"
+  },
+  {
+    "id": "ocd-person/abca93cc-5058-473c-93bc-c8e099c7fa20",
+    "name": "Jack Rader",
+    "chamber": "house",
+    "party": "R",
+    "district": "176",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1703",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1703.jpg"
+  },
+  {
+    "id": "ocd-person/fe624f82-e44d-4071-a49f-3a0d4965b7b9",
+    "name": "Jacklyn Rusnock",
+    "chamber": "house",
+    "party": "D",
+    "district": "126",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2034/rep-rusnock",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQN8TGsUPRmCdJJis2P-yzcJsfaJRABStMDA&s"
+  },
+  {
+    "id": "ocd-person/4657c161-af68-44a8-bd60-8b8e88e702d1",
+    "name": "Jake Banta",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1937",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1937.jpg"
+  },
+  {
+    "id": "ocd-person/fea0b7c4-d51a-463f-964a-75722678083b",
+    "name": "James Malone",
+    "chamber": "senate",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.palegis.us/senate/members/bio/2061/sen-malone",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/82938e14-97ce-44f0-942f-5bd2d7c532ba",
+    "name": "Jamie Barton",
+    "chamber": "house",
+    "party": "R",
+    "district": "124",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1968",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1968.jpg"
+  },
+  {
+    "id": "ocd-person/e396f514-a357-404f-bdb9-1ba33d97d0a7",
+    "name": "Jamie Flick",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1954",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1954.jpg"
+  },
+  {
+    "id": "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
+    "name": "Jamie Walsh",
+    "chamber": "house",
+    "party": "R",
+    "district": "117",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2032/rep-walsh",
+    "imageUrl": "https://npr.brightspotcdn.com/dims4/default/eb103d1/2147483647/strip/true/crop/326x342+0+0/resize/880x923!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fed%2F90%2F0e6c8c9a46d28228ce6f3586809d%2Fwalsh.jpg"
+  },
+  {
+    "id": "ocd-person/6b6602c0-8b45-4e1e-89ba-1782da5d67c6",
+    "name": "Jared Solomon",
+    "chamber": "house",
+    "party": "D",
+    "district": "202",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1761",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1761.jpg"
+  },
+  {
+    "id": "ocd-person/ecd51b53-a59b-4b92-b203-c1d24f748cb1",
+    "name": "Jarrett Coleman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=2008",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2008.jpg"
+  },
+  {
+    "id": "ocd-person/4a2176cc-292b-4d19-aff6-8b4c4b460ba0",
+    "name": "Jason Dawkins",
+    "chamber": "house",
+    "party": "D",
+    "district": "179",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1685",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1685.jpg"
+  },
+  {
+    "id": "ocd-person/1871b5c7-35c4-4d32-9e09-9febf8ba3f66",
+    "name": "Jason Ortitay",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1701",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1701.jpg"
+  },
+  {
+    "id": "ocd-person/ee6b52c3-d92c-4cd6-a6ea-6869a8c93df0",
+    "name": "Jay Costa",
+    "chamber": "senate",
+    "party": "D",
+    "district": "43",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=254",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/254.jpg"
+  },
+  {
+    "id": "ocd-person/ddd14a2f-ebef-4918-bf91-578b71c085e4",
+    "name": "Jeanne McNeill",
+    "chamber": "house",
+    "party": "D",
+    "district": "133",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1793",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1793.jpg"
+  },
+  {
+    "id": "ocd-person/08211014-af0e-4d71-92a7-e0045ba8062a",
+    "name": "Jeff Olsommer",
+    "chamber": "house",
+    "party": "R",
+    "district": "139",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2018",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jeff_Olsommer.jpeg"
+  },
+  {
+    "id": "ocd-person/65b852b7-0c73-487d-aaf4-2b6648fa6383",
+    "name": "Jen Mazzocco",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2063/rep-mazzocco",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/7c8e87fe-1c8e-4736-a03c-35cf729b80e9",
+    "name": "Jenn O'Mara",
+    "chamber": "house",
+    "party": "D",
+    "district": "165",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1855",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1855.jpg"
+  },
+  {
+    "id": "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
+    "name": "Jeremy Shaffer",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2023/rep-shaffer",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSorGMaPu0r-cmKNo0wUJlamXWmBuybfdPUA&s"
+  },
+  {
+    "id": "ocd-person/865dbfc4-e6ec-400e-bd5c-257f9a947519",
+    "name": "Jesse Topper",
+    "chamber": "house",
+    "party": "R",
+    "district": "78",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1681",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1681.jpg"
+  },
+  {
+    "id": "ocd-person/8b6409e9-8ab6-4222-b6f3-fb8f33800c95",
+    "name": "Jessica Benham",
+    "chamber": "house",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1899",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1899.jpg"
+  },
+  {
+    "id": "ocd-person/6ae972c8-aff3-4886-a7d7-bd2cc5e40a38",
+    "name": "Jill Cooper",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1951",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1951.jpg"
+  },
+  {
+    "id": "ocd-person/3b91abb8-4b49-4fa2-85ed-beea4919bccc",
+    "name": "Jim Haddock",
+    "chamber": "house",
+    "party": "D",
+    "district": "118",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1966",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1966.jpg"
+  },
+  {
+    "id": "ocd-person/3c3cd25a-658f-4aab-a648-ef2509469c34",
+    "name": "Jim Prokopiak",
+    "chamber": "house",
+    "party": "D",
+    "district": "140",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2017",
+    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/139571.jpg"
+  },
+  {
+    "id": "ocd-person/343e541b-fbd3-4622-bf42-7843494b1714",
+    "name": "Jim Rigby",
+    "chamber": "house",
+    "party": "R",
+    "district": "71",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1836",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1836.jpg"
+  },
+  {
+    "id": "ocd-person/4a24dcc2-5619-4bb1-acb3-bf7a7d08e6b1",
+    "name": "Jim Struzzi",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1835",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1835.jpg"
+  },
+  {
+    "id": "ocd-person/1951ae06-881a-4c43-9635-224878c3ecb5",
+    "name": "Joanna McClinton",
+    "chamber": "house",
+    "party": "D",
+    "district": "191",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1734",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1734.jpg"
+  },
+  {
+    "id": "ocd-person/6e7b8baa-4fa3-404e-b8f8-bab3077221b7",
+    "name": "Joanne Stehr",
+    "chamber": "house",
+    "party": "R",
+    "district": "107",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1961",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1961.jpg"
+  },
+  {
+    "id": "ocd-person/c9521d0e-56ca-40d2-b9bc-7a1f1be639bc",
+    "name": "Joe Ciresi",
+    "chamber": "house",
+    "party": "D",
+    "district": "146",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1847",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1847.jpg"
+  },
+  {
+    "id": "ocd-person/b698d343-137d-423b-a102-c471f1fd1768",
+    "name": "Joe D'Orsie",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1947",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1947.jpg"
+  },
+  {
+    "id": "ocd-person/0e873ea0-c8a2-4fbb-a408-de0c5bd36de9",
+    "name": "Joe Emrick",
+    "chamber": "house",
+    "party": "R",
+    "district": "137",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1207",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1207.jpg"
+  },
+  {
+    "id": "ocd-person/acc00fca-50e5-46f7-8676-d502ecfc94ac",
+    "name": "Joe Hamm",
+    "chamber": "house",
+    "party": "R",
+    "district": "84",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1904",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1904.jpg"
+  },
+  {
+    "id": "ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212",
+    "name": "Joe Hogan",
+    "chamber": "house",
+    "party": "R",
+    "district": "142",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1971",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1971.jpg"
+  },
+  {
+    "id": "ocd-person/99728978-f905-406c-8b52-f2912f374602",
+    "name": "Joe Hohenstein",
+    "chamber": "house",
+    "party": "D",
+    "district": "177",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1858",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1858.jpg"
+  },
+  {
+    "id": "ocd-person/8a7494a6-3d82-432b-a5c2-6dc46d192611",
+    "name": "Joe Kerwin",
+    "chamber": "house",
+    "party": "R",
+    "district": "125",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1907",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1907.jpg"
+  },
+  {
+    "id": "ocd-person/d31e549e-2c3d-4ea3-850b-5285955c3c2f",
+    "name": "Joe McAndrew",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2011",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2011.jpg"
+  },
+  {
+    "id": "ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d",
+    "name": "Joe Picozzi",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.palegis.us/senate/members/bio/2036/sen-picozzi",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Abdullah_Muzammil_20240808_100242.png"
+  },
+  {
+    "id": "ocd-person/722f324f-db47-4ce2-9cbc-93f29ae38158",
+    "name": "Joe Pittman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1870",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1870.jpg"
+  },
+  {
+    "id": "ocd-person/676410b6-c3aa-4c17-856f-7d896e6fbc83",
+    "name": "Joe Webster",
+    "chamber": "house",
+    "party": "D",
+    "district": "150",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1848",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1848.jpg"
+  },
+  {
+    "id": "ocd-person/8d5ab463-45d5-4cf0-9c65-85820c08e506",
+    "name": "Johanny Cepeda-Freytiz",
+    "chamber": "house",
+    "party": "D",
+    "district": "129",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1969",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1969.jpg"
+  },
+  {
+    "id": "ocd-person/0b0beeaf-a1b0-4049-95cb-4ad5a3952336",
+    "name": "John Inglis",
+    "chamber": "house",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2024/rep-inglis",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JohnInglis2024.jpg"
+  },
+  {
+    "id": "ocd-person/c45052c1-f3e4-485e-a3d2-f346fa51839b",
+    "name": "John Kane",
+    "chamber": "senate",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1925",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1925.jpg"
+  },
+  {
+    "id": "ocd-person/8c1966e4-80f4-4a98-bf55-b1de0b9705b3",
+    "name": "John Lawrence",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1215",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1215.jpg"
+  },
+  {
+    "id": "ocd-person/b6a10f6b-3f2e-42df-adf9-7184222af2c2",
+    "name": "John Schlegel",
+    "chamber": "house",
+    "party": "R",
+    "district": "101",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1958",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1958.jpg"
+  },
+  {
+    "id": "ocd-person/23a2b079-dc91-49b0-b08e-f3ae80fba11f",
+    "name": "Jonathan Fritz",
+    "chamber": "house",
+    "party": "R",
+    "district": "111",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1752",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1752.jpg"
+  },
+  {
+    "id": "ocd-person/2313ce98-7ac4-44b9-a61d-5b128338a405",
+    "name": "Jordan Harris",
+    "chamber": "house",
+    "party": "D",
+    "district": "186",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1633",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1633.jpg"
+  },
+  {
+    "id": "ocd-person/d390f1ac-1f16-478a-9e0d-462c9ed79818",
+    "name": "Jos\\xE9 Giral",
+    "chamber": "house",
+    "party": "D",
+    "district": "180",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1980",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1980.jpg"
+  },
+  {
+    "id": "ocd-person/2062ecc5-049f-44c4-83bf-850a34b75531",
+    "name": "Josh Bashline",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2026/rep-bashline",
+    "imageUrl": "https://www.exploreclarion.com/wp-content/uploads/sites/2/2024/02/Josh-Bashline-Enters-Race-for-63rd-State-House-District.jpg"
+  },
+  {
+    "id": "ocd-person/fbb14b8a-8940-4679-9ed8-3ec48096a3a2",
+    "name": "Josh Kail",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1823",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1823.jpg"
+  },
+  {
+    "id": "ocd-person/35362d6e-d00a-4cf1-806d-b4f2f2a55f72",
+    "name": "Judy Schwank",
+    "chamber": "senate",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1234",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1234.jpg"
+  },
+  {
+    "id": "ocd-person/b6ed7151-9ea4-4828-b639-785f9e358eb1",
+    "name": "Judy Ward",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1683",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1683.jpg"
+  },
+  {
+    "id": "ocd-person/98b96b05-81eb-4871-a81b-2e03c0b92267",
+    "name": "Justin Fleming",
+    "chamber": "house",
+    "party": "D",
+    "district": "105",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1960",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1960.jpg"
+  },
+  {
+    "id": "ocd-person/26925ace-f614-409d-80a2-9b6a42e7ddb5",
+    "name": "K.C. Tomlinson",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1876",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1876.jpg"
+  },
+  {
+    "id": "ocd-person/08283fbe-18bc-4daf-972c-617d1e35d746",
+    "name": "Kate Klunk",
+    "chamber": "house",
+    "party": "R",
+    "district": "169",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1694",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1694.jpg"
+  },
+  {
+    "id": "ocd-person/36348b5e-47fe-404a-b6c3-99359115846c",
+    "name": "Kathy Rapp",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1028",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1028.jpg"
+  },
+  {
+    "id": "ocd-person/ade3ef98-a98c-4448-a974-ec4e0eede98f",
+    "name": "Katie Muth",
+    "chamber": "senate",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1802",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1802.jpg"
+  },
+  {
+    "id": "ocd-person/dcd0037e-7833-416d-9523-5f25802bd43a",
+    "name": "Keith Greiner",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1632",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1632.jpg"
+  },
+  {
+    "id": "ocd-person/99c32bc9-33c2-4394-94e6-2f9d0ff43133",
+    "name": "Keith Harris",
+    "chamber": "house",
+    "party": "D",
+    "district": "195",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2020/rep-kharris",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/150757.jpg"
+  },
+  {
+    "id": "ocd-person/5a5a7a42-bc5e-4a07-aee1-d1a01e810385",
+    "name": "Kerry Benninghoff",
+    "chamber": "house",
+    "party": "R",
+    "district": "171",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=215",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/215.jpg"
+  },
+  {
+    "id": "ocd-person/c48a0179-5770-410d-ba97-bdbc05d20786",
+    "name": "Kim Ward",
+    "chamber": "senate",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1188",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1188.jpg"
+  },
+  {
+    "id": "ocd-person/f1c8d8ab-0220-4b1e-96d0-6e0ae0b6df87",
+    "name": "Kristin Marcell",
+    "chamber": "house",
+    "party": "R",
+    "district": "178",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1979",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1979.jpg"
+  },
+  {
+    "id": "ocd-person/cb724e4a-0e5e-4ebd-ac0c-f3dfda73aef6",
+    "name": "Kristin Phillips-Hill",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1801",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1801.jpg"
+  },
+  {
+    "id": "ocd-person/f451e90b-e93a-4768-a294-67d1ff000396",
+    "name": "Kristine Howard",
+    "chamber": "house",
+    "party": "D",
+    "district": "167",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1856",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1856.jpg"
+  },
+  {
+    "id": "ocd-person/009be4f2-d613-4353-8126-6b5642d868bc",
+    "name": "Kyle Donahue",
+    "chamber": "house",
+    "party": "D",
+    "district": "113",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1963",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1963.jpg"
+  },
+  {
+    "id": "ocd-person/625784c9-4cd0-417c-9c44-1acd53b34307",
+    "name": "Kyle Mullins",
+    "chamber": "house",
+    "party": "D",
+    "district": "112",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1844",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1844.jpg"
+  },
+  {
+    "id": "ocd-person/526967db-cef3-4f64-a380-1377f5c6f1fe",
+    "name": "La'Tasha Mayes",
+    "chamber": "house",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1941",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1941.jpg"
+  },
+  {
+    "id": "ocd-person/8187ecb2-3e4b-4ba0-819e-a7cfb4b9ac93",
+    "name": "Leanne Krueger",
+    "chamber": "house",
+    "party": "D",
+    "district": "161",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1735",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1735.jpg"
+  },
+  {
+    "id": "ocd-person/b29f8685-d054-4c6c-a8ad-d64f80bd840f",
+    "name": "Lee James",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1634",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1634.jpg"
+  },
+  {
+    "id": "ocd-person/71bb086e-11d9-496d-b274-91d7a8b85eaf",
+    "name": "Leslie Rossi",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1927",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1927.jpg"
+  },
+  {
+    "id": "ocd-person/b7c8d063-8db4-4cdf-a159-a0b064b7cae5",
+    "name": "Lindsay Powell",
+    "chamber": "house",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2016",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2016.jpg"
+  },
+  {
+    "id": "ocd-person/bc64322a-faaf-4b33-b6c2-cf5059f4121c",
+    "name": "Lindsey Williams",
+    "chamber": "senate",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1803",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1803.jpg"
+  },
+  {
+    "id": "ocd-person/aa421a2c-4203-45b7-9766-8826c02a659d",
+    "name": "Lisa Baker",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1077",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1077.jpg"
+  },
+  {
+    "id": "ocd-person/d927a6f9-9878-4375-ac7d-9996e8968c9d",
+    "name": "Lisa Borowski",
+    "chamber": "house",
+    "party": "D",
+    "district": "168",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1977",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1977.jpg"
+  },
+  {
+    "id": "ocd-person/de81d407-bc84-48e6-9796-4a56be984cbd",
+    "name": "Lisa Boscola",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=179",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/179.jpg"
+  },
+  {
+    "id": "ocd-person/0aa9e1d6-4552-4ad4-b660-e2f3cc17b7dd",
+    "name": "Liz Hanbidge",
+    "chamber": "house",
+    "party": "D",
+    "district": "61",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1834",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1834.jpg"
+  },
+  {
+    "id": "ocd-person/02117eb4-a7b3-4095-831b-1857910660fb",
+    "name": "Lynda Culver",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1202",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1202.jpg"
+  },
+  {
+    "id": "ocd-person/96711736-a47d-4bd6-bcc3-92297ec01516",
+    "name": "Malcolm Kenyatta",
+    "chamber": "house",
+    "party": "D",
+    "district": "181",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1860",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1860.jpg"
+  },
+  {
+    "id": "ocd-person/63f8d7ea-b621-48b7-a326-4e2a732a521c",
+    "name": "Mandy Steele",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1945",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1945.jpg"
+  },
+  {
+    "id": "ocd-person/d26c016b-27e5-4171-849b-94773178023d",
+    "name": "Manny Guzman",
+    "chamber": "house",
+    "party": "D",
+    "district": "127",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1908",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1908.jpg"
+  },
+  {
+    "id": "ocd-person/8d16f666-803c-4946-8adc-32f1e80d79d9",
+    "name": "Marc Anderson",
+    "chamber": "house",
+    "party": "R",
+    "district": "92",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2029/rep-anderson",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Marc_Anderson_20241007_034013.jpeg"
+  },
+  {
+    "id": "ocd-person/dc7a449c-43cf-4522-b2a3-efb4707907c4",
+    "name": "Marci Mustello",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1868",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1868.jpg"
+  },
+  {
+    "id": "ocd-person/323c52e8-f841-4a0b-a49e-91103949fbc8",
+    "name": "Maria Collett",
+    "chamber": "senate",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1799",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1799.jpg"
+  },
+  {
+    "id": "ocd-person/cd92c819-d5aa-4df3-ba96-2315dbdf4555",
+    "name": "Mark Gillen",
+    "chamber": "house",
+    "party": "R",
+    "district": "128",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1209",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1209.jpg"
+  },
+  {
+    "id": "ocd-person/68e26db9-10ba-414b-9d06-440dd1fd3f10",
+    "name": "Marla Brown",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1938",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1938.jpg"
+  },
+  {
+    "id": "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
+    "name": "Martina White",
+    "chamber": "house",
+    "party": "R",
+    "district": "170",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1732",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1732.jpg"
+  },
+  {
+    "id": "ocd-person/171af8ac-41e0-4047-be38-654cc912053b",
+    "name": "Marty Causer",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=982",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/982.jpg"
+  },
+  {
+    "id": "ocd-person/7061c75d-7eeb-40aa-841e-8121edba5d8a",
+    "name": "Marty Flynn",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1626",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1626.jpg"
+  },
+  {
+    "id": "ocd-person/ac9d319c-4df3-489a-890e-f7daba8c4bda",
+    "name": "Mary Isaacson",
+    "chamber": "house",
+    "party": "D",
+    "district": "175",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1857",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1857.jpg"
+  },
+  {
+    "id": "ocd-person/2b9c199b-dd4e-477a-a5d0-849180c956a0",
+    "name": "Mary Jo Daley",
+    "chamber": "house",
+    "party": "D",
+    "district": "148",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1622",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1622.jpg"
+  },
+  {
+    "id": "ocd-person/a15da78b-2475-4606-854f-7477dfc4233d",
+    "name": "Matt Bradford",
+    "chamber": "house",
+    "party": "D",
+    "district": "70",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1161",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1161.jpg"
+  },
+  {
+    "id": "ocd-person/8ec333cd-97c4-4f5a-92de-13bf8cbc0020",
+    "name": "Maureen Madden",
+    "chamber": "house",
+    "party": "D",
+    "district": "115",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1753",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1753.jpg"
+  },
+  {
+    "id": "ocd-person/2cb7688e-e8ea-431e-9f56-34ee9a9a3ecc",
+    "name": "Melissa Shusterman",
+    "chamber": "house",
+    "party": "D",
+    "district": "157",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1851",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1851.jpg"
+  },
+  {
+    "id": "ocd-person/ef4ff98e-baba-4655-b24f-66ec5933fcb0",
+    "name": "Michael Stender",
+    "chamber": "house",
+    "party": "R",
+    "district": "108",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=2014",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2014.jpg"
+  },
+  {
+    "id": "ocd-person/406baa79-8352-4fa4-a1fa-70cc55e34406",
+    "name": "Michele Brooks",
+    "chamber": "senate",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1087",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1087.jpg"
+  },
+  {
+    "id": "ocd-person/32c83f92-2bcc-4c2f-bcd0-8b367af29e28",
+    "name": "Mike Armanini",
+    "chamber": "house",
+    "party": "R",
+    "district": "75",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1903",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1903.jpg"
+  },
+  {
+    "id": "ocd-person/ce5d2c01-e29c-4eac-b06b-208d8c302dff",
+    "name": "Mike Jones",
+    "chamber": "house",
+    "party": "R",
+    "district": "93",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1842",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1842.jpg"
+  },
+  {
+    "id": "ocd-person/fc1f0752-9166-4d7f-987a-ec15b8bf4048",
+    "name": "Mike Schlossberg",
+    "chamber": "house",
+    "party": "D",
+    "district": "132",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1649",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1649.jpg"
+  },
+  {
+    "id": "ocd-person/b4559406-2139-4c7c-9ce9-7a2a604a8a95",
+    "name": "Milou Mackenzie",
+    "chamber": "house",
+    "party": "R",
+    "district": "131",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1909",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1909.jpg"
+  },
+  {
+    "id": "ocd-person/f5b2ec4d-1d69-483a-a6ec-143d50ad395b",
+    "name": "Mindy Fee",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1625",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1625.jpg"
+  },
+  {
+    "id": "ocd-person/610a353c-8973-48ea-a4d4-dac21efc3422",
+    "name": "Missy Cerrato",
+    "chamber": "house",
+    "party": "D",
+    "district": "151",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1974",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1974.jpg"
+  },
+  {
+    "id": "ocd-person/05326e52-202a-46cd-bbbe-cc8d01d9a44b",
+    "name": "Morgan Cephas",
+    "chamber": "house",
+    "party": "D",
+    "district": "192",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1759",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1759.jpg"
+  },
+  {
+    "id": "ocd-person/d18ccbd7-270a-46c2-8bbd-a19ea82d0e51",
+    "name": "Nancy Guenst",
+    "chamber": "house",
+    "party": "D",
+    "district": "152",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1913",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1913.jpg"
+  },
+  {
+    "id": "ocd-person/94e57e39-e58d-4374-9506-ece1a01e0ebd",
+    "name": "Napoleon Nelson",
+    "chamber": "house",
+    "party": "D",
+    "district": "154",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1914",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1914.jpg"
+  },
+  {
+    "id": "ocd-person/c5e053dd-a874-4a51-a071-661a20db33ab",
+    "name": "Natalie Mihalek",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1830",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1830.jpg"
+  },
+  {
+    "id": "ocd-person/c7f76970-11d0-483e-81b4-b4750220932c",
+    "name": "Nate Davidson",
+    "chamber": "house",
+    "party": "D",
+    "district": "103",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2031/rep-davidson",
+    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/133354.jpg"
+  },
+  {
+    "id": "ocd-person/a160699d-cc7d-4ed7-b486-57008ee0e642",
+    "name": "Nick Miller",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=2009",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/2009.jpg"
+  },
+  {
+    "id": "ocd-person/c9f6833a-470e-480f-b3ad-d91c887aa4f9",
+    "name": "Nick Pisciottano",
+    "chamber": "senate",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1900",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1900.jpg"
+  },
+  {
+    "id": "ocd-person/6f172bc8-50b0-4dd3-aed6-b5fd48b70eeb",
+    "name": "Nikil Saval",
+    "chamber": "senate",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1921",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1921.jpg"
+  },
+  {
+    "id": "ocd-person/5df981dc-0f0f-498e-8e0e-72cfa5410b2a",
+    "name": "Nikki Rivera",
+    "chamber": "house",
+    "party": "D",
+    "district": "96",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2030/rep-rivera",
+    "imageUrl": "https://static.wixstatic.com/media/ac23d4_f90c7e4f91684d28939b38f61d2cd0ae~mv2.jpg/v1/fill/w_640,h_554,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/ac23d4_f90c7e4f91684d28939b38f61d2cd0ae~mv2.jpg"
+  },
+  {
+    "id": "ocd-person/8f7a2783-e165-4bf2-aead-113d98dd7dd2",
+    "name": "Parke Wentling",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1709",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1709.jpg"
+  },
+  {
+    "id": "ocd-person/36e7e815-87a3-4c58-baae-71f210e48114",
+    "name": "Pat Gallagher",
+    "chamber": "house",
+    "party": "D",
+    "district": "173",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1978",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1978.jpg"
+  },
+  {
+    "id": "ocd-person/c4a1a8f4-cb29-4700-8235-b103fcb40279",
+    "name": "Pat Harkins",
+    "chamber": "house",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1081",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1081.jpg"
+  },
+  {
+    "id": "ocd-person/14106428-709f-4018-8881-5c31ee078ff8",
+    "name": "Pat Stefano",
+    "chamber": "senate",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1697",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1697.jpg"
+  },
+  {
+    "id": "ocd-person/b5ff17d0-36e8-4f29-8c9b-e51bb9b3ea29",
+    "name": "Patty Kim",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1636",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1636.jpg"
+  },
+  {
+    "id": "ocd-person/494797a5-3d84-414a-9c8c-caaadd621cdd",
+    "name": "Paul Friel",
+    "chamber": "house",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1942",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1942.jpg"
+  },
+  {
+    "id": "ocd-person/dd35ae63-5dee-4f87-b64e-65907b8adaba",
+    "name": "Paul Takac",
+    "chamber": "house",
+    "party": "D",
+    "district": "82",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1953",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1953.jpg"
+  },
+  {
+    "id": "ocd-person/eb33e206-fb08-40bc-8b9b-1d9a72fcb8fc",
+    "name": "Perry Stambaugh",
+    "chamber": "house",
+    "party": "R",
+    "district": "86",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1905",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1905.jpg"
+  },
+  {
+    "id": "ocd-person/e2bc8bc4-33ab-46dd-8f67-da218949efb6",
+    "name": "Perry Warren",
+    "chamber": "house",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1743",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1743.jpg"
+  },
+  {
+    "id": "ocd-person/63936c68-ec65-40a9-9a68-0d956939404a",
+    "name": "Pete Schweyer",
+    "chamber": "house",
+    "party": "D",
+    "district": "134",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1706",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1706.jpg"
+  },
+  {
+    "id": "ocd-person/a737f4d4-5b45-469b-8d51-98c7aa78183a",
+    "name": "Regina Young",
+    "chamber": "house",
+    "party": "D",
+    "district": "185",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1917",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1917.jpg"
+  },
+  {
+    "id": "ocd-person/ff2471f3-f3ff-4a46-8ca7-be5094f0dfdc",
+    "name": "Rich Irvin",
+    "chamber": "house",
+    "party": "R",
+    "district": "81",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1691",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1691.jpg"
+  },
+  {
+    "id": "ocd-person/42ffbed1-2284-4018-a60f-b5bfa3f35833",
+    "name": "Rick Krajewski",
+    "chamber": "house",
+    "party": "D",
+    "district": "188",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1918",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1918.jpg"
+  },
+  {
+    "id": "ocd-person/17e1e676-8e83-4883-8cf5-4c8ddcce076e",
+    "name": "Rob Kauffman",
+    "chamber": "house",
+    "party": "R",
+    "district": "89",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1022",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1022.jpg"
+  },
+  {
+    "id": "ocd-person/a7b2e50f-90a6-4f35-b1fb-c33406dc4277",
+    "name": "Rob Matzie",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1173",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1173.jpg"
+  },
+  {
+    "id": "ocd-person/1d775faf-9231-420a-b62e-979bb6a1fc78",
+    "name": "Robert Leadbeter",
+    "chamber": "house",
+    "party": "R",
+    "district": "109",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1962",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1962.jpg"
+  },
+  {
+    "id": "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
+    "name": "Roman Kozak",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2022/rep-kozak",
+    "imageUrl": "https://www.beavercountygop.com/wp-content/uploads/RK.jpg"
+  },
+  {
+    "id": "ocd-person/c3ad9b17-c8f5-450e-9aaa-f002e1414bd5",
+    "name": "Roni Green",
+    "chamber": "house",
+    "party": "D",
+    "district": "190",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1874",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1874.jpg"
+  },
+  {
+    "id": "ocd-person/3e2840e6-f904-43be-911e-235b906458a5",
+    "name": "Rosemary Brown",
+    "chamber": "senate",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1200",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1200.jpg"
+  },
+  {
+    "id": "ocd-person/5348e28d-bbbe-493f-8f77-a509cb315abe",
+    "name": "Russ Diamond",
+    "chamber": "house",
+    "party": "R",
+    "district": "102",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1686",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1686.jpg"
+  },
+  {
+    "id": "ocd-person/32370423-acb8-4a8e-8336-67af5ed32bb9",
+    "name": "Ryan Bizzarro",
+    "chamber": "house",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1619",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1619.jpg"
+  },
+  {
+    "id": "ocd-person/0d747b7a-0a5a-42cf-8bb6-1eb0fa69090f",
+    "name": "Ryan Warner",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1708",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1708.jpg"
+  },
+  {
+    "id": "ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415",
+    "name": "Scott Barger",
+    "chamber": "house",
+    "party": "R",
+    "district": "80",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2027/rep-barger",
+    "imageUrl": "https://ogden_images.s3.amazonaws.com/www.altoonamirror.com/images/2023/02/06211342/Scott-barger-561x840.jpg"
+  },
+  {
+    "id": "ocd-person/97b012cd-5cd7-4039-a9ae-fed936aabe37",
+    "name": "Scott Conklin",
+    "chamber": "house",
+    "party": "D",
+    "district": "77",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1096",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1096.jpg"
+  },
+  {
+    "id": "ocd-person/5d3e2203-b11c-4471-8f35-5106c30263ec",
+    "name": "Scott Hutchinson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1629",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1629.jpg"
+  },
+  {
+    "id": "ocd-person/c2fcd2dc-22f8-4ec2-b70a-439bc6d60802",
+    "name": "Scott Martin",
+    "chamber": "senate",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1763",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1763.jpg"
+  },
+  {
+    "id": "ocd-person/d8624d56-a38e-4918-98ac-d7795569ad06",
+    "name": "Sean Dougherty",
+    "chamber": "house",
+    "party": "D",
+    "district": "172",
+    "bioUrl": "https://www.palegis.us/house/members/bio/2035/rep-dougherty",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqcsfeSV2Emc5tJreNLOLeI1PEIX1XE82Hw&s"
+  },
+  {
+    "id": "ocd-person/b0d20b05-428a-4e3a-bda1-bbba5c3cfd6a",
+    "name": "Sharif Street",
+    "chamber": "senate",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1767",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1767.jpg"
+  },
+  {
+    "id": "ocd-person/7c0b9792-8ece-4ae8-b0f3-f5d4b79ff9f1",
+    "name": "Shelby Labs",
+    "chamber": "house",
+    "party": "R",
+    "district": "143",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1911",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1911.jpg"
+  },
+  {
+    "id": "ocd-person/9e4954ab-971c-4620-9f9d-ebb68311e3f1",
+    "name": "Sheryl Delozier",
+    "chamber": "house",
+    "party": "R",
+    "district": "88",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1167",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1167.jpg"
+  },
+  {
+    "id": "ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a",
+    "name": "Stephanie Borowicz",
+    "chamber": "house",
+    "party": "R",
+    "district": "76",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1838",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1838.jpg"
+  },
+  {
+    "id": "ocd-person/fa1e1564-0a13-4b26-8416-098b39627df7",
+    "name": "Steve Malagari",
+    "chamber": "house",
+    "party": "D",
+    "district": "53",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1832",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1832.jpg"
+  },
+  {
+    "id": "ocd-person/4463dd94-6a9d-41bd-830f-0d03e192f896",
+    "name": "Steve Mentzer",
+    "chamber": "house",
+    "party": "R",
+    "district": "97",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1642",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1642.jpg"
+  },
+  {
+    "id": "ocd-person/34472dfb-dae9-4db4-8901-088457d74904",
+    "name": "Steve Samuelson",
+    "chamber": "house",
+    "party": "D",
+    "district": "135",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=80",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/80.jpg"
+  },
+  {
+    "id": "ocd-person/91f290d0-3405-4091-bb16-822a97f45af5",
+    "name": "Steve Santarsiero",
+    "chamber": "senate",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1179",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1179.jpg"
+  },
+  {
+    "id": "ocd-person/8caab7df-f601-45f0-9be5-35d94175e766",
+    "name": "Tarah Probst",
+    "chamber": "house",
+    "party": "D",
+    "district": "189",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1982",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1982.jpg"
+  },
+  {
+    "id": "ocd-person/6fa30029-d933-4f6d-b0fb-343a0c82772c",
+    "name": "Tarik Khan",
+    "chamber": "house",
+    "party": "D",
+    "district": "194",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1983",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1983.jpg"
+  },
+  {
+    "id": "ocd-person/932682ef-c7da-4383-8c50-58879fba0ca6",
+    "name": "Thomas Kutz",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1955",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1955.jpg"
+  },
+  {
+    "id": "ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29",
+    "name": "Tim Bonner",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1877",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1877.jpg"
+  },
+  {
+    "id": "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
+    "name": "Tim Brennan",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1943",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1943.jpg"
+  },
+  {
+    "id": "ocd-person/5c752a95-ba5d-4f1f-81aa-6cb1c7875581",
+    "name": "Tim Briggs",
+    "chamber": "house",
+    "party": "D",
+    "district": "149",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1159",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1159.jpg"
+  },
+  {
+    "id": "ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f",
+    "name": "Tim Kearney",
+    "chamber": "senate",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1800",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1800.jpg"
+  },
+  {
+    "id": "ocd-person/2c5551d6-71a8-4099-b1a4-a30721320869",
+    "name": "Tim O'Neal",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1797",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1797.jpg"
+  },
+  {
+    "id": "ocd-person/686cdc9c-8133-4c1b-a7f0-34b420884559",
+    "name": "Tim Twardzik",
+    "chamber": "house",
+    "party": "R",
+    "district": "123",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1906",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1906.jpg"
+  },
+  {
+    "id": "ocd-person/f9a1f1ab-9538-424c-87f1-65e2a4f4bfc7",
+    "name": "Tina Davis",
+    "chamber": "house",
+    "party": "D",
+    "district": "141",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1204",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1204.jpg"
+  },
+  {
+    "id": "ocd-person/8e174923-d514-4240-b6cd-cbb7927410ba",
+    "name": "Tina Pickett",
+    "chamber": "house",
+    "party": "R",
+    "district": "110",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=97",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/97.jpg"
+  },
+  {
+    "id": "ocd-person/f3b4fe8c-05f9-4610-81ef-354c0fcb0cdd",
+    "name": "Tina Tartaglione",
+    "chamber": "senate",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=277",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/277.jpg"
+  },
+  {
+    "id": "ocd-person/7f6b3c0e-4446-4243-ae49-d2d33ab30273",
+    "name": "Tom Jones",
+    "chamber": "house",
+    "party": "R",
+    "district": "98",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1957",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1957.jpg"
+  },
+  {
+    "id": "ocd-person/bda0ab75-036f-49bd-9dd5-cfc9c55eec02",
+    "name": "Tom Mehaffie",
+    "chamber": "house",
+    "party": "R",
+    "district": "106",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1751",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1751.jpg"
+  },
+  {
+    "id": "ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de",
+    "name": "Tony Williams",
+    "chamber": "senate",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=153",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/153.jpg"
+  },
+  {
+    "id": "ocd-person/d9ad47a6-7e74-45f2-93a5-1b7e40ad36db",
+    "name": "Tracy Pennycuick",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1912",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1912.jpg"
+  },
+  {
+    "id": "ocd-person/590df273-5587-46bd-98dc-f3943cd1ddd8",
+    "name": "Valerie Gaydos",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1831",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1831.jpg"
+  },
+  {
+    "id": "ocd-person/53a598e0-3595-4b19-8f65-4a538bdc7a74",
+    "name": "Vincent Hughes",
+    "chamber": "senate",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=152",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/152.jpg"
+  },
+  {
+    "id": "ocd-person/b93e4f38-764f-4e95-bd51-4d40dba0aaa4",
+    "name": "Wayne Fontana",
+    "chamber": "senate",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1041",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1041.jpg"
+  },
+  {
+    "id": "ocd-person/7b3a6244-335b-4407-957d-b7d6b6ab1d97",
+    "name": "Wayne Langerholc",
+    "chamber": "senate",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/Senate_bio.cfm?id=1764",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1764.jpg"
+  },
+  {
+    "id": "ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08",
+    "name": "Wendy Fink",
+    "chamber": "house",
+    "party": "R",
+    "district": "94",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1956",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1956.jpg"
+  },
+  {
+    "id": "ocd-person/c3b27985-614c-434d-b3c0-3e032fad4d6c",
+    "name": "Zach Mako",
+    "chamber": "house",
+    "party": "R",
+    "district": "183",
+    "bioUrl": "https://www.legis.state.pa.us/cfdocs/legis/home/member_information/House_bio.cfm?id=1758",
+    "imageUrl": "https://www.palegis.us/resources/images/members/300/1758.jpg"
+  }
+]

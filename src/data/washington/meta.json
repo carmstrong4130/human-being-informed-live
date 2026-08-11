@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "session": {
+    "id": null,
+    "label": "",
+    "convenes": null,
+    "inSession": false,
+    "next": null
+  },
+  "counts": {
+    "legislators": 147,
+    "committees": 50,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Washington State Legislature",
+    "url": "https://www.leg.wa.gov"
+  },
+  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+}

@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "ocd-person/c29c02a4-8429-4846-bc19-817f545f3935",
+    "name": "Adam Zabner",
+    "chamber": "house",
+    "party": "D",
+    "district": "90",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33993",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33993"
+  },
+  {
+    "id": "ocd-person/9788064e-fad9-4130-9084-69e829884d9c",
+    "name": "Adrian Dickey",
+    "chamber": "senate",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=31094",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=31094"
+  },
+  {
+    "id": "ocd-person/e0883366-eaba-4dc1-9a66-4c35cb1d0290",
+    "name": "Aime Wichtendahl",
+    "chamber": "house",
+    "party": "D",
+    "district": "80",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37390",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37390"
+  },
+  {
+    "id": "ocd-person/0ed1d7f1-1471-4055-b674-582bf19c28b3",
+    "name": "Amy Nielsen",
+    "chamber": "house",
+    "party": "D",
+    "district": "85",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=18050",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18050"
+  },
+  {
+    "id": "ocd-person/8e969687-4903-4f3c-a76f-2e35a2232d09",
+    "name": "Amy Sinclair",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10729",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10729"
+  },
+  {
+    "id": "ocd-person/17e291e9-2484-4e94-a99f-0c12d6269349",
+    "name": "Angel Ramirez",
+    "chamber": "house",
+    "party": "D",
+    "district": "78",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=6145",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6145"
+  },
+  {
+    "id": "ocd-person/f8bf5332-b8b7-4d55-8652-e9b883cae35e",
+    "name": "Ann Meyer",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27019&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27019"
+  },
+  {
+    "id": "ocd-person/79eacd35-8caf-466e-b75f-0d878dcf5221",
+    "name": "Annette Sweeney",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6585",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6585"
+  },
+  {
+    "id": "ocd-person/57925a0b-3010-440d-a012-c8465535c13e",
+    "name": "Art Staed",
+    "chamber": "senate",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10743",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10743"
+  },
+  {
+    "id": "ocd-person/9aa42801-ba2e-4f2e-9448-cf5e6114fba7",
+    "name": "Austin Baeth",
+    "chamber": "house",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33976",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33976"
+  },
+  {
+    "id": "ocd-person/3dea807e-b6b5-4531-a5d6-d51ae8811aca",
+    "name": "Austin Harris",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33971&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33971"
+  },
+  {
+    "id": "ocd-person/5aa1870f-0eb7-4a82-9788-7b159d28a287",
+    "name": "Barb Kniff McCulla",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33977&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33977"
+  },
+  {
+    "id": "ocd-person/5c955d7c-30ce-4930-9d96-588735b89dc2",
+    "name": "Beth Wessel-Kroeschell",
+    "chamber": "house",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=774",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=774&pType=3"
+  },
+  {
+    "id": "ocd-person/c1174a56-68c9-4103-aaee-fa3f1a2b25ca",
+    "name": "Bill Dotzler",
+    "chamber": "senate",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=157",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=157"
+  },
+  {
+    "id": "ocd-person/7ebd4346-a560-458d-b010-3ddd82d1cf38",
+    "name": "Bill Gustoff",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33978&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33978"
+  },
+  {
+    "id": "ocd-person/16d3e647-2d71-4eb0-beb3-1c6e0294fd7d",
+    "name": "Blaine Watkins",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=28966",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=28966"
+  },
+  {
+    "id": "ocd-person/078e02d7-0d26-49f2-9176-8044701e540f",
+    "name": "Bob Henderson",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33964&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33964"
+  },
+  {
+    "id": "ocd-person/bdd055a7-677f-4df3-ba42-72c09d75a2ad",
+    "name": "Bob Kressig",
+    "chamber": "house",
+    "party": "D",
+    "district": "75",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=781",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=781"
+  },
+  {
+    "id": "ocd-person/657c7d2d-2444-4809-93fb-d1701d77f528",
+    "name": "Bobby Kaufmann",
+    "chamber": "house",
+    "party": "R",
+    "district": "82",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=10756&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10756"
+  },
+  {
+    "id": "ocd-person/29efffba-9a8b-473f-a66e-8be5441cbb83",
+    "name": "Brent Siegrist",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=30646&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30646"
+  },
+  {
+    "id": "ocd-person/e34f4bba-5e1f-4e99-8654-d35140a5470b",
+    "name": "Brett Barker",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37386",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37386"
+  },
+  {
+    "id": "ocd-person/e0d66082-fd49-47ff-acd7-2f8106bc9837",
+    "name": "Brian Lohse",
+    "chamber": "house",
+    "party": "R",
+    "district": "45",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=27022",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27022"
+  },
+  {
+    "id": "ocd-person/141dec61-26f0-4155-a86b-9b2179c9546c",
+    "name": "Brian Meyer",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=6377&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6377"
+  },
+  {
+    "id": "ocd-person/942429d9-5b4a-4ad7-8da7-d43eb7828dff",
+    "name": "Brooke Boden",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30648",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30648"
+  },
+  {
+    "id": "ocd-person/97a4ef03-4b50-4fcd-9ebc-3d76482f2150",
+    "name": "Bubba Sorensen",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=27020",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27020"
+  },
+  {
+    "id": "ocd-person/9b68d2a2-ead2-401e-a225-1edae68f6099",
+    "name": "Carrie Koelker",
+    "chamber": "senate",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27001",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27001"
+  },
+  {
+    "id": "ocd-person/e7b268b8-c922-4e66-8327-cc4c49854d5e",
+    "name": "Carter Nordman",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=30647&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30647"
+  },
+  {
+    "id": "ocd-person/96941816-29ce-4c03-ab43-efa1ef2930ab",
+    "name": "Catelin Drey",
+    "chamber": "senate",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=39183",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Catelin_Drey.png"
+  },
+  {
+    "id": "ocd-person/3d113997-b440-47db-97d2-3dca3a2b431a",
+    "name": "Chad Behn",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37384",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37384"
+  },
+  {
+    "id": "ocd-person/623b4ac1-3411-4109-b0eb-31bec2780313",
+    "name": "Chad Ingels",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30653",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30653"
+  },
+  {
+    "id": "ocd-person/1a5372b1-e23d-4877-a614-a32f552c58b4",
+    "name": "Charley Thomson",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33983&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33983"
+  },
+  {
+    "id": "ocd-person/006bcadf-1173-4661-a28e-25fbf1a5c423",
+    "name": "Charlie McClintock",
+    "chamber": "senate",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=30657",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30657"
+  },
+  {
+    "id": "ocd-person/f4803b48-80d4-43aa-86cd-fe78d268e77a",
+    "name": "Cherielynn Westrich",
+    "chamber": "senate",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=30654",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30654"
+  },
+  {
+    "id": "ocd-person/08e97c3c-42e2-47f7-b186-0b5099161d4e",
+    "name": "Christian Hermanson",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37387",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37387"
+  },
+  {
+    "id": "ocd-person/6729badd-57a5-484c-bb4c-23afa6e96cdf",
+    "name": "Cindy Golding",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33990&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33990"
+  },
+  {
+    "id": "ocd-person/84279bc7-04df-475e-8d6f-9f9703c73101",
+    "name": "Cindy Winckler",
+    "chamber": "senate",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=44",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=44"
+  },
+  {
+    "id": "ocd-person/63ec798f-401b-4512-9f56-b162eb96bfe9",
+    "name": "Craig Johnson",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18075",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18075"
+  },
+  {
+    "id": "ocd-person/cf98b8af-97b3-46d8-9cc8-4695aab1ae30",
+    "name": "Craig Williams",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30545",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30545"
+  },
+  {
+    "id": "ocd-person/79384252-69ca-43c7-bda1-46b6abe5873e",
+    "name": "Dan Dawson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18072",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18072"
+  },
+  {
+    "id": "ocd-person/d9b64ebb-2332-4ab8-b21f-e697f08759d3",
+    "name": "Dan Gehlbach",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33980&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33980"
+  },
+  {
+    "id": "ocd-person/63c59e95-ff5f-40b3-871e-3569f6ad8425",
+    "name": "Dan Gosa",
+    "chamber": "house",
+    "party": "D",
+    "district": "81",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37391",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37391"
+  },
+  {
+    "id": "ocd-person/3fa8bceb-666f-4480-a957-1928e2b5fec6",
+    "name": "Dan Zumbach",
+    "chamber": "senate",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10733",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10733"
+  },
+  {
+    "id": "ocd-person/55c46119-e6fa-4b22-ade6-18990aeacf0c",
+    "name": "Dave Jacoby",
+    "chamber": "house",
+    "party": "D",
+    "district": "86",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=320",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=320"
+  },
+  {
+    "id": "ocd-person/93e9ba73-a053-4661-8b8b-e8e2f25d0596",
+    "name": "Dave Rowley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=32458",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32458"
+  },
+  {
+    "id": "ocd-person/b261b6a8-cb30-4808-b750-df2e7963d6c8",
+    "name": "Dave Sires",
+    "chamber": "senate",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37464",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37464"
+  },
+  {
+    "id": "ocd-person/6c2b2d09-de80-47ca-af67-e646f20ba5fa",
+    "name": "David Blom",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=25125",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=25125"
+  },
+  {
+    "id": "ocd-person/7e4913e9-9219-461f-9842-2a96813e009e",
+    "name": "David Sieck",
+    "chamber": "house",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=15920&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=15920"
+  },
+  {
+    "id": "ocd-person/e0df02a4-7910-4538-8c3b-8152fb8f657c",
+    "name": "David Young",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33972&ga=90",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/fe90f2b2-0892-4abd-9d6d-4b2ac1dae632",
+    "name": "Dawn Driscoll",
+    "chamber": "senate",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=30548",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30548"
+  },
+  {
+    "id": "ocd-person/a4832927-060d-4e15-82d7-795f6f9cc78f",
+    "name": "Dean Fisher",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=10755&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10755"
+  },
+  {
+    "id": "ocd-person/1e11235a-f4c8-4124-9f3a-3bb7a219636d",
+    "name": "Dennis Guth",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=10726",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10726"
+  },
+  {
+    "id": "ocd-person/5dbb36a6-f191-4201-9cbe-20d7aada4d4c",
+    "name": "Derek Wulf",
+    "chamber": "house",
+    "party": "R",
+    "district": "76",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33986&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33986"
+  },
+  {
+    "id": "ocd-person/60f3c355-fa56-48db-8379-14234d427148",
+    "name": "Devon Wood",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33968&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33968"
+  },
+  {
+    "id": "ocd-person/a38725e7-bec0-4a5d-bc71-d039bcb8ec04",
+    "name": "Doug Campbell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37463",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37463"
+  },
+  {
+    "id": "ocd-person/258e0f31-d71a-42b5-98ff-3f2263f95f65",
+    "name": "Eddie Andrews",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=30650&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30650"
+  },
+  {
+    "id": "ocd-person/6ce3e40a-3eee-4a3f-acf3-ddee38e37e6f",
+    "name": "Elinor Levin",
+    "chamber": "house",
+    "party": "D",
+    "district": "89",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33992",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33992"
+  },
+  {
+    "id": "ocd-person/75ee3e5c-bf95-4f36-8366-264872631c3c",
+    "name": "Elizabeth Wilson",
+    "chamber": "house",
+    "party": "D",
+    "district": "73",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33985",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33985"
+  },
+  {
+    "id": "ocd-person/8e424b53-9531-4b76-bd44-a8008f34b539",
+    "name": "Eric Gjerde",
+    "chamber": "house",
+    "party": "D",
+    "district": "74",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=30659",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30659"
+  },
+  {
+    "id": "ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108",
+    "name": "Gary Mohr",
+    "chamber": "house",
+    "party": "R",
+    "district": "93",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18038",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18038"
+  },
+  {
+    "id": "ocd-person/831144f3-e67d-4706-a018-abec3c492269",
+    "name": "Hans Wilz",
+    "chamber": "house",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33970&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33970"
+  },
+  {
+    "id": "ocd-person/e927adb7-9b5c-41a8-8daf-c9a8620741f5",
+    "name": "Heather Hora",
+    "chamber": "house",
+    "party": "R",
+    "district": "92",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33995&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33995"
+  },
+  {
+    "id": "ocd-person/ba713234-dc5e-4646-9f74-c25d84f648cc",
+    "name": "Heather Matson",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=27023",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27023"
+  },
+  {
+    "id": "ocd-person/64d7c18c-3a40-4a0c-a5b9-51ab85b37c81",
+    "name": "Helena Hayes",
+    "chamber": "house",
+    "party": "R",
+    "district": "88",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33991&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33991"
+  },
+  {
+    "id": "ocd-person/21405c5b-96dc-4c28-9b69-59c2cf00e9a5",
+    "name": "Henry Stone",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30645",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30645"
+  },
+  {
+    "id": "ocd-person/d3b3bc8e-ab0c-4ee2-ba3d-de78040274af",
+    "name": "Herman Quirmbach",
+    "chamber": "senate",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=161",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=161"
+  },
+  {
+    "id": "ocd-person/0af01ef4-f982-4239-9ffc-56d33cee3b7b",
+    "name": "Izaah Knox",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=34010",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34010"
+  },
+  {
+    "id": "ocd-person/4483a8f0-d946-45b2-9a2e-00dbb4816816",
+    "name": "J.D. Scholten",
+    "chamber": "house",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33963",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33963"
+  },
+  {
+    "id": "ocd-person/9da58039-06dd-451e-835c-c406a493a21c",
+    "name": "Jack Whitver",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9768",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9768"
+  },
+  {
+    "id": "ocd-person/9c6428d6-af30-4a4f-bb9c-666d3d6d84c5",
+    "name": "Jacob Bossman",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=25497&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=25497"
+  },
+  {
+    "id": "ocd-person/37952941-d329-4c96-8458-654fa495ec76",
+    "name": "Jane Bloomingdale",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=18043&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18043"
+  },
+  {
+    "id": "ocd-person/3089e8af-0071-4298-822c-2d16ac01fe9f",
+    "name": "Janet Petersen",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=72",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=72&pType=3"
+  },
+  {
+    "id": "ocd-person/1c841d58-bdbe-4021-9126-055184cecdd5",
+    "name": "Janice Weiner",
+    "chamber": "senate",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=34011",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34011"
+  },
+  {
+    "id": "ocd-person/2f1410fb-220d-46f7-a49c-2a96ac49e338",
+    "name": "Jason Gearhart",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37388",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37388"
+  },
+  {
+    "id": "ocd-person/32126238-17ce-4338-923a-3867b6517039",
+    "name": "Jason Schultz",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6588",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6588"
+  },
+  {
+    "id": "ocd-person/c8eeda58-6c95-4ac9-988f-1c9363b2e17c",
+    "name": "Jeff Cooling",
+    "chamber": "house",
+    "party": "D",
+    "district": "77",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33987",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33987"
+  },
+  {
+    "id": "ocd-person/54f49ddd-7a13-4639-87de-7db8760ed5c5",
+    "name": "Jeff Reichman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30549",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30549"
+  },
+  {
+    "id": "ocd-person/11ceb3de-a680-4dc0-b140-edd37f04e75b",
+    "name": "Jeff Shipley",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27036&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27036"
+  },
+  {
+    "id": "ocd-person/cc1cff7e-82d6-4947-a906-f467b4017285",
+    "name": "Jeff Taylor",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30544",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30544"
+  },
+  {
+    "id": "ocd-person/522b14b8-b82f-4336-a7fb-a0f782d5509a",
+    "name": "Jennifer Konfrst",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=27026",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27026"
+  },
+  {
+    "id": "ocd-person/4b61e993-1cb9-4bd2-a383-46d264d298f9",
+    "name": "Jennifer Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "72",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37389",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37389"
+  },
+  {
+    "id": "ocd-person/d7083428-89b1-4a56-a4c8-4a40e80e30e8",
+    "name": "Jerome Amos",
+    "chamber": "house",
+    "party": "D",
+    "district": "62",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=6174",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6174"
+  },
+  {
+    "id": "ocd-person/c6cbc677-2d42-4497-ae57-989a30aaddae",
+    "name": "Jesse Green",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30546",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30546"
+  },
+  {
+    "id": "ocd-person/955a4d7c-a378-4bd2-8a74-dac94f74ba52",
+    "name": "John Wills",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=13794&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=13794"
+  },
+  {
+    "id": "ocd-person/7a97018b-eb0e-46cf-8bd8-26520ff0d1e0",
+    "name": "Jon Dunwell",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=32165",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32165"
+  },
+  {
+    "id": "ocd-person/b28ad297-8f6d-4f36-807e-0acfa35c7d4c",
+    "name": "Josh Meggers",
+    "chamber": "house",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33981&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33981"
+  },
+  {
+    "id": "ocd-person/c9679bfc-5a21-405a-bae1-e2de9a85baf8",
+    "name": "Josh Turek",
+    "chamber": "house",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33969",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33969"
+  },
+  {
+    "id": "ocd-person/69441bf5-e98f-4872-8bf0-5bca86e3c258",
+    "name": "Judd Lawler",
+    "chamber": "house",
+    "party": "R",
+    "district": "91",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37392",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37392"
+  },
+  {
+    "id": "ocd-person/67f25420-8ea1-49d1-aa86-488136b5f9f5",
+    "name": "Julian Garrett",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9404",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9404"
+  },
+  {
+    "id": "ocd-person/ef7b8c3c-3cd0-4f95-8b4f-9e4daa061479",
+    "name": "Kara Warme",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37462",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37462"
+  },
+  {
+    "id": "ocd-person/3dd459aa-4a08-4a98-bce4-37536a9414fa",
+    "name": "Ken Croken",
+    "chamber": "house",
+    "party": "D",
+    "district": "97",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33997",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33997"
+  },
+  {
+    "id": "ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056",
+    "name": "Ken Rozenboom",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10731",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10731"
+  },
+  {
+    "id": "ocd-person/1b7d56b0-f635-423c-9c09-5617322b1518",
+    "name": "Kenan Judge",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27027",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27027"
+  },
+  {
+    "id": "ocd-person/2ff1622d-f1f4-4344-8821-57bcf8d99b83",
+    "name": "Kerry Gruenhagen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=34009",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34009"
+  },
+  {
+    "id": "ocd-person/abad9c61-6eb9-484a-bf07-94cb9040a639",
+    "name": "Kevin Alons",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33999",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33999"
+  },
+  {
+    "id": "ocd-person/dcd5b341-0a0b-4f2b-bb34-d7aab8539258",
+    "name": "Larry McBurney",
+    "chamber": "house",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37383",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37383"
+  },
+  {
+    "id": "ocd-person/2f43be90-4912-41fa-acf3-735e3a9ef557",
+    "name": "Lindsay James",
+    "chamber": "house",
+    "party": "D",
+    "district": "71",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=27039",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27039"
+  },
+  {
+    "id": "ocd-person/a5bbbe7f-202c-4427-89e1-da8d2786d1dc",
+    "name": "Liz Bennett",
+    "chamber": "senate",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14806",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34000"
+  },
+  {
+    "id": "ocd-person/0f7d8e8f-ab3e-4a0f-bde0-2ef776cdb27d",
+    "name": "Lynn Evans",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=34008",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=34008"
+  },
+  {
+    "id": "ocd-person/277c38cf-3dc5-419b-b072-df34adc214e6",
+    "name": "Mark Cisneros",
+    "chamber": "house",
+    "party": "R",
+    "district": "96",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30656",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30656"
+  },
+  {
+    "id": "ocd-person/37b1879c-5435-4c28-bb62-fa71fbabbbdb",
+    "name": "Mark Costello",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10749",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10749"
+  },
+  {
+    "id": "ocd-person/b1110000-b6c3-4348-8655-8a7b51c8a9db",
+    "name": "Mark Lofgren",
+    "chamber": "senate",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9406",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9406"
+  },
+  {
+    "id": "ocd-person/967868e2-3ec5-425f-bc96-f41208809217",
+    "name": "Mark Thompson",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33982&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33982"
+  },
+  {
+    "id": "ocd-person/996db9b7-c251-478f-8852-0c5477013469",
+    "name": "Mary Madison",
+    "chamber": "house",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33974&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33974"
+  },
+  {
+    "id": "ocd-person/4bb97641-21a7-4aaa-b4d8-7f0dfcacd3a0",
+    "name": "Matt Blake",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37460",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37460"
+  },
+  {
+    "id": "ocd-person/aec12ca2-6ad3-4026-9f01-7a691566c6fc",
+    "name": "Matt Rinker",
+    "chamber": "house",
+    "party": "R",
+    "district": "99",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33998&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33998"
+  },
+  {
+    "id": "ocd-person/be1898a3-30da-45c6-810f-4751158daefc",
+    "name": "Matt Windschitl",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6282",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6282"
+  },
+  {
+    "id": "ocd-person/65c3efb9-452e-4aae-a390-15db3f3ba707",
+    "name": "Megan Jones",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=10747&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10747"
+  },
+  {
+    "id": "ocd-person/84f3edbd-f0e1-4220-a670-f7d39d57bda5",
+    "name": "Megan Srinivas",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33973",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33973"
+  },
+  {
+    "id": "ocd-person/bf9a43c8-3e2a-489f-94f6-b26035f7f9b9",
+    "name": "Michael Bergan",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18044",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18044"
+  },
+  {
+    "id": "ocd-person/37784f85-492c-422c-93a3-9910867f68f9",
+    "name": "Mike Bousselot",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=32076",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32076&pType=3"
+  },
+  {
+    "id": "ocd-person/cad5e110-d7b3-45b3-b7c3-9e8232e2dbc7",
+    "name": "Mike Klimesh",
+    "chamber": "senate",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30547",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30547"
+  },
+  {
+    "id": "ocd-person/fdb8c40c-9f1e-4799-bc5f-0249d21f3811",
+    "name": "Mike Pike",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37458",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37458"
+  },
+  {
+    "id": "ocd-person/4416e207-bc39-4dee-b6fc-7e70e351aa54",
+    "name": "Mike Vondran",
+    "chamber": "house",
+    "party": "R",
+    "district": "94",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33996&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33996"
+  },
+  {
+    "id": "ocd-person/93034bcb-c3fa-4427-8a1a-d48b8485a8eb",
+    "name": "Mike Zimmer",
+    "chamber": "senate",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=37960",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37960"
+  },
+  {
+    "id": "ocd-person/d675a03b-f474-4e1c-b48a-b78b399488c4",
+    "name": "Molly Donahue",
+    "chamber": "senate",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27031",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27031"
+  },
+  {
+    "id": "ocd-person/c746f92f-f2d1-4dd9-aa76-f056fe026c32",
+    "name": "Monica Kurth",
+    "chamber": "house",
+    "party": "D",
+    "district": "98",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=18614",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18614"
+  },
+  {
+    "id": "ocd-person/e8a08a29-2cc5-4b0b-a461-61983aa0771c",
+    "name": "Norlin Mommsen",
+    "chamber": "house",
+    "party": "R",
+    "district": "70",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=14810&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14810"
+  },
+  {
+    "id": "ocd-person/43530aa9-bb74-4e1b-845c-e9491c9a410c",
+    "name": "Pat Grassley",
+    "chamber": "house",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=6277",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=6277"
+  },
+  {
+    "id": "ocd-person/6d119d13-56ee-4aef-a7b0-602efef0b995",
+    "name": "Renee Hardman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=39593",
+    "imageUrl": "https://media.tegna-media.com/assets/WOI/images/eb691334-5dc7-4bc6-9b19-2d2533483f86/eb691334-5dc7-4bc6-9b19-2d2533483f86_1920x1080.jpg"
+  },
+  {
+    "id": "ocd-person/8ef407a5-2d80-4190-a656-a23d13fb5cb4",
+    "name": "Rick Olson",
+    "chamber": "house",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=776&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=776"
+  },
+  {
+    "id": "ocd-person/6c4e422c-1d04-48c1-8e75-7af2e6ad1002",
+    "name": "Rob Johnson",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37381",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37381"
+  },
+  {
+    "id": "ocd-person/068a7290-ab67-4ff5-abe5-8e23a7715097",
+    "name": "Ross Wilburn",
+    "chamber": "house",
+    "party": "D",
+    "district": "50",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=28701",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=28701"
+  },
+  {
+    "id": "ocd-person/dad6bcf1-d56a-4a10-a969-2980dd3582d8",
+    "name": "Ruth Ann Gaines",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9413",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9413"
+  },
+  {
+    "id": "ocd-person/3c21eb9b-0b5d-429e-9bb4-0d53adf4442c",
+    "name": "Ryan Weldon",
+    "chamber": "house",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37382",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37382"
+  },
+  {
+    "id": "ocd-person/c9617375-c6c8-453d-8807-32714cd85c21",
+    "name": "Sam Wengryn",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37380",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37380"
+  },
+  {
+    "id": "ocd-person/a629e45d-fc34-4751-9ca3-d70d2b8f332d",
+    "name": "Samantha Fett",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37379",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37379"
+  },
+  {
+    "id": "ocd-person/b51c0843-c860-4568-a3a7-3d004a377fd4",
+    "name": "Sandy Salmon",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=10754",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=10754"
+  },
+  {
+    "id": "ocd-person/ce66871e-57e7-471d-b231-d772dd41eb63",
+    "name": "Sarah Garriott",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=30551",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30551"
+  },
+  {
+    "id": "ocd-person/5d6f21b7-11a6-4f5e-8661-abc9345f3623",
+    "name": "Scott Webster",
+    "chamber": "senate",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=13574",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=13574"
+  },
+  {
+    "id": "ocd-person/8ee06272-1977-4810-8c40-5d007fb31ac8",
+    "name": "Sean Bagniewski",
+    "chamber": "house",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=90&personID=33975",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33975"
+  },
+  {
+    "id": "ocd-person/90ea16da-2e10-470e-a004-a5e2688e6331",
+    "name": "Shannon Latham",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=30651",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30651"
+  },
+  {
+    "id": "ocd-person/82dcdad5-7974-4b38-a44c-7007e8111a5c",
+    "name": "Shannon Lundgren",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=18046",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18046"
+  },
+  {
+    "id": "ocd-person/9d60676d-f50e-4117-8d22-681927e43a01",
+    "name": "Skyler Wheeler",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=18040&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=18040"
+  },
+  {
+    "id": "ocd-person/fca5c5d4-a5b0-40eb-ace9-24dfd50bc4a6",
+    "name": "Steve Bradley",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=30652&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=30652"
+  },
+  {
+    "id": "ocd-person/427b416b-eca9-4863-a8c2-c54ad2769bc1",
+    "name": "Steven Holt",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14802",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14802"
+  },
+  {
+    "id": "ocd-person/fb3a8905-a9a9-4016-97b3-94ce90308240",
+    "name": "Taylor Collins",
+    "chamber": "house",
+    "party": "R",
+    "district": "95",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27618&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27618"
+  },
+  {
+    "id": "ocd-person/293487d6-a28b-48a2-8cfc-c3daabb8abbe",
+    "name": "Tim Kraayenbrink",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14812",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14812"
+  },
+  {
+    "id": "ocd-person/7467e822-4c62-4cd2-b8e1-6f72a9204fce",
+    "name": "Timi Brown-Powers",
+    "chamber": "house",
+    "party": "D",
+    "district": "61",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14805",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14805"
+  },
+  {
+    "id": "ocd-person/264c5cb9-f69f-4d07-ac58-231c98915233",
+    "name": "Tom Determann",
+    "chamber": "house",
+    "party": "R",
+    "district": "69",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33984&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33984"
+  },
+  {
+    "id": "ocd-person/ed333b61-6734-49a2-b37d-a167f330bf09",
+    "name": "Tom Gerhold",
+    "chamber": "house",
+    "party": "R",
+    "district": "84",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27033&ga=89",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27033"
+  },
+  {
+    "id": "ocd-person/49fc2a54-b290-4f92-9fda-64893f09d29c",
+    "name": "Tom Jeneary",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=27018&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27018"
+  },
+  {
+    "id": "ocd-person/137108a7-0316-40f8-9624-08b2094fb723",
+    "name": "Tom Moore",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=17112",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=17112"
+  },
+  {
+    "id": "ocd-person/d1167ce2-5a24-4eb8-bce8-3800ea24a4d0",
+    "name": "Tom Shipley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=14814",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=14814"
+  },
+  {
+    "id": "ocd-person/ba2c7b09-df43-4428-b268-1f5a4995282e",
+    "name": "Tom Townsend",
+    "chamber": "senate",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37465",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37465"
+  },
+  {
+    "id": "ocd-person/be302cfd-09b1-4a29-974d-479aa24469eb",
+    "name": "Tony Bisignano",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=906",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=906"
+  },
+  {
+    "id": "ocd-person/0a7675f8-869f-4d49-9a14-c44201e8a8dc",
+    "name": "Tracy Ehlert",
+    "chamber": "house",
+    "party": "D",
+    "district": "79",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27032",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27032"
+  },
+  {
+    "id": "ocd-person/4b23e066-26f2-4b23-ac81-060462b2a956",
+    "name": "Travis Sitzmann",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=91&personID=37378",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37378"
+  },
+  {
+    "id": "ocd-person/b385cd86-67bc-4cff-94cb-6e822f719ca7",
+    "name": "Wendy Larson",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?personID=39538",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=39538"
+  },
+  {
+    "id": "ocd-person/ef26d757-2882-4047-a82e-0682cc638d05",
+    "name": "Zach Dieken",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator/newsletter?id=33965&ga=90",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=33965"
+  },
+  {
+    "id": "ocd-person/ab4528a8-eeca-4562-8475-967ce868eb68",
+    "name": "Zach Wahls",
+    "chamber": "senate",
+    "party": "D",
+    "district": "43",
+    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=27002",
+    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=27002"
+  }
+]

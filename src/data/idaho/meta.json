@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "session": {
+    "id": null,
+    "label": "",
+    "convenes": null,
+    "inSession": false,
+    "next": null
+  },
+  "counts": {
+    "legislators": 105,
+    "committees": 38,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Idaho State Legislature",
+    "url": "https://www.legislature.idaho.gov"
+  },
+  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+}

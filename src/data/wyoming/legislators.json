@@ -1,0 +1,839 @@
+[
+  {
+    "id": "ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd",
+    "name": "Abby Angelos",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2091",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-AngelosAbby.jpg"
+  },
+  {
+    "id": "ocd-person/3198aa67-829e-4827-8b26-8955cbf36f4a",
+    "name": "Andrew Byron",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2099",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ByronAndrew.jpg"
+  },
+  {
+    "id": "ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1",
+    "name": "Ann Lucas",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2025/H/2128",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LucasAnn.jpg"
+  },
+  {
+    "id": "ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4",
+    "name": "Art Washut",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2058",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WashutArt.jpg"
+  },
+  {
+    "id": "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+    "name": "Barry Crago",
+    "chamber": "senate",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2078",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CragoBarry.jpg"
+  },
+  {
+    "id": "ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839",
+    "name": "Bill Allemand",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2114",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-AllemandBill.jpg"
+  },
+  {
+    "id": "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+    "name": "Bill Landen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/434",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LandenBill.jpg"
+  },
+  {
+    "id": "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
+    "name": "Bo Biteman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2018/H/2044",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BitemanBo.jpg"
+  },
+  {
+    "id": "ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2",
+    "name": "Bob Davis",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2110",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-DavisBob.jpg"
+  },
+  {
+    "id": "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
+    "name": "Bob Ide",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2089",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/67th-IdeBob.jpg"
+  },
+  {
+    "id": "ocd-person/6ff4eff9-e68c-42a1-9aa5-b964daa37a89",
+    "name": "Bob Nicholas",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/1980",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-NicholasBob.jpg"
+  },
+  {
+    "id": "ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251",
+    "name": "Bob Wharff",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://wyoleg.gov/Legislators/2021/R/2082",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WharffRobert.jpg"
+  },
+  {
+    "id": "ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f",
+    "name": "Brian Boner",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2021",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BonerBrian.jpg"
+  },
+  {
+    "id": "ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251",
+    "name": "Cale Case",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/945",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CaseCale.jpg"
+  },
+  {
+    "id": "ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59",
+    "name": "Charles Scott",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/294",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ScottCharles.jpg"
+  },
+  {
+    "id": "ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d",
+    "name": "Cheri Steinmetz",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2011",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SteinmetzCheri.jpg"
+  },
+  {
+    "id": "ocd-person/b9414bc4-f900-474b-b99c-8f2716419683",
+    "name": "Chip Neiman",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2070",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-NeimanChip.jpg"
+  },
+  {
+    "id": "ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a",
+    "name": "Chris Knapp",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2086",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-KnappChristopher.jpg"
+  },
+  {
+    "id": "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+    "name": "Chris Rothfuss",
+    "chamber": "senate",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1971",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-RothfussChris.jpg"
+  },
+  {
+    "id": "ocd-person/0df4327b-df46-4886-ab09-0c8a55639548",
+    "name": "Clarence Styvar",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2051",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-StyvarClarence.jpg"
+  },
+  {
+    "id": "ocd-person/9b6e58cd-4dbc-4554-a677-b362c913c069",
+    "name": "Cody Wylie",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2107",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/67th-WylieCody.jpg"
+  },
+  {
+    "id": "ocd-person/416ee113-2983-43ab-bf24-3d7134767b41",
+    "name": "Dalton Banks",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2101",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BanksDalton.jpg"
+  },
+  {
+    "id": "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+    "name": "Dan Dockstader",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1048",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-DockstaderDan.jpg"
+  },
+  {
+    "id": "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+    "name": "Dan Laursen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2006",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LaursenDan.jpg"
+  },
+  {
+    "id": "ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c",
+    "name": "Daniel Singh",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2116",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SinghDaniel.jpg"
+  },
+  {
+    "id": "ocd-person/ff389664-aac3-4241-abc7-3a8e781e5989",
+    "name": "Darin McCann",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2130",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-McCannDarin.jpg"
+  },
+  {
+    "id": "ocd-person/13022d64-c748-4603-b60e-bd176383b8f1",
+    "name": "Ed Cooper",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2068",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CooperEd.jpg"
+  },
+  {
+    "id": "ocd-person/c0c75f8e-6d58-4197-9076-154528191d47",
+    "name": "Elissa Campbell",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2133",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellElissa.jpg"
+  },
+  {
+    "id": "ocd-person/afa67bb0-3191-4dce-94ab-ddb3a9e7475c",
+    "name": "Eric Barlow",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1995",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BarlowEric.jpg"
+  },
+  {
+    "id": "ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c",
+    "name": "Evie Brennan",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2090",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrennanEvie.jpg"
+  },
+  {
+    "id": "ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f",
+    "name": "Gary Brown",
+    "chamber": "house",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2140",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownGary.jpg"
+  },
+  {
+    "id": "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+    "name": "Gary Crum",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/S/2144",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CrumGary.jpg"
+  },
+  {
+    "id": "ocd-person/df82de40-cf5b-4197-b276-5e5982146849",
+    "name": "Ivan Posey",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2141",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PoseyIvan.jpg"
+  },
+  {
+    "id": "ocd-person/fc63a597-e32a-4c94-a2f2-7420f7836aeb",
+    "name": "J.D. Williams",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2025/H/2087",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WilliamsJD.jpg"
+  },
+  {
+    "id": "ocd-person/25e8e592-1425-4e8d-bcce-97ec84ef66c3",
+    "name": "J.R. Riggins",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2135",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-RigginsJR.jpg"
+  },
+  {
+    "id": "ocd-person/2a0be03f-4f0a-4b2e-850b-50b4d0dade13",
+    "name": "J.T. Larson",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2096",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LarsonJT.jpg"
+  },
+  {
+    "id": "ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db",
+    "name": "Jacob Wasserburger",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2139",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WasserburgerJacob.jpg"
+  },
+  {
+    "id": "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
+    "name": "Jared Olsen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2035",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-OlsenJared.jpg"
+  },
+  {
+    "id": "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
+    "name": "Jayme Lien",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2126",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LienJayme.jpg"
+  },
+  {
+    "id": "ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181",
+    "name": "Jeremy Haroldson",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2071",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HaroldsonJeremy.jpg"
+  },
+  {
+    "id": "ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0",
+    "name": "Jim Anderson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1985",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-AndersonJim.jpg"
+  },
+  {
+    "id": "ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822",
+    "name": "Joe Webb",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2120",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WebbJoe.jpg"
+  },
+  {
+    "id": "ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9",
+    "name": "Joel Guggenmos",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2132",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-GuggenmosJoel.jpg"
+  },
+  {
+    "id": "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+    "name": "John Bear",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2075",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BearJohn.jpg"
+  },
+  {
+    "id": "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
+    "name": "John Kolb",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2066",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-KolbJohn.jpg"
+  },
+  {
+    "id": "ocd-person/e79049b8-a6d9-4356-a190-fc1e90837d5d",
+    "name": "John Winter",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2056",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WinterJohn.jpg"
+  },
+  {
+    "id": "ocd-person/64428f70-4a9b-453d-b2f5-bbbdcdb370e5",
+    "name": "Julie Jarvis",
+    "chamber": "house",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2134",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-JarvisJulie.jpg"
+  },
+  {
+    "id": "ocd-person/970ff542-b60c-4a3b-bd63-492a38a0a878",
+    "name": "Justin Fornstrom",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2025/H/2146",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-FornstromJustin.JPG"
+  },
+  {
+    "id": "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+    "name": "Karlee Provenza",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2080",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ProvenzaKarlee.jpg"
+  },
+  {
+    "id": "ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd",
+    "name": "Ken Chestek",
+    "chamber": "house",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2095",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ChestekKen.jpg"
+  },
+  {
+    "id": "ocd-person/15ae95ba-274d-4b7b-a2c7-a5cfb5e2b089",
+    "name": "Ken Clouston",
+    "chamber": "house",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2104",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CloustonKen.jpg"
+  },
+  {
+    "id": "ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5",
+    "name": "Ken Pendergraft",
+    "chamber": "house",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2103",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PendergraftKen.jpg"
+  },
+  {
+    "id": "ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733",
+    "name": "Kevin Campbell",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2136",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-CampbellKevin.jpg"
+  },
+  {
+    "id": "ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c",
+    "name": "Landon Brown",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2034",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrownLandon.jpg"
+  },
+  {
+    "id": "ocd-person/286af01e-ace3-4de2-b1c3-44756370d932",
+    "name": "Larry Hicks",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1963",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HicksLarry.jpg"
+  },
+  {
+    "id": "ocd-person/c6b78357-5a9d-41e9-b947-1d81227b0f15",
+    "name": "Laura Pearson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/R/2138",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PearsonLaura.jpg"
+  },
+  {
+    "id": "ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56",
+    "name": "Laurie Bratten",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2131",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BrattenLaurie.jpg"
+  },
+  {
+    "id": "ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd",
+    "name": "Lee Filer",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/1990",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-FilerLee.jpg"
+  },
+  {
+    "id": "ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61",
+    "name": "Liz Storer",
+    "chamber": "house",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2100",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-StorerLiz.jpg"
+  },
+  {
+    "id": "ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a",
+    "name": "Lloyd Larsen",
+    "chamber": "house",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/1988",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LarsenLloyd.jpg"
+  },
+  {
+    "id": "ocd-person/b91459e7-2049-4cf9-8b0b-f769ce373613",
+    "name": "Lynn Hutchings",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1997",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HutchingsLynn.jpg"
+  },
+  {
+    "id": "ocd-person/65ae499e-9549-42e2-ab16-65b56eb0f8ab",
+    "name": "Marilyn Connolly",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2127",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ConnollyMarilyn.jpg"
+  },
+  {
+    "id": "ocd-person/b2d0dc89-4104-4f6e-a1eb-bbc9dafbefa9",
+    "name": "Marlene Brady",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2143",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-BradyMarlene.jpg"
+  },
+  {
+    "id": "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
+    "name": "Martha Lawley",
+    "chamber": "house",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2102",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LawleyMartha.jpg"
+  },
+  {
+    "id": "ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163",
+    "name": "McKay Erickson",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/R/2122",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-EricksonMcKay.jpg"
+  },
+  {
+    "id": "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+    "name": "Mike Gierau",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2027",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-GierauMike.jpg"
+  },
+  {
+    "id": "ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629",
+    "name": "Mike Schmid",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2121",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SchmidMike.jpg"
+  },
+  {
+    "id": "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+    "name": "Mike Yin",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2054",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-YinMike.jpg"
+  },
+  {
+    "id": "ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2",
+    "name": "Nina Webber",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2123",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-WebberNina.jpg"
+  },
+  {
+    "id": "ocd-person/d811f813-1093-449a-a4dc-5d02c704ee49",
+    "name": "Ocean Andrew",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2081",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/66th-AndrewOcean.jpg"
+  },
+  {
+    "id": "ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48",
+    "name": "Ogden Driskill",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/1972",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-DriskillOgden.jpg"
+  },
+  {
+    "id": "ocd-person/4e09e885-4101-4e95-8560-17d35caad18c",
+    "name": "Pam Thayer",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2025/H/2119",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-ThayerPamela.jpg"
+  },
+  {
+    "id": "ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a",
+    "name": "Paul Hoeft",
+    "chamber": "house",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2124",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HoeftPaul.jpg"
+  },
+  {
+    "id": "ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d",
+    "name": "Pepper Ottman",
+    "chamber": "house",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2076",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-OttmanPepper.jpg"
+  },
+  {
+    "id": "ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea",
+    "name": "Rachel Rodriguez-Williams",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2083",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-Rodriguez-WilliamsRachel.jpg"
+  },
+  {
+    "id": "ocd-person/8b636fd9-d6e2-4369-9764-c56803244076",
+    "name": "Reuben Tarver",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2112",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-TarverReuben.jpg"
+  },
+  {
+    "id": "ocd-person/219dcec3-8f83-401b-91df-1a79ac725889",
+    "name": "Rob Geringer",
+    "chamber": "house",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2142",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-GeringerRob.jpg"
+  },
+  {
+    "id": "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768",
+    "name": "Scott Heiner",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2074",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HeinerScott.jpg"
+  },
+  {
+    "id": "ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff",
+    "name": "Scott Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2093",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/67th-SmithScott.jpg"
+  },
+  {
+    "id": "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
+    "name": "Stacy Jones",
+    "chamber": "senate",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2088",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-JonesStacy.jpg"
+  },
+  {
+    "id": "ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7",
+    "name": "Stephan Pappas",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2008",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-PappasStephan.jpg"
+  },
+  {
+    "id": "ocd-person/1f6a3489-e152-487f-852a-23fc40a22185",
+    "name": "Steve Harshman",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/717",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-HarshmanSteve.jpg"
+  },
+  {
+    "id": "ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064",
+    "name": "Steve Johnson",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2118",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-JohnsonSteve.jpg"
+  },
+  {
+    "id": "ocd-person/e6276406-b441-4265-a110-7e3f9b8b0e3f",
+    "name": "Taft Love",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://wyoleg.gov/Legislators/2026/R/2145",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LoveTaft.jpg"
+  },
+  {
+    "id": "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
+    "name": "Tara Nethercott",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2029",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-NethercottTara.jpg"
+  },
+  {
+    "id": "ocd-person/057afdb5-3c0e-4503-b6cd-50ba6df1aaab",
+    "name": "Tim French",
+    "chamber": "senate",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2067",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-FrenchTim.jpg"
+  },
+  {
+    "id": "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e",
+    "name": "Tim Salazar",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2028",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SalazarTim.jpg"
+  },
+  {
+    "id": "ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4",
+    "name": "Tom Kelly",
+    "chamber": "house",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://wyoleg.gov/Legislators/2025/H/2125",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-KellyTom.jpg"
+  },
+  {
+    "id": "ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57",
+    "name": "Tomi Strock",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2094",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-StrockTomi.jpg"
+  },
+  {
+    "id": "ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337",
+    "name": "Tony Locke",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2106",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-LockeTony.jpg"
+  },
+  {
+    "id": "ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f",
+    "name": "Trey Sherwood",
+    "chamber": "house",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/H/2072",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SherwoodTrey.jpg"
+  },
+  {
+    "id": "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09",
+    "name": "Troy McKeown",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2069",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-McKeownTroy.jpg"
+  },
+  {
+    "id": "ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe",
+    "name": "Wendy Schuler",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.wyoleg.gov/Legislators/2023/S/2062",
+    "imageUrl": "https://wyoleg.gov/LegislatorSummary/Photos/68th-SchulerWendy.jpg"
+  }
+]

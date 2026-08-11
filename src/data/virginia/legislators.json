@@ -1,0 +1,1253 @@
+[
+  {
+    "id": "ocd-person/4a329580-86d3-4db3-915e-9f1af71e0a5a",
+    "name": "Aaron Rouse",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S113",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Rouse22"
+  },
+  {
+    "id": "ocd-person/d0de7acb-ce8d-4bb2-b6e5-99cefe5e76a6",
+    "name": "Adele McClure",
+    "chamber": "house",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0375",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0375"
+  },
+  {
+    "id": "ocd-person/3a48fc34-a650-4fd5-acea-e703e2b8de90",
+    "name": "Alex Askew",
+    "chamber": "house",
+    "party": "D",
+    "district": "95",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0311",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0311"
+  },
+  {
+    "id": "ocd-person/ed935430-db59-4962-91f7-c0eeca2ef8e2",
+    "name": "Alfonso Lopez",
+    "chamber": "house",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0239",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0239"
+  },
+  {
+    "id": "ocd-person/7e0776e4-a915-4758-a7b3-70ca42ce3fe4",
+    "name": "Amy Laufer",
+    "chamber": "house",
+    "party": "D",
+    "district": "55",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0371",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0371"
+  },
+  {
+    "id": "ocd-person/7517f920-b2ba-4759-a80a-246816ebb09b",
+    "name": "Andrew Rice",
+    "chamber": "house",
+    "party": "R",
+    "district": "98",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0407",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AndrewRiceVA26.png"
+  },
+  {
+    "id": "ocd-person/f747c790-f609-4da1-b125-73f1807e1430",
+    "name": "Angelia Graves",
+    "chamber": "senate",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0331",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Williams%20Graves21"
+  },
+  {
+    "id": "ocd-person/9fd6fbd7-5e4e-4426-9d5a-43173ab01489",
+    "name": "Anne Ferrell Tata",
+    "chamber": "house",
+    "party": "R",
+    "district": "99",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0345",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0345.jpg"
+  },
+  {
+    "id": "ocd-person/38f25fcb-2f54-411a-84d5-2d1f748d4183",
+    "name": "Atoosa Reaser",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0380",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0380"
+  },
+  {
+    "id": "ocd-person/72ecc30c-7175-4aef-9762-fda3ba5b451e",
+    "name": "Barbara Favola",
+    "chamber": "senate",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S86",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Favola40"
+  },
+  {
+    "id": "ocd-person/a6f78488-1c78-4409-8c4a-bf0d0920e852",
+    "name": "Betsy Carr",
+    "chamber": "house",
+    "party": "D",
+    "district": "78",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0212",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0212"
+  },
+  {
+    "id": "ocd-person/ec14a514-ce1c-4fba-b053-fcf133793445",
+    "name": "Bill DeSteph",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S96",
+    "imageUrl": "https://apps.dlas.virginia.gov/senatepics/newbiopics/DeSteph08.jpg"
+  },
+  {
+    "id": "ocd-person/eacc546e-93d4-4189-92fb-8c969b1b545c",
+    "name": "Bill Stanley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S82",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bill_Stanley.jpg"
+  },
+  {
+    "id": "ocd-person/ec0c5f08-2974-4f9c-896c-34c9d5d33fac",
+    "name": "Bill Wiley",
+    "chamber": "house",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0329",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0329"
+  },
+  {
+    "id": "ocd-person/725be36e-2485-4f9f-a15f-86c574cc8d4b",
+    "name": "Bonita Anthony",
+    "chamber": "house",
+    "party": "D",
+    "district": "92",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0353",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0353"
+  },
+  {
+    "id": "ocd-person/23775904-887c-4a2c-9424-0683608193ba",
+    "name": "Briana Sewell",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0343",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0343"
+  },
+  {
+    "id": "ocd-person/adb58f21-f2fd-4830-85b6-f490b0867d14",
+    "name": "Bryce Reeves",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S88",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Reeves28"
+  },
+  {
+    "id": "ocd-person/e2ce02ec-6a92-435d-8ae2-bead5abe5ace",
+    "name": "Buddy Fowler",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0259",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0259"
+  },
+  {
+    "id": "ocd-person/2bb39b59-47d3-4e05-aa76-fc0df791faa7",
+    "name": "Charlie Schmidt",
+    "chamber": "house",
+    "party": "D",
+    "district": "77",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0402",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0402.jpg"
+  },
+  {
+    "id": "ocd-person/a0b9b444-ee25-48a1-ab61-cf0be462e89d",
+    "name": "Charniele Herring",
+    "chamber": "house",
+    "party": "D",
+    "district": "4",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0208",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0208"
+  },
+  {
+    "id": "ocd-person/3a8cbf64-e1b7-43b6-ade9-57808519405a",
+    "name": "Chris Head",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S122",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Head3"
+  },
+  {
+    "id": "ocd-person/bbb38d6c-3b3d-4ce8-bb2f-3d9346ff86f7",
+    "name": "Chris Runion",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0321",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0321"
+  },
+  {
+    "id": "ocd-person/f17d0fd9-266c-4192-af9b-2cf9a621867a",
+    "name": "Christie Craig",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S118",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Craig19"
+  },
+  {
+    "id": "ocd-person/58b46062-f618-4b27-b0ec-3bbb57db839b",
+    "name": "Cia Price",
+    "chamber": "house",
+    "party": "D",
+    "district": "85",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0284",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0284"
+  },
+  {
+    "id": "ocd-person/77b071e3-b8fa-4455-b2e6-3d487a8145c8",
+    "name": "Cliff Hayes",
+    "chamber": "house",
+    "party": "D",
+    "district": "91",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0285",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0285"
+  },
+  {
+    "id": "ocd-person/ad107e73-7e1e-45dd-ab19-52005a0b948c",
+    "name": "Creigh Deeds",
+    "chamber": "senate",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S62",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Deeds11"
+  },
+  {
+    "id": "ocd-person/5e5e025d-7e50-4c2f-ba81-720f19aa0d81",
+    "name": "Dan Helmer",
+    "chamber": "house",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0317",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0317"
+  },
+  {
+    "id": "ocd-person/3a2855f7-5ff7-4c5e-9d28-803d99f19d3f",
+    "name": "Danica Roem",
+    "chamber": "senate",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0303",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Roem30"
+  },
+  {
+    "id": "ocd-person/ebdc449e-b987-4c44-895b-5047e343c0a0",
+    "name": "Danny Diggs",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S119",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DiggsDanny.jpg"
+  },
+  {
+    "id": "ocd-person/22817a2c-911a-458a-b2a6-b7f237ef68f0",
+    "name": "Dave Marsden",
+    "chamber": "senate",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S80",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Marsden35"
+  },
+  {
+    "id": "ocd-person/0258144f-e8e8-4710-a80c-362f2077f57b",
+    "name": "David Reid",
+    "chamber": "house",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0301",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0301"
+  },
+  {
+    "id": "ocd-person/73e0de29-93b1-4c5c-af72-6c4a3d3950bd",
+    "name": "David Suetterlein",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S101",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Suetterlein4"
+  },
+  {
+    "id": "ocd-person/28a2a753-16db-4236-baf0-398c0cafa259",
+    "name": "Debra Gardner",
+    "chamber": "house",
+    "party": "D",
+    "district": "76",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0361",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0361"
+  },
+  {
+    "id": "ocd-person/4ae07d5d-1da3-4370-b796-7698013ca994",
+    "name": "Delores McQuinn",
+    "chamber": "house",
+    "party": "D",
+    "district": "81",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0207",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0207"
+  },
+  {
+    "id": "ocd-person/aabaa796-77f3-4b39-a626-ae05944ec484",
+    "name": "Delores Oates",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0377",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0377"
+  },
+  {
+    "id": "ocd-person/43d936f6-2ae8-42fe-a9a9-a4f139842afa",
+    "name": "Destiny LeVere Bolling",
+    "chamber": "house",
+    "party": "D",
+    "district": "80",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0372",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Destiny_LeVere_Bolling.jpg"
+  },
+  {
+    "id": "ocd-person/f8cafb3b-ed12-40e9-b062-318790434179",
+    "name": "Don Scott",
+    "chamber": "house",
+    "party": "D",
+    "district": "88",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0322",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0322"
+  },
+  {
+    "id": "ocd-person/c3b0c2fc-c7bf-45f8-8ee3-50d5a57bad08",
+    "name": "Elizabeth Bennett-Parker",
+    "chamber": "senate",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0334",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0334"
+  },
+  {
+    "id": "ocd-person/318cc276-b981-4744-82ff-1c7cc7d0c0b6",
+    "name": "Ellen McLaughlin",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0350",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0350"
+  },
+  {
+    "id": "ocd-person/f1a906cd-6602-492c-88dc-61887401c346",
+    "name": "Emily Jordan",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S116",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Jordan17"
+  },
+  {
+    "id": "ocd-person/704cecad-ef53-44e4-ad55-6c7a7e385e5c",
+    "name": "Eric Phillips",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0384",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0384"
+  },
+  {
+    "id": "ocd-person/0bd1b9d6-e02e-4cb4-91c8-c87466ebf1db",
+    "name": "Eric Zehr",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0383",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0383"
+  },
+  {
+    "id": "ocd-person/418a32b0-5822-4673-9293-e8363038805b",
+    "name": "Garrett McGuire",
+    "chamber": "house",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0405",
+    "imageUrl": "https://virginiamercury.com/wp-content/uploads/2026/01/611290992_122105542683186780_8562161094291278751_n.jpg"
+  },
+  {
+    "id": "ocd-person/815f7b31-d344-481a-9922-ad77d16b808a",
+    "name": "Glen Sturtevant",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S99",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Sturtevant12"
+  },
+  {
+    "id": "ocd-person/b151be46-5943-466a-afc5-93355840fe90",
+    "name": "Gretchen Bulova",
+    "chamber": "house",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0403",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0403.jpg"
+  },
+  {
+    "id": "ocd-person/ec11a019-459d-4184-b0d7-8e88ab5f7dd6",
+    "name": "Hillary Pugh Kent",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0369",
+    "imageUrl": "https://static.wixstatic.com/media/8f5763_3acf103cae51400f8e2caa87b932d971~mv2.jpg/v1/fill/w_402,h_357,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/8f5763_3acf103cae51400f8e2caa87b932d971~mv2.jpg"
+  },
+  {
+    "id": "ocd-person/745d2197-96c4-4e10-be1d-19f70c35f541",
+    "name": "Holly Seibold",
+    "chamber": "house",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0351",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0351"
+  },
+  {
+    "id": "ocd-person/3f02dc5d-5107-4620-add7-c32a2ea8bf44",
+    "name": "Irene Shin",
+    "chamber": "house",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0344",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0344"
+  },
+  {
+    "id": "ocd-person/4524f0db-f682-4b90-9cd5-628eb1d16ca7",
+    "name": "Israel O'Quinn",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0242",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0242"
+  },
+  {
+    "id": "ocd-person/837c9441-c0d2-497e-80e9-955bf152831b",
+    "name": "J.J. Singh",
+    "chamber": "house",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0385",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0385"
+  },
+  {
+    "id": "ocd-person/892b7901-d71e-4d8b-b8d0-9034a3d4a066",
+    "name": "J.R. Henson",
+    "chamber": "house",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0365",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0365"
+  },
+  {
+    "id": "ocd-person/dae8ce89-647a-407a-9550-60c404a89e29",
+    "name": "Jackie Glass",
+    "chamber": "house",
+    "party": "D",
+    "district": "93",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0349",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0349"
+  },
+  {
+    "id": "ocd-person/80c98569-2ce0-44e9-8cf4-632f2dce684c",
+    "name": "Jason Ballard",
+    "chamber": "house",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0333",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0333"
+  },
+  {
+    "id": "ocd-person/a551cb4b-014c-4423-a9d7-7a35cc0c7bdd",
+    "name": "Jay Leftwich",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0262",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0262"
+  },
+  {
+    "id": "ocd-person/f3e15ab0-8419-43c2-ab7a-f3984419d1eb",
+    "name": "Jeion Ward",
+    "chamber": "house",
+    "party": "D",
+    "district": "87",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0173",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0173"
+  },
+  {
+    "id": "ocd-person/27eeaa71-8938-412b-90ce-f83370824485",
+    "name": "Jennifer Boysko",
+    "chamber": "senate",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S106",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Boysko38"
+  },
+  {
+    "id": "ocd-person/32dae8e8-9901-4705-b012-f8ce186f8403",
+    "name": "Jennifer Carroll Foy",
+    "chamber": "senate",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S117",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Carroll%20Foy33"
+  },
+  {
+    "id": "ocd-person/500ff29f-8ae7-4886-93ec-eec1ad91d299",
+    "name": "Jeremy McPike",
+    "chamber": "senate",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S98",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/McPike29.jpg"
+  },
+  {
+    "id": "ocd-person/f2a47eb9-0839-48e8-baf2-c2d638bf380b",
+    "name": "Jessica Anderson",
+    "chamber": "house",
+    "party": "D",
+    "district": "71",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0386",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jessica_Anderson_20251008_030628.jpg"
+  },
+  {
+    "id": "ocd-person/a0178eeb-c6bb-4e20-9024-f859d4780be6",
+    "name": "Joe McNamara",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0308",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0308"
+  },
+  {
+    "id": "ocd-person/fef2f7f3-d388-4bf6-818f-6a58ae193721",
+    "name": "John McAuliff",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0395",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0395.jpg"
+  },
+  {
+    "id": "ocd-person/986f0601-025b-4fa7-acda-b2d3c2280784",
+    "name": "Josh Cole",
+    "chamber": "house",
+    "party": "D",
+    "district": "65",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0314",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0314"
+  },
+  {
+    "id": "ocd-person/b6db5cc9-d9d3-4cbd-9532-6126a47c2ab3",
+    "name": "Josh Thomas",
+    "chamber": "house",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0382",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Thomas_Headshot_HiRes-1-edited-1536x1536.jpg"
+  },
+  {
+    "id": "ocd-person/ee82c166-4df9-4e98-8399-1e10d48dcd06",
+    "name": "Justin Pence",
+    "chamber": "house",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0398",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0398.jpg"
+  },
+  {
+    "id": "ocd-person/aeba499e-3396-4787-bd81-e9b16a8898f7",
+    "name": "Kacey Carnegie",
+    "chamber": "house",
+    "party": "D",
+    "district": "89",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0387",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0387.jpg"
+  },
+  {
+    "id": "ocd-person/eb7a5152-f275-4dfe-a303-742f7218fb27",
+    "name": "Kannan Srinivasan",
+    "chamber": "senate",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0381",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0381"
+  },
+  {
+    "id": "ocd-person/b209f24e-0f1f-4f80-b2d9-1c05ee94ba4e",
+    "name": "Karen Hamilton",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0394",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0394.jpg"
+  },
+  {
+    "id": "ocd-person/7c045b50-e18d-422e-b87f-26eb7b61d651",
+    "name": "Karen Keys-Gamarra",
+    "chamber": "house",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0370",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0370"
+  },
+  {
+    "id": "ocd-person/7ec1cbe4-667d-4dbb-a840-459449ccd5df",
+    "name": "Karrie Delaney",
+    "chamber": "house",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0294",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0294"
+  },
+  {
+    "id": "ocd-person/ddba8b1b-8a1d-42c2-aba5-adc1331ee6f1",
+    "name": "Kathy Tran",
+    "chamber": "house",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0305",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0305"
+  },
+  {
+    "id": "ocd-person/d0263d88-91b1-414d-b58b-1ff0523f75ec",
+    "name": "Katrina Callsen",
+    "chamber": "house",
+    "party": "D",
+    "district": "54",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0354",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0354"
+  },
+  {
+    "id": "ocd-person/06c0d909-22c8-4d71-9b6c-cc363a0c9553",
+    "name": "Keith Hodges",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0238",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0238"
+  },
+  {
+    "id": "ocd-person/bf558d98-23da-41c4-8ae2-4dc45631808c",
+    "name": "Kelly Fowler",
+    "chamber": "house",
+    "party": "D",
+    "district": "96",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0295",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0295"
+  },
+  {
+    "id": "ocd-person/9f8c35c8-2a50-407f-815a-603b9c9d8bad",
+    "name": "Kim Adams",
+    "chamber": "house",
+    "party": "D",
+    "district": "82",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0399",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0399.jpg"
+  },
+  {
+    "id": "ocd-person/b0a785c3-d317-455f-9d0e-ab08a727e44f",
+    "name": "Kirk McPike",
+    "chamber": "house",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0406",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0406.jpg"
+  },
+  {
+    "id": "ocd-person/fa49c701-d235-4f56-b9af-b772dec36d02",
+    "name": "Lamont Bagby",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S114",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Bagby14"
+  },
+  {
+    "id": "ocd-person/448bfee3-3314-4608-8531-811fdf9d0c23",
+    "name": "Lashrecse Aird",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S115",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Aird13"
+  },
+  {
+    "id": "ocd-person/6840c55c-6496-44ce-8a60-3288e222ddc0",
+    "name": "Laura Jane Cohen",
+    "chamber": "house",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0355",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LauraJaneCohen.jpg"
+  },
+  {
+    "id": "ocd-person/865dace5-518d-4f4f-b393-c197064affe6",
+    "name": "Lee Ware",
+    "chamber": "house",
+    "party": "R",
+    "district": "72",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0124",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0124"
+  },
+  {
+    "id": "ocd-person/9c41c70b-7162-48e5-a868-aca213cf8f6d",
+    "name": "Leslie Mehta",
+    "chamber": "house",
+    "party": "D",
+    "district": "73",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0396",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0396.jpg"
+  },
+  {
+    "id": "ocd-person/ae28ba3f-6c53-463c-ac43-a5549ef51d48",
+    "name": "Lily Franklin",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0393",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0393.jpg"
+  },
+  {
+    "id": "ocd-person/1084ab28-a14a-4814-8501-96cfd1b17d1d",
+    "name": "Lindsey Dougherty",
+    "chamber": "house",
+    "party": "D",
+    "district": "75",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0391",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0391.jpg"
+  },
+  {
+    "id": "ocd-person/34c31079-0077-4ce5-9985-d0f2a95a12a7",
+    "name": "Liz Guzm\\xE1n",
+    "chamber": "house",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0297",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0297"
+  },
+  {
+    "id": "ocd-person/5be2e2f9-b644-4fb4-bfbf-d4c38e858ee2",
+    "name": "Louise Lucas",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S19",
+    "imageUrl": "https://apps.dlas.virginia.gov/senatepics/newbiopics/Lucas2018.jpg"
+  },
+  {
+    "id": "ocd-person/44ebbeab-055c-402b-a56e-bb7487d0da62",
+    "name": "Luke Torian",
+    "chamber": "house",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0227",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0227"
+  },
+  {
+    "id": "ocd-person/e58b604d-0c92-489e-8d03-7d0126d07eeb",
+    "name": "Luther Cifers",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S132",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Cifers10"
+  },
+  {
+    "id": "ocd-person/b448d4e4-ec11-452e-ae35-2bffc0662f75",
+    "name": "Madison Whittle",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0401",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0401.jpg"
+  },
+  {
+    "id": "ocd-person/48911708-f8c9-4fa5-bf7c-7d035b08874e",
+    "name": "Mamie Locke",
+    "chamber": "senate",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S67",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Locke23"
+  },
+  {
+    "id": "ocd-person/ca122856-dfc5-4ba1-84bb-48fdcf7a36f5",
+    "name": "Marcus Simon",
+    "chamber": "house",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0264",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0264"
+  },
+  {
+    "id": "ocd-person/71c20dff-ae7b-4799-bd80-7e0c03c402fc",
+    "name": "Margaret Franklin",
+    "chamber": "house",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0404",
+    "imageUrl": "https://www.pwcva.gov/assets/2024-01/dsc_6818retouch.jpg"
+  },
+  {
+    "id": "ocd-person/3ae2755c-8274-4d09-bad4-243275577ba2",
+    "name": "Mark Downey",
+    "chamber": "house",
+    "party": "D",
+    "district": "69",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0392",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0392.jpg"
+  },
+  {
+    "id": "ocd-person/b5ce9d0e-c76e-4424-bb84-57ceb335dc52",
+    "name": "Mark Obenshain",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S68",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Obenshain2"
+  },
+  {
+    "id": "ocd-person/e4396bfa-d22d-457e-b79a-f4bc36046a08",
+    "name": "Mark Peake",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S105",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Peake8"
+  },
+  {
+    "id": "ocd-person/beaab5ae-3e8d-4c12-b388-a59cdc467771",
+    "name": "Marty Martinez",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0374",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0374"
+  },
+  {
+    "id": "ocd-person/50a18b88-f257-4234-920f-cfa531a28be4",
+    "name": "May Nivar",
+    "chamber": "house",
+    "party": "D",
+    "district": "57",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0397",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0397.jpg"
+  },
+  {
+    "id": "ocd-person/cbf3268e-ced2-4aad-8ed1-18e4f37534ec",
+    "name": "Michael Feggans",
+    "chamber": "house",
+    "party": "D",
+    "district": "97",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0360",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/598f6428d482e9b47f6c2f82/56c91f83-d16a-4ba2-adcb-75d312e265bd/Michael_Feggans_HD97.jpeg"
+  },
+  {
+    "id": "ocd-person/32b96a0d-662a-4c8f-9b2b-f86365640624",
+    "name": "Mike Cherry",
+    "chamber": "house",
+    "party": "R",
+    "district": "74",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0335",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0335"
+  },
+  {
+    "id": "ocd-person/3ceca66a-bf31-47c8-a1a6-e2f789b41be3",
+    "name": "Mike Jones",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0368",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Jones15"
+  },
+  {
+    "id": "ocd-person/bf425b62-d078-45bd-957c-baceb4bfad1b",
+    "name": "Mike Webert",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0247",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0247"
+  },
+  {
+    "id": "ocd-person/e766f1e0-8651-4cc2-a394-904fa6f3aea0",
+    "name": "Mitchell Cornett",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0390",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0390.jpg"
+  },
+  {
+    "id": "ocd-person/a7fd18db-f30c-45c6-aa90-bdb6f2ce412b",
+    "name": "Nadarius Clark",
+    "chamber": "house",
+    "party": "D",
+    "district": "84",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0336",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0336"
+  },
+  {
+    "id": "ocd-person/f09abfed-0fb2-4ef3-966c-4cc0246b701d",
+    "name": "Nicole Cole",
+    "chamber": "house",
+    "party": "D",
+    "district": "66",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0389",
+    "imageUrl": "https://static.wixstatic.com/media/b64009_9f1620ff00c14cdcbfec5e257ba8edd7~mv2.jpg/v1/crop/x_0,y_0,w_2870,h_3177/fill/w_382,h_478,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_0348_EDIT.jpg"
+  },
+  {
+    "id": "ocd-person/496f9aa1-91ba-4386-9530-f52ea56e17bf",
+    "name": "Otto Wachsmann",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0347",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0347"
+  },
+  {
+    "id": "ocd-person/c10414ad-5251-4fba-8ad9-a541311f2b9f",
+    "name": "Patrick Hope",
+    "chamber": "house",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0219",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0219"
+  },
+  {
+    "id": "ocd-person/d90e6a36-4464-4481-b00d-74ed9964d45e",
+    "name": "Paul Krizek",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0281",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0281"
+  },
+  {
+    "id": "ocd-person/bbd31428-1b2b-48c6-aa76-cb785e91ca8f",
+    "name": "Phil Hernandez",
+    "chamber": "house",
+    "party": "D",
+    "district": "94",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0366",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0366"
+  },
+  {
+    "id": "ocd-person/6a07d7b6-a4b4-42f8-9a06-6a860249f5b9",
+    "name": "Phil Scott",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0342",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0342"
+  },
+  {
+    "id": "ocd-person/359eaeba-903c-42b4-b9e3-5c5b4e9d721d",
+    "name": "Rae Cousins",
+    "chamber": "house",
+    "party": "D",
+    "district": "79",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0356",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0356.jpg"
+  },
+  {
+    "id": "ocd-person/52e67ab6-2039-458e-b7a8-9bb5f3694e11",
+    "name": "Richard Stuart",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S78",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Stuart25"
+  },
+  {
+    "id": "ocd-person/658209cc-5e85-4c57-aa94-878089f3d816",
+    "name": "Rip Sullivan",
+    "chamber": "house",
+    "party": "D",
+    "district": "6",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0269",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0269"
+  },
+  {
+    "id": "ocd-person/10868c64-b4b8-41ca-90ac-a981f9fa47ff",
+    "name": "Rob Bloxom",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0267",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0267"
+  },
+  {
+    "id": "ocd-person/8ec90d7b-fd5f-4157-b779-1979e7a54e76",
+    "name": "Rod Willett",
+    "chamber": "house",
+    "party": "D",
+    "district": "58",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0327",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0327"
+  },
+  {
+    "id": "ocd-person/bf0211bf-d8ac-4343-bcd8-181e2d2e58a6",
+    "name": "Russet Perry",
+    "chamber": "senate",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S125",
+    "imageUrl": "https://cdn.runforsomething.net/candidates/2023/04/campaign/3388.jpg"
+  },
+  {
+    "id": "ocd-person/995be769-49d1-40b6-8177-e8ee31087af1",
+    "name": "Ryan McDougle",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S69",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/McDougle26"
+  },
+  {
+    "id": "ocd-person/8a50ceeb-1ded-4586-a04a-19115fddc3c5",
+    "name": "Saddam Salim",
+    "chamber": "senate",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S127",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Salim37"
+  },
+  {
+    "id": "ocd-person/6ab67007-e48a-4048-bb7b-20a608a88f77",
+    "name": "Sam Rasoul",
+    "chamber": "house",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0266",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0266"
+  },
+  {
+    "id": "ocd-person/aec7ee58-7da0-41e1-88d0-5c9e68737a0f",
+    "name": "Schuyler VanValkenburg",
+    "chamber": "senate",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S129",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/VanValkenburg16"
+  },
+  {
+    "id": "ocd-person/50a6c704-2ba7-4ecc-a24c-8f55b400709b",
+    "name": "Scott Surovell",
+    "chamber": "senate",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S100",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Surovell34"
+  },
+  {
+    "id": "ocd-person/2a831795-d6fc-4635-88bf-4fd5f72ab1e7",
+    "name": "Scott Wyatt",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0328",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0328"
+  },
+  {
+    "id": "ocd-person/8329b3a6-9d6f-427e-9342-e53277e7c6ff",
+    "name": "Shelly Simonds",
+    "chamber": "house",
+    "party": "D",
+    "district": "70",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0323",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0323"
+  },
+  {
+    "id": "ocd-person/4caa245e-038f-4a7f-8cb3-ecd9da716885",
+    "name": "Stacey Carroll",
+    "chamber": "house",
+    "party": "D",
+    "district": "64",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0388",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0388.jpg"
+  },
+  {
+    "id": "ocd-person/138f964d-7137-487b-96d6-ad836b67db83",
+    "name": "Stella Pekarsky",
+    "chamber": "senate",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S124",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Pekarsky36"
+  },
+  {
+    "id": "ocd-person/c3391ffd-a783-4d34-81ca-ecad4cd6d16a",
+    "name": "Tammy Mulchi",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S131",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Mulchi9"
+  },
+  {
+    "id": "ocd-person/e142c869-a7a9-411a-8d73-563403f6ddd4",
+    "name": "Tara Durant",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S120",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Durant27"
+  },
+  {
+    "id": "ocd-person/cb9573ab-1bf6-45d5-a8d7-476d7bed94a8",
+    "name": "Terry Austin",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0253",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0253"
+  },
+  {
+    "id": "ocd-person/9303514b-3bce-4ddc-87d2-17a6ba4d6194",
+    "name": "Terry Kilgore",
+    "chamber": "house",
+    "party": "R",
+    "district": "45",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0056",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0056"
+  },
+  {
+    "id": "ocd-person/d112b6c3-e52f-4da4-a6fe-5866bf3f6799",
+    "name": "Tim Griffin",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0364",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0364"
+  },
+  {
+    "id": "ocd-person/ba57d68e-01e5-46ed-b305-ec08dece665b",
+    "name": "Timmy French",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S121",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/TimmyFrench2023.jpg"
+  },
+  {
+    "id": "ocd-person/0d2983ef-93a5-4d84-9fa3-2c796024562a",
+    "name": "Todd Pillion",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S111",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Pillion6"
+  },
+  {
+    "id": "ocd-person/0bba07ba-7713-4ca7-8f44-699c832e0d2a",
+    "name": "Tom Garrett",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0362",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0362"
+  },
+  {
+    "id": "ocd-person/894118dd-1470-48b7-b84b-831ddba58e1b",
+    "name": "Tommy Wright",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0136",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0136"
+  },
+  {
+    "id": "ocd-person/94fa59c7-00b0-4e15-9887-8af534217476",
+    "name": "Tony Wilt",
+    "chamber": "house",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0231",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0231"
+  },
+  {
+    "id": "ocd-person/3605a4dd-d800-4820-a50c-6cd3b0ab4511",
+    "name": "Travis Hackworth",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://apps.senate.virginia.gov/Senator/memberpage.php?id=S112",
+    "imageUrl": "https://apps.senate.virginia.gov/Senator/images/member_photos/Hackworth5"
+  },
+  {
+    "id": "ocd-person/63c0c8ef-ded6-406e-9d5d-a114fa35e26a",
+    "name": "Virgil Thornton",
+    "chamber": "house",
+    "party": "D",
+    "district": "86",
+    "bioUrl": "https://house.vga.virginia.gov/members/H0400",
+    "imageUrl": "https://house.vga.virginia.gov/delegate_photos/H0400.jpg"
+  },
+  {
+    "id": "ocd-person/b251a648-d2d3-4799-8213-e803fed621de",
+    "name": "Vivian Watts",
+    "chamber": "house",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0108",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0108"
+  },
+  {
+    "id": "ocd-person/18756686-0b6c-4a7d-ade9-db2cafcac870",
+    "name": "Wendell Walker",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0325",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0325"
+  },
+  {
+    "id": "ocd-person/53937ad8-9c5b-4493-95fc-a18565577dd8",
+    "name": "Will Davis",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0357",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0357"
+  },
+  {
+    "id": "ocd-person/0f77b7d1-a89e-41cd-ae83-28d267dab0e2",
+    "name": "Will Morefield",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0224",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0224"
+  },
+  {
+    "id": "ocd-person/d3a4b614-4a6f-4b38-b3cc-8990f0f7d4d3",
+    "name": "Wren Williams",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://virginiageneralassembly.gov/house/members/members.php?id=H0348",
+    "imageUrl": "https://memdata.virginiageneralassembly.gov/images/display_image/H0348"
+  }
+]

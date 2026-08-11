@@ -1,0 +1,506 @@
+[
+  {
+    "id": "ocd-organization/3dd031a4-959e-496a-b539-c2e16bd43005",
+    "name": "Agriculture and Environment",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9f87e7d6-a307-45ab-b384-96a8599dab56",
+      "ocd-person/ff0ea974-b3aa-4261-aa1b-fa9cf74b3728",
+      "ocd-person/be1149eb-5b0c-48fb-b9f2-9bee875479cc",
+      "ocd-person/099756de-3b84-4531-b5da-6d1c5d4c89ee",
+      "ocd-person/d76e8f2c-2e55-4d2a-94e4-c13cc0a9e5e2"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=AEN"
+  },
+  {
+    "id": "ocd-organization/e0c68409-5f53-4802-a66e-497f86d215f7",
+    "name": "Agriculture and Food Systems",
+    "chamber": "house",
+    "members": [
+      "ocd-person/00c3bae0-1087-4a2f-bee8-af0fbd2c6cf6",
+      "ocd-person/fb23dd18-ee42-45da-9fc5-8379ced56c88",
+      "ocd-person/cb860f85-2006-4d5b-b1a8-1c56c1def2d7",
+      "ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad",
+      "ocd-person/8562d0d7-9915-4559-98bc-ac9c456efd02",
+      "ocd-person/43795702-8cb7-40a5-945d-80fca537e085",
+      "ocd-person/078931f6-9caa-4ba0-9f53-2b27e13ed400"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=AGR"
+  },
+  {
+    "id": "ocd-organization/ef28a501-ae8a-4510-ba7f-aad2a3a5bf21",
+    "name": "Commerce and Consumer Protection",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/07ed1559-820e-4ea1-803e-024ce5359a87",
+      "ocd-person/ca85a087-4a1f-450b-9386-11c13eb8c280",
+      "ocd-person/d31a4d99-d6f1-42f8-b902-b6bff3c667e8",
+      "ocd-person/be1149eb-5b0c-48fb-b9f2-9bee875479cc",
+      "ocd-person/19b5116e-d2b7-4f4b-8d7d-f4dfcbcbe1d6"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=CPN"
+  },
+  {
+    "id": "ocd-organization/5c114215-c442-46ae-aed8-c9dec776363d",
+    "name": "Consumer Protection and Commerce",
+    "chamber": "house",
+    "members": [
+      "ocd-person/78cc3d2c-31b6-421f-a666-5a96ca3fe65a",
+      "ocd-person/bce62096-6c4d-4923-8826-7f67a6aaf35d",
+      "ocd-person/0ce91900-de38-4ab2-a6fe-089b04b20b74",
+      "ocd-person/00c3bae0-1087-4a2f-bee8-af0fbd2c6cf6",
+      "ocd-person/313f96df-c94e-45d7-8cc6-19465ad40612",
+      "ocd-person/d56e9f60-c26e-4437-90d7-4414957e737d",
+      "ocd-person/824eca2b-d968-4807-a48b-7b3df400a904",
+      "ocd-person/546ef7bf-9015-4a09-b8d3-f37fd87ed97f",
+      "ocd-person/c4ea2b48-612d-42f4-b396-6f13c86bfe5b",
+      "ocd-person/43795702-8cb7-40a5-945d-80fca537e085",
+      "ocd-person/cbf4fe33-42cf-41c2-b689-5e4c0ff150f6"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=CPC"
+  },
+  {
+    "id": "ocd-organization/f570c1a5-f846-4d51-925d-7efe41440e61",
+    "name": "Culture and Arts",
+    "chamber": "house",
+    "members": [
+      "ocd-person/47a7e8c6-361d-4854-9253-e311b58d9e1c",
+      "ocd-person/cbf4fe33-42cf-41c2-b689-5e4c0ff150f6",
+      "ocd-person/442e3aac-61ca-4efe-bbb8-716654554597",
+      "ocd-person/451d1a20-20d4-4c75-95b9-ca4ba6dd3d1d",
+      "ocd-person/7d6cf0c1-16d4-4c56-bba5-a50c3c5c18ce",
+      "ocd-person/12d661c2-2391-4504-973d-e905022d3134"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=CAA"
+  },
+  {
+    "id": "ocd-organization/a5ac46d8-6f6e-43b0-a4cb-5d0b966081f8",
+    "name": "Economic Development and Technology",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d56e9f60-c26e-4437-90d7-4414957e737d",
+      "ocd-person/2f96974d-decf-46e2-8aed-adf60e072e1e",
+      "ocd-person/0ce91900-de38-4ab2-a6fe-089b04b20b74",
+      "ocd-person/6003933a-c572-4df8-8ad8-d3a4f8e70882",
+      "ocd-person/06d54403-a57b-40f8-96a6-94b58f4b2a0c",
+      "ocd-person/51f31e1a-2fe4-4029-b49c-c3affa0b848d",
+      "ocd-person/58181d36-e194-462d-a3cb-b3ab7615fbf9"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=ECD"
+  },
+  {
+    "id": "ocd-organization/059e5af5-a8fa-4b0f-bebc-e06b7cb3cb3f",
+    "name": "Economic Development and Tourism",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d76e8f2c-2e55-4d2a-94e4-c13cc0a9e5e2",
+      "ocd-person/5ef4a0ba-e9b0-4a62-9ac7-42d88308f3df",
+      "ocd-person/ca85a087-4a1f-450b-9386-11c13eb8c280",
+      "ocd-person/f196e943-c8d6-4a35-96c2-252171c6529a",
+      "ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=EDT"
+  },
+  {
+    "id": "ocd-organization/b8ed9be1-9495-4530-926d-c5e04dc180d3",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5d9e6c9d-a94b-4ff6-9828-ed2ce8ceeab0",
+      "ocd-person/9957f6f1-9231-45b3-940f-2122c1caf3f7",
+      "ocd-person/442e3aac-61ca-4efe-bbb8-716654554597",
+      "ocd-person/1a5995d1-114e-4e7e-a53f-d91017df2bc3",
+      "ocd-person/76c9a0ff-a9f0-47ac-bf3d-9f8ee134c411",
+      "ocd-person/c5582fc0-ff8a-4c69-85f9-efd464e1a482",
+      "ocd-person/47a7e8c6-361d-4854-9253-e311b58d9e1c",
+      "ocd-person/207b309f-9e03-4834-85cb-083725f7a7ab",
+      "ocd-person/128214ae-53bd-4dfe-88e6-ad3a70c6a83d",
+      "ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=EDN"
+  },
+  {
+    "id": "ocd-organization/06f93a49-d30b-4a73-8333-6c3f923eefd6",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f196e943-c8d6-4a35-96c2-252171c6529a",
+      "ocd-person/511d674b-1e98-4a1f-8af2-24f986a165d9",
+      "ocd-person/ca85a087-4a1f-450b-9386-11c13eb8c280",
+      "ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02",
+      "ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=EDU"
+  },
+  {
+    "id": "ocd-organization/a15d1c02-bcf7-4419-beab-858fb2f81e6c",
+    "name": "Energy and Environmental Protection",
+    "chamber": "house",
+    "members": [
+      "ocd-person/43795702-8cb7-40a5-945d-80fca537e085",
+      "ocd-person/cb860f85-2006-4d5b-b1a8-1c56c1def2d7",
+      "ocd-person/00c3bae0-1087-4a2f-bee8-af0fbd2c6cf6",
+      "ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad",
+      "ocd-person/8562d0d7-9915-4559-98bc-ac9c456efd02",
+      "ocd-person/fb23dd18-ee42-45da-9fc5-8379ced56c88",
+      "ocd-person/078931f6-9caa-4ba0-9f53-2b27e13ed400"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=EEP"
+  },
+  {
+    "id": "ocd-organization/0861682c-fe28-4d66-be5f-87c780c7d7ce",
+    "name": "Energy and Intergovernmental Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/5ef4a0ba-e9b0-4a62-9ac7-42d88308f3df",
+      "ocd-person/d6359473-e0b5-4040-8d7f-9d95a0518650",
+      "ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4",
+      "ocd-person/d76e8f2c-2e55-4d2a-94e4-c13cc0a9e5e2",
+      "ocd-person/ff0ea974-b3aa-4261-aa1b-fa9cf74b3728"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=EIG"
+  },
+  {
+    "id": "ocd-organization/993bfb1f-b03a-45d7-aece-af28fadf7da6",
+    "name": "Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6f62978c-5c1e-4a93-b182-caa7b97d45e0",
+      "ocd-person/928645f2-46ed-4153-ab60-5b7a8250dab3",
+      "ocd-person/cb860f85-2006-4d5b-b1a8-1c56c1def2d7",
+      "ocd-person/6003933a-c572-4df8-8ad8-d3a4f8e70882",
+      "ocd-person/801d5517-e486-41e4-8c3d-53528a3a8bef",
+      "ocd-person/21e33d30-ecf0-431b-ad89-429f026efc24",
+      "ocd-person/587a16dd-bb53-4164-829b-5e1703e06201",
+      "ocd-person/2f96974d-decf-46e2-8aed-adf60e072e1e",
+      "ocd-person/06d54403-a57b-40f8-96a6-94b58f4b2a0c",
+      "ocd-person/7d6cf0c1-16d4-4c56-bba5-a50c3c5c18ce",
+      "ocd-person/51f31e1a-2fe4-4029-b49c-c3affa0b848d",
+      "ocd-person/1d8bd1da-7126-4248-8a1e-dce56626b746",
+      "ocd-person/fb23dd18-ee42-45da-9fc5-8379ced56c88",
+      "ocd-person/12d661c2-2391-4504-973d-e905022d3134",
+      "ocd-person/58181d36-e194-462d-a3cb-b3ab7615fbf9",
+      "ocd-person/6311f34d-9611-42be-be12-017fcc0f7aa6",
+      "ocd-person/6fb71afb-6ce8-4f21-ad16-a7255ca2bfec"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=FIN"
+  },
+  {
+    "id": "ocd-organization/d48b78b3-9695-4aea-bcba-b5543d7df417",
+    "name": "Government Operations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d31a4d99-d6f1-42f8-b902-b6bff3c667e8",
+      "ocd-person/9f87e7d6-a307-45ab-b384-96a8599dab56",
+      "ocd-person/be1149eb-5b0c-48fb-b9f2-9bee875479cc",
+      "ocd-person/7e04af29-c684-402f-a7b0-bdde0591197c",
+      "ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=GVO"
+  },
+  {
+    "id": "ocd-organization/fb1cb5df-0425-40b5-85ef-1281d8b62cb9",
+    "name": "Hawaiian Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ff0ea974-b3aa-4261-aa1b-fa9cf74b3728",
+      "ocd-person/19b5116e-d2b7-4f4b-8d7d-f4dfcbcbe1d6",
+      "ocd-person/07ed1559-820e-4ea1-803e-024ce5359a87",
+      "ocd-person/94e42ecd-2e4d-4502-8b50-c1c6324617f1",
+      "ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HWN"
+  },
+  {
+    "id": "ocd-organization/2701b099-af9f-42b6-b529-62667d8b450c",
+    "name": "Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/33584899-9773-4fa2-96aa-869a6da7cf19",
+      "ocd-person/6311f34d-9611-42be-be12-017fcc0f7aa6",
+      "ocd-person/801d5517-e486-41e4-8c3d-53528a3a8bef",
+      "ocd-person/21e33d30-ecf0-431b-ad89-429f026efc24",
+      "ocd-person/810a94e5-8524-4de9-bdf2-2e0d6c64b7f2",
+      "ocd-person/c5582fc0-ff8a-4c69-85f9-efd464e1a482",
+      "ocd-person/928645f2-46ed-4153-ab60-5b7a8250dab3",
+      "ocd-person/c4ea2b48-612d-42f4-b396-6f13c86bfe5b",
+      "ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HLT"
+  },
+  {
+    "id": "ocd-organization/f47c2d5b-0591-46d8-9b37-0d8c7cc90672",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/cac74229-bacc-4358-8208-23cdac57d57c",
+      "ocd-person/d31a4d99-d6f1-42f8-b902-b6bff3c667e8",
+      "ocd-person/e75469cc-851a-4e63-9908-9e63b5215448",
+      "ocd-person/07ed1559-820e-4ea1-803e-024ce5359a87",
+      "ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HHS"
+  },
+  {
+    "id": "ocd-organization/d6574bfe-7ba4-451b-8020-93da7868bc8f",
+    "name": "Higher Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/442e3aac-61ca-4efe-bbb8-716654554597",
+      "ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a",
+      "ocd-person/1a5995d1-114e-4e7e-a53f-d91017df2bc3",
+      "ocd-person/76c9a0ff-a9f0-47ac-bf3d-9f8ee134c411",
+      "ocd-person/c5582fc0-ff8a-4c69-85f9-efd464e1a482",
+      "ocd-person/47a7e8c6-361d-4854-9253-e311b58d9e1c",
+      "ocd-person/5d9e6c9d-a94b-4ff6-9828-ed2ce8ceeab0",
+      "ocd-person/207b309f-9e03-4834-85cb-083725f7a7ab",
+      "ocd-person/128214ae-53bd-4dfe-88e6-ad3a70c6a83d",
+      "ocd-person/9957f6f1-9231-45b3-940f-2122c1caf3f7"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HED"
+  },
+  {
+    "id": "ocd-organization/471b0e75-fec0-4cba-8bc8-90e442e49deb",
+    "name": "Housing",
+    "chamber": "house",
+    "members": [
+      "ocd-person/128214ae-53bd-4dfe-88e6-ad3a70c6a83d",
+      "ocd-person/6fb71afb-6ce8-4f21-ad16-a7255ca2bfec",
+      "ocd-person/1a5995d1-114e-4e7e-a53f-d91017df2bc3",
+      "ocd-person/76c9a0ff-a9f0-47ac-bf3d-9f8ee134c411",
+      "ocd-person/313f96df-c94e-45d7-8cc6-19465ad40612",
+      "ocd-person/f7bd1cdd-c131-47eb-ab96-1a7c0599bfa7",
+      "ocd-person/1d8bd1da-7126-4248-8a1e-dce56626b746",
+      "ocd-person/bce62096-6c4d-4923-8826-7f67a6aaf35d",
+      "ocd-person/9957f6f1-9231-45b3-940f-2122c1caf3f7"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HSG"
+  },
+  {
+    "id": "ocd-organization/5e0d03d6-e03e-4e84-aa07-5d840d8e05b3",
+    "name": "Housing",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d6359473-e0b5-4040-8d7f-9d95a0518650",
+      "ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e",
+      "ocd-person/22139704-8a26-4f4a-8a03-989990c21f37",
+      "ocd-person/099756de-3b84-4531-b5da-6d1c5d4c89ee",
+      "ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HOU"
+  },
+  {
+    "id": "ocd-organization/0860868f-18ab-4376-bb5c-a0ea4aabcd27",
+    "name": "Human Services and Homelessness",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c4ea2b48-612d-42f4-b396-6f13c86bfe5b",
+      "ocd-person/c5582fc0-ff8a-4c69-85f9-efd464e1a482",
+      "ocd-person/801d5517-e486-41e4-8c3d-53528a3a8bef",
+      "ocd-person/21e33d30-ecf0-431b-ad89-429f026efc24",
+      "ocd-person/810a94e5-8524-4de9-bdf2-2e0d6c64b7f2",
+      "ocd-person/33584899-9773-4fa2-96aa-869a6da7cf19",
+      "ocd-person/928645f2-46ed-4153-ab60-5b7a8250dab3",
+      "ocd-person/6311f34d-9611-42be-be12-017fcc0f7aa6",
+      "ocd-person/3c16b940-790f-43f2-946d-998b6177dc5a"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=HSH"
+  },
+  {
+    "id": "ocd-organization/ad99dc76-b0b7-463b-8944-83218c42853a",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/099756de-3b84-4531-b5da-6d1c5d4c89ee",
+      "ocd-person/9f87e7d6-a307-45ab-b384-96a8599dab56",
+      "ocd-person/be1149eb-5b0c-48fb-b9f2-9bee875479cc",
+      "ocd-person/cac74229-bacc-4358-8208-23cdac57d57c",
+      "ocd-person/d6359473-e0b5-4040-8d7f-9d95a0518650"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=JDC"
+  },
+  {
+    "id": "ocd-organization/442e7c14-41a4-46e0-b329-3d4c993432f7",
+    "name": "Judiciary and Hawaiian Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fca91474-67f3-4b01-a985-6b0ddbfb2227",
+      "ocd-person/c6f087db-713b-43c2-b557-7306f62ee15c",
+      "ocd-person/b3a0c91b-d6fd-4a54-9a34-2ba48cc53984",
+      "ocd-person/810a94e5-8524-4de9-bdf2-2e0d6c64b7f2",
+      "ocd-person/f7bd1cdd-c131-47eb-ab96-1a7c0599bfa7",
+      "ocd-person/9019d5ea-bfe8-4cca-9254-7960319a15bc",
+      "ocd-person/33584899-9773-4fa2-96aa-869a6da7cf19",
+      "ocd-person/451d1a20-20d4-4c75-95b9-ca4ba6dd3d1d",
+      "ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad",
+      "ocd-person/f2d1de1a-c206-46f7-8c5f-a6193229642f"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=JHA"
+  },
+  {
+    "id": "ocd-organization/e5723db2-33a9-43ea-950c-648016dd9ab0",
+    "name": "Labor",
+    "chamber": "house",
+    "members": [
+      "ocd-person/451d1a20-20d4-4c75-95b9-ca4ba6dd3d1d",
+      "ocd-person/12d661c2-2391-4504-973d-e905022d3134",
+      "ocd-person/442e3aac-61ca-4efe-bbb8-716654554597",
+      "ocd-person/47a7e8c6-361d-4854-9253-e311b58d9e1c",
+      "ocd-person/7d6cf0c1-16d4-4c56-bba5-a50c3c5c18ce",
+      "ocd-person/cbf4fe33-42cf-41c2-b689-5e4c0ff150f6"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LAB"
+  },
+  {
+    "id": "ocd-organization/c5cd77a3-ed19-4afd-9a1a-136eda16559f",
+    "name": "Labor and Technology",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/22139704-8a26-4f4a-8a03-989990c21f37",
+      "ocd-person/19b5116e-d2b7-4f4b-8d7d-f4dfcbcbe1d6",
+      "ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4",
+      "ocd-person/94e42ecd-2e4d-4502-8b50-c1c6324617f1",
+      "ocd-person/7e04af29-c684-402f-a7b0-bdde0591197c"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LBT"
+  },
+  {
+    "id": "ocd-organization/8ed60a9c-7984-4179-bfe9-cd91c7a98fbd",
+    "name": "Legislative Management",
+    "chamber": "house",
+    "members": [
+      "ocd-person/078931f6-9caa-4ba0-9f53-2b27e13ed400",
+      "ocd-person/546ef7bf-9015-4a09-b8d3-f37fd87ed97f",
+      "ocd-person/587a16dd-bb53-4164-829b-5e1703e06201",
+      "ocd-person/b6d9dda7-d2e1-443e-a19b-ee44ed891cad",
+      "ocd-person/8562d0d7-9915-4559-98bc-ac9c456efd02"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=LMG"
+  },
+  {
+    "id": "ocd-organization/f1ff7236-0a34-4415-9cef-98d53f6a946b",
+    "name": "Public Safety",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b3a0c91b-d6fd-4a54-9a34-2ba48cc53984",
+      "ocd-person/824eca2b-d968-4807-a48b-7b3df400a904",
+      "ocd-person/587a16dd-bb53-4164-829b-5e1703e06201",
+      "ocd-person/9019d5ea-bfe8-4cca-9254-7960319a15bc",
+      "ocd-person/5d9e6c9d-a94b-4ff6-9828-ed2ce8ceeab0",
+      "ocd-person/207b309f-9e03-4834-85cb-083725f7a7ab",
+      "ocd-person/546ef7bf-9015-4a09-b8d3-f37fd87ed97f",
+      "ocd-person/c6f087db-713b-43c2-b557-7306f62ee15c",
+      "ocd-person/f2d1de1a-c206-46f7-8c5f-a6193229642f"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=PBS"
+  },
+  {
+    "id": "ocd-organization/8c0bede2-74f3-4192-adf7-797079196045",
+    "name": "Public Safety and Military Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ca85a087-4a1f-450b-9386-11c13eb8c280",
+      "ocd-person/3484e323-b1a2-4c41-ad9f-8153445f8cd4",
+      "ocd-person/77991a5e-d7df-4282-b1cc-2398c56c18cc",
+      "ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02",
+      "ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=PSM"
+  },
+  {
+    "id": "ocd-organization/b2a64d16-af25-42ac-849d-4933af95e1d4",
+    "name": "Tourism",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0ce91900-de38-4ab2-a6fe-089b04b20b74",
+      "ocd-person/58181d36-e194-462d-a3cb-b3ab7615fbf9",
+      "ocd-person/6003933a-c572-4df8-8ad8-d3a4f8e70882",
+      "ocd-person/d56e9f60-c26e-4437-90d7-4414957e737d",
+      "ocd-person/2f96974d-decf-46e2-8aed-adf60e072e1e",
+      "ocd-person/06d54403-a57b-40f8-96a6-94b58f4b2a0c",
+      "ocd-person/51f31e1a-2fe4-4029-b49c-c3affa0b848d"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TOU"
+  },
+  {
+    "id": "ocd-organization/8550ee7e-fc0f-4400-ae4e-324246161f09",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/76c9a0ff-a9f0-47ac-bf3d-9f8ee134c411",
+      "ocd-person/6fb71afb-6ce8-4f21-ad16-a7255ca2bfec",
+      "ocd-person/1a5995d1-114e-4e7e-a53f-d91017df2bc3",
+      "ocd-person/313f96df-c94e-45d7-8cc6-19465ad40612",
+      "ocd-person/f7bd1cdd-c131-47eb-ab96-1a7c0599bfa7",
+      "ocd-person/1d8bd1da-7126-4248-8a1e-dce56626b746",
+      "ocd-person/128214ae-53bd-4dfe-88e6-ad3a70c6a83d",
+      "ocd-person/bce62096-6c4d-4923-8826-7f67a6aaf35d",
+      "ocd-person/9957f6f1-9231-45b3-940f-2122c1caf3f7"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TRN"
+  },
+  {
+    "id": "ocd-organization/32d4f2ea-49ff-48e2-a7ad-9d0e23b65210",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/77991a5e-d7df-4282-b1cc-2398c56c18cc",
+      "ocd-person/22139704-8a26-4f4a-8a03-989990c21f37",
+      "ocd-person/3484e323-b1a2-4c41-ad9f-8153445f8cd4",
+      "ocd-person/e75469cc-851a-4e63-9908-9e63b5215448",
+      "ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=TRS"
+  },
+  {
+    "id": "ocd-organization/fc984c9b-6efe-4475-960c-2be1077e122b",
+    "name": "Water and Land",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f2d1de1a-c206-46f7-8c5f-a6193229642f",
+      "ocd-person/587a16dd-bb53-4164-829b-5e1703e06201",
+      "ocd-person/b3a0c91b-d6fd-4a54-9a34-2ba48cc53984",
+      "ocd-person/9019d5ea-bfe8-4cca-9254-7960319a15bc",
+      "ocd-person/5d9e6c9d-a94b-4ff6-9828-ed2ce8ceeab0",
+      "ocd-person/207b309f-9e03-4834-85cb-083725f7a7ab",
+      "ocd-person/824eca2b-d968-4807-a48b-7b3df400a904",
+      "ocd-person/546ef7bf-9015-4a09-b8d3-f37fd87ed97f",
+      "ocd-person/c6f087db-713b-43c2-b557-7306f62ee15c"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=WAL"
+  },
+  {
+    "id": "ocd-organization/2ae6cc98-af07-433b-b87b-384bfc7efc08",
+    "name": "Water, Land, Culture and the Arts",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/3484e323-b1a2-4c41-ad9f-8153445f8cd4",
+      "ocd-person/77991a5e-d7df-4282-b1cc-2398c56c18cc",
+      "ocd-person/19b5116e-d2b7-4f4b-8d7d-f4dfcbcbe1d6",
+      "ocd-person/8a60db8b-b07f-45da-8169-46ddd043ce02",
+      "ocd-person/d6359473-e0b5-4040-8d7f-9d95a0518650"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=WLA"
+  },
+  {
+    "id": "ocd-organization/39c39f12-224f-4c1e-9c7b-404bfe9af720",
+    "name": "Ways and Means",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0a9ef1d8-8fec-48f4-963c-50f39332cfa7",
+      "ocd-person/7e04af29-c684-402f-a7b0-bdde0591197c",
+      "ocd-person/22139704-8a26-4f4a-8a03-989990c21f37",
+      "ocd-person/3484e323-b1a2-4c41-ad9f-8153445f8cd4",
+      "ocd-person/f196e943-c8d6-4a35-96c2-252171c6529a",
+      "ocd-person/e75469cc-851a-4e63-9908-9e63b5215448",
+      "ocd-person/5ef4a0ba-e9b0-4a62-9ac7-42d88308f3df",
+      "ocd-person/e6bafd21-a2de-41b8-8139-fcbf5ea94cf4",
+      "ocd-person/77991a5e-d7df-4282-b1cc-2398c56c18cc",
+      "ocd-person/d76e8f2c-2e55-4d2a-94e4-c13cc0a9e5e2",
+      "ocd-person/511d674b-1e98-4a1f-8af2-24f986a165d9",
+      "ocd-person/ff0ea974-b3aa-4261-aa1b-fa9cf74b3728",
+      "ocd-person/3b99a717-698f-4bcf-a630-183bb63e623e"
+    ],
+    "officialUrl": "https://www.capitol.hawaii.gov/legislature/committeepage.aspx?comm=WAM"
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "id": "ocd-organization/7c56a193-8da9-47b4-a877-c1f3e7d4caf4",
+    "name": "Administration",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+      "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=581"
+  },
+  {
+    "id": "ocd-organization/5a2e3301-3fe0-4af7-ba7c-95e56844f5ab",
+    "name": "Agriculture",
+    "chamber": "house",
+    "members": [
+      "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+      "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=582"
+  },
+  {
+    "id": "ocd-organization/02d05dc8-f7db-469c-bd4c-29f3b9d3acd0",
+    "name": "Agriculture",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+      "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b",
+      "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=603"
+  },
+  {
+    "id": "ocd-organization/c2316c60-0c7e-4758-8c77-12de9208559b",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=583"
+  },
+  {
+    "id": "ocd-organization/fb86d07d-4bc5-494f-8d46-cddb39fcb11b",
+    "name": "Banking, Business, Insurance and Technology",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
+      "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=607"
+  },
+  {
+    "id": "ocd-organization/6d7ba001-880d-4ce3-990a-1edc4bd457a0",
+    "name": "Capital Improvement",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb"
+    ],
+    "officialUrl": "https://legis.delaware.gov/Committee/CapitalImprovement"
+  },
+  {
+    "id": "ocd-organization/aa6c27f2-1b5b-41f6-913d-491af00a5e61",
+    "name": "Capital Improvement",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+      "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=608"
+  },
+  {
+    "id": "ocd-organization/2c1d5966-abf1-45c0-8d93-3406ad52b356",
+    "name": "Capital Infrastructure",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=584"
+  },
+  {
+    "id": "ocd-organization/0f43772d-7f39-459b-ba27-3f51e6d1ddcf",
+    "name": "Corrections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=585"
+  },
+  {
+    "id": "ocd-organization/1d5cf0d4-321d-4687-8a13-1aa4cce1f73f",
+    "name": "Corrections and Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=609"
+  },
+  {
+    "id": "ocd-organization/72f2efba-598d-4f3f-9d0b-6a186aa52c93",
+    "name": "Economic Development, Banking, Insurance and Commerce",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+      "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+      "ocd-person/11732933-9dce-46b4-8683-67e8449b315b",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+      "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+      "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
+      "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=586"
+  },
+  {
+    "id": "ocd-organization/493ebb67-3e50-404c-88ec-c57f441e43c3",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
+      "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/11732933-9dce-46b4-8683-67e8449b315b",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
+      "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/6fd6e720-822c-45ee-8fac-933b4eb9ccb5",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=587"
+  },
+  {
+    "id": "ocd-organization/f73ae535-b73c-4be8-8753-0258a1280d74",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
+      "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=604"
+  },
+  {
+    "id": "ocd-organization/d74a486a-e165-4ee4-9564-dc1544165705",
+    "name": "Elections and Government Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+      "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
+      "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=661"
+  },
+  {
+    "id": "ocd-organization/6ad9bc17-ce7a-420d-8c0d-ed72e4102f5b",
+    "name": "Elections and Government Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+      "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=611"
+  },
+  {
+    "id": "ocd-organization/ad2f7024-e8d4-476f-9074-2a9e86b644bd",
+    "name": "Environment, Energy and Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366",
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
+      "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=610"
+  },
+  {
+    "id": "ocd-organization/860c3678-df60-46c1-a130-1c364e514a61",
+    "name": "Ethics",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+      "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=588"
+  },
+  {
+    "id": "ocd-organization/deba598d-fd05-4e46-a933-90cfd9cc465b",
+    "name": "Executive",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=602"
+  },
+  {
+    "id": "ocd-organization/97536161-b0ee-4a6f-bc3a-4acaa400a45f",
+    "name": "Finance",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
+      "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+      "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b"
+    ],
+    "officialUrl": "https://legis.delaware.gov/Committee/JointFinance"
+  },
+  {
+    "id": "ocd-organization/1c975458-f9e8-44c0-a460-2f0b8ad85511",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d",
+      "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=605"
+  },
+  {
+    "id": "ocd-organization/c7889c6c-e9d5-418f-bcb1-b593dac4a294",
+    "name": "Gaming and Parimutuels",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/6fd6e720-822c-45ee-8fac-933b4eb9ccb5",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=589"
+  },
+  {
+    "id": "ocd-organization/8833c7bd-0f2e-4d19-940b-a8a7d7df08e9",
+    "name": "Health and Human Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e",
+      "ocd-person/11732933-9dce-46b4-8683-67e8449b315b",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+      "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+      "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=590"
+  },
+  {
+    "id": "ocd-organization/aa1283bf-8561-4072-b4d3-5ea16d388d98",
+    "name": "Health and Social Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=612"
+  },
+  {
+    "id": "ocd-organization/c415ff7a-e944-40a8-bb7e-280e1330bc1d",
+    "name": "Housing",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+      "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+      "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+      "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
+      "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
+      "ocd-person/6a8995a4-deab-416f-89ce-987c8c6557aa",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=592"
+  },
+  {
+    "id": "ocd-organization/54b5ae14-b0d6-44bb-94c7-5766ba25a919",
+    "name": "Housing",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=617"
+  },
+  {
+    "id": "ocd-organization/0d6b7911-22d4-4640-8758-803a3fc40691",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/11732933-9dce-46b4-8683-67e8449b315b",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+      "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
+      "ocd-person/6fd6e720-822c-45ee-8fac-933b4eb9ccb5",
+      "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=593"
+  },
+  {
+    "id": "ocd-organization/cdfcd7ac-82a4-443b-af53-66123790c763",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=613"
+  },
+  {
+    "id": "ocd-organization/90c91d1f-36db-48a8-bbe6-6732a83f0ef2",
+    "name": "Labor",
+    "chamber": "house",
+    "members": [
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+      "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+      "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=594"
+  },
+  {
+    "id": "ocd-organization/b130d3f0-2096-4318-bc59-ab5bf3cb373a",
+    "name": "Labor",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+      "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=614"
+  },
+  {
+    "id": "ocd-organization/6c123489-e4f6-4056-bb2d-de8b8f4b0f8c",
+    "name": "Legislative Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f",
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5"
+    ],
+    "officialUrl": "https://legis.delaware.gov/Committee/LegislativeCouncil"
+  },
+  {
+    "id": "ocd-organization/3640407c-0d8e-4af4-8317-430e85ad2c34",
+    "name": "Legislative Oversight and Sunset",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/Committee/Sunset"
+  },
+  {
+    "id": "ocd-organization/4d1edfb2-a7e4-4e0a-bb80-44c38a2d6df2",
+    "name": "Legislative Oversight and Sunset",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=606"
+  },
+  {
+    "id": "ocd-organization/b0ba480c-915c-4657-bdd6-f7a9ad85ce5d",
+    "name": "Natural Resources and Energy",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
+      "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+      "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=595"
+  },
+  {
+    "id": "ocd-organization/95d6e6a9-defb-4c6a-9edc-9b63ff2febc2",
+    "name": "Public Safety and Homeland Security",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
+      "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=596"
+  },
+  {
+    "id": "ocd-organization/b90e5bcc-b1be-4260-8756-da34af8f8add",
+    "name": "Revenue and Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
+      "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+      "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=597"
+  },
+  {
+    "id": "ocd-organization/7600147e-43a1-4369-918c-3a9992ea7a94",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+      "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=591"
+  },
+  {
+    "id": "ocd-organization/c53717fe-ac55-4593-9290-e62da078d600",
+    "name": "Rules and Ethics",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=615"
+  },
+  {
+    "id": "ocd-organization/b3c69e60-7676-49a8-8b36-d7fc6d4f1a28",
+    "name": "Special Property Reassessment",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+      "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+      "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
+      "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+      "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=662"
+  },
+  {
+    "id": "ocd-organization/df25d70c-6797-4def-8c2a-8c1ba8df5c2e",
+    "name": "Special Property Reassessment",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
+      "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=663"
+  },
+  {
+    "id": "ocd-organization/1a0d6d90-c3b1-4d0e-b75d-953d208803e0",
+    "name": "Sunset Committee (Policy Analysis and Government Accountability)",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=598"
+  },
+  {
+    "id": "ocd-organization/77151270-9316-499e-a3e6-090ad38e5f48",
+    "name": "Technology and Telecommunications",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+      "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
+      "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+      "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+      "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=599"
+  },
+  {
+    "id": "ocd-organization/e35dc025-28f7-4f37-afae-10c83976c982",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+      "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+      "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+      "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
+      "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=600"
+  },
+  {
+    "id": "ocd-organization/3372629e-2ec7-4e5f-b698-2f6db6e909bc",
+    "name": "Veterans Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+      "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+      "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+      "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+      "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+      "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+      "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+      "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+      "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+      "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+      "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+      "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+      "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+      "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+      "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+      "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+      "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+      "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
+      "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+      "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+      "ocd-person/6a8995a4-deab-416f-89ce-987c8c6557aa",
+      "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+      "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+      "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
+      "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
+      "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+      "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=601"
+  },
+  {
+    "id": "ocd-organization/904ee2c9-1059-453c-a49b-2fb2e2886e4e",
+    "name": "Veterans Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+      "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
+      "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+      "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+      "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+      "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+      "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+      "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+      "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+      "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+      "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+      "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+      "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+      "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366",
+      "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+      "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d"
+    ],
+    "officialUrl": "https://legis.delaware.gov/CommitteeDetail?committeeId=616"
+  }
+]

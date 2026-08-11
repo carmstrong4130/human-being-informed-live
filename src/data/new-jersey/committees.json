@@ -1,0 +1,768 @@
+[
+  {
+    "id": "ocd-organization/2e903cef-3c10-4629-ad4a-7f26f1bf738e",
+    "name": "Aging and Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/304c7552-b833-4b9c-b125-39030b8376ff",
+      "ocd-person/c5469bd6-29bd-4054-9ac0-3577d17422d4",
+      "ocd-person/790ac0bd-71fa-4446-b1fa-b013e4b4f33e",
+      "ocd-person/86641d6d-4538-453d-974f-aec40c42a33d",
+      "ocd-person/036d00b8-5e0b-4bc0-ae46-f0bf5e1b9a73",
+      "ocd-person/589a73bd-a164-472a-8b50-4b4d0846cd24"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AHU"
+  },
+  {
+    "id": "ocd-organization/df2b8567-54e8-477a-be7f-861599d0fa89",
+    "name": "Agriculture and Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/acf3b54e-9725-4867-aaa5-9275ada21b37",
+      "ocd-person/5d619c98-5127-433c-99c6-adb888ab407b",
+      "ocd-person/fc986c0e-c1cd-422f-80c1-4d3691f34f28",
+      "ocd-person/790ac0bd-71fa-4446-b1fa-b013e4b4f33e",
+      "ocd-person/d80f0df2-57cd-436b-a250-7413ec11fe27",
+      "ocd-person/028a440f-10cb-49cc-9417-1dfd0cff83e2"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AAN"
+  },
+  {
+    "id": "ocd-organization/d93ef5fd-f617-4209-b166-2fca398239ac",
+    "name": "Apportionment Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/525b3307-b007-4cfa-8166-efb0810fcda7",
+      "ocd-person/08a758f9-92fb-4e59-ac8f-edc75aaf3390"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/other-committees"
+  },
+  {
+    "id": "ocd-organization/cb72fb13-3038-43be-9a4b-29bfd9df1559",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299",
+      "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf",
+      "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab",
+      "ocd-person/a189187b-df3f-4f10-8e5c-744ad7071787",
+      "ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77",
+      "ocd-person/38f2061a-a83f-45bc-92a2-817f44d6b377",
+      "ocd-person/64a8c09d-24a2-4d4c-a071-d09f0a30c79f",
+      "ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e",
+      "ocd-person/93a1a3ce-eb52-4e71-b01c-346f41b6bde4",
+      "ocd-person/85863833-b5e6-40f2-aafc-5a0fc5f790d0",
+      "ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0",
+      "ocd-person/0bf3c2a3-9004-40cb-8d3a-eeeca4b0b967",
+      "ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98",
+      "ocd-person/a33ec105-c8ff-446b-ae8b-1a79f402f983",
+      "ocd-person/c05a0080-95df-4576-a81c-d509fb4a5063"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AAP"
+  },
+  {
+    "id": "ocd-organization/cad83c83-2305-4e4c-b0e9-803b0344f01f",
+    "name": "Budget",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e",
+      "ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4",
+      "ocd-person/d358cf84-b9ae-4bce-bb28-aa083fe082b4",
+      "ocd-person/525b3307-b007-4cfa-8166-efb0810fcda7",
+      "ocd-person/4dab8e3a-93be-4ad7-8cb1-5009e4c7d232",
+      "ocd-person/3d5d3c07-70ed-481a-91ba-a19fce581561",
+      "ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3",
+      "ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095",
+      "ocd-person/2078f4b2-3e69-4e01-aada-3ccf21ba6173",
+      "ocd-person/93a1a3ce-eb52-4e71-b01c-346f41b6bde4",
+      "ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf",
+      "ocd-person/9228b053-be5e-4490-aadc-ece59b7421fd",
+      "ocd-person/96eb992c-0f0c-4db5-b146-76349604f4d3",
+      "ocd-person/77b80e3f-bfdd-4c81-b92e-866c17abd398",
+      "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ABU"
+  },
+  {
+    "id": "ocd-organization/bcc1dc45-8efd-4c37-884e-1b8dead24ab7",
+    "name": "Budget and Appropriations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/1d8eb6cf-cff2-4948-ba03-7f31fcadd4ec",
+      "ocd-person/27646653-40e2-4c79-b608-0f2edcaa0322",
+      "ocd-person/7782ffcd-73df-41b5-9857-fd7b10953bf3",
+      "ocd-person/0f0e1edc-6ab5-4fca-8999-2db3229c5d19",
+      "ocd-person/ac044b70-7745-435a-9c38-c4af013d0b0e",
+      "ocd-person/2798197f-1516-44ef-9933-99e5b23f19c8",
+      "ocd-person/53fe6716-2bdb-4926-993f-4a2cf002ad51",
+      "ocd-person/1b726d76-851a-487b-a6e6-42ee4fa5c050",
+      "ocd-person/4cb8db73-8982-4b4f-9c90-f86b20b217bc",
+      "ocd-person/b656905a-de58-4d36-b433-276788233b1f",
+      "ocd-person/16048732-130c-4102-b6e7-2d8faa0c3f52",
+      "ocd-person/b8495630-20f7-4f9e-bf84-2a13a6da3794",
+      "ocd-person/907aae0b-1026-405a-9429-cadd01efd79d"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SBA"
+  },
+  {
+    "id": "ocd-organization/08b84348-1899-4449-afb6-08fdd3336773",
+    "name": "Budget Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3",
+      "ocd-person/ac044b70-7745-435a-9c38-c4af013d0b0e",
+      "ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e",
+      "ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299",
+      "ocd-person/1d8eb6cf-cff2-4948-ba03-7f31fcadd4ec",
+      "ocd-person/907aae0b-1026-405a-9429-cadd01efd79d"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/joint-committees?committee=JBOC"
+  },
+  {
+    "id": "ocd-organization/e68278a4-051e-46a1-9d80-34274246bdf6",
+    "name": "Children, Families and Food Security",
+    "chamber": "house",
+    "members": [
+      "ocd-person/49be7512-9343-4189-8769-4497ed129a92",
+      "ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095",
+      "ocd-person/b5f9d8c9-0f98-4d89-8a5f-82152f41687d",
+      "ocd-person/85863833-b5e6-40f2-aafc-5a0fc5f790d0",
+      "ocd-person/e4c2301b-6812-423e-b27a-c40919f4bd5d",
+      "ocd-person/27b085de-d164-466e-845b-fc1de27a2da9"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/assembly-committees?committee=ACF"
+  },
+  {
+    "id": "ocd-organization/dd258566-a9c3-4135-9772-84d3bd935066",
+    "name": "Commerce",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/90a0a109-2ce3-4a55-8761-1e07ff875703",
+      "ocd-person/5dcef6ac-7dbe-4c65-a53b-670c89a615e7",
+      "ocd-person/45219a29-080f-4452-9b05-92488e96f2f1",
+      "ocd-person/53fe6716-2bdb-4926-993f-4a2cf002ad51",
+      "ocd-person/08a758f9-92fb-4e59-ac8f-edc75aaf3390"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SCM"
+  },
+  {
+    "id": "ocd-organization/25fc308d-c75b-4d4f-9ede-710ce5470988",
+    "name": "Commerce and Economic Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3d5d3c07-70ed-481a-91ba-a19fce581561",
+      "ocd-person/49be7512-9343-4189-8769-4497ed129a92",
+      "ocd-person/006c1bd9-54e9-49be-9d02-12dda1119149",
+      "ocd-person/383fdfc0-c14a-433f-8f1d-a29e6350c5ca",
+      "ocd-person/df6d2d1f-3fb0-4e93-93cf-26665cae9a23",
+      "ocd-person/f152f2d6-e4ff-4958-996d-532c310ddef1",
+      "ocd-person/3d57728e-0da2-4df4-891e-9cc8e0e9b219"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ACE"
+  },
+  {
+    "id": "ocd-organization/ac84b478-4040-4824-9688-c4f26926a625",
+    "name": "Community and Urban Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a1c9ec59-4127-4973-b100-f35c30bb817c",
+      "ocd-person/6f616307-dafe-44ca-a6b3-5f9516d21f89",
+      "ocd-person/18fa38fc-954e-43d9-a294-a2068828216e",
+      "ocd-person/0f0e1edc-6ab5-4fca-8999-2db3229c5d19",
+      "ocd-person/57fe7d05-af12-4f44-b143-e19814f2cfa2"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SCU"
+  },
+  {
+    "id": "ocd-organization/eaf569f7-4c36-439e-9df8-0493f0061fe0",
+    "name": "Community Development and Women's Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c05a0080-95df-4576-a81c-d509fb4a5063",
+      "ocd-person/03acbfd3-a81b-4461-aff4-db7ecf5e8e48",
+      "ocd-person/790ac0bd-71fa-4446-b1fa-b013e4b4f33e",
+      "ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32",
+      "ocd-person/af1dfa82-2c03-4b0c-bf63-1eef9e8b6616",
+      "ocd-person/97251dd4-e275-4347-a757-a05366fa5013",
+      "ocd-person/49be7512-9343-4189-8769-4497ed129a92",
+      "ocd-person/a0d9e9ac-6ede-4e36-8c9e-f7bd83cc704a"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/assembly-committees?committee=ACW"
+  },
+  {
+    "id": "ocd-organization/6a6ffd47-f412-4ceb-aca8-9bc9f2d81680",
+    "name": "Consumer Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d624fdfb-366e-41f1-83a7-2a8421350d3c",
+      "ocd-person/ec370db8-c51e-4022-9868-5cad9c38e97d",
+      "ocd-person/383fdfc0-c14a-433f-8f1d-a29e6350c5ca",
+      "ocd-person/dbe67894-e4cd-46ea-bb59-877a8b4f26d0",
+      "ocd-person/a04dc132-6a91-4e1b-a336-ede062d06884",
+      "ocd-person/a33ec105-c8ff-446b-ae8b-1a79f402f983",
+      "ocd-person/ac95c4e3-057b-43bc-8bee-752137bb2d12"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ACO"
+  },
+  {
+    "id": "ocd-organization/1fafa890-c4f9-4e0f-ae92-684fb6122d45",
+    "name": "Economic Growth",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b656905a-de58-4d36-b433-276788233b1f",
+      "ocd-person/26eb8b3c-59a5-49ca-841c-13a569444994",
+      "ocd-person/707e3027-d06f-4346-8c11-3ff1becbe725",
+      "ocd-person/4bf4c8e4-5a97-4100-b34d-cb01da6ab266",
+      "ocd-person/0880a4b0-8e91-484b-aa12-6e0444838c44"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SEG"
+  },
+  {
+    "id": "ocd-organization/751aadc0-e6ea-419b-b6aa-ff0344cb4732",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf",
+      "ocd-person/f152f2d6-e4ff-4958-996d-532c310ddef1",
+      "ocd-person/790ac0bd-71fa-4446-b1fa-b013e4b4f33e",
+      "ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d",
+      "ocd-person/a04dc132-6a91-4e1b-a336-ede062d06884",
+      "ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299",
+      "ocd-person/96eb992c-0f0c-4db5-b146-76349604f4d3"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AED"
+  },
+  {
+    "id": "ocd-organization/818b5899-e415-4f02-9e44-bd72bd28b9e0",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/76afbcca-bed8-4e2e-bc3a-0fd6d53158a5",
+      "ocd-person/26eb8b3c-59a5-49ca-841c-13a569444994",
+      "ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45",
+      "ocd-person/0880a4b0-8e91-484b-aa12-6e0444838c44",
+      "ocd-person/fee23b32-9f92-4951-889e-6d09749a78b9"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SED"
+  },
+  {
+    "id": "ocd-organization/2dfcffe1-62cf-4cfa-9f06-8548136db041",
+    "name": "Environment and Energy",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/177d44ba-0c93-4e26-b245-84aa2239f7b4",
+      "ocd-person/27646653-40e2-4c79-b608-0f2edcaa0322",
+      "ocd-person/1fec06e0-00df-4d84-8c9a-18e80a6f29e2",
+      "ocd-person/0e989cd5-91f8-4595-8346-bbac4f3d2c9e",
+      "ocd-person/1dde507a-70ed-4f89-95f8-cd11748a753c"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SEN"
+  },
+  {
+    "id": "ocd-organization/d37d95c5-d4e0-4038-a900-b94d3e5ff68d",
+    "name": "Environment and Solid Waste",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d80f0df2-57cd-436b-a250-7413ec11fe27",
+      "ocd-person/b5f9d8c9-0f98-4d89-8a5f-82152f41687d",
+      "ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf",
+      "ocd-person/9228b053-be5e-4490-aadc-ece59b7421fd",
+      "ocd-person/27b085de-d164-466e-845b-fc1de27a2da9",
+      "ocd-person/d624fdfb-366e-41f1-83a7-2a8421350d3c"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AEN"
+  },
+  {
+    "id": "ocd-organization/9c212ed0-3db6-4ef8-8d6c-d175b7477838",
+    "name": "Financial Institutions and Insurance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/77b80e3f-bfdd-4c81-b92e-866c17abd398",
+      "ocd-person/96eb992c-0f0c-4db5-b146-76349604f4d3",
+      "ocd-person/4dab8e3a-93be-4ad7-8cb1-5009e4c7d232",
+      "ocd-person/a189187b-df3f-4f10-8e5c-744ad7071787",
+      "ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77",
+      "ocd-person/fa6aa5c6-0479-4d12-88c0-75480bfbe3a5",
+      "ocd-person/c17427d2-58a7-45f5-aa6c-a70ca914f8de",
+      "ocd-person/85863833-b5e6-40f2-aafc-5a0fc5f790d0",
+      "ocd-person/5d619c98-5127-433c-99c6-adb888ab407b",
+      "ocd-person/589a73bd-a164-472a-8b50-4b4d0846cd24",
+      "ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e",
+      "ocd-person/f152f2d6-e4ff-4958-996d-532c310ddef1",
+      "ocd-person/901f85af-77c2-4cff-8626-ac510fdc425f",
+      "ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AFI"
+  },
+  {
+    "id": "ocd-organization/44f56c9c-7321-453b-875a-67ca4d9d67aa",
+    "name": "Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095",
+      "ocd-person/78ee83b9-ead4-4a03-89e7-f976d0454408",
+      "ocd-person/d358cf84-b9ae-4bce-bb28-aa083fe082b4",
+      "ocd-person/21b098a3-5f30-40c7-9169-1d4b92402a99",
+      "ocd-person/c6d61a12-eeb5-4400-943d-68a81b0728f0",
+      "ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3",
+      "ocd-person/934c3022-709b-4768-b2df-635d25579128",
+      "ocd-person/df6d2d1f-3fb0-4e93-93cf-26665cae9a23",
+      "ocd-person/2078f4b2-3e69-4e01-aada-3ccf21ba6173",
+      "ocd-person/86641d6d-4538-453d-974f-aec40c42a33d",
+      "ocd-person/0bf3c2a3-9004-40cb-8d3a-eeeca4b0b967",
+      "ocd-person/028a440f-10cb-49cc-9417-1dfd0cff83e2"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AHE"
+  },
+  {
+    "id": "ocd-organization/fc79898f-2073-49ef-b564-2613c020b06c",
+    "name": "Health Infrastructure",
+    "chamber": "house",
+    "members": [
+      "ocd-person/901f85af-77c2-4cff-8626-ac510fdc425f",
+      "ocd-person/304c7552-b833-4b9c-b125-39030b8376ff",
+      "ocd-person/33050562-f29d-4c4f-9e21-022822792a5c",
+      "ocd-person/5d619c98-5127-433c-99c6-adb888ab407b",
+      "ocd-person/86641d6d-4538-453d-974f-aec40c42a33d",
+      "ocd-person/c05a0080-95df-4576-a81c-d509fb4a5063"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AHN"
+  },
+  {
+    "id": "ocd-organization/944d2aef-b62e-44d7-a43e-b4a4591a426b",
+    "name": "Health, Human Services and Senior Citizens",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/97fba3ff-adc8-4323-bf77-37acfe18b735",
+      "ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45",
+      "ocd-person/45219a29-080f-4452-9b05-92488e96f2f1",
+      "ocd-person/57fe7d05-af12-4f44-b143-e19814f2cfa2",
+      "ocd-person/fee23b32-9f92-4951-889e-6d09749a78b9",
+      "ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea",
+      "ocd-person/b8495630-20f7-4f9e-bf84-2a13a6da3794"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SHH"
+  },
+  {
+    "id": "ocd-organization/75a0d19f-5fd9-4ccc-b039-57c72220a125",
+    "name": "Higher Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/38f2061a-a83f-45bc-92a2-817f44d6b377",
+      "ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98",
+      "ocd-person/03aa8bec-9d7e-41e7-ad20-b5ba1991cab6",
+      "ocd-person/fab6547d-4f37-4c02-a738-dc4fb0b707e7",
+      "ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf",
+      "ocd-person/3d57728e-0da2-4df4-891e-9cc8e0e9b219"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AHI"
+  },
+  {
+    "id": "ocd-organization/a23b87b3-6a00-42a8-a15f-2db4cf342347",
+    "name": "Higher Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/5dcef6ac-7dbe-4c65-a53b-670c89a615e7",
+      "ocd-person/7782ffcd-73df-41b5-9857-fd7b10953bf3",
+      "ocd-person/45219a29-080f-4452-9b05-92488e96f2f1",
+      "ocd-person/0f0e1edc-6ab5-4fca-8999-2db3229c5d19",
+      "ocd-person/f15f8b7e-96ee-41e8-b59c-b277927985c0"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SHI"
+  },
+  {
+    "id": "ocd-organization/11460aa8-ecca-4dae-9217-02b06a65a031",
+    "name": "Housing",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a0d9e9ac-6ede-4e36-8c9e-f7bd83cc704a",
+      "ocd-person/901f85af-77c2-4cff-8626-ac510fdc425f",
+      "ocd-person/ec370db8-c51e-4022-9868-5cad9c38e97d",
+      "ocd-person/1e9cd368-349e-4ddc-a34d-8301d0ac4841",
+      "ocd-person/a04dc132-6a91-4e1b-a336-ede062d06884",
+      "ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e",
+      "ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AHO"
+  },
+  {
+    "id": "ocd-organization/a03c3113-86f0-4acf-a942-2e294bf33418",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4",
+      "ocd-person/589a73bd-a164-472a-8b50-4b4d0846cd24",
+      "ocd-person/acff039b-0a83-4184-8b6b-7b051cfcdc77",
+      "ocd-person/0bf3c2a3-9004-40cb-8d3a-eeeca4b0b967",
+      "ocd-person/036d00b8-5e0b-4bc0-ae46-f0bf5e1b9a73",
+      "ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AJU"
+  },
+  {
+    "id": "ocd-organization/7a19ddf8-bb44-4336-9c9b-bb9c22ed73e8",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6f616307-dafe-44ca-a6b3-5f9516d21f89",
+      "ocd-person/a1c9ec59-4127-4973-b100-f35c30bb817c",
+      "ocd-person/177d44ba-0c93-4e26-b245-84aa2239f7b4",
+      "ocd-person/90a0a109-2ce3-4a55-8761-1e07ff875703",
+      "ocd-person/08a758f9-92fb-4e59-ac8f-edc75aaf3390",
+      "ocd-person/0880a4b0-8e91-484b-aa12-6e0444838c44",
+      "ocd-person/4cb8db73-8982-4b4f-9c90-f86b20b217bc",
+      "ocd-person/1d8eb6cf-cff2-4948-ba03-7f31fcadd4ec",
+      "ocd-person/b8495630-20f7-4f9e-bf84-2a13a6da3794",
+      "ocd-person/f321f20f-b8af-4d0b-85ba-e7b8dcf9ae03",
+      "ocd-person/76afbcca-bed8-4e2e-bc3a-0fd6d53158a5"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SJU"
+  },
+  {
+    "id": "ocd-organization/4267952d-05ed-410d-bb36-6f77c3bdf0cc",
+    "name": "Labor",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c6d61a12-eeb5-4400-943d-68a81b0728f0",
+      "ocd-person/59c25089-5752-4eb9-a96b-a005c1c46743",
+      "ocd-person/525b3307-b007-4cfa-8166-efb0810fcda7",
+      "ocd-person/ec370db8-c51e-4022-9868-5cad9c38e97d",
+      "ocd-person/006c1bd9-54e9-49be-9d02-12dda1119149",
+      "ocd-person/934c3022-709b-4768-b2df-635d25579128",
+      "ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32",
+      "ocd-person/03acbfd3-a81b-4461-aff4-db7ecf5e8e48",
+      "ocd-person/028a440f-10cb-49cc-9417-1dfd0cff83e2",
+      "ocd-person/97251dd4-e275-4347-a757-a05366fa5013"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ALA"
+  },
+  {
+    "id": "ocd-organization/d6408833-0a83-454b-af00-dbd89af9f7fc",
+    "name": "Labor",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/53fe6716-2bdb-4926-993f-4a2cf002ad51",
+      "ocd-person/7782ffcd-73df-41b5-9857-fd7b10953bf3",
+      "ocd-person/2798197f-1516-44ef-9933-99e5b23f19c8",
+      "ocd-person/f15f8b7e-96ee-41e8-b59c-b277927985c0",
+      "ocd-person/5a6bf64a-7731-4e80-8208-e1a18f09762b"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SLA"
+  },
+  {
+    "id": "ocd-organization/0ed225b6-5bcd-4f2c-aaeb-371a6c16b28b",
+    "name": "Law and Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/27646653-40e2-4c79-b608-0f2edcaa0322",
+      "ocd-person/f15f8b7e-96ee-41e8-b59c-b277927985c0",
+      "ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45",
+      "ocd-person/ac044b70-7745-435a-9c38-c4af013d0b0e",
+      "ocd-person/fee23b32-9f92-4951-889e-6d09749a78b9"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SLP"
+  },
+  {
+    "id": "ocd-organization/becd6e0d-faeb-4ff4-baed-1206d66dda28",
+    "name": "Law Revision Commission",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6f616307-dafe-44ca-a6b3-5f9516d21f89",
+      "ocd-person/e5da04d8-e25f-4ab3-a453-84e692fe89c4"
+    ],
+    "officialUrl": "https://www.njlrc.org"
+  },
+  {
+    "id": "ocd-organization/5d93260c-c9b8-4e78-a1a8-7c3d3d1d53ed",
+    "name": "Legislative Oversight",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7782ffcd-73df-41b5-9857-fd7b10953bf3",
+      "ocd-person/907aae0b-1026-405a-9429-cadd01efd79d",
+      "ocd-person/45219a29-080f-4452-9b05-92488e96f2f1",
+      "ocd-person/4bf4c8e4-5a97-4100-b34d-cb01da6ab266",
+      "ocd-person/1b726d76-851a-487b-a6e6-42ee4fa5c050"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SLO"
+  },
+  {
+    "id": "ocd-organization/54c68b0e-a014-4ee1-9381-32cb03a80b12",
+    "name": "Legislative Services Commission",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab",
+      "ocd-person/45219a29-080f-4452-9b05-92488e96f2f1",
+      "ocd-person/33050562-f29d-4c4f-9e21-022822792a5c",
+      "ocd-person/9d1ae08a-66b3-4d68-bafe-956d4eaeb57f",
+      "ocd-person/4bf4c8e4-5a97-4100-b34d-cb01da6ab266",
+      "ocd-person/dce6ec3a-7d62-4b33-8693-259364c85285",
+      "ocd-person/0880a4b0-8e91-484b-aa12-6e0444838c44",
+      "ocd-person/27646653-40e2-4c79-b608-0f2edcaa0322",
+      "ocd-person/a27823aa-f5a9-4d6c-8089-1d8ceee6f8e0",
+      "ocd-person/4d47b297-b5f4-4d83-94e6-bb95eb91ecd7",
+      "ocd-person/304c7552-b833-4b9c-b125-39030b8376ff",
+      "ocd-person/26eb8b3c-59a5-49ca-841c-13a569444994",
+      "ocd-person/907aae0b-1026-405a-9429-cadd01efd79d",
+      "ocd-person/f321f20f-b8af-4d0b-85ba-e7b8dcf9ae03",
+      "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/legislative-commissions#goToLegCom2"
+  },
+  {
+    "id": "ocd-organization/812a6f18-c4da-4864-9189-0e82e93bb00f",
+    "name": "Military and Veterans' Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c5469bd6-29bd-4054-9ac0-3577d17422d4",
+      "ocd-person/a33ec105-c8ff-446b-ae8b-1a79f402f983",
+      "ocd-person/fc986c0e-c1cd-422f-80c1-4d3691f34f28",
+      "ocd-person/21b098a3-5f30-40c7-9169-1d4b92402a99",
+      "ocd-person/d6731a7f-a22e-48dd-8bba-fd2c155c16c3",
+      "ocd-person/08016f74-f5d6-4554-91b4-385fdbd558a7"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AMV"
+  },
+  {
+    "id": "ocd-organization/2c94a25d-19d5-4c27-b78f-129e874344cf",
+    "name": "Military and Veterans' Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea",
+      "ocd-person/b656905a-de58-4d36-b433-276788233b1f",
+      "ocd-person/18fa38fc-954e-43d9-a294-a2068828216e",
+      "ocd-person/0e989cd5-91f8-4595-8346-bbac4f3d2c9e",
+      "ocd-person/1dde507a-70ed-4f89-95f8-cd11748a753c"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SMV"
+  },
+  {
+    "id": "ocd-organization/ff291cd8-d613-4172-8df8-91ce7687d45d",
+    "name": "Oversight, Reform and Federal Relations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4dab8e3a-93be-4ad7-8cb1-5009e4c7d232",
+      "ocd-person/fab6547d-4f37-4c02-a738-dc4fb0b707e7",
+      "ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32",
+      "ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d",
+      "ocd-person/2078f4b2-3e69-4e01-aada-3ccf21ba6173",
+      "ocd-person/af1dfa82-2c03-4b0c-bf63-1eef9e8b6616"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AOF"
+  },
+  {
+    "id": "ocd-organization/054b0030-5e39-40a9-983e-1f8ebf0102a2",
+    "name": "Public Safety and Preparedness",
+    "chamber": "house",
+    "members": [
+      "ocd-person/03acbfd3-a81b-4461-aff4-db7ecf5e8e48",
+      "ocd-person/c6d61a12-eeb5-4400-943d-68a81b0728f0",
+      "ocd-person/21b098a3-5f30-40c7-9169-1d4b92402a99",
+      "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab",
+      "ocd-person/c33b5f2b-0494-414f-aa84-d2286ae46095",
+      "ocd-person/c17427d2-58a7-45f5-aa6c-a70ca914f8de",
+      "ocd-person/e4c2301b-6812-423e-b27a-c40919f4bd5d"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/assembly-committees?committee=APS"
+  },
+  {
+    "id": "ocd-organization/33f75298-01a9-4f24-b1ca-288ff5adaa41",
+    "name": "Public Schools",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d8c826c4-95c7-465b-8448-1f05495bfc45",
+      "ocd-person/38f2061a-a83f-45bc-92a2-817f44d6b377",
+      "ocd-person/790ac0bd-71fa-4446-b1fa-b013e4b4f33e",
+      "ocd-person/2798197f-1516-44ef-9933-99e5b23f19c8",
+      "ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d",
+      "ocd-person/cbdafb85-539d-4ef4-a3ee-30f4985969fa",
+      "ocd-person/5dcef6ac-7dbe-4c65-a53b-670c89a615e7",
+      "ocd-person/4bf4c8e4-5a97-4100-b34d-cb01da6ab266",
+      "ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98",
+      "ocd-person/4cb8db73-8982-4b4f-9c90-f86b20b217bc",
+      "ocd-person/b8495630-20f7-4f9e-bf84-2a13a6da3794",
+      "ocd-person/26eb8b3c-59a5-49ca-841c-13a569444994",
+      "ocd-person/b432ec8c-f914-47dc-addd-740dfc95daaf",
+      "ocd-person/379945ef-55af-4b76-96ce-fcddbcb0c1c6"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/joint-committees?committee=JPS"
+  },
+  {
+    "id": "ocd-organization/01844cf1-9961-4711-a71f-f87a8aff0c88",
+    "name": "Redistricting Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2798197f-1516-44ef-9933-99e5b23f19c8"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/other-committees"
+  },
+  {
+    "id": "ocd-organization/3a9073b2-446b-4d47-896a-524b0475c944",
+    "name": "Regulated Professions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fa6aa5c6-0479-4d12-88c0-75480bfbe3a5",
+      "ocd-person/d358cf84-b9ae-4bce-bb28-aa083fe082b4",
+      "ocd-person/b5f9d8c9-0f98-4d89-8a5f-82152f41687d",
+      "ocd-person/4323bf03-63e6-4f8b-9b2e-3554df7723bf",
+      "ocd-person/cbdafb85-539d-4ef4-a3ee-30f4985969fa",
+      "ocd-person/ac95c4e3-057b-43bc-8bee-752137bb2d12",
+      "ocd-person/304c7552-b833-4b9c-b125-39030b8376ff"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ARP"
+  },
+  {
+    "id": "ocd-organization/72ca368f-6da1-46ea-86a7-ab970fdf20ca",
+    "name": "Science, Innovation and Technology",
+    "chamber": "house",
+    "members": [
+      "ocd-person/934c3022-709b-4768-b2df-635d25579128",
+      "ocd-person/a189187b-df3f-4f10-8e5c-744ad7071787",
+      "ocd-person/bd2c37cd-6c84-406e-9e38-95bd83f20f0f",
+      "ocd-person/38f2061a-a83f-45bc-92a2-817f44d6b377",
+      "ocd-person/33050562-f29d-4c4f-9e21-022822792a5c",
+      "ocd-person/c17427d2-58a7-45f5-aa6c-a70ca914f8de",
+      "ocd-person/2ac520a3-ae36-4936-a9c3-6842401b6c83"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=AST"
+  },
+  {
+    "id": "ocd-organization/77872141-eb1c-4ef9-af83-3ca2d36dec65",
+    "name": "Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/1d8eb6cf-cff2-4948-ba03-7f31fcadd4ec",
+      "ocd-person/27646653-40e2-4c79-b608-0f2edcaa0322",
+      "ocd-person/7782ffcd-73df-41b5-9857-fd7b10953bf3",
+      "ocd-person/177d44ba-0c93-4e26-b245-84aa2239f7b4",
+      "ocd-person/1b726d76-851a-487b-a6e6-42ee4fa5c050",
+      "ocd-person/4cb8db73-8982-4b4f-9c90-f86b20b217bc",
+      "ocd-person/b656905a-de58-4d36-b433-276788233b1f",
+      "ocd-person/907aae0b-1026-405a-9429-cadd01efd79d",
+      "ocd-person/f321f20f-b8af-4d0b-85ba-e7b8dcf9ae03"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/senate-committees?committee=SSC"
+  },
+  {
+    "id": "ocd-organization/2b214d9a-c488-4268-a686-4db63f787a46",
+    "name": "State and Local Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d6732f77-1c72-4ee6-8d52-5c9b79987976",
+      "ocd-person/97251dd4-e275-4347-a757-a05366fa5013",
+      "ocd-person/fc986c0e-c1cd-422f-80c1-4d3691f34f28",
+      "ocd-person/fab6547d-4f37-4c02-a738-dc4fb0b707e7",
+      "ocd-person/7f9ebe1c-d4fa-4dd0-8948-7cf6248ffb6d",
+      "ocd-person/28b4c7d2-d1c3-4735-b321-0f348ec27299",
+      "ocd-person/3d57728e-0da2-4df4-891e-9cc8e0e9b219"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ASL"
+  },
+  {
+    "id": "ocd-organization/9cf5dbfa-c724-4270-9ba8-7821944a5a62",
+    "name": "State Government, Wagering, Tourism and Historic Preservation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/87714b2b-1868-4d3f-aa3f-a3d25db0fbc6",
+      "ocd-person/1fec06e0-00df-4d84-8c9a-18e80a6f29e2",
+      "ocd-person/32e625c0-5e22-40b4-a6a3-4040d10e6ff0",
+      "ocd-person/26eb8b3c-59a5-49ca-841c-13a569444994",
+      "ocd-person/5a6bf64a-7731-4e80-8208-e1a18f09762b"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=SSG"
+  },
+  {
+    "id": "ocd-organization/967c9cee-cd49-4a16-a85f-629f575bd539",
+    "name": "State House Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4cb8db73-8982-4b4f-9c90-f86b20b217bc",
+      "ocd-person/d6732f77-1c72-4ee6-8d52-5c9b79987976",
+      "ocd-person/76afbcca-bed8-4e2e-bc3a-0fd6d53158a5",
+      "ocd-person/177d44ba-0c93-4e26-b245-84aa2239f7b4",
+      "ocd-person/6056438b-65d3-4db4-b0ad-c367074bd47e",
+      "ocd-person/dce6ec3a-7d62-4b33-8693-259364c85285",
+      "ocd-person/f321f20f-b8af-4d0b-85ba-e7b8dcf9ae03"
+    ],
+    "officialUrl": "https://www.state.nj.us/treasury/statehouse-commission/index.shtml"
+  },
+  {
+    "id": "ocd-organization/a909c6a6-b6d5-46e5-8e00-a2506599f25b",
+    "name": "State Leasing and Space Utilization",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/9d1ae08a-66b3-4d68-bafe-956d4eaeb57f",
+      "ocd-person/4d47b297-b5f4-4d83-94e6-bb95eb91ecd7"
+    ],
+    "officialUrl": "https://www.njleg.state.nj.us/committees/joint-committees?committee=JLSU"
+  },
+  {
+    "id": "ocd-organization/016f40bc-c89b-4e95-83eb-7d0c82407d95",
+    "name": "Telecommunications and Utilities",
+    "chamber": "house",
+    "members": [
+      "ocd-person/08016f74-f5d6-4554-91b4-385fdbd558a7",
+      "ocd-person/59c25089-5752-4eb9-a96b-a005c1c46743",
+      "ocd-person/525b3307-b007-4cfa-8166-efb0810fcda7",
+      "ocd-person/fc986c0e-c1cd-422f-80c1-4d3691f34f28",
+      "ocd-person/acf3b54e-9725-4867-aaa5-9275ada21b37",
+      "ocd-person/3d5d3c07-70ed-481a-91ba-a19fce581561",
+      "ocd-person/64a8c09d-24a2-4d4c-a071-d09f0a30c79f",
+      "ocd-person/cbdafb85-539d-4ef4-a3ee-30f4985969fa",
+      "ocd-person/e4c2301b-6812-423e-b27a-c40919f4bd5d",
+      "ocd-person/d6732f77-1c72-4ee6-8d52-5c9b79987976"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ATU"
+  },
+  {
+    "id": "ocd-organization/b32c2b10-19f9-4706-9acf-7647d92e419e",
+    "name": "Tourism, Gaming and the Arts",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1e9cd368-349e-4ddc-a34d-8301d0ac4841",
+      "ocd-person/64a8c09d-24a2-4d4c-a071-d09f0a30c79f",
+      "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab",
+      "ocd-person/5475b510-25ec-4354-abb5-f1f03c3ea2c3",
+      "ocd-person/df880b40-1e96-49d0-92bc-70732a1cce32",
+      "ocd-person/78ee83b9-ead4-4a03-89e7-f976d0454408",
+      "ocd-person/af1dfa82-2c03-4b0c-bf63-1eef9e8b6616"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ATG"
+  },
+  {
+    "id": "ocd-organization/ced6c87a-4363-4fa4-a7ff-1c09724d674e",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/16048732-130c-4102-b6e7-2d8faa0c3f52",
+      "ocd-person/fe8bf5e4-85ed-423b-b2d8-301f29d3faea",
+      "ocd-person/707e3027-d06f-4346-8c11-3ff1becbe725",
+      "ocd-person/32e625c0-5e22-40b4-a6a3-4040d10e6ff0",
+      "ocd-person/1b726d76-851a-487b-a6e6-42ee4fa5c050",
+      "ocd-person/0e989cd5-91f8-4595-8346-bbac4f3d2c9e"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/senate-committees?committee=STR"
+  },
+  {
+    "id": "ocd-organization/d47759bc-ad30-4c5f-af9b-47b5bd0e3702",
+    "name": "Transportation and Independent Authorities",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5475b510-25ec-4354-abb5-f1f03c3ea2c3",
+      "ocd-person/d6732f77-1c72-4ee6-8d52-5c9b79987976",
+      "ocd-person/acf3b54e-9725-4867-aaa5-9275ada21b37",
+      "ocd-person/bd2c37cd-6c84-406e-9e38-95bd83f20f0f",
+      "ocd-person/4ebe8d6e-9814-4f68-aa9f-148c0942eaab",
+      "ocd-person/03aa8bec-9d7e-41e7-ad20-b5ba1991cab6",
+      "ocd-person/1e9cd368-349e-4ddc-a34d-8301d0ac4841",
+      "ocd-person/383fdfc0-c14a-433f-8f1d-a29e6350c5ca",
+      "ocd-person/2ac520a3-ae36-4936-a9c3-6842401b6c83",
+      "ocd-person/cbdafb85-539d-4ef4-a3ee-30f4985969fa",
+      "ocd-person/d80f0df2-57cd-436b-a250-7413ec11fe27",
+      "ocd-person/199dd5c8-3ef1-4a2c-9585-9de5def27e98",
+      "ocd-person/9228b053-be5e-4490-aadc-ece59b7421fd",
+      "ocd-person/b94db48b-9083-48c9-8b27-3603db14fa3e",
+      "ocd-person/d624fdfb-366e-41f1-83a7-2a8421350d3c"
+    ],
+    "officialUrl": "https://njleg.state.nj.us/committees/assembly-committees?committee=ATR"
+  }
+]

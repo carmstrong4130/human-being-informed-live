@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "ocd-person/e46eb488-2e34-4f33-840f-917496473c64",
+    "name": "Aaron Reed",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=107",
+    "imageUrl": "https://gunleash.com/wp-content/uploads/2023/11/Aaron_Reed.jpg"
+  },
+  {
+    "id": "ocd-person/1439bad2-f18b-49e2-94ca-21f2b563dfdd",
+    "name": "Aaron Thompson",
+    "chamber": "house",
+    "party": "R",
+    "district": "98",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=98",
+    "imageUrl": "https://content.campaignpartner.net/images/126420/Headshot.jpg"
+  },
+  {
+    "id": "ocd-person/e7f7a316-4eb0-4be9-adf9-e7067b20dcfc",
+    "name": "Adam Bowling",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=87",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house87.jpg"
+  },
+  {
+    "id": "ocd-person/1ce736fd-c1ca-4366-a235-9509fdb2dcaf",
+    "name": "Adam Moore",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=45",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AdamMoore2024.jpg"
+  },
+  {
+    "id": "ocd-person/943724d5-5e02-4d0f-bd79-a74e30f18d1a",
+    "name": "Adrielle Camuel",
+    "chamber": "house",
+    "party": "D",
+    "district": "93",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=93",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house93.jpg"
+  },
+  {
+    "id": "ocd-person/dfaa3769-decc-4c1c-9c0b-7195153ab6c8",
+    "name": "Al Gentry",
+    "chamber": "house",
+    "party": "D",
+    "district": "46",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=46",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house46.jpg"
+  },
+  {
+    "id": "ocd-person/7c03bd44-8541-49b0-9794-a9e606c292ce",
+    "name": "Amanda Bledsoe",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=112",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate112.jpg"
+  },
+  {
+    "id": "ocd-person/f7bb262c-026f-4af2-9e17-939692c96e89",
+    "name": "Amy Neighbors",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=21",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house21.jpg"
+  },
+  {
+    "id": "ocd-person/2b9ac6b5-8979-40b1-b2d1-8241b93061a7",
+    "name": "Anne Donworth",
+    "chamber": "house",
+    "party": "D",
+    "district": "76",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=76",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/AnneDonworth.jpeg"
+  },
+  {
+    "id": "ocd-person/6bc2a8c3-3370-4586-b0b7-a5028f336d12",
+    "name": "Ashley Laferty",
+    "chamber": "house",
+    "party": "D",
+    "district": "95",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=95",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house95.jpg"
+  },
+  {
+    "id": "ocd-person/c8a9f2cf-9a79-45f6-94df-346b546e1d9b",
+    "name": "Beverly Chester-Burton",
+    "chamber": "house",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=44",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house44.jpg"
+  },
+  {
+    "id": "ocd-person/91eec267-436a-49a5-9d41-b6b2632d0a51",
+    "name": "Bill Wesley",
+    "chamber": "house",
+    "party": "R",
+    "district": "91",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=91",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house91.jpg"
+  },
+  {
+    "id": "ocd-person/22e056d2-728a-425a-a0a1-19e0e5cc59cb",
+    "name": "Bobby McCool",
+    "chamber": "house",
+    "party": "R",
+    "district": "97",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=97",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house97.jpg"
+  },
+  {
+    "id": "ocd-person/209d5334-d4a2-45f3-b910-0cd52f96dd4e",
+    "name": "Brandon Smith",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=130",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate130.jpg"
+  },
+  {
+    "id": "ocd-person/257271f3-68b1-4481-94e5-f98300493413",
+    "name": "Brandon Storm",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=121",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate121.jpg"
+  },
+  {
+    "id": "ocd-person/70d58905-dd36-4e9a-b281-639600e6b945",
+    "name": "Candy Massaroni",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=50",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house50.jpg"
+  },
+  {
+    "id": "ocd-person/8dbecabb-ef15-4925-8e50-26331e738a05",
+    "name": "Cassie Armstrong",
+    "chamber": "senate",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=119",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate119.jpg"
+  },
+  {
+    "id": "ocd-person/51dc7033-7377-44d4-a5d8-7bd36b371896",
+    "name": "Chad Aull",
+    "chamber": "house",
+    "party": "D",
+    "district": "79",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=79",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house79.jpg"
+  },
+  {
+    "id": "ocd-person/db36edd8-6c2f-4441-aa30-5b4dc48b3357",
+    "name": "Chris Freeland",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=6",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house6.jpg"
+  },
+  {
+    "id": "ocd-person/6843e90b-a30a-4dbf-885c-7321ccc8f73f",
+    "name": "Chris Fugate",
+    "chamber": "house",
+    "party": "R",
+    "district": "84",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=84",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house84.jpg"
+  },
+  {
+    "id": "ocd-person/7da80b33-fc71-4d7f-8c96-e6068bd4c19b",
+    "name": "Chris Lewis",
+    "chamber": "house",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=29",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/ChrisLewis2024.jpeg"
+  },
+  {
+    "id": "ocd-person/b32a95c9-42ba-449b-8581-97b9cef73c6a",
+    "name": "Chris McDaniel",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=123",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate123.jpg"
+  },
+  {
+    "id": "ocd-person/3109e3ae-10c1-417e-bf7f-bf4f539bd3c8",
+    "name": "Craig Richardson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=103",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate103.jpg"
+  },
+  {
+    "id": "ocd-person/ed9307f1-cd95-4004-9e72-46970ea64adf",
+    "name": "D.J. Johnson",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=13",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house13.jpg"
+  },
+  {
+    "id": "ocd-person/c88c6162-de24-4d8b-98a9-f1788390d043",
+    "name": "Dan Fister",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=56",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house56.jpg"
+  },
+  {
+    "id": "ocd-person/d93e2493-49a8-4395-b7e0-5842893344e1",
+    "name": "Daniel Elliott",
+    "chamber": "house",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=54",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house54.jpg"
+  },
+  {
+    "id": "ocd-person/d4dd968d-1508-476b-bde1-7504a47288f0",
+    "name": "Daniel Grossberg",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=30",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house30.jpg"
+  },
+  {
+    "id": "ocd-person/0ec7d376-4235-44e7-a6d7-d63962dff167",
+    "name": "Danny Carroll",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=102",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate102.jpg"
+  },
+  {
+    "id": "ocd-person/5594a97f-7358-427e-af84-43150a21c97e",
+    "name": "David Givens",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=109",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate109.jpg"
+  },
+  {
+    "id": "ocd-person/ebd5f90d-e3cc-45ef-97ff-d51ff1685bcc",
+    "name": "David Hale",
+    "chamber": "house",
+    "party": "R",
+    "district": "74",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=74",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house74.jpg"
+  },
+  {
+    "id": "ocd-person/3643503c-1da8-4a57-90f1-54f063b1d25e",
+    "name": "David Meade",
+    "chamber": "house",
+    "party": "R",
+    "district": "80",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=80",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house80.jpg"
+  },
+  {
+    "id": "ocd-person/bf8bfdc3-66f2-417c-8178-9ed16bf8843f",
+    "name": "David Osborne",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=59",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house59.jpg"
+  },
+  {
+    "id": "ocd-person/96ab59e2-44c2-4c3d-ac8a-1ee24acc5b55",
+    "name": "Deanna Gordon",
+    "chamber": "house",
+    "party": "R",
+    "district": "81",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=81",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house81.jpg"
+  },
+  {
+    "id": "ocd-person/60ef609e-8aed-4698-a626-664f536a6122",
+    "name": "Derek Lewis",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=90",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house90.jpg"
+  },
+  {
+    "id": "ocd-person/a7cd8577-c315-4bf0-b95f-3259ab7dfce7",
+    "name": "Don Douglas",
+    "chamber": "senate",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=122",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate122.jpg"
+  },
+  {
+    "id": "ocd-person/67b233b8-474d-49ce-81a8-7f48eec3c79a",
+    "name": "Emily Callaway",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=37",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house37.jpg"
+  },
+  {
+    "id": "ocd-person/4ce23404-165d-4c96-9130-56acaf2e73a7",
+    "name": "Erika Hancock",
+    "chamber": "house",
+    "party": "D",
+    "district": "57",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=57",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house57.jpg"
+  },
+  {
+    "id": "ocd-person/4342be62-2791-4d48-b601-43949239cd94",
+    "name": "Felicia Rabourn",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=47",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house47.jpg"
+  },
+  {
+    "id": "ocd-person/2d6a7358-f685-4476-aa31-b92cf72b11ec",
+    "name": "Gary Boswell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=108",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate108.jpg"
+  },
+  {
+    "id": "ocd-person/b0cb8f76-4b91-472c-97e2-106ef21f3342",
+    "name": "Gary Clemons",
+    "chamber": "senate",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=137",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/bb3e5fee-3bda-4a5d-95ee-dc31ff9defed",
+    "name": "George Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "77",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=77",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house77.jpg"
+  },
+  {
+    "id": "ocd-person/0d92a09c-ce23-46cd-9582-b7d1b08d76dd",
+    "name": "Gerald Neal",
+    "chamber": "senate",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=133",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate133.jpg"
+  },
+  {
+    "id": "ocd-person/6aa07729-a16f-4465-a605-7afbbe982882",
+    "name": "Gex Williams",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=120",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate120.jpg"
+  },
+  {
+    "id": "ocd-person/139d004c-7a19-4153-a58b-919a1b70180e",
+    "name": "Greg Elkins",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=128",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate128.jpg"
+  },
+  {
+    "id": "ocd-person/fded60a9-de72-47ba-bf20-90dddd9f9138",
+    "name": "J.T. Payne",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=11",
+    "imageUrl": "https://thenews.org/wp-content/uploads/2018/08/7BD9AD2B-7439-4C90-86BE-692CC9C4D09A-777x437.jpeg"
+  },
+  {
+    "id": "ocd-person/d6c9aa9b-3c6b-411a-bff1-fc1c38d4bce0",
+    "name": "James Tipton",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=53",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house53.jpg"
+  },
+  {
+    "id": "ocd-person/b86f4912-39b1-44a0-90a8-0b233921a094",
+    "name": "Jared Bauman",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=28",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house28.jpg"
+  },
+  {
+    "id": "ocd-person/b2299f51-c122-46ac-9937-3a6a7b682bb8",
+    "name": "Jared Carpenter",
+    "chamber": "senate",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=134",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate134.jpg"
+  },
+  {
+    "id": "ocd-person/a796965c-0c0f-43b2-975b-d9726b34acd8",
+    "name": "Jason Howell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=101",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate101.jpg"
+  },
+  {
+    "id": "ocd-person/c56fc398-975e-47b9-919a-fbdd0c9f721d",
+    "name": "Jason Nemes",
+    "chamber": "house",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=33",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house33.jpg"
+  },
+  {
+    "id": "ocd-person/3fac3a9c-78ad-4b24-8483-f1786fac9c9e",
+    "name": "Jason Petrie",
+    "chamber": "house",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=16",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house16.jpg"
+  },
+  {
+    "id": "ocd-person/2c5c20cc-807b-44c8-a1a9-582fe69ca87c",
+    "name": "Jennifer Decker",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=58",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house58.jpg"
+  },
+  {
+    "id": "ocd-person/f40ed494-ce37-43f4-b323-1bc2b6197831",
+    "name": "Jim Gooch",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=12",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house12.jpg"
+  },
+  {
+    "id": "ocd-person/4042b29b-c6bb-407e-856d-9197a03d55ff",
+    "name": "Jimmy Higdon",
+    "chamber": "senate",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=114",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate114.jpg"
+  },
+  {
+    "id": "ocd-person/7cda4251-f26b-4bab-bf88-ed61b947018e",
+    "name": "John Blanton",
+    "chamber": "house",
+    "party": "R",
+    "district": "92",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=92",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house92.jpg"
+  },
+  {
+    "id": "ocd-person/2f3255d6-7801-4089-a275-f01e00444ee0",
+    "name": "John Hodgson",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=36",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house36.jpg"
+  },
+  {
+    "id": "ocd-person/ff91cf3b-77a1-47b0-81b3-1c18f006349a",
+    "name": "Josh Branscum",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=83",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house83.jpg"
+  },
+  {
+    "id": "ocd-person/a110d6ba-f17f-4847-b0e9-327c82cd7122",
+    "name": "Josh Bray",
+    "chamber": "house",
+    "party": "R",
+    "district": "71",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=71",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house71.jpg"
+  },
+  {
+    "id": "ocd-person/f218fb5a-2336-4f82-b192-acc3893dabdf",
+    "name": "Josh Calloway",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=10",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house10.jpg"
+  },
+  {
+    "id": "ocd-person/118003d1-9f48-4ef8-bbd0-748d17ebb699",
+    "name": "Joshua Watkins",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=42",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoshuaWatkins2024.jpg"
+  },
+  {
+    "id": "ocd-person/38ae421f-f4fa-40f6-b025-a75bc6b42f35",
+    "name": "Julie Adams",
+    "chamber": "senate",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=136",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate136.jpg"
+  },
+  {
+    "id": "ocd-person/b45a3156-f662-4884-9c13-b33a4c2d9105",
+    "name": "Karen Berg",
+    "chamber": "senate",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=126",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate126.jpg"
+  },
+  {
+    "id": "ocd-person/d7b86c25-2f90-4d8b-a92e-4b4ef5dd0512",
+    "name": "Ken Fleming",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=48",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house48.jpg"
+  },
+  {
+    "id": "ocd-person/7aa13bf4-126a-4901-bfeb-2244bd2d3cc3",
+    "name": "Ken Upchurch",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=52",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house52.jpg"
+  },
+  {
+    "id": "ocd-person/15b970f1-bd55-4876-80d5-13570b8f1a1a",
+    "name": "Keturah Herron",
+    "chamber": "senate",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=135",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate135.jpg"
+  },
+  {
+    "id": "ocd-person/0e905c68-fbcc-4392-865e-a4dbc5d2ea42",
+    "name": "Kevin Jackson",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=20",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house20.jpg"
+  },
+  {
+    "id": "ocd-person/27b951aa-c951-4160-9373-721ca3b6a9db",
+    "name": "Kim Banta",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=63",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house63.jpg"
+  },
+  {
+    "id": "ocd-person/5cb48d67-2db5-4b6e-89b1-1509110bd708",
+    "name": "Kim Holloway",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=2",
+    "imageUrl": "https://npr.brightspotcdn.com/01/2a/8d768d42405b8992ce1c5dcb8159/244626154-114463787658953-2523667072088681096-n.jpg"
+  },
+  {
+    "id": "ocd-person/cd95ada0-14f0-4b63-aeea-f4a92525eeaf",
+    "name": "Kim King",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=55",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house55.jpg"
+  },
+  {
+    "id": "ocd-person/92511255-ca06-4241-bd91-0cafd92e3d5c",
+    "name": "Kim Moser",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=64",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house64.jpg"
+  },
+  {
+    "id": "ocd-person/8048f367-9d46-4be5-9cb8-7a249d06cb13",
+    "name": "Lindsey Burke",
+    "chamber": "house",
+    "party": "D",
+    "district": "75",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=75",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house75.jpg"
+  },
+  {
+    "id": "ocd-person/db2324a8-1ae2-4e3a-81e5-ac83cb7bbb05",
+    "name": "Lindsey Tichenor",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=106",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate106.jpg"
+  },
+  {
+    "id": "ocd-person/6dd815a4-fc3c-4e79-8cd5-a574d8cf0af8",
+    "name": "Lisa Willner",
+    "chamber": "house",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=35",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house35.jpg"
+  },
+  {
+    "id": "ocd-person/1ad4657b-84d4-4ce1-864e-2f1f75686cc7",
+    "name": "Marianne Proctor",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=60",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house60.jpg"
+  },
+  {
+    "id": "ocd-person/b1a31b02-5d89-42be-97d4-7d08d99161d8",
+    "name": "Mark Hart",
+    "chamber": "house",
+    "party": "R",
+    "district": "78",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=78",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house78.jpg"
+  },
+  {
+    "id": "ocd-person/ad063b4f-a860-48c3-abfb-18e977a21caf",
+    "name": "Mary Beth Imes",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=5",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house5.jpg"
+  },
+  {
+    "id": "ocd-person/86342422-7a28-4631-b3d7-3912eb444ffd",
+    "name": "Mary Lou Marzian",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house41.jpg"
+  },
+  {
+    "id": "ocd-person/b76a3218-b1bd-475c-a775-7a6cbefbc1f3",
+    "name": "Matt Deneen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=110",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate110.jpg"
+  },
+  {
+    "id": "ocd-person/1b8bc567-b895-4fae-8b3f-7a7160ca5138",
+    "name": "Matt Koch",
+    "chamber": "house",
+    "party": "R",
+    "district": "72",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=72",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house72.jpg"
+  },
+  {
+    "id": "ocd-person/7afd2d36-9415-44ff-b96d-0010cf4f864e",
+    "name": "Matt Lehman",
+    "chamber": "house",
+    "party": "D",
+    "district": "67",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=67",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MatthewLehman2024.jpg"
+  },
+  {
+    "id": "ocd-person/9a6d1b5a-6cb4-421e-b7c2-2cb27cfa4cc9",
+    "name": "Matt Lockett",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=39",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house39.jpg"
+  },
+  {
+    "id": "ocd-person/86bd13c4-c404-4a34-aaf4-561621f2b2d8",
+    "name": "Matt Nunn",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=117",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkAwk-VsxWc9P7zUFu6kXXFswQiXfHR8HdEg&s"
+  },
+  {
+    "id": "ocd-person/32b5035e-6d1a-44b8-9f7a-4173a1cdb940",
+    "name": "Max Wise",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=116",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate116.jpg"
+  },
+  {
+    "id": "ocd-person/f013115a-6bbc-48ac-aab4-7949dd902701",
+    "name": "Michael Meredith",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=19",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house19.jpg"
+  },
+  {
+    "id": "ocd-person/34a39b2d-1ff6-4ced-adf2-32f92fa781b1",
+    "name": "Mike Clines",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=68",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house68.jpg"
+  },
+  {
+    "id": "ocd-person/230c230d-7313-4a94-8eb3-60f57a86543c",
+    "name": "Mike Nemes",
+    "chamber": "senate",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=138",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate138.jpg"
+  },
+  {
+    "id": "ocd-person/64af8584-1675-47fd-acfb-1cec59dfdda5",
+    "name": "Mike Wilson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=132",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate132.jpg"
+  },
+  {
+    "id": "ocd-person/3f4b9459-8c62-4d89-b2d6-9d0e951ed24f",
+    "name": "Mitch Whitaker",
+    "chamber": "house",
+    "party": "R",
+    "district": "94",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=94",
+    "imageUrl": "https://whitakerforky.com/wp-content/uploads/2023/10/174675061_4495865760430094_8296166563898892766_n-1024x1024.jpg"
+  },
+  {
+    "id": "ocd-person/c6904810-37a8-428d-8342-7831d7dc100c",
+    "name": "Myron Dossett",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=9",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house9.jpg"
+  },
+  {
+    "id": "ocd-person/911af3e2-7435-4f82-a477-99cb078ea99b",
+    "name": "Nancy Tate",
+    "chamber": "house",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=27",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house27.jpg"
+  },
+  {
+    "id": "ocd-person/716d7b2c-0576-4bf8-b5a9-b6fa2c1f8024",
+    "name": "Nick Wilson",
+    "chamber": "house",
+    "party": "R",
+    "district": "82",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=82",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house82.jpg"
+  },
+  {
+    "id": "ocd-person/bee3f0dd-450a-41a2-b9b9-e056d0a0f14d",
+    "name": "Nima Kulkarni",
+    "chamber": "house",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=40",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house40.jpg"
+  },
+  {
+    "id": "ocd-person/897f811e-273d-4fc1-9268-0087e57444cf",
+    "name": "Pamela Stevenson",
+    "chamber": "house",
+    "party": "D",
+    "district": "43",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=43",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house43.jpg"
+  },
+  {
+    "id": "ocd-person/8ae56ea2-3f37-490b-a3dc-0dec9fe85c7c",
+    "name": "Patrick Flannery",
+    "chamber": "house",
+    "party": "R",
+    "district": "96",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=96",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house96.jpg"
+  },
+  {
+    "id": "ocd-person/eddce954-34a0-4b9a-aaca-6114e6bf418f",
+    "name": "Peyton Griffee",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=26",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PeytonGriffee2024.png"
+  },
+  {
+    "id": "ocd-person/18063ded-67cb-46a9-b558-14d5da92b860",
+    "name": "Phillip Wheeler",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=131",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate131.jpg"
+  },
+  {
+    "id": "ocd-person/1217ac1a-4ca4-4fe4-953b-572beb008bed",
+    "name": "Rachel Roarx",
+    "chamber": "house",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=38",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house38.jpg"
+  },
+  {
+    "id": "ocd-person/c033dd77-f8d7-4558-8582-9e0088ae5406",
+    "name": "Randy Bridges",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=3",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house3.jpg"
+  },
+  {
+    "id": "ocd-person/be2fd4e3-6dfe-4d54-8c45-631eac63bc27",
+    "name": "Rebecca Raymer",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=15",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house15.jpg"
+  },
+  {
+    "id": "ocd-person/42b259db-9ddb-4588-a463-b1a38c944c66",
+    "name": "Reggie Thomas",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=113",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate113.jpg"
+  },
+  {
+    "id": "ocd-person/29b248e1-4033-41f6-ba30-136f2aa55045",
+    "name": "Richard White",
+    "chamber": "house",
+    "party": "R",
+    "district": "99",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=99",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house99.jpg"
+  },
+  {
+    "id": "ocd-person/34ed9881-46b8-41ba-b625-3d350140d2b9",
+    "name": "Rick Girdler",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=115",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate115.jpg"
+  },
+  {
+    "id": "ocd-person/366daab1-a877-49b9-86b8-e3c497143bf0",
+    "name": "Robby Mills",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=104",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate104.jpg"
+  },
+  {
+    "id": "ocd-person/ad2d1d2a-b838-4727-ac0f-a6fb64298b14",
+    "name": "Robert Duvall",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=17",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house17.jpg"
+  },
+  {
+    "id": "ocd-person/8659c7e3-ec01-4c40-b7ee-d21f37facff5",
+    "name": "Robert Stivers",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=125",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate125.jpg"
+  },
+  {
+    "id": "ocd-person/42990da5-7020-4327-bbd8-496955b00040",
+    "name": "Robin Webb",
+    "chamber": "senate",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=118",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate118.jpg"
+  },
+  {
+    "id": "ocd-person/af59339a-aedf-4d1c-94b6-de071030773b",
+    "name": "Ryan Bivens",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=24",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house24.jpg"
+  },
+  {
+    "id": "ocd-person/718ec3d2-325d-4ddf-b72b-728cea857222",
+    "name": "Ryan Dotson",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=73",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house73.jpg"
+  },
+  {
+    "id": "ocd-person/d3176059-683c-48be-9c43-a57da08a2f49",
+    "name": "Samara Heavrin",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=18",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house18.jpg"
+  },
+  {
+    "id": "ocd-person/bb3f614a-7fa0-4e55-a76b-dedfea0fdaa9",
+    "name": "Sarah Stalker",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=34",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house34.jpg"
+  },
+  {
+    "id": "ocd-person/3e417407-423f-45d3-b18a-c2845cd1ec57",
+    "name": "Sarge Pollock",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=51",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house51.jpg"
+  },
+  {
+    "id": "ocd-person/a8988de2-d65f-461c-96d1-4f1cddc6a969",
+    "name": "Savannah Maddox",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=61",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house61.jpg"
+  },
+  {
+    "id": "ocd-person/07773b3f-387f-4e4e-ba79-571940c186f0",
+    "name": "Scott Lewis",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=14",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house14.jpg"
+  },
+  {
+    "id": "ocd-person/d7adea26-9f4f-477f-a0bd-4b29ae9072b4",
+    "name": "Scott Madon",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=129",
+    "imageUrl": "https://thecityofpineville.com/wp-content/uploads/2018/08/mayor-scott-madon-228x300.jpg"
+  },
+  {
+    "id": "ocd-person/65469c71-edc2-4c9f-87da-bcf4d3277591",
+    "name": "Scott Sharp",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=100",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house100.jpg"
+  },
+  {
+    "id": "ocd-person/2eab3a78-154d-43cd-8278-73ad2e166b08",
+    "name": "Shane Baker",
+    "chamber": "house",
+    "party": "R",
+    "district": "85",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=85",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house85.jpg"
+  },
+  {
+    "id": "ocd-person/5a327e3b-ae91-4279-ae17-9214aad32fa9",
+    "name": "Shawn McPherson",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=22",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house22.jpg"
+  },
+  {
+    "id": "ocd-person/b7112818-3357-413d-acae-a46bf3442b1d",
+    "name": "Shelley Frommeyer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=124",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate124.jpg"
+  },
+  {
+    "id": "ocd-person/737ae037-a61c-4649-9c08-bf5fe052ff36",
+    "name": "Stephanie Dietz",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=65",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house65.jpg"
+  },
+  {
+    "id": "ocd-person/e0860aa8-43ba-4bf2-94d7-3632c7375ab6",
+    "name": "Steve Bratcher",
+    "chamber": "house",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=25",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house25.jpg"
+  },
+  {
+    "id": "ocd-person/8915acb8-6089-451f-be08-c79b0be59c40",
+    "name": "Steve Meredith",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=105",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate105.jpg"
+  },
+  {
+    "id": "ocd-person/b702771e-135c-4444-b148-a321ee8088b2",
+    "name": "Steve Rawlings",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=111",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate111.jpg"
+  },
+  {
+    "id": "ocd-person/817df40b-8e76-460d-81cf-63277866268a",
+    "name": "Steve Riley",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=23",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house23.jpg"
+  },
+  {
+    "id": "ocd-person/1f3bbab4-2be0-496c-9c3b-b8f340f6b404",
+    "name": "Steve West",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=127",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/senate127.jpg"
+  },
+  {
+    "id": "ocd-person/a41c47ce-cbfa-49e3-8a21-5666f24ef96a",
+    "name": "Steven Doan",
+    "chamber": "house",
+    "party": "R",
+    "district": "69",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=69",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house69.jpg"
+  },
+  {
+    "id": "ocd-person/f73e54d0-9547-4688-b97d-4818b104d160",
+    "name": "Steven Rudy",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=1",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house1.jpg"
+  },
+  {
+    "id": "ocd-person/c85ace8f-67e3-438d-afeb-e6442aec43cd",
+    "name": "Susan Witten",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=31",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house31.jpg"
+  },
+  {
+    "id": "ocd-person/92576283-508e-4613-b1a0-3d227edf4068",
+    "name": "Suzanne Miles",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=7",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house7.jpg"
+  },
+  {
+    "id": "ocd-person/1c369689-ed04-484c-ab53-c50bd6011192",
+    "name": "T.J. Roberts",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=66",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/T.J._Roberts.png"
+  },
+  {
+    "id": "ocd-person/7d2b01df-9356-4eaa-923f-144e3f229860",
+    "name": "Thomas Huff",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=49",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house49.jpg"
+  },
+  {
+    "id": "ocd-person/b2834b48-3186-4fbd-aa3e-daa1d38fa308",
+    "name": "Timmy Truett",
+    "chamber": "house",
+    "party": "R",
+    "district": "89",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=89",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house89.jpg"
+  },
+  {
+    "id": "ocd-person/77db7bcf-dfa8-4365-bb3a-4ca0351a8368",
+    "name": "Tina Bojanowski",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=32",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house32.jpg"
+  },
+  {
+    "id": "ocd-person/5764151d-bf80-422b-bc46-93ac2be910cc",
+    "name": "Tom Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "86",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=86",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house86.jpg"
+  },
+  {
+    "id": "ocd-person/79a62906-5436-4ac8-adea-0c566273bbde",
+    "name": "Tony Hampton",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=62",
+    "imageUrl": "https://cdn.photos.sparkplatform.com/lex/20240524200530073416000000.jpg"
+  },
+  {
+    "id": "ocd-person/bc34f3ad-05ad-494c-bb80-bd2eb99e4fe9",
+    "name": "Vanessa Grossl",
+    "chamber": "house",
+    "party": "R",
+    "district": "88",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=88",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/VanessaGrossl.jpeg"
+  },
+  {
+    "id": "ocd-person/66619aa2-a521-4318-b5d7-b4c36954b43d",
+    "name": "Wade Williams",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=4",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house4.jpg"
+  },
+  {
+    "id": "ocd-person/ec846db3-c75b-4460-ba72-3e2b3fd9e04d",
+    "name": "Walker Thomas",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=8",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house8.jpg"
+  },
+  {
+    "id": "ocd-person/3d3b33bc-8852-48fe-90cf-42ce9551424c",
+    "name": "William Lawrence",
+    "chamber": "house",
+    "party": "R",
+    "district": "70",
+    "bioUrl": "https://legislature.ky.gov/Legislators/Pages/Legislator-Profile.aspx?DistrictNumber=70",
+    "imageUrl": "https://legislature.ky.gov/Legislators%20Thumbnail%20Images/house70.jpg"
+  }
+]

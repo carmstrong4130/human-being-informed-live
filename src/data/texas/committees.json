@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "ocd-organization/27347312-531d-400b-9600-60d632d3383c",
+    "name": "Administration",
+    "chamber": "house",
+    "members": [
+      "ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29",
+      "ocd-person/97805dd7-1f42-482c-bac3-049dfccda311",
+      "ocd-person/2a9478ef-b573-4de6-ab96-bb3f6091346f",
+      "ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1",
+      "ocd-person/5e4e2fd2-e8a9-46f3-aab5-ffbc782afa8b",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c",
+      "ocd-person/d9f32e07-7835-4edf-b986-7a2cf16d608b",
+      "ocd-person/e2d786e9-5e46-4807-be42-546203016996",
+      "ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0",
+      "ocd-person/72bad853-b403-49c2-9a99-32c5fb3222c7",
+      "ocd-person/2db06a9d-ae17-4881-98b4-5172fdfca19f"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C300"
+  },
+  {
+    "id": "ocd-organization/1fe852ef-2f7d-467b-b903-c6392dba1cb9",
+    "name": "Administration",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/06aed58e-f403-43a5-b4b9-8785a4acf981",
+      "ocd-person/20cda9bf-a1e6-4427-8115-e5655ddd8eb0"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C500"
+  },
+  {
+    "id": "ocd-organization/bd5001b2-0490-4a0f-95f7-31e5514cf67a",
+    "name": "Agriculture and Livestock",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f0ede995-2253-4f7b-a922-6da34e4de194",
+      "ocd-person/51591894-e9ff-48d3-81c5-897ec1c5e600",
+      "ocd-person/ee8cc382-84b7-47e3-824f-e05cf6455161",
+      "ocd-person/469f1932-49dc-4a46-8341-b2cd9bc0f96d",
+      "ocd-person/065c24a0-401a-4dc5-a19c-e7d96dcbffc5",
+      "ocd-person/0941f4bf-2ac8-48d0-8675-191514e06850",
+      "ocd-person/a732704e-9b03-449c-b24f-f4c567b5acdd",
+      "ocd-person/b7c4e0e7-4949-4dff-bc4c-fdaaada3f37d",
+      "ocd-person/2662f888-95e0-4de3-be5b-3d023623c447"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C020"
+  },
+  {
+    "id": "ocd-organization/6cce6743-c74b-4a1a-99a3-792fcf1689fb",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d0fbfb15-2f0c-4167-b8b4-d6135bbb6616",
+      "ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772",
+      "ocd-person/aa0d12c3-c318-4c97-a0d4-c63795ec50d9",
+      "ocd-person/3caafbc8-6561-4bf8-8247-aaf398573ba8",
+      "ocd-person/9c37e80d-af10-4433-a78a-408b2b798fb6",
+      "ocd-person/b1bf46ac-e99e-49f6-8f40-cf07aca12187",
+      "ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c",
+      "ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e",
+      "ocd-person/f331962f-370b-4b74-876e-aa6a8e2e58e2",
+      "ocd-person/26090510-8782-4d64-b981-3d1cde573090",
+      "ocd-person/42c40e86-b355-4724-8582-995125377240",
+      "ocd-person/349071fd-3c36-43c6-aaca-6d7f9d04322d",
+      "ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959",
+      "ocd-person/a43f2db5-4b24-4dfa-af7f-a2c7cbc5ea21",
+      "ocd-person/a732704e-9b03-449c-b24f-f4c567b5acdd",
+      "ocd-person/988efb07-ace2-4419-ac40-ccec69ebe875",
+      "ocd-person/fbd66d9f-2a93-4cbf-b75d-b51cb01e955e",
+      "ocd-person/9dc31ea5-fd89-4909-a9bf-d732ea02282a",
+      "ocd-person/e2d786e9-5e46-4807-be42-546203016996",
+      "ocd-person/a61b0fd1-9fdf-4b4c-abe6-b790cc856023",
+      "ocd-person/ea169f77-0bd8-4ca0-ac59-f894c9a09e71",
+      "ocd-person/ddebb940-33f9-4b5c-a8fa-e22c63a594e9",
+      "ocd-person/2662f888-95e0-4de3-be5b-3d023623c447",
+      "ocd-person/79ffab1c-4d79-4cfa-89b4-5f7ee95ca1bf",
+      "ocd-person/0acfbb85-b501-45ce-9a9b-90537090a455",
+      "ocd-person/6b2d7f89-d7e0-44d1-b861-3167915f6925",
+      "ocd-person/25157308-7474-4600-8b83-173d79e16a21"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C030"
+  },
+  {
+    "id": "ocd-organization/cfa1090f-1454-4782-97c6-f66e70dff1df",
+    "name": "Business and Commerce",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/c7aad3b7-ca16-4989-bf68-87ed72498a6b",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/dee454b1-6da0-4b1b-a232-033e7de8551f"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C510"
+  },
+  {
+    "id": "ocd-organization/03995c1c-8e83-4749-86cb-7399f0713bb9",
+    "name": "Calendars",
+    "chamber": "house",
+    "members": [
+      "ocd-person/9447575b-d8a1-45dd-bd68-77b12fe347ab",
+      "ocd-person/0acfbb85-b501-45ce-9a9b-90537090a455",
+      "ocd-person/4f98520b-d88b-4053-acc5-3cb2fff14660",
+      "ocd-person/45f3ddfb-5994-4f05-b2c8-e0e3b2a99c47",
+      "ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c",
+      "ocd-person/baafecd4-6f74-4a97-b564-691c1e938291",
+      "ocd-person/a732704e-9b03-449c-b24f-f4c567b5acdd",
+      "ocd-person/40a678a3-7d85-486e-bf38-5d070142aa83",
+      "ocd-person/c0fc4283-3ed5-4165-a066-80de16f492b7",
+      "ocd-person/97fc1e34-35fb-470f-a098-4ba8f0c3c8d4",
+      "ocd-person/3e4ae7d4-dbb2-4991-8b44-8ada6023d7da"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C050"
+  },
+  {
+    "id": "ocd-organization/ac7fc32a-24f2-48fc-9173-ffdc5fe11254",
+    "name": "Civil Discourse and Freedom of Speech in Higher Education Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8",
+      "ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a",
+      "ocd-person/e3533cbc-f3ab-46bc-a591-c68657f82527",
+      "ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e",
+      "ocd-person/6cbb02e6-5876-47a1-86aa-98566fe0073a",
+      "ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a",
+      "ocd-person/ddebb940-33f9-4b5c-a8fa-e22c63a594e9"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/052"
+  },
+  {
+    "id": "ocd-organization/7186073a-0d0a-4d9f-9765-d940018199b1",
+    "name": "Civil Discourse and Freedom of Speech in Higher Education Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/72766791-084c-4a20-a12c-6e809b51e95c",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=518"
+  },
+  {
+    "id": "ocd-organization/f26307a7-9541-49b6-97c1-9d0fb3dca79b",
+    "name": "Congressional Redistricting Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d",
+      "ocd-person/ab211984-06a9-447c-9ded-564d200bee60",
+      "ocd-person/9c37e80d-af10-4433-a78a-408b2b798fb6",
+      "ocd-person/51591894-e9ff-48d3-81c5-897ec1c5e600",
+      "ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c",
+      "ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29",
+      "ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2",
+      "ocd-person/26090510-8782-4d64-b981-3d1cde573090",
+      "ocd-person/43bbf34a-6bc4-41f9-9bdc-3e944c5b8495",
+      "ocd-person/36338558-c2b0-4b43-b656-261dccbee871",
+      "ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959",
+      "ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c",
+      "ocd-person/f926d7a8-7ec7-4020-9e18-5a475565fd41",
+      "ocd-person/1ec50565-379f-4a8b-ab18-c54d31df9929",
+      "ocd-person/1205faf4-7ced-4d21-aa8c-aad9239e3157",
+      "ocd-person/f0ede995-2253-4f7b-a922-6da34e4de194",
+      "ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a",
+      "ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8",
+      "ocd-person/9447575b-d8a1-45dd-bd68-77b12fe347ab",
+      "ocd-person/e7a379ec-9de2-48a2-918b-5ba58e1fd3f3"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/055"
+  },
+  {
+    "id": "ocd-organization/a3cac37a-61da-42d5-ba47-d74fd19c53ed",
+    "name": "Corrections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2db06a9d-ae17-4881-98b4-5172fdfca19f",
+      "ocd-person/6b2d7f89-d7e0-44d1-b861-3167915f6925",
+      "ocd-person/2fd6fcd3-9676-42a4-b879-e317576ff18f",
+      "ocd-person/b1bf46ac-e99e-49f6-8f40-cf07aca12187",
+      "ocd-person/15ce6502-645c-4031-994d-b228e1c69bb4",
+      "ocd-person/a43f2db5-4b24-4dfa-af7f-a2c7cbc5ea21",
+      "ocd-person/c6308fcd-b1e1-4ce3-9a29-c05e420e8012",
+      "ocd-person/bdecc388-4028-48e2-b211-75c59c1c5ec2",
+      "ocd-person/afd236d4-4266-4777-8d3d-be7616a7e43f"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C200"
+  },
+  {
+    "id": "ocd-organization/69482ae1-2b3d-49da-910a-939ed82904da",
+    "name": "Criminal Jurisprudence",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3cac81cd-62ca-41d6-aa4a-8e4156244dec",
+      "ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959",
+      "ocd-person/dd3e49ca-2b2b-4a83-ae63-0ade6ccef73f",
+      "ocd-person/7f893a20-0547-4ad9-9a94-1084a9ef6469",
+      "ocd-person/469f1932-49dc-4a46-8341-b2cd9bc0f96d",
+      "ocd-person/2d5f629c-76a7-455b-aff7-262d8c1c23f6",
+      "ocd-person/45cd43ff-77b3-467c-aa61-890ebee8ece5",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c",
+      "ocd-person/96dfe856-d5b0-4f7a-86f6-06c2175a4d4a",
+      "ocd-person/69ef7d69-9a5e-42be-b463-8873cb52ad10",
+      "ocd-person/436ab2a5-12ca-4a9c-b8ec-73b1bae4ee68"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C220"
+  },
+  {
+    "id": "ocd-organization/f608ab0a-77bb-43c4-9600-473f551c1758",
+    "name": "Criminal Justice",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976",
+      "ocd-person/3475b324-1c9b-4513-90e6-063aba5ac04e",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/72766791-084c-4a20-a12c-6e809b51e95c",
+      "ocd-person/1997b231-45f7-4f29-a435-9f52e60ebea4",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C590"
+  },
+  {
+    "id": "ocd-organization/9d43a742-9149-40d4-8772-a88ee6657b48",
+    "name": "Culture, Recreation and Tourism",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e7a379ec-9de2-48a2-918b-5ba58e1fd3f3",
+      "ocd-person/ab3ddc65-0fb9-476b-993f-b3dc4050127e",
+      "ocd-person/aa0d12c3-c318-4c97-a0d4-c63795ec50d9",
+      "ocd-person/e6ccd3a9-8f52-46d4-af8d-d0301a8e3a05",
+      "ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d",
+      "ocd-person/92b45572-c15c-4270-8356-6c3db1846c7b",
+      "ocd-person/a61b0fd1-9fdf-4b4c-abe6-b790cc856023",
+      "ocd-person/97805dd7-1f42-482c-bac3-049dfccda311",
+      "ocd-person/07f5e898-8d5d-435a-bf97-7bfb26fce5ac"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C430"
+  },
+  {
+    "id": "ocd-organization/7f6f0642-40d1-460f-b5ba-1b33f58eeebb",
+    "name": "Delivery of Government Efficiency",
+    "chamber": "house",
+    "members": [
+      "ocd-person/40ecf6ee-92a4-4daf-b950-ac70b6cdfeee",
+      "ocd-person/4fb2e1fd-fbb3-4a55-8417-761da2f6048e",
+      "ocd-person/7f893a20-0547-4ad9-9a94-1084a9ef6469",
+      "ocd-person/065c24a0-401a-4dc5-a19c-e7d96dcbffc5",
+      "ocd-person/f602a657-8951-4dcb-9bd8-c04bcce4ba56",
+      "ocd-person/2d5f629c-76a7-455b-aff7-262d8c1c23f6",
+      "ocd-person/34590156-1109-4ab6-84bc-bbe07764f365",
+      "ocd-person/5d3626bb-c865-4c92-a717-a72036c6ce5a",
+      "ocd-person/b91e1420-1732-4063-9f3d-edcc5e71d416",
+      "ocd-person/4b70019b-d7c1-4414-bcb1-7bf917081ed5",
+      "ocd-person/0e79cc57-2894-432e-9aca-505a41d4de2c",
+      "ocd-person/69ef7d69-9a5e-42be-b463-8873cb52ad10",
+      "ocd-person/1ca78d00-1ede-4486-b14e-16bd81ba73e4"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/233"
+  },
+  {
+    "id": "ocd-organization/5fd7f03b-d144-4ce7-a5c4-039309f3bf38",
+    "name": "Disaster Preparedness and Flooding Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d9f32e07-7835-4edf-b986-7a2cf16d608b",
+      "ocd-person/e2d786e9-5e46-4807-be42-546203016996",
+      "ocd-person/dd3e49ca-2b2b-4a83-ae63-0ade6ccef73f",
+      "ocd-person/45f3ddfb-5994-4f05-b2c8-e0e3b2a99c47",
+      "ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1",
+      "ocd-person/d0fbfb15-2f0c-4167-b8b4-d6135bbb6616",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c",
+      "ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8",
+      "ocd-person/436ab2a5-12ca-4a9c-b8ec-73b1bae4ee68"
+    ],
+    "officialUrl": "https://www.house.texas.gov/committees/committee/236"
+  },
+  {
+    "id": "ocd-organization/bf9b973b-22db-4626-9be5-d5937ff39a3f",
+    "name": "Disaster Preparedness and Flooding Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185",
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=519"
+  },
+  {
+    "id": "ocd-organization/0773acc5-68c6-4448-9314-adfa4d2815ae",
+    "name": "Economic Development",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/e78373de-6d96-44db-b552-6da34ed992fc",
+      "ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343",
+      "ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=525"
+  },
+  {
+    "id": "ocd-organization/bc0b6f20-20a3-4383-b33d-6c7158e01a9c",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2",
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C530"
+  },
+  {
+    "id": "ocd-organization/7e5caee9-e6c1-44e2-b840-8cf7a17e20df",
+    "name": "Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/71555c46-28b0-4887-98a1-997dc7482e75",
+      "ocd-person/53b19d1e-5b07-4f6e-87a9-27baecddaf70",
+      "ocd-person/64221b86-e3ca-4b67-b2bb-3f4f9641e133",
+      "ocd-person/b69579f7-74de-4a71-86ba-033264cc5bc7",
+      "ocd-person/51a281ff-2983-4b4b-baf4-63ee17812835",
+      "ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a",
+      "ocd-person/6c80914d-b07b-4d27-95e2-0e5aa2b0c7d9",
+      "ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8",
+      "ocd-person/7298c6a9-c6be-41cd-a2ba-0cc79c851373"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C240"
+  },
+  {
+    "id": "ocd-organization/a7671418-d69f-4bfb-8cc5-cf35d0e5ee3f",
+    "name": "Energy Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1",
+      "ocd-person/c84056d0-47e0-4a0c-94e1-9f90c2d90a15",
+      "ocd-person/51591894-e9ff-48d3-81c5-897ec1c5e600",
+      "ocd-person/5ff88048-ebd8-4ac3-af9c-d02e1305ef37",
+      "ocd-person/37886d81-901f-43b4-841b-f3ffbfeeb257",
+      "ocd-person/ab211984-06a9-447c-9ded-564d200bee60",
+      "ocd-person/1ec50565-379f-4a8b-ab18-c54d31df9929",
+      "ocd-person/89b43853-82e0-434c-9946-4fd9057e1842",
+      "ocd-person/72bad853-b403-49c2-9a99-32c5fb3222c7",
+      "ocd-person/97fc1e34-35fb-470f-a098-4ba8f0c3c8d4",
+      "ocd-person/d4d5c127-1ef6-445d-a89b-d9f02c812365"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C250"
+  },
+  {
+    "id": "ocd-organization/eb0253d7-d8ea-4e97-b4a3-e33eea1b4975",
+    "name": "Environmental Regulation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/83030f8b-5f1f-4475-b564-a07ae42f6d98",
+      "ocd-person/6feda596-fd20-429b-ae4e-bedab7e5a1c5",
+      "ocd-person/ba43365e-63dc-4bdc-aadc-e3939aa7465b",
+      "ocd-person/fe47f6d5-2db3-495b-8da6-5cd12e0dc677",
+      "ocd-person/51a281ff-2983-4b4b-baf4-63ee17812835",
+      "ocd-person/f72eb41b-2ff9-434f-96cf-75b9724289ab",
+      "ocd-person/72bad853-b403-49c2-9a99-32c5fb3222c7",
+      "ocd-person/6c80914d-b07b-4d27-95e2-0e5aa2b0c7d9",
+      "ocd-person/79ffab1c-4d79-4cfa-89b4-5f7ee95ca1bf"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C260"
+  },
+  {
+    "id": "ocd-organization/cb280716-3db7-4965-ba33-fe3cea42208f",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/1997b231-45f7-4f29-a435-9f52e60ebea4",
+      "ocd-person/72766791-084c-4a20-a12c-6e809b51e95c",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/e78373de-6d96-44db-b552-6da34ed992fc",
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343",
+      "ocd-person/9f80cd7f-1067-4322-8777-62bc129cd6f2",
+      "ocd-person/c7aad3b7-ca16-4989-bf68-87ed72498a6b",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C540"
+  },
+  {
+    "id": "ocd-organization/bca64511-8ede-4b98-84e0-2bd67a338490",
+    "name": "General Aviation Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fe47f6d5-2db3-495b-8da6-5cd12e0dc677",
+      "ocd-person/e2d786e9-5e46-4807-be42-546203016996",
+      "ocd-person/43bbf34a-6bc4-41f9-9bdc-3e944c5b8495",
+      "ocd-person/5ff88048-ebd8-4ac3-af9c-d02e1305ef37",
+      "ocd-person/f926d7a8-7ec7-4020-9e18-5a475565fd41",
+      "ocd-person/26244d6a-f0d5-4dbe-b9ed-a38df74a7bac",
+      "ocd-person/0e79cc57-2894-432e-9aca-505a41d4de2c",
+      "ocd-person/12d67093-ab4c-425d-afa3-e5777db09d1c",
+      "ocd-person/3e4ae7d4-dbb2-4991-8b44-8ada6023d7da"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/023"
+  },
+  {
+    "id": "ocd-organization/2f4c7640-b704-4e7c-96dd-bff1bd20f704",
+    "name": "General Investigating",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fe47f6d5-2db3-495b-8da6-5cd12e0dc677",
+      "ocd-person/2cadcb59-210a-4a71-af9f-7dba9ab06112",
+      "ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29",
+      "ocd-person/d0fbfb15-2f0c-4167-b8b4-d6135bbb6616",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C280"
+  },
+  {
+    "id": "ocd-organization/5b268750-ea3d-44ca-a7a1-47ac9d29b774",
+    "name": "General Investigating Committee on the July 2025 Flooding Events",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c",
+      "ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1",
+      "ocd-person/2cadcb59-210a-4a71-af9f-7dba9ab06112",
+      "ocd-person/89b43853-82e0-434c-9946-4fd9057e1842"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/355"
+  },
+  {
+    "id": "ocd-organization/41c17f92-7149-47a6-b75a-7fdc90e7cfb1",
+    "name": "General Investigating Committee on the July 2025 Flooding Events",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185",
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c"
+    ],
+    "officialUrl": "https://www.senate.texas.gov/cmte.php?c=546"
+  },
+  {
+    "id": "ocd-organization/c777d451-0bbd-454d-b893-a225f46a3e92",
+    "name": "Governmental Oversight Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d",
+      "ocd-person/3caafbc8-6561-4bf8-8247-aaf398573ba8",
+      "ocd-person/dd3e49ca-2b2b-4a83-ae63-0ade6ccef73f",
+      "ocd-person/83030f8b-5f1f-4475-b564-a07ae42f6d98",
+      "ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c",
+      "ocd-person/26090510-8782-4d64-b981-3d1cde573090",
+      "ocd-person/c84056d0-47e0-4a0c-94e1-9f90c2d90a15",
+      "ocd-person/34590156-1109-4ab6-84bc-bbe07764f365",
+      "ocd-person/b55d57f4-bd06-4487-8860-0b6eeb9a1dea",
+      "ocd-person/96dfe856-d5b0-4f7a-86f6-06c2175a4d4a",
+      "ocd-person/f8e0a89e-889a-4fcf-8a0a-1e0e091d89d0",
+      "ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a",
+      "ocd-person/ddebb940-33f9-4b5c-a8fa-e22c63a594e9"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/075"
+  },
+  {
+    "id": "ocd-organization/7cdd1f00-50a4-4242-804f-ac4ed0f0d82e",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/3475b324-1c9b-4513-90e6-063aba5ac04e",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/06aed58e-f403-43a5-b4b9-8785a4acf981"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C610"
+  },
+  {
+    "id": "ocd-organization/c98f6d7f-75b2-466d-947d-b1a0c2e9aebc",
+    "name": "Health Care Affordability Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6cbb02e6-5876-47a1-86aa-98566fe0073a",
+      "ocd-person/0acfbb85-b501-45ce-9a9b-90537090a455",
+      "ocd-person/f602a657-8951-4dcb-9bd8-c04bcce4ba56",
+      "ocd-person/42c40e86-b355-4724-8582-995125377240",
+      "ocd-person/37886d81-901f-43b4-841b-f3ffbfeeb257",
+      "ocd-person/9dc31ea5-fd89-4909-a9bf-d732ea02282a",
+      "ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772",
+      "ocd-person/89e814c4-6091-4156-b3b5-42a7980f8b4d",
+      "ocd-person/51927936-c6fc-453b-8afd-5f0b53de7d46",
+      "ocd-person/79ffab1c-4d79-4cfa-89b4-5f7ee95ca1bf",
+      "ocd-person/afd236d4-4266-4777-8d3d-be7616a7e43f"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/059"
+  },
+  {
+    "id": "ocd-organization/5c30387f-dc23-4066-bdfb-6151a777fffa",
+    "name": "Higher Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8",
+      "ocd-person/349071fd-3c36-43c6-aaca-6d7f9d04322d",
+      "ocd-person/c55d85ff-7172-42d4-9c8f-da2f258dc19b",
+      "ocd-person/e6ccd3a9-8f52-46d4-af8d-d0301a8e3a05",
+      "ocd-person/26617394-4276-4aa7-878c-d20552b260a4",
+      "ocd-person/b39cf891-a259-422c-945a-94b65430ea0a",
+      "ocd-person/71555c46-28b0-4887-98a1-997dc7482e75",
+      "ocd-person/a4e4115b-d488-4e93-8354-80e361c0c260",
+      "ocd-person/51927936-c6fc-453b-8afd-5f0b53de7d46",
+      "ocd-person/1ca78d00-1ede-4486-b14e-16bd81ba73e4",
+      "ocd-person/5236ee6e-a57c-4d81-90b4-50a9abde8e5e"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C290"
+  },
+  {
+    "id": "ocd-organization/8406609a-8b94-4a1b-ad02-aa05ecba7e69",
+    "name": "Higher Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/e78373de-6d96-44db-b552-6da34ed992fc",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=560"
+  },
+  {
+    "id": "ocd-organization/dbe080e8-3aa5-4c13-9f3a-20041810d50b",
+    "name": "Homeland and Border Security Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/72766791-084c-4a20-a12c-6e809b51e95c",
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=594"
+  },
+  {
+    "id": "ocd-organization/20793f0e-eefb-4afa-bc0c-204f4eb83104",
+    "name": "Homeland Security, Public Safety and Veterans' Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/43bbf34a-6bc4-41f9-9bdc-3e944c5b8495",
+      "ocd-person/01ce2f6b-0500-4baa-a47f-386f9c6286b0",
+      "ocd-person/dd3e49ca-2b2b-4a83-ae63-0ade6ccef73f",
+      "ocd-person/64221b86-e3ca-4b67-b2bb-3f4f9641e133",
+      "ocd-person/0941f4bf-2ac8-48d0-8675-191514e06850",
+      "ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075",
+      "ocd-person/0deb3053-0d5d-46b4-93d2-8eb9de0c4ffd",
+      "ocd-person/1205faf4-7ced-4d21-aa8c-aad9239e3157",
+      "ocd-person/2c0a4352-9871-4122-97fd-832ec998e907",
+      "ocd-person/12d67093-ab4c-425d-afa3-e5777db09d1c",
+      "ocd-person/3e4ae7d4-dbb2-4991-8b44-8ada6023d7da"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C420"
+  },
+  {
+    "id": "ocd-organization/a5480cfe-687a-440f-b964-9fc98656e1ae",
+    "name": "Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2609ba13-abf1-40b5-9f4c-a4c1135e56e2",
+      "ocd-person/26090510-8782-4d64-b981-3d1cde573090",
+      "ocd-person/c55d85ff-7172-42d4-9c8f-da2f258dc19b",
+      "ocd-person/f4976334-0e0e-4474-b5b4-3264e8d73f1d",
+      "ocd-person/791e4399-56bb-4d4c-8561-71f0979fb999",
+      "ocd-person/2b79c268-eaf3-4915-a0e0-faec03b652d8",
+      "ocd-person/2c0a4352-9871-4122-97fd-832ec998e907",
+      "ocd-person/c6308fcd-b1e1-4ce3-9a29-c05e420e8012",
+      "ocd-person/ddebb940-33f9-4b5c-a8fa-e22c63a594e9",
+      "ocd-person/0acfbb85-b501-45ce-9a9b-90537090a455",
+      "ocd-person/7298c6a9-c6be-41cd-a2ba-0cc79c851373"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C310"
+  },
+  {
+    "id": "ocd-organization/9a2c9035-b980-4ca3-a7b5-dc0ecf80470c",
+    "name": "Insurance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/37886d81-901f-43b4-841b-f3ffbfeeb257",
+      "ocd-person/5c2743d2-fe0e-41d6-969d-de830d5787f8",
+      "ocd-person/ee8cc382-84b7-47e3-824f-e05cf6455161",
+      "ocd-person/36338558-c2b0-4b43-b656-261dccbee871",
+      "ocd-person/e05f502a-0d27-4c51-8cad-d3b5eca585b1",
+      "ocd-person/8eeb1aad-24b6-487b-bbc0-31c2238b1ccd",
+      "ocd-person/07951419-b5d5-430b-a3e6-678e1d4aec21",
+      "ocd-person/afd236d4-4266-4777-8d3d-be7616a7e43f",
+      "ocd-person/25157308-7474-4600-8b83-173d79e16a21"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C320"
+  },
+  {
+    "id": "ocd-organization/dae9a079-8608-46ed-83a1-095f8db046c7",
+    "name": "Intergovernmental Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/33f871c9-15a6-4094-9181-ff822cd9eca4",
+      "ocd-person/b55d57f4-bd06-4487-8860-0b6eeb9a1dea",
+      "ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c",
+      "ocd-person/f331962f-370b-4b74-876e-aa6a8e2e58e2",
+      "ocd-person/15ce6502-645c-4031-994d-b228e1c69bb4",
+      "ocd-person/36338558-c2b0-4b43-b656-261dccbee871",
+      "ocd-person/ab211984-06a9-447c-9ded-564d200bee60",
+      "ocd-person/12d67093-ab4c-425d-afa3-e5777db09d1c",
+      "ocd-person/89e814c4-6091-4156-b3b5-42a7980f8b4d",
+      "ocd-person/97805dd7-1f42-482c-bac3-049dfccda311",
+      "ocd-person/cee6cb7a-8d88-4c34-be27-dd10d1f31768"
+    ],
+    "officialUrl": "https://house.texas.gov/committees/committee/324"
+  },
+  {
+    "id": "ocd-organization/535ab500-00f3-4ff6-b97e-f7e31e216d19",
+    "name": "Judiciary and Civil Jurisprudence",
+    "chamber": "house",
+    "members": [
+      "ocd-person/40a678a3-7d85-486e-bf38-5d070142aa83",
+      "ocd-person/45f3ddfb-5994-4f05-b2c8-e0e3b2a99c47",
+      "ocd-person/83030f8b-5f1f-4475-b564-a07ae42f6d98",
+      "ocd-person/85d064ed-6f3d-4a81-93ee-1baf49c7f2c3",
+      "ocd-person/8eeb1aad-24b6-487b-bbc0-31c2238b1ccd",
+      "ocd-person/5898294d-5b10-4aaf-a084-b8522e69623c",
+      "ocd-person/ab3ddc65-0fb9-476b-993f-b3dc4050127e",
+      "ocd-person/d34eead2-bd19-49ce-8131-6d314d58e6a1",
+      "ocd-person/df010291-7350-4262-9220-4c576730b2db",
+      "ocd-person/89b43853-82e0-434c-9946-4fd9057e1842",
+      "ocd-person/f8e0a89e-889a-4fcf-8a0a-1e0e091d89d0"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C330"
+  },
+  {
+    "id": "ocd-organization/d6e99361-1202-40dc-aaef-9abe804f18f5",
+    "name": "Land and Resource Management",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5ff88048-ebd8-4ac3-af9c-d02e1305ef37",
+      "ocd-person/51927936-c6fc-453b-8afd-5f0b53de7d46",
+      "ocd-person/f602a657-8951-4dcb-9bd8-c04bcce4ba56",
+      "ocd-person/1f9ed42e-27de-4cd1-b2bf-f890ee33cb49",
+      "ocd-person/07951419-b5d5-430b-a3e6-678e1d4aec21",
+      "ocd-person/01ce2f6b-0500-4baa-a47f-386f9c6286b0",
+      "ocd-person/9447575b-d8a1-45dd-bd68-77b12fe347ab",
+      "ocd-person/436ab2a5-12ca-4a9c-b8ec-73b1bae4ee68",
+      "ocd-person/3f38bf62-86ba-4833-9737-2e084ae6255d"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C360"
+  },
+  {
+    "id": "ocd-organization/bb8e87b8-519d-409b-a5cb-5db9b9532c93",
+    "name": "Legislative Budget Board",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/fff5eb4f-2c41-4d00-a1c5-e566a15b063e",
+      "ocd-person/3caafbc8-6561-4bf8-8247-aaf398573ba8",
+      "ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343",
+      "ocd-person/d0fbfb15-2f0c-4167-b8b4-d6135bbb6616",
+      "ocd-person/1997b231-45f7-4f29-a435-9f52e60ebea4",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772",
+      "ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0"
+    ],
+    "officialUrl": "https://www.lbb.texas.gov/default.aspx"
+  },
+  {
+    "id": "ocd-organization/5b3ed80c-69e8-4cc4-b531-d24c19a80b3a",
+    "name": "Licensing and Administrative Procedures",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7952d7d7-0fe5-4712-9967-6cb9bcedff05",
+      "ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a",
+      "ocd-person/4f98520b-d88b-4053-acc5-3cb2fff14660",
+      "ocd-person/3caafbc8-6561-4bf8-8247-aaf398573ba8",
+      "ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29",
+      "ocd-person/baafecd4-6f74-4a97-b564-691c1e938291",
+      "ocd-person/e926ca11-64dd-4e15-97bd-1f7b0915de36",
+      "ocd-person/f926d7a8-7ec7-4020-9e18-5a475565fd41",
+      "ocd-person/26244d6a-f0d5-4dbe-b9ed-a38df74a7bac",
+      "ocd-person/896e8f9c-7dca-4f7d-8554-c0324cfa7265",
+      "ocd-person/c0fc4283-3ed5-4165-a066-80de16f492b7",
+      "ocd-person/2db06a9d-ae17-4881-98b4-5172fdfca19f",
+      "ocd-person/97fc1e34-35fb-470f-a098-4ba8f0c3c8d4"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C350"
+  },
+  {
+    "id": "ocd-organization/e16bb58f-89a0-44e9-882b-12c19999a859",
+    "name": "Local and Consent Calendars",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e926ca11-64dd-4e15-97bd-1f7b0915de36",
+      "ocd-person/69ef7d69-9a5e-42be-b463-8873cb52ad10",
+      "ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e",
+      "ocd-person/41f4a5e2-a2d5-4e54-aae3-9c99f9ea5eba",
+      "ocd-person/42c40e86-b355-4724-8582-995125377240",
+      "ocd-person/b55d57f4-bd06-4487-8860-0b6eeb9a1dea",
+      "ocd-person/988efb07-ace2-4419-ac40-ccec69ebe875",
+      "ocd-person/8eeb1aad-24b6-487b-bbc0-31c2238b1ccd",
+      "ocd-person/53b19d1e-5b07-4f6e-87a9-27baecddaf70",
+      "ocd-person/fbd66d9f-2a93-4cbf-b75d-b51cb01e955e",
+      "ocd-person/5236ee6e-a57c-4d81-90b4-50a9abde8e5e"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C380"
+  },
+  {
+    "id": "ocd-organization/07929240-5ee1-4bc1-b209-cfe61bd8d15e",
+    "name": "Local Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/06aed58e-f403-43a5-b4b9-8785a4acf981",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/68767ec3-151c-413f-aeb8-f35dd6c5f35c",
+      "ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C556"
+  },
+  {
+    "id": "ocd-organization/e96bf69a-1fea-4c31-9c9e-73871c4bf61b",
+    "name": "Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/baafecd4-6f74-4a97-b564-691c1e938291",
+      "ocd-person/e2d786e9-5e46-4807-be42-546203016996",
+      "ocd-person/e3533cbc-f3ab-46bc-a591-c68657f82527",
+      "ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e",
+      "ocd-person/33f871c9-15a6-4094-9181-ff822cd9eca4",
+      "ocd-person/42c40e86-b355-4724-8582-995125377240",
+      "ocd-person/2cadcb59-210a-4a71-af9f-7dba9ab06112",
+      "ocd-person/b55d57f4-bd06-4487-8860-0b6eeb9a1dea",
+      "ocd-person/988efb07-ace2-4419-ac40-ccec69ebe875",
+      "ocd-person/1ec50565-379f-4a8b-ab18-c54d31df9929",
+      "ocd-person/93379bbe-5fb3-400f-853a-d0b3553e7772",
+      "ocd-person/c0fc4283-3ed5-4165-a066-80de16f492b7",
+      "ocd-person/68f05872-16c8-4d3a-ab5f-ea667ca52b27"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C390"
+  },
+  {
+    "id": "ocd-organization/fb56e389-00f7-464c-89b7-f3602c337b89",
+    "name": "Natural Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/c7aad3b7-ca16-4989-bf68-87ed72498a6b",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/e78373de-6d96-44db-b552-6da34ed992fc",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=580"
+  },
+  {
+    "id": "ocd-organization/cb2145f9-5d02-45da-a0f9-7c1f0fee0f6b",
+    "name": "Nominations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/3475b324-1c9b-4513-90e6-063aba5ac04e",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/e78373de-6d96-44db-b552-6da34ed992fc",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/20cda9bf-a1e6-4427-8115-e5655ddd8eb0"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C572"
+  },
+  {
+    "id": "ocd-organization/e679937b-0407-43ed-a417-96a6a20c4e55",
+    "name": "Pensions, Investments and Financial Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a4e4115b-d488-4e93-8354-80e361c0c260",
+      "ocd-person/b69579f7-74de-4a71-86ba-033264cc5bc7",
+      "ocd-person/1493b76f-b77d-48db-9ecd-26d0e2dfc843",
+      "ocd-person/ba43365e-63dc-4bdc-aadc-e3939aa7465b",
+      "ocd-person/5c2743d2-fe0e-41d6-969d-de830d5787f8",
+      "ocd-person/0deb3053-0d5d-46b4-93d2-8eb9de0c4ffd",
+      "ocd-person/4e07d8dc-f5b5-47e7-a1de-83f36d3b734f",
+      "ocd-person/5d3626bb-c865-4c92-a717-a72036c6ce5a",
+      "ocd-person/f8e0a89e-889a-4fcf-8a0a-1e0e091d89d0"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C395"
+  },
+  {
+    "id": "ocd-organization/db3097b2-8317-4de9-9d55-e95f9c739ec9",
+    "name": "Public Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e3533cbc-f3ab-46bc-a591-c68657f82527",
+      "ocd-person/7847295c-78f3-4f8c-adb6-3536fca2782e",
+      "ocd-person/1493b76f-b77d-48db-9ecd-26d0e2dfc843",
+      "ocd-person/2fd6fcd3-9676-42a4-b879-e317576ff18f",
+      "ocd-person/41f4a5e2-a2d5-4e54-aae3-9c99f9ea5eba",
+      "ocd-person/1f9ed42e-27de-4cd1-b2bf-f890ee33cb49",
+      "ocd-person/85d064ed-6f3d-4a81-93ee-1baf49c7f2c3",
+      "ocd-person/92b45572-c15c-4270-8356-6c3db1846c7b",
+      "ocd-person/6cbb02e6-5876-47a1-86aa-98566fe0073a",
+      "ocd-person/5e4e2fd2-e8a9-46f3-aab5-ffbc782afa8b",
+      "ocd-person/40a678a3-7d85-486e-bf38-5d070142aa83",
+      "ocd-person/4e07d8dc-f5b5-47e7-a1de-83f36d3b734f",
+      "ocd-person/cee6cb7a-8d88-4c34-be27-dd10d1f31768",
+      "ocd-person/9447575b-d8a1-45dd-bd68-77b12fe347ab",
+      "ocd-person/68f05872-16c8-4d3a-ab5f-ea667ca52b27"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C400"
+  },
+  {
+    "id": "ocd-organization/20f28f84-443f-461e-95b3-81f76b6df2d1",
+    "name": "Public Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/26617394-4276-4aa7-878c-d20552b260a4",
+      "ocd-person/b91e1420-1732-4063-9f3d-edcc5e71d416",
+      "ocd-person/45f3ddfb-5994-4f05-b2c8-e0e3b2a99c47",
+      "ocd-person/41f4a5e2-a2d5-4e54-aae3-9c99f9ea5eba",
+      "ocd-person/6cbb02e6-5876-47a1-86aa-98566fe0073a",
+      "ocd-person/45cd43ff-77b3-467c-aa61-890ebee8ece5",
+      "ocd-person/b39cf891-a259-422c-945a-94b65430ea0a",
+      "ocd-person/53b19d1e-5b07-4f6e-87a9-27baecddaf70",
+      "ocd-person/1205faf4-7ced-4d21-aa8c-aad9239e3157",
+      "ocd-person/9dc31ea5-fd89-4909-a9bf-d732ea02282a",
+      "ocd-person/4b70019b-d7c1-4414-bcb1-7bf917081ed5",
+      "ocd-person/df010291-7350-4262-9220-4c576730b2db",
+      "ocd-person/ea169f77-0bd8-4ca0-ac59-f894c9a09e71"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C410"
+  },
+  {
+    "id": "ocd-organization/27194f94-9966-4f7c-96b6-bca4868c28ba",
+    "name": "Redistricting",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d",
+      "ocd-person/ab211984-06a9-447c-9ded-564d200bee60",
+      "ocd-person/9c37e80d-af10-4433-a78a-408b2b798fb6",
+      "ocd-person/51591894-e9ff-48d3-81c5-897ec1c5e600",
+      "ocd-person/8f7f161e-6ef4-4c12-8eea-de88a313b36c",
+      "ocd-person/26090510-8782-4d64-b981-3d1cde573090",
+      "ocd-person/43bbf34a-6bc4-41f9-9bdc-3e944c5b8495",
+      "ocd-person/36338558-c2b0-4b43-b656-261dccbee871",
+      "ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959",
+      "ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075",
+      "ocd-person/45cd43ff-77b3-467c-aa61-890ebee8ece5",
+      "ocd-person/1ec50565-379f-4a8b-ab18-c54d31df9929",
+      "ocd-person/f0ede995-2253-4f7b-a922-6da34e4de194",
+      "ocd-person/ec19bc97-3146-4100-8294-329b88aec0e8",
+      "ocd-person/79ffab1c-4d79-4cfa-89b4-5f7ee95ca1bf"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C080"
+  },
+  {
+    "id": "ocd-organization/fec43b1b-bdab-441d-ae5f-f879fe5a2a9d",
+    "name": "Religious Liberty Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=678"
+  },
+  {
+    "id": "ocd-organization/68a23020-a330-497c-b29e-ba3f148811b3",
+    "name": "Special Committee on Congressional Redistricting",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/3475b324-1c9b-4513-90e6-063aba5ac04e",
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/e78373de-6d96-44db-b552-6da34ed992fc",
+      "ocd-person/72766791-084c-4a20-a12c-6e809b51e95c",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://www.senate.texas.gov/cmte.php?c=660"
+  },
+  {
+    "id": "ocd-organization/3df7c7ff-0440-4941-9c3f-5b90d149508c",
+    "name": "State Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d9f32e07-7835-4edf-b986-7a2cf16d608b",
+      "ocd-person/4f98520b-d88b-4053-acc5-3cb2fff14660",
+      "ocd-person/65a42043-6243-4f79-b1e0-69b3b8b4af29",
+      "ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2",
+      "ocd-person/7952d7d7-0fe5-4712-9967-6cb9bcedff05",
+      "ocd-person/40f0e868-e021-4453-8675-a9d2357e41e1",
+      "ocd-person/f926d7a8-7ec7-4020-9e18-5a475565fd41",
+      "ocd-person/3cac81cd-62ca-41d6-aa4a-8e4156244dec",
+      "ocd-person/2609ba13-abf1-40b5-9f4c-a4c1135e56e2",
+      "ocd-person/f72eb41b-2ff9-434f-96cf-75b9724289ab",
+      "ocd-person/d4a94a68-02a7-44c0-901f-9cd57350229a",
+      "ocd-person/f0ede995-2253-4f7b-a922-6da34e4de194",
+      "ocd-person/ace50d18-fc98-4460-9d90-928c0e88c79a",
+      "ocd-person/e7a379ec-9de2-48a2-918b-5ba58e1fd3f3",
+      "ocd-person/3f38bf62-86ba-4833-9737-2e084ae6255d"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C450"
+  },
+  {
+    "id": "ocd-organization/c0bf7b38-4513-4b67-829d-6de54f51fd4c",
+    "name": "State Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8326538c-c907-43b2-a6db-76434036afd7",
+      "ocd-person/895887ba-73cd-4321-827d-bb06d4eedfdf",
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/d7d0bd69-2615-4d0c-84df-4cdb75809343",
+      "ocd-person/c7aad3b7-ca16-4989-bf68-87ed72498a6b",
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C570"
+  },
+  {
+    "id": "ocd-organization/30cc4c05-e1e5-424d-8cf5-a9af904c6c6e",
+    "name": "Sunset Advisory Commission",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/fe47f6d5-2db3-495b-8da6-5cd12e0dc677",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/71555c46-28b0-4887-98a1-997dc7482e75"
+    ],
+    "officialUrl": "https://www.sunset.texas.gov"
+  },
+  {
+    "id": "ocd-organization/adc5e62b-ed5c-4dca-b682-619071350352",
+    "name": "Trade, Workforce and Economic Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2a9478ef-b573-4de6-ab96-bb3f6091346f",
+      "ocd-person/5e4e2fd2-e8a9-46f3-aab5-ffbc782afa8b",
+      "ocd-person/72920206-cbe7-4429-b42b-c6fc746a1d56",
+      "ocd-person/6feda596-fd20-429b-ae4e-bedab7e5a1c5",
+      "ocd-person/fbd66d9f-2a93-4cbf-b75d-b51cb01e955e",
+      "ocd-person/fe47f6d5-2db3-495b-8da6-5cd12e0dc677",
+      "ocd-person/2b79c268-eaf3-4915-a0e0-faec03b652d8",
+      "ocd-person/896e8f9c-7dca-4f7d-8554-c0324cfa7265",
+      "ocd-person/4fb2e1fd-fbb3-4a55-8417-761da2f6048e",
+      "ocd-person/89e814c4-6091-4156-b3b5-42a7980f8b4d",
+      "ocd-person/bdecc388-4028-48e2-b211-75c59c1c5ec2"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C039"
+  },
+  {
+    "id": "ocd-organization/a1afa897-98c2-4e31-a418-7855f259b609",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d4d5c127-1ef6-445d-a89b-d9f02c812365",
+      "ocd-person/26244d6a-f0d5-4dbe-b9ed-a38df74a7bac",
+      "ocd-person/72920206-cbe7-4429-b42b-c6fc746a1d56",
+      "ocd-person/791e4399-56bb-4d4c-8561-71f0979fb999",
+      "ocd-person/43bbf34a-6bc4-41f9-9bdc-3e944c5b8495",
+      "ocd-person/e05f502a-0d27-4c51-8cad-d3b5eca585b1",
+      "ocd-person/c84056d0-47e0-4a0c-94e1-9f90c2d90a15",
+      "ocd-person/2cadcb59-210a-4a71-af9f-7dba9ab06112",
+      "ocd-person/e926ca11-64dd-4e15-97bd-1f7b0915de36",
+      "ocd-person/d34eead2-bd19-49ce-8131-6d314d58e6a1",
+      "ocd-person/96dfe856-d5b0-4f7a-86f6-06c2175a4d4a",
+      "ocd-person/0e79cc57-2894-432e-9aca-505a41d4de2c",
+      "ocd-person/3e4ae7d4-dbb2-4991-8b44-8ada6023d7da"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C470"
+  },
+  {
+    "id": "ocd-organization/ffddc721-9b4c-4c28-a5ee-afd4815eb444",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976",
+      "ocd-person/d6f40682-7b90-4735-980c-7c95ef402a78",
+      "ocd-person/3475b324-1c9b-4513-90e6-063aba5ac04e",
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/72766791-084c-4a20-a12c-6e809b51e95c",
+      "ocd-person/dee454b1-6da0-4b1b-a232-033e7de8551f",
+      "ocd-person/a9f861bf-1a13-4d3b-816a-69589e9b25e7",
+      "ocd-person/98bef50a-73c7-4139-9b8e-628d0e89d659"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C640"
+  },
+  {
+    "id": "ocd-organization/bd7dc300-fa20-4b59-8275-5aba0b2a6554",
+    "name": "Veteran Affairs Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c15c9bf3-f28a-4c01-9a10-383bc7a05cb9",
+      "ocd-person/013d69b7-a958-490c-a4a2-7224a30efa08",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/682e8ef8-8fc1-4490-a04d-63a7c6d92185",
+      "ocd-person/fa4817bf-6dc6-4deb-9965-cf3f208ec976"
+    ],
+    "officialUrl": "https://senate.texas.gov/cmte.php?c=658"
+  },
+  {
+    "id": "ocd-organization/005ffae7-8c9c-4144-9d8b-92bf2058df09",
+    "name": "Water, Agriculture and Rural Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6522ba2d-f263-455a-9470-cec0aa03033b",
+      "ocd-person/aa6deb86-b21b-4ed2-ad67-bd6217238afc",
+      "ocd-person/7f748f58-e6f2-4c86-ad01-52c7ca3435ca",
+      "ocd-person/3e0f0e51-20c0-4da4-82b5-ff81606148d0",
+      "ocd-person/8bb90ee9-e764-44da-b27f-b5bc3cdb394e",
+      "ocd-person/28eb71be-bce7-4b32-908d-289ecc265c3c",
+      "ocd-person/68767ec3-151c-413f-aeb8-f35dd6c5f35c"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=S&CmteCode=C700"
+  },
+  {
+    "id": "ocd-organization/e26134c5-b475-4a9b-a672-9fa99403cf4e",
+    "name": "Ways and Means",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2639e096-d327-4c4d-823f-759b1ce373e0",
+      "ocd-person/07f5e898-8d5d-435a-bf97-7bfb26fce5ac",
+      "ocd-person/2a9478ef-b573-4de6-ab96-bb3f6091346f",
+      "ocd-person/9c37e80d-af10-4433-a78a-408b2b798fb6",
+      "ocd-person/f4976334-0e0e-4474-b5b4-3264e8d73f1d",
+      "ocd-person/a5e2021c-8221-41ba-b45c-cc89d13b2af2",
+      "ocd-person/3194ee5e-f4d8-4449-8ff6-ec47c0822a3d",
+      "ocd-person/7847295c-78f3-4f8c-adb6-3536fca2782e",
+      "ocd-person/34590156-1109-4ab6-84bc-bbe07764f365",
+      "ocd-person/40ecf6ee-92a4-4daf-b950-ac70b6cdfeee",
+      "ocd-person/ef5a2ea8-61b0-484c-bbe1-b52c5ad2f075",
+      "ocd-person/b7c4e0e7-4949-4dff-bc4c-fdaaada3f37d",
+      "ocd-person/5236ee6e-a57c-4d81-90b4-50a9abde8e5e"
+    ],
+    "officialUrl": "https://capitol.texas.gov/Committees/MeetingsByCmte.aspx?Leg=88&Chamber=H&CmteCode=C490"
+  }
+]

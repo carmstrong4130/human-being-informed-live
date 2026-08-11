@@ -1,0 +1,810 @@
+[
+  {
+    "id": "ocd-organization/f19039a0-0332-43e3-ac6a-3ebe0f5e83e6",
+    "name": "Capital Budget",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c344ed7a-6fea-4f17-9c48-4e27d67bebc8",
+      "ocd-person/e6443187-eb51-42eb-8bd7-349ed0ba9641",
+      "ocd-person/cf24defe-6df3-49f3-88ca-c6774b144f19",
+      "ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04",
+      "ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=30"
+  },
+  {
+    "id": "ocd-organization/0d3b3c46-c395-4cb3-ab79-3d2176cf9c99",
+    "name": "Children and Family Law",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7ef7472f-0bda-4708-9239-76adeca1e87e",
+      "ocd-person/1f649bd8-815d-47b9-aca3-6e11ef2da422",
+      "ocd-person/36eee284-6fc9-4b03-9b5c-012b5fdd6995",
+      "ocd-person/47ad413d-8b61-4b5b-8be6-9c999fb1a682",
+      "ocd-person/711423e3-ff28-4150-8a89-ec568a4f2c5d",
+      "ocd-person/28d59199-5bae-46fe-99f3-ec78e330cdeb",
+      "ocd-person/1c956ef6-b705-4e9d-af0c-f66d6f44591e",
+      "ocd-person/01d85172-f83f-48ee-8c35-8979a95c9190",
+      "ocd-person/e1e26c8f-3b7f-42bf-89e2-33331ff83bb3",
+      "ocd-person/f96a83f9-c085-451a-9b6b-4f79e2472e90",
+      "ocd-person/35bc8d7d-92ae-41de-95eb-d515df5b9e9b",
+      "ocd-person/1becd24c-cc2c-46fd-9859-a06c46340b93",
+      "ocd-person/6c90e0a1-d9d5-488c-a9a3-898ca5b0f9a4",
+      "ocd-person/4b40718c-8dbd-4df2-a1a0-75a9093778ce",
+      "ocd-person/1bf3d6c4-3325-4571-b2f7-6a28422dada6"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=24"
+  },
+  {
+    "id": "ocd-organization/2bf8d19a-4f11-4895-90be-80173fddaf39",
+    "name": "Children and Family Law",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6dfd683a-1f79-49db-95a9-07f4f9898a22",
+      "ocd-person/dbf39ca6-e569-4078-b150-f63c51784d80",
+      "ocd-person/14d0ff58-3340-4344-bb79-c6acd5f8ba6c"
+    ],
+    "officialUrl": "https://gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=1712"
+  },
+  {
+    "id": "ocd-organization/45bbb859-270e-4483-9c65-bf3cd7606d98",
+    "name": "Commerce",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6328e7f7-d952-4d28-98b8-75a9a6f50c8d",
+      "ocd-person/8dc59c94-caba-41b2-a6ba-6bca0f595118",
+      "ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04",
+      "ocd-person/7ec573c3-d961-4d08-a71c-d239490b5c1a",
+      "ocd-person/461c9024-c8c3-44a5-91d6-015a6587db5f",
+      "ocd-person/db4dc6cd-8c68-487f-a1e3-dd80995ba786"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=40"
+  },
+  {
+    "id": "ocd-organization/91200dc3-61f6-455a-b37b-97b9b627aa89",
+    "name": "Commerce and Consumer Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/35c51630-9b9c-411a-9b98-0842cb6093df",
+      "ocd-person/433c67d6-bfdc-410e-87e2-463c93d55a17",
+      "ocd-person/72ef654a-277a-4309-b0ae-08fee715af2c",
+      "ocd-person/e6d39a32-9602-4a87-905b-a86eeefe9ae1",
+      "ocd-person/a028512b-5d61-4d23-9e28-dec7038577d6",
+      "ocd-person/1c179bc8-d192-44c1-aed6-4801e9d6b338",
+      "ocd-person/74d3b542-b2d0-426f-9835-0de12d5e4895",
+      "ocd-person/7eb393f4-db93-4fbd-95bc-3491d9a6ca93",
+      "ocd-person/28ef2003-b65a-4c46-92f1-b777498c5a00",
+      "ocd-person/5e1bcd9f-9dd0-46b1-8c7f-b9e84bbba8e7",
+      "ocd-person/80eb1932-bf31-4008-b48b-640178bfa0d3",
+      "ocd-person/6e2bc564-5cd1-4f96-a265-4753b7f12ee1",
+      "ocd-person/44b33c8b-b7ee-41e3-a7a4-601a53746e36",
+      "ocd-person/c975be5b-c686-4489-92d2-5b8ba36f9974",
+      "ocd-person/554fe6ba-061a-413f-b2c7-c0e10c47ad01",
+      "ocd-person/ce051501-985a-4008-913f-38b1b05351c6",
+      "ocd-person/9f34527d-c08a-4112-8046-1ce5a61b3f0a",
+      "ocd-person/64a835c6-0e89-411f-bc32-331e246b10f0"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=29"
+  },
+  {
+    "id": "ocd-organization/4f1c2bc7-0525-4687-b9db-b9266b583490",
+    "name": "Criminal Justice and Public Safety",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6d43b165-fda9-4918-a2b7-ad66940062a0",
+      "ocd-person/50eaea14-c7e4-4aac-890e-bda69eb86978",
+      "ocd-person/f809a410-5a03-4ebc-a0ab-32507705c479",
+      "ocd-person/214295d3-da3e-45cb-89bc-80de2be1a071",
+      "ocd-person/4b449f0f-2024-4e18-bbbd-7f0bbcfa8cac",
+      "ocd-person/dca02694-20ad-476e-8b56-2ff59d3d8ba6",
+      "ocd-person/1e2b57f6-dbb9-4069-a71b-d40828c80cfa",
+      "ocd-person/b50abef6-0b19-4d5c-97c9-f757f3b571ad",
+      "ocd-person/5709592a-7c88-41e3-8295-7c05146327e2",
+      "ocd-person/0ac05fa7-143f-4ae9-8ac8-99de42d21779",
+      "ocd-person/622ea33c-23b7-4074-9ed6-75d2086677e8",
+      "ocd-person/f68b34d8-19af-449e-a4cc-3d2729bb9e23",
+      "ocd-person/c11f9fad-128e-455e-896e-2e880b6cc29e",
+      "ocd-person/3ce1bede-22ef-4c98-b958-1bca45624608"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=17"
+  },
+  {
+    "id": "ocd-organization/32afda9c-cbea-4e5d-83b3-bbaf8b887680",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9089a509-1f26-4770-adc6-199ed716e692",
+      "ocd-person/dbf39ca6-e569-4078-b150-f63c51784d80",
+      "ocd-person/6dfd683a-1f79-49db-95a9-07f4f9898a22",
+      "ocd-person/925608b2-8d23-4186-85f6-4c50f334374d",
+      "ocd-person/de206392-deba-4ecf-96a3-33494c415417"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=45"
+  },
+  {
+    "id": "ocd-organization/8c51ab9a-b1a1-4498-9a45-f6f1c5ecb018",
+    "name": "Education Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7ec573c3-d961-4d08-a71c-d239490b5c1a",
+      "ocd-person/6328e7f7-d952-4d28-98b8-75a9a6f50c8d",
+      "ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4",
+      "ocd-person/925608b2-8d23-4186-85f6-4c50f334374d",
+      "ocd-person/9089a509-1f26-4770-adc6-199ed716e692",
+      "ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560",
+      "ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d"
+    ],
+    "officialUrl": "https://gc.nh.gov/Senate/committees/committee_details.aspx?cc=1715"
+  },
+  {
+    "id": "ocd-organization/56c0d6dd-be5b-44c3-9c6c-7c852dd9d2ff",
+    "name": "Education Funding",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1bd6c569-f2dd-4670-bf82-ef3ea4b15960",
+      "ocd-person/236f5df6-87b6-488d-86cd-a1ed3a5adb81",
+      "ocd-person/8efd1438-4fbb-4e6a-ab55-73222f232022",
+      "ocd-person/f67d5fcc-0dac-4bf0-b1ab-b63f73162d0b",
+      "ocd-person/36ded3c5-84fd-49cc-82cb-d03fe682ad5f",
+      "ocd-person/c3c9bb99-9512-4bec-be04-d8b29ea96f3e",
+      "ocd-person/47c165c7-ecd9-4b88-b9f7-2e58e8e290d4",
+      "ocd-person/a1852031-32a0-4f94-95b8-57ddcc5ab576",
+      "ocd-person/0e6b2514-25d6-4e16-bcbd-5029e90df22d",
+      "ocd-person/e2026731-25f3-42b3-bd92-f6b3fc101f01",
+      "ocd-person/c67b2f9d-8f52-4ce4-b613-781763f0bfe4",
+      "ocd-person/f34606de-25d3-4e18-991e-b21727563eb6",
+      "ocd-person/2260bb0a-065f-4d26-a814-f70aa2c16705",
+      "ocd-person/4c5b973d-20c9-4205-a69d-bed3b74ca391",
+      "ocd-person/fc03907c-1276-40e7-9838-83f4ab670d03",
+      "ocd-person/31497c82-3d45-49e4-9232-1c435a5c72e3",
+      "ocd-person/4c3783ee-340d-4891-abf6-c4dfa6a030e3"
+    ],
+    "officialUrl": "https://gc.nh.gov/house/committees/committeedetails.aspx?id=1714"
+  },
+  {
+    "id": "ocd-organization/0852f299-f4cf-4aa5-b75e-d8c62fa32ec0",
+    "name": "Education Policy and Administration",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4246d501-b872-4cf9-bfd8-7ef21015da7a",
+      "ocd-person/437d084e-35d3-4a37-9ccb-61d6fcc43b1c",
+      "ocd-person/17abebe7-d58e-456b-b716-5cdadf60cbc7",
+      "ocd-person/c8d8a204-038c-4544-ad17-e12a5af19cd6",
+      "ocd-person/ff500f6d-8768-4947-af54-b2881b1134a4",
+      "ocd-person/4bb909b9-4651-4272-8d8d-3b649850e965",
+      "ocd-person/b80b4918-c952-4015-82e5-585229f9c2eb",
+      "ocd-person/a87a3359-2def-4743-bf8f-9df4d308f864",
+      "ocd-person/a35a4483-879d-4dd2-889e-57a576e56acc",
+      "ocd-person/f1902aac-3930-478d-9e89-60cef8bcae0b",
+      "ocd-person/ee439da0-f552-4df7-80d4-cd6b19ecd5df",
+      "ocd-person/75ad73cd-6591-4a64-9f6b-7558bbaf3689",
+      "ocd-person/c85e3c8a-f2b9-40d5-a830-7c59a1328bf4",
+      "ocd-person/e657ef2c-bfc3-4a08-99fe-4456be3bfe2a",
+      "ocd-person/8488ba3a-e608-4f0d-9d7b-7e6e13244917",
+      "ocd-person/3d7dffbf-59f3-4a2f-a29a-bcece98c17fb",
+      "ocd-person/bdde38b3-3210-4b2d-890b-bbf2d2bf314a",
+      "ocd-person/8c0d6811-045b-46ca-91c6-86e360249246"
+    ],
+    "officialUrl": "https://gc.nh.gov/house/committees/committeedetails.aspx?id=1713"
+  },
+  {
+    "id": "ocd-organization/eb732c67-7222-42ba-aa34-b40c0ac67dd6",
+    "name": "Election Law",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1b016eb0-b4c0-4929-b957-ef9de5b46031",
+      "ocd-person/8ee6ee68-5ccb-4871-b815-6ed27c68c3ae",
+      "ocd-person/bfecb4c6-509b-4c23-9c69-0e21483c44d3",
+      "ocd-person/e3a1815a-a84c-4bd1-9e20-b73b07d2576f",
+      "ocd-person/2bf4a05c-14f0-4916-964b-48bdb20f4fdd",
+      "ocd-person/8171a035-7cc1-4a7f-b086-9bdb800782da",
+      "ocd-person/e4ac4259-d405-4839-af31-6c409719065c",
+      "ocd-person/26cadaaa-59d2-4c71-b23b-9f103dbd3e81",
+      "ocd-person/03774445-16e9-4857-8015-317a3d8705a3",
+      "ocd-person/58bff024-3ec3-431f-bfa7-0d499b0bb780",
+      "ocd-person/d607d081-ecb8-4d5d-bc2f-d3ee78a627c7",
+      "ocd-person/ec6cfbd9-53fd-4643-b2c9-b0889f417baa",
+      "ocd-person/5d7f39ae-2cc4-4b36-bd76-828a24bc454d",
+      "ocd-person/a0a8c9d8-1f27-4d28-a249-8a5856ea5c05",
+      "ocd-person/b2bd1fe6-401e-41ac-88cc-a96d8a12d737",
+      "ocd-person/61d2e8f3-f2b9-4357-81af-fe982ee1821f",
+      "ocd-person/e7f37a7a-0f05-4fd3-944d-be2c41cc200b",
+      "ocd-person/33c30ffc-2203-48fc-9161-e14946abce23"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=23"
+  },
+  {
+    "id": "ocd-organization/7ea7aebb-3f3f-49ec-99ba-423cd633ae5a",
+    "name": "Election Law and Municipal Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e6443187-eb51-42eb-8bd7-349ed0ba9641",
+      "ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d",
+      "ocd-person/e849b9fb-0e1d-4ed5-b684-2a6b3520be6a",
+      "ocd-person/14d0ff58-3340-4344-bb79-c6acd5f8ba6c",
+      "ocd-person/c20b7693-7f2c-4646-af7f-d57518edd1a4"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=1421"
+  },
+  {
+    "id": "ocd-organization/e31f279a-d38d-4145-9043-d65e250763ee",
+    "name": "Energy and Natural Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0",
+      "ocd-person/c4122c6a-ed23-492e-b813-59a0fed1ec86",
+      "ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4",
+      "ocd-person/cf24defe-6df3-49f3-88ca-c6774b144f19",
+      "ocd-person/c344ed7a-6fea-4f17-9c48-4e27d67bebc8"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=41"
+  },
+  {
+    "id": "ocd-organization/430fec11-2695-46d4-9f96-49b2e2c82dfb",
+    "name": "Environment and Agriculture",
+    "chamber": "house",
+    "members": [
+      "ocd-person/533fb85c-c4f0-41f3-9bc6-8b1c422a9693",
+      "ocd-person/3e0ee111-2332-4742-b073-a23cc37a8b51",
+      "ocd-person/15d93e43-ec08-4958-8f3b-1d56d95eb574",
+      "ocd-person/36fb226e-9ed4-483f-a254-141baf18d295",
+      "ocd-person/c46f0617-3009-41d2-97e3-a51004d83430",
+      "ocd-person/87b1ae9f-d7ad-4fc2-b96c-a03c1926c4b1",
+      "ocd-person/b9b6f587-2395-497d-8f04-dfaae1b3d7f4",
+      "ocd-person/2a474f9c-7a7d-4d4f-8c7c-73ade8e11ad8",
+      "ocd-person/efbf2adf-16f5-490e-9513-a80698aab5d8",
+      "ocd-person/ad3c3841-fa56-4055-bd86-8a3c504d36a9",
+      "ocd-person/a87a3359-2def-4743-bf8f-9df4d308f864",
+      "ocd-person/6fbc7a9b-82b3-4897-86e1-61e3fb4a4f77",
+      "ocd-person/4825494b-dbbb-44f4-a4a7-dee1df0a87ae",
+      "ocd-person/170e4582-46d4-480d-9bca-b49b2ba8baf3",
+      "ocd-person/2c42e95c-0192-4910-9fc6-8a43b58c6467"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=2"
+  },
+  {
+    "id": "ocd-organization/16cf2485-c815-4c01-80da-89a4b1e2957b",
+    "name": "Executive Departments and Administration",
+    "chamber": "house",
+    "members": [
+      "ocd-person/94df7a3f-b27d-42c1-9ecc-1ebdc707c9ae",
+      "ocd-person/c258b160-4a1f-461e-8fed-18597f349df9",
+      "ocd-person/81a14b0b-f5dd-4e7a-b500-c9dc0a56c2be",
+      "ocd-person/cd3ca080-a00e-4ad2-a5c4-897d8939c32b",
+      "ocd-person/0119879d-c522-4d71-992d-936a57389093",
+      "ocd-person/56f58b74-b3b6-4f73-ad18-15af5119c4bc",
+      "ocd-person/ff64ec8f-c8be-4e9c-8dce-3397cdc2401e",
+      "ocd-person/26f01212-5287-4735-aa1f-77e4f0d2acb6",
+      "ocd-person/15de6eda-2f2d-4807-9ff1-e770c60ca46c",
+      "ocd-person/a365b40c-5682-4627-ae84-764e7da7219e",
+      "ocd-person/c480dbd4-efbc-4a6b-9fc2-37bef688e2de",
+      "ocd-person/b2021972-0991-4a95-a897-b7e992eac8dd",
+      "ocd-person/16654889-3b48-44d6-a6d3-8da5d7a434f1",
+      "ocd-person/2a085551-6f62-4320-a1eb-bc9a177b9a6d",
+      "ocd-person/09972c73-4e4f-471a-9888-558053aace85",
+      "ocd-person/5c985922-36b3-4d80-986d-1f9c363920f1"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=3"
+  },
+  {
+    "id": "ocd-organization/3ffaaa6e-cfcd-4898-add3-801b84201f94",
+    "name": "Executive Departments and Administration",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c4122c6a-ed23-492e-b813-59a0fed1ec86",
+      "ocd-person/d3c437bd-532d-458b-961f-4f6dccec1e4b",
+      "ocd-person/925608b2-8d23-4186-85f6-4c50f334374d",
+      "ocd-person/db4dc6cd-8c68-487f-a1e3-dd80995ba786",
+      "ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=31"
+  },
+  {
+    "id": "ocd-organization/e5c0c443-48bc-4f73-bb95-6ea5f4896429",
+    "name": "Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e2f9dd7e-b221-4cf0-b7de-5daa70658669",
+      "ocd-person/f67d5fcc-0dac-4bf0-b1ab-b63f73162d0b",
+      "ocd-person/915a097c-1280-478b-b200-0903e323e9e5",
+      "ocd-person/b12abcbf-fbbe-4464-854e-6960b024e62a",
+      "ocd-person/ae3d6133-98b5-444e-b95e-2edc2f5302dc",
+      "ocd-person/0dbeb05f-3510-48d3-9918-a929a6069ac2",
+      "ocd-person/36ded3c5-84fd-49cc-82cb-d03fe682ad5f",
+      "ocd-person/d347f91a-d60c-48a2-b78b-8e387e7b38a1",
+      "ocd-person/956f70c5-6a5c-455f-b17d-c25f04b25db1",
+      "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
+      "ocd-person/80181303-730c-46b5-88e5-ccfbf32b132f",
+      "ocd-person/568a287b-89c6-44b7-a8e6-a5188ef7f9bc",
+      "ocd-person/3d1f7d21-9a20-4245-b51f-03ca0d2b14eb",
+      "ocd-person/947e2e2b-04eb-4f92-9f83-aef8760517e0",
+      "ocd-person/79bb2147-ea4b-4706-8b38-ee2309613ea0",
+      "ocd-person/0e6b2514-25d6-4e16-bcbd-5029e90df22d",
+      "ocd-person/ac414b7c-45dc-48b6-9530-eaa8e80b124f",
+      "ocd-person/0929165d-f73c-4820-8820-209de58c1e78",
+      "ocd-person/0e6f806c-ba57-4dc6-b6b4-f2a926288ca3",
+      "ocd-person/4a80db99-34b2-4d33-995b-41d889592bf3",
+      "ocd-person/86708f42-531f-4e57-a6b1-f5b11ff9389c",
+      "ocd-person/34a4f745-0a57-454d-acc0-598c6fcc35ce",
+      "ocd-person/1a5923c6-3e1f-4ebe-8739-17c9e9642403",
+      "ocd-person/b0df7728-b702-4448-b36e-e09cdacbd16d",
+      "ocd-person/236f5df6-87b6-488d-86cd-a1ed3a5adb81"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=22"
+  },
+  {
+    "id": "ocd-organization/428ec19e-5b0e-466b-ba1a-e7a8cb992099",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e6443187-eb51-42eb-8bd7-349ed0ba9641",
+      "ocd-person/6328e7f7-d952-4d28-98b8-75a9a6f50c8d",
+      "ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4",
+      "ocd-person/cf24defe-6df3-49f3-88ca-c6774b144f19",
+      "ocd-person/c4122c6a-ed23-492e-b813-59a0fed1ec86",
+      "ocd-person/461c9024-c8c3-44a5-91d6-015a6587db5f",
+      "ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560",
+      "ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=32"
+  },
+  {
+    "id": "ocd-organization/3a294803-2e3e-4c26-9b14-3034966f9747",
+    "name": "Finance Committee Division I",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3d1f7d21-9a20-4245-b51f-03ca0d2b14eb",
+      "ocd-person/ae3d6133-98b5-444e-b95e-2edc2f5302dc",
+      "ocd-person/86708f42-531f-4e57-a6b1-f5b11ff9389c",
+      "ocd-person/0dbeb05f-3510-48d3-9918-a929a6069ac2",
+      "ocd-person/915a097c-1280-478b-b200-0903e323e9e5",
+      "ocd-person/568a287b-89c6-44b7-a8e6-a5188ef7f9bc",
+      "ocd-person/947e2e2b-04eb-4f92-9f83-aef8760517e0",
+      "ocd-person/e2f9dd7e-b221-4cf0-b7de-5daa70658669",
+      "ocd-person/1a5923c6-3e1f-4ebe-8739-17c9e9642403"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=25"
+  },
+  {
+    "id": "ocd-organization/194e0e12-5e44-4a8f-b313-c7f7ba48ced3",
+    "name": "Finance Committee Division II",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0e6b2514-25d6-4e16-bcbd-5029e90df22d",
+      "ocd-person/36ded3c5-84fd-49cc-82cb-d03fe682ad5f",
+      "ocd-person/f67d5fcc-0dac-4bf0-b1ab-b63f73162d0b",
+      "ocd-person/956f70c5-6a5c-455f-b17d-c25f04b25db1",
+      "ocd-person/79bb2147-ea4b-4706-8b38-ee2309613ea0",
+      "ocd-person/e2f9dd7e-b221-4cf0-b7de-5daa70658669",
+      "ocd-person/0929165d-f73c-4820-8820-209de58c1e78",
+      "ocd-person/236f5df6-87b6-488d-86cd-a1ed3a5adb81"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=26"
+  },
+  {
+    "id": "ocd-organization/972275c4-147b-429b-bdf0-06dc6a381487",
+    "name": "Finance Committee Division III",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4a80db99-34b2-4d33-995b-41d889592bf3",
+      "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
+      "ocd-person/34a4f745-0a57-454d-acc0-598c6fcc35ce",
+      "ocd-person/b12abcbf-fbbe-4464-854e-6960b024e62a",
+      "ocd-person/d347f91a-d60c-48a2-b78b-8e387e7b38a1",
+      "ocd-person/80181303-730c-46b5-88e5-ccfbf32b132f",
+      "ocd-person/e2f9dd7e-b221-4cf0-b7de-5daa70658669",
+      "ocd-person/ac414b7c-45dc-48b6-9530-eaa8e80b124f",
+      "ocd-person/0e6f806c-ba57-4dc6-b6b4-f2a926288ca3",
+      "ocd-person/b0df7728-b702-4448-b36e-e09cdacbd16d"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=27"
+  },
+  {
+    "id": "ocd-organization/3a542d88-58c1-4dc8-b70d-c28845457764",
+    "name": "Fish and Game and Marine Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2520dc46-648c-44d0-ba1f-fe09b17a9d8b",
+      "ocd-person/7c8a79bb-76d5-488c-988b-084fa40b34c7",
+      "ocd-person/44357af0-cbba-4906-87fd-1929564931b9",
+      "ocd-person/e60aed5e-cbb4-4b27-ab1b-2ce1dd787dac",
+      "ocd-person/c15709b9-8514-4e8f-8a52-6b464eb8484d",
+      "ocd-person/620d9d69-c8fb-47ad-ad25-1c1ef75c39dd",
+      "ocd-person/78fa874f-3651-424e-a8c7-094b2d89de95",
+      "ocd-person/214b10b8-1ed6-4964-8aab-32c6609965f6",
+      "ocd-person/260ddf78-7100-4fee-a353-0ebf1a0615ec",
+      "ocd-person/9a1db7df-83d0-4f2f-8c3c-7610f8012ce6",
+      "ocd-person/af8ff7f6-ee61-492f-87cc-8fc69bee7886",
+      "ocd-person/d699ae32-c8ba-43d2-a127-fdc38e722bc7",
+      "ocd-person/8d99d9dc-999d-438c-84c8-01d80f1ef5cd",
+      "ocd-person/81cb2080-0fec-4a30-8212-71fa0679e2f3",
+      "ocd-person/a56c3553-5c3b-4638-89a5-e1d97ccd4516"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=28"
+  },
+  {
+    "id": "ocd-organization/fca3606e-fa9a-43a1-84d5-aae704cf83d8",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e849b9fb-0e1d-4ed5-b684-2a6b3520be6a",
+      "ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0",
+      "ocd-person/14d0ff58-3340-4344-bb79-c6acd5f8ba6c",
+      "ocd-person/461c9024-c8c3-44a5-91d6-015a6587db5f",
+      "ocd-person/de206392-deba-4ecf-96a3-33494c415417"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=46"
+  },
+  {
+    "id": "ocd-organization/541d5679-521f-4b54-a0de-6e7199411374",
+    "name": "Health, Human Services and Elderly Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/8588302c-ac8c-4b58-9444-0c9f29448aa0",
+      "ocd-person/e44fbca0-a34c-4b73-aaa6-872b471b9031",
+      "ocd-person/62edd52b-364d-4f60-a796-107ca302fdc5",
+      "ocd-person/0e14232e-aea6-4da6-9380-c59375f58e7c",
+      "ocd-person/5d98b66b-f4d1-4776-953f-67dc348fdd12",
+      "ocd-person/5aab63e3-55a7-485a-b6ee-93a9533b760a",
+      "ocd-person/f96a83f9-c085-451a-9b6b-4f79e2472e90",
+      "ocd-person/47233e65-87c6-4a8b-ba37-271c2413615d",
+      "ocd-person/fa8b39ea-006f-420a-9a3f-fe36d0db8776",
+      "ocd-person/c027d650-709d-440f-8740-84b3e11406ba",
+      "ocd-person/4b68fc91-27b5-4065-af3d-b541877116f5",
+      "ocd-person/a6790cd1-6b7a-48f9-b48c-b298929578a4",
+      "ocd-person/b089786f-4435-4822-a7d6-3725cca787bf",
+      "ocd-person/472f8b30-237d-44fe-8d3e-af33b833d8eb",
+      "ocd-person/f773bff0-d2b7-4fa5-8f82-c8b519b8556b",
+      "ocd-person/5b26425f-330d-458b-b8f6-b6a2b1997b41",
+      "ocd-person/6164e59b-1d52-4ee4-aa53-28ea86884757",
+      "ocd-person/3bc62111-d292-4ae2-a648-43b858308394"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=4"
+  },
+  {
+    "id": "ocd-organization/502c56c3-ca44-402a-82a9-032f725469eb",
+    "name": "Housing",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e7800d58-1019-4aff-8d1a-22faba9d3e23",
+      "ocd-person/e0dbb769-2677-4939-adc5-e1d2b253150f",
+      "ocd-person/19278cc6-c610-4ae1-b1eb-b33f60658f0b",
+      "ocd-person/69b94b6a-d5d5-430b-a4b9-c62c8414cb75",
+      "ocd-person/205741ac-701b-416e-9716-c725bc7d7665",
+      "ocd-person/09308be5-c800-42a8-b0bf-afbc877ab976",
+      "ocd-person/5e1bcd9f-9dd0-46b1-8c7f-b9e84bbba8e7",
+      "ocd-person/8be0bff9-f1a4-410d-9177-0080a7c40f0a",
+      "ocd-person/3ffd7496-524f-40b6-92d8-0e932f002a90",
+      "ocd-person/77304532-17fb-4b2c-aed6-213a435e4a46",
+      "ocd-person/b30166c7-822f-4680-9aa0-0b62e3caf9bd",
+      "ocd-person/8ecb185e-f9d2-4da1-94af-8ea367b7b34a",
+      "ocd-person/44b33c8b-b7ee-41e3-a7a4-601a53746e36",
+      "ocd-person/46f2bce3-b004-4b9c-8202-494feab86dee",
+      "ocd-person/3e70b6de-08a4-4ee5-a1c5-482f9394c475",
+      "ocd-person/db534ca2-9d91-4578-b093-9b3ed61695eb",
+      "ocd-person/2952c8e8-7d64-43a3-8502-fa6f8110fa14",
+      "ocd-person/d4473432-7416-4a64-9a3f-24b7ce96c446"
+    ],
+    "officialUrl": "https://gc.nh.gov/house/committees/committeedetails.aspx?id=1711"
+  },
+  {
+    "id": "ocd-organization/fbe65712-5957-4464-bed7-ae1c8b27a48f",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ce46c52e-8598-4888-8a1f-d16b283a7238",
+      "ocd-person/4568bf8a-b56b-43ec-a00f-718341eb6cb9",
+      "ocd-person/b7d43cab-3399-4022-a2a4-9415937b3daa",
+      "ocd-person/5223be3f-79ec-4442-8164-588d2ccc77e0",
+      "ocd-person/4ae310b1-b493-47b9-888e-e318a5ea0e76",
+      "ocd-person/538f12b2-0914-4107-9b08-6f498e7eec66",
+      "ocd-person/fa004123-5b0b-4019-8f74-8c43570c388c",
+      "ocd-person/e7800d58-1019-4aff-8d1a-22faba9d3e23",
+      "ocd-person/4df69dca-ac45-46e2-a42d-26d77ddcdde4",
+      "ocd-person/ea8d6a3b-8312-4ffe-a85a-e8a9776ec560",
+      "ocd-person/b89dda18-b7c5-4184-b6d9-0bff9bed045e",
+      "ocd-person/4f84e968-9226-470f-bde4-4163efc19593",
+      "ocd-person/86b31d04-3a4b-4199-b10e-27bd337f0a34",
+      "ocd-person/8c6eeb07-d048-47fd-9f0e-718460e2edc9",
+      "ocd-person/f96a072d-9add-44b0-8028-0ec057f31f52",
+      "ocd-person/c715d154-3822-42b6-ab75-73181ac7be0a",
+      "ocd-person/2a11a559-c16e-4211-82ea-215951d74c1f",
+      "ocd-person/82019391-800c-469e-b17b-fbbf700b6555"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=5"
+  },
+  {
+    "id": "ocd-organization/16f4c37a-2724-46b4-ba0c-f104c274021b",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d3c437bd-532d-458b-961f-4f6dccec1e4b",
+      "ocd-person/6dfd683a-1f79-49db-95a9-07f4f9898a22",
+      "ocd-person/925608b2-8d23-4186-85f6-4c50f334374d",
+      "ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560",
+      "ocd-person/db4dc6cd-8c68-487f-a1e3-dd80995ba786"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=33"
+  },
+  {
+    "id": "ocd-organization/08e48756-cf76-4abb-a758-014182ad3ccc",
+    "name": "Labor, Industrial and Rehabilitative Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e6b59654-1e8f-4f6b-b01f-7d69bb76ffec",
+      "ocd-person/4d68b7bf-e7fb-4c6d-ac12-526aba53e65e",
+      "ocd-person/b12abcbf-fbbe-4464-854e-6960b024e62a",
+      "ocd-person/da5fb901-d16d-430f-b5cb-7ab556f8d4ee",
+      "ocd-person/a04ceb08-3ec9-43b6-87d2-014313ada4a1",
+      "ocd-person/4c78e7fc-43a2-467b-abe3-6ba04ad8853e",
+      "ocd-person/ce0bbcca-54b7-40f4-817f-4f17e7a212a1",
+      "ocd-person/0772e02f-5d9a-45d3-aa62-81a5416b06e2",
+      "ocd-person/4f2dee8b-bbd5-41d9-8bd4-bf2f60556ed7",
+      "ocd-person/8698b473-ea4e-4126-8766-a2b5b5878702",
+      "ocd-person/a9f75dde-f348-4c7a-90c9-a785ee2de208",
+      "ocd-person/69275b32-0ad6-48a4-9787-bf2869573772",
+      "ocd-person/01358592-fa6d-49bf-a933-ea2f223572d7",
+      "ocd-person/bdc7b519-4849-4992-b21b-f5563d642285",
+      "ocd-person/facb5409-244f-4381-8452-e6a1078bb1c5",
+      "ocd-person/6d72216e-2f3d-4c60-9ce0-dc2c365d2033",
+      "ocd-person/07c09a56-23ba-4c8b-90bd-5668f22c5103",
+      "ocd-person/af8ff7f6-ee61-492f-87cc-8fc69bee7886",
+      "ocd-person/225fd1a2-5691-411a-b0ba-48c1943a139b",
+      "ocd-person/edcefea3-7cd4-4128-92ef-b22bc4a7c0b4"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=6"
+  },
+  {
+    "id": "ocd-organization/3d1deb7c-707f-4e49-b9a5-b20e6916eaff",
+    "name": "Legislative Administration",
+    "chamber": "house",
+    "members": [
+      "ocd-person/852df922-484b-412f-a604-c2d67efee5ec",
+      "ocd-person/5c985922-36b3-4d80-986d-1f9c363920f1",
+      "ocd-person/a56b0587-b57f-4dbb-a977-ba82c714a379",
+      "ocd-person/ef4b9cee-5a72-452c-8720-a59d5d5ca9ef",
+      "ocd-person/49453d65-a175-4c22-bc1f-878d02ea3d45",
+      "ocd-person/810aefbf-2c1d-448d-824a-a848d5d05910",
+      "ocd-person/2830876f-1a4d-4332-ae2a-a97607c4e1b9",
+      "ocd-person/84f79859-fef0-441d-80bb-5edeafc70e78",
+      "ocd-person/9d10ccec-b571-4eea-b025-9ed7634b6516",
+      "ocd-person/b5f897f3-cce8-43b0-a130-f98d0d88da8e",
+      "ocd-person/8184319b-a3eb-4538-a78a-5e5cd439e2a3",
+      "ocd-person/b46ed135-4c70-40b9-81ab-94660b76be3e"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=7"
+  },
+  {
+    "id": "ocd-organization/9f0c8c8b-6975-41ba-af5d-75d036a94404",
+    "name": "Municipal and County Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7cc1d333-efac-47fb-a109-98113c762790",
+      "ocd-person/a22a36bb-3514-4d76-a39e-791902f41d6c",
+      "ocd-person/f3ab13ac-5040-4533-b5f3-ce49dec5020f",
+      "ocd-person/c15709b9-8514-4e8f-8a52-6b464eb8484d",
+      "ocd-person/87ac63e4-d144-451e-a13b-0b834f1ef81b",
+      "ocd-person/01e401fa-3dca-460b-8eac-080f6e7fce90",
+      "ocd-person/91c36b59-79ca-4370-b855-43c3d1c78b61",
+      "ocd-person/8015d8e4-78cd-41a5-93f9-f6a704910c2f",
+      "ocd-person/72264eda-ca33-468c-bc9d-f745c55bce68",
+      "ocd-person/3b5abb0c-bfa9-4dfb-a84d-a60f7d3f8bc7",
+      "ocd-person/deb760cf-91f7-415c-949a-bab0c5311d6f",
+      "ocd-person/772f5157-b959-4aed-beaa-6bd67ab8fefe",
+      "ocd-person/77ca15e6-ebe1-4ef5-8bc9-ed3dff861f38",
+      "ocd-person/90ca1969-94b3-4c8d-b712-e00e48a7a671",
+      "ocd-person/61c86857-d1d9-401b-a045-3f4bac5b3312",
+      "ocd-person/c2f2054b-2949-44ea-b784-ffe4820eed77",
+      "ocd-person/dfbe7855-971b-4eb3-832e-a3f67b8b6a61",
+      "ocd-person/330b6b4b-dfa6-4379-ae45-bedd9b276fcd"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=11"
+  },
+  {
+    "id": "ocd-organization/76e84de3-d2bc-4448-ba69-f851dfa135c8",
+    "name": "Public Works and Highways",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ef41a7dd-a84f-47db-b794-2a6c6be48771",
+      "ocd-person/a82b5491-46a0-4062-aec5-362724f8f729",
+      "ocd-person/6f592f37-cac8-4bf0-b12c-3a86f9b444dc",
+      "ocd-person/a8bcce41-eef2-4b18-b99f-8bb34c7f94ea",
+      "ocd-person/2cc808df-0763-4807-9a67-b53a1764f84c",
+      "ocd-person/7349598b-1f4e-4a54-8053-34534c9663e0",
+      "ocd-person/194a44fa-ae6e-4f8a-80fa-1ba652df02ba",
+      "ocd-person/de8891e6-5b3f-4fb5-8c5d-63ab84c70e59",
+      "ocd-person/d3dab509-1268-4b4f-b363-98932002bf2e",
+      "ocd-person/fe4b2b32-0709-486c-910c-fa3bcfc54056",
+      "ocd-person/9e0a9394-7bcc-451a-9ae1-439248598eae",
+      "ocd-person/248ddc70-c3e0-4ec2-94ff-1d1de0d0e9fc",
+      "ocd-person/27e55643-df5b-49aa-8529-082cd786c0f8",
+      "ocd-person/0f78413a-b328-4856-ab48-21a5d4d614c0",
+      "ocd-person/ac6ce16b-a462-4727-8e4b-724c7c19e58c",
+      "ocd-person/d08d07c4-6aa0-4ce4-a940-924ab72e216f",
+      "ocd-person/27254294-07b6-4c08-90be-466800c312bc",
+      "ocd-person/21a4a059-a8f3-4ec9-ac42-84983f16fb8d"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=12"
+  },
+  {
+    "id": "ocd-organization/e56c4b36-d014-467c-962c-70ac3c25642c",
+    "name": "Resources, Recreation and Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c62fca24-e8c3-4f87-95dd-cb52a3d58c05",
+      "ocd-person/4f07f5aa-c410-481b-b570-36ae37d64e24",
+      "ocd-person/e0b29cba-9dd9-4e90-889c-e5eaea7d174c",
+      "ocd-person/0bc83772-75ee-453c-868c-8d2a034788b1",
+      "ocd-person/4dadf712-9f7e-4120-bd9a-455bf619f757",
+      "ocd-person/8297edd2-5298-4cef-b2ab-75d4f9fa5a31",
+      "ocd-person/f1292af8-a209-4ff7-87b5-086acddcc10e",
+      "ocd-person/b14568dd-d9f5-4557-8ccd-0d000c231650",
+      "ocd-person/40ae4adb-2124-47ca-82b5-9eee794af4a2",
+      "ocd-person/d0a3a869-3612-4910-b31b-32a88667cb84",
+      "ocd-person/20e7dbe4-40e8-4a11-bf8b-c7f7d2658725",
+      "ocd-person/276d3407-ff3e-4e21-966d-696cfde5faa8",
+      "ocd-person/040f626d-c4bc-4c7b-a99a-1fcc5df165d9",
+      "ocd-person/ce985799-268d-4190-b078-955fc63a8c3c",
+      "ocd-person/93179238-e90a-433f-bafb-72333aa7c9ef",
+      "ocd-person/4c6a4d79-307b-4e5f-9d63-ba4f60a6892c"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=13"
+  },
+  {
+    "id": "ocd-organization/c8763a6e-9ccb-4e11-97aa-2d1ba7b5155b",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e94c1d98-5454-40a2-8293-ee0998fee8ca",
+      "ocd-person/129a2970-07b9-4136-aae1-15c689edca40",
+      "ocd-person/3ab49eaa-77a6-4e6e-85a5-24812e78ae7a",
+      "ocd-person/4c78e7fc-43a2-467b-abe3-6ba04ad8853e",
+      "ocd-person/6e2bc564-5cd1-4f96-a265-4753b7f12ee1",
+      "ocd-person/fa8b39ea-006f-420a-9a3f-fe36d0db8776",
+      "ocd-person/568a287b-89c6-44b7-a8e6-a5188ef7f9bc",
+      "ocd-person/947e2e2b-04eb-4f92-9f83-aef8760517e0",
+      "ocd-person/a6790cd1-6b7a-48f9-b48c-b298929578a4"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=14"
+  },
+  {
+    "id": "ocd-organization/ef14ca7a-36b0-4105-8c5e-43762197effc",
+    "name": "Rules and Enrolled Bills",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b99b0bbb-4710-43c7-a6b5-0e04524eedf0",
+      "ocd-person/00964fc0-dd57-44c3-87bf-b6d5bbc34560",
+      "ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4",
+      "ocd-person/c20b7693-7f2c-4646-af7f-d57518edd1a4",
+      "ocd-person/9089a509-1f26-4770-adc6-199ed716e692"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=1328"
+  },
+  {
+    "id": "ocd-organization/eb0d934e-b167-4d17-af64-1ee993ff77f3",
+    "name": "Science, Technology and Energy",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1aa8819a-e1bd-4569-93ec-305ad61e8ea4",
+      "ocd-person/5db11498-80a8-4136-9c50-2c7f1a2f6826",
+      "ocd-person/9bae2e1c-4557-48a0-8adb-531347472614",
+      "ocd-person/89af0a16-e17b-490b-96d1-8d445071cec2",
+      "ocd-person/84f79859-fef0-441d-80bb-5edeafc70e78",
+      "ocd-person/14936ed1-5203-4f3e-be18-4243f1fff521",
+      "ocd-person/fcd4cdd8-007f-4d0d-b4c5-371db50e81a5",
+      "ocd-person/84047292-5618-45d3-afbf-16bb611f415d",
+      "ocd-person/4c8bec8a-e86d-4316-8b2e-2f8c4157cae5",
+      "ocd-person/a70935b5-517e-4b70-accb-26e55c34fb42",
+      "ocd-person/4854b313-26e5-49a3-8095-76298f96ced3",
+      "ocd-person/5709592a-7c88-41e3-8295-7c05146327e2",
+      "ocd-person/21e95dbc-c226-4f4a-9fa2-8f5b374d0a98",
+      "ocd-person/f20b1b61-dfc7-4ea0-b0cf-3705e7c7283e",
+      "ocd-person/6554d13d-8086-437d-8b44-e5a164b34933",
+      "ocd-person/25d71e57-9def-4149-8257-2bfb3c5e5415",
+      "ocd-person/960dc748-e7c7-4859-ab1d-b07f9bb7b269"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=15"
+  },
+  {
+    "id": "ocd-organization/fe32ca77-e79b-4a7a-becb-0e55e998c0bb",
+    "name": "State-Federal Relations and Veterans Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/acb20216-f193-42e1-9304-2b1d3572e61d",
+      "ocd-person/31d4d765-be08-4393-8e9a-21444cf8b411",
+      "ocd-person/64122b0a-5dcf-4f7e-aa74-cff67dcb67b3",
+      "ocd-person/84fef36b-d3a0-4bb1-9458-7e7b165a51ff",
+      "ocd-person/a05c5eab-d5d5-475d-a66a-39b8b514b8e6",
+      "ocd-person/24af30d5-efc3-40b2-9493-b9ef94217ada",
+      "ocd-person/4e9bb139-f952-4fda-bce1-f1bb16c585e3",
+      "ocd-person/f47878eb-66fe-4d01-92ea-4d3190c6183c",
+      "ocd-person/c4ba3022-267a-4ca0-8aad-2a2daa3af0db",
+      "ocd-person/26d443c0-53fe-480b-bf4c-7b7a28a109e9",
+      "ocd-person/5d2f52fe-3001-4a7f-a33e-3fa580c1dc70",
+      "ocd-person/75ad73cd-6591-4a64-9f6b-7558bbaf3689",
+      "ocd-person/09cfaba9-f3ee-41d6-8cf7-0c93613109cd",
+      "ocd-person/81c0f95e-01e6-492f-9d68-42396dc3a9a0",
+      "ocd-person/db63311e-bd1c-454a-8d9f-7e89cf645a72",
+      "ocd-person/6bf9fba1-96e4-46af-843d-5e006d357acd",
+      "ocd-person/891b5235-2e56-4bbf-820a-ca7c928324e1"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=16"
+  },
+  {
+    "id": "ocd-organization/7e634b09-3a42-43f7-8277-013187e68457",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e325954b-c90e-4b1e-aadb-3f5cc7ec1671",
+      "ocd-person/c40abbd9-220c-4081-9ad8-9559c10f9aae",
+      "ocd-person/a0936f2f-8170-47f9-8b05-6c6697a95968",
+      "ocd-person/2cc808df-0763-4807-9a67-b53a1764f84c",
+      "ocd-person/643751f4-6db0-4021-bf76-b8f2483d640d",
+      "ocd-person/88428a5a-4af6-40b8-a4ff-c2ea283b758f",
+      "ocd-person/31e633fb-0fd5-43e8-8a18-2bd0c1d6bca9",
+      "ocd-person/5a468f0d-8baf-47e9-92da-2db62373030f",
+      "ocd-person/1d64c012-42cd-433e-9e51-d449279fe57e",
+      "ocd-person/852df922-484b-412f-a604-c2d67efee5ec",
+      "ocd-person/1a1bb56f-cf92-4af0-b65e-3831e8a07b64",
+      "ocd-person/5afc747c-0880-4f38-9ae3-28a966cd7a64",
+      "ocd-person/a5b1edc7-c0a1-49fe-824c-a9177a8e1218",
+      "ocd-person/3b11dc06-256a-430c-9f75-7ebe69267e4d",
+      "ocd-person/08622297-087a-4e0e-97ad-abd8e81a89d8",
+      "ocd-person/027bd13f-0029-48f3-a5dd-76b15a95546d"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=18"
+  },
+  {
+    "id": "ocd-organization/5632f087-fbb4-4e3d-82fd-6d0b700fdc9e",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8dc59c94-caba-41b2-a6ba-6bca0f595118",
+      "ocd-person/c344ed7a-6fea-4f17-9c48-4e27d67bebc8",
+      "ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04",
+      "ocd-person/9089a509-1f26-4770-adc6-199ed716e692",
+      "ocd-person/de206392-deba-4ecf-96a3-33494c415417"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=34"
+  },
+  {
+    "id": "ocd-organization/c9976c87-0b95-4a6d-8c4c-7859c5e93abc",
+    "name": "Ways and Means",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4c4f4974-0202-43a0-9aba-f41d0f99603a",
+      "ocd-person/31f696d4-f806-4eb3-a8ce-5b1d2a2eba93",
+      "ocd-person/9839219c-e885-4957-99e8-01ebb78583de",
+      "ocd-person/6d4386a3-50ff-437f-bf9e-50faea1fd774",
+      "ocd-person/e0dbb769-2677-4939-adc5-e1d2b253150f",
+      "ocd-person/d6200a81-3d99-4ff7-93e0-e2f3b49cfd65",
+      "ocd-person/1d25683b-5c85-41cb-8585-6e18ddd0f648",
+      "ocd-person/0723bc3a-b040-40e5-9eaa-60c12f148828",
+      "ocd-person/0d4bc96e-c56f-42a3-b602-54222dfdd883",
+      "ocd-person/c353b272-e9b3-41d1-812c-17ee08295476",
+      "ocd-person/bdc7b519-4849-4992-b21b-f5563d642285",
+      "ocd-person/b51774f3-49ab-4d3f-b103-683491aa57c4",
+      "ocd-person/129a2970-07b9-4136-aae1-15c689edca40",
+      "ocd-person/e13283b4-defe-4f4e-8e67-4d89b8e3790c",
+      "ocd-person/c9b60101-8e1e-4ca2-b5c1-3ffa019fcb3e",
+      "ocd-person/3427853b-656d-4c4e-9857-acb92e08187d",
+      "ocd-person/077af83c-d03f-45d9-8bcd-28574d9422c0",
+      "ocd-person/29eeecd3-79b7-489c-b1a5-ace913e619f2",
+      "ocd-person/4febed48-b7fd-4b44-98e8-fb20de52968e"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/house/committees/committeedetails.aspx?id=19"
+  },
+  {
+    "id": "ocd-organization/e10c1db5-45c1-4285-81f1-c171e143ad1f",
+    "name": "Ways and Means",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d",
+      "ocd-person/7ec573c3-d961-4d08-a71c-d239490b5c1a",
+      "ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4",
+      "ocd-person/8e013e93-3dd2-4530-a42f-d9ba62ea5f04",
+      "ocd-person/dbf39ca6-e569-4078-b150-f63c51784d80"
+    ],
+    "officialUrl": "https://www.gencourt.state.nh.us/Senate/committees/committee_details.aspx?cc=35"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "session": {
+    "id": null,
+    "label": "",
+    "convenes": null,
+    "inSession": false,
+    "next": null
+  },
+  "counts": {
+    "legislators": 150,
+    "committees": 53,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Iowa General Assembly",
+    "url": "https://www.legis.iowa.gov"
+  },
+  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+}

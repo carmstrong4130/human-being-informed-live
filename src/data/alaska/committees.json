@@ -1,0 +1,499 @@
+[
+  {
+    "id": "ocd-organization/585cfd5f-dcae-4fb6-a762-b203f1c826de",
+    "name": "Armed Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/822df52b-f962-478d-8bf5-3bbe3c9dd811",
+      "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/e1a32811-98f9-484f-8d4b-12df7eab4183",
+      "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
+      "ocd-person/627922d3-e631-4c32-841f-148f061b0c75",
+      "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
+      "ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58",
+      "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "ocd-person/5ef3ef20-0fd1-41a3-be56-7844d169bba8"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SASC"
+  },
+  {
+    "id": "ocd-organization/38729b6f-157f-4cb0-a941-73da16814b47",
+    "name": "Committee on Committees",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
+      "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HCCM"
+  },
+  {
+    "id": "ocd-organization/b44ce7f1-ad04-4a9a-8de5-a63bebb5c13a",
+    "name": "Committee on Committees",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/e187d603-9202-4f64-80b0-6366702aec11",
+      "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SCCM"
+  },
+  {
+    "id": "ocd-organization/1fc7a994-4005-488e-8b54-1ba2dbf9ded9",
+    "name": "Community and Regional Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
+      "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
+      "ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a",
+      "ocd-person/abb33c56-f4ba-4c95-938e-658677368ca4",
+      "ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58",
+      "ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa",
+      "ocd-person/6692f2e6-2ad5-4b9c-a3f5-a0243c087064"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HCRA"
+  },
+  {
+    "id": "ocd-organization/742bf2af-4d71-42da-a54f-7c3159785539",
+    "name": "Community and Regional Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
+      "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
+      "ocd-person/cd3ca264-553d-4e21-a993-e3f5097b1b77",
+      "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e",
+      "ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SCRA"
+  },
+  {
+    "id": "ocd-organization/d24ad341-665f-437d-8043-a3971e2836d1",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
+      "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
+      "ocd-person/a160c8f2-f8a9-4429-9bc2-e14831545503",
+      "ocd-person/354dc869-cbaf-4298-89cd-c691c0f52a1e",
+      "ocd-person/a5fc1d39-03f4-427f-9266-8baf789b6ac6",
+      "ocd-person/5ef3ef20-0fd1-41a3-be56-7844d169bba8",
+      "ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HEDC"
+  },
+  {
+    "id": "ocd-organization/2a067a85-a0c5-4c26-9188-2f4d8319ccbf",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/e14b5980-9a38-4420-8903-70738802edf6",
+      "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
+      "ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SEDC"
+  },
+  {
+    "id": "ocd-organization/72e4e241-a10f-4b03-8241-6e9a722264eb",
+    "name": "Energy Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
+      "ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58",
+      "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
+      "ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031",
+      "ocd-person/aea19844-4572-4086-9462-e50ad3ff4b76"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HENE"
+  },
+  {
+    "id": "ocd-organization/ecc5b652-8fae-4277-8bbc-e6078100bc3b",
+    "name": "Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03",
+      "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
+      "ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0",
+      "ocd-person/2a1a6b8f-1f9c-4a1b-9059-7b2f8cc93ed9",
+      "ocd-person/6e6762ad-37ca-4166-982c-75aab9701d0c",
+      "ocd-person/498eadb3-9999-4055-9358-84ccfe64f788",
+      "ocd-person/9d56634b-f2d0-43fe-b20e-ed2465b0ad9c",
+      "ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6",
+      "ocd-person/1454451c-f821-4b6d-903e-07bef45ab0de",
+      "ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d",
+      "ocd-person/ede005ce-9d29-4b8e-8b24-b2136d05edf6"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/32?code=HFIN"
+  },
+  {
+    "id": "ocd-organization/8c6a3bc2-a2ae-4dc4-8440-1003ff340d8b",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
+      "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "ocd-person/cd3ca264-553d-4e21-a993-e3f5097b1b77",
+      "ocd-person/e187d603-9202-4f64-80b0-6366702aec11",
+      "ocd-person/f6cd7b64-a3f3-44ec-89a1-68c17fa6d4c9",
+      "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
+      "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/32?code=SFIN"
+  },
+  {
+    "id": "ocd-organization/fbe15aea-ef5d-4168-b4e4-76b87b5f1446",
+    "name": "Fisheries Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "ocd-person/354dc869-cbaf-4298-89cd-c691c0f52a1e",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
+      "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
+      "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HFSH"
+  },
+  {
+    "id": "ocd-organization/9aa37e7e-9d73-496f-9ecf-3d0bfb9f14a4",
+    "name": "Health and Social Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a1adb2e5-3c63-4032-81e8-9e787976ca63",
+      "ocd-person/822df52b-f962-478d-8bf5-3bbe3c9dd811",
+      "ocd-person/a160c8f2-f8a9-4429-9bc2-e14831545503",
+      "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
+      "ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031",
+      "ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa",
+      "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HHSS"
+  },
+  {
+    "id": "ocd-organization/8139e53d-ca55-4bde-84f5-07705f1fac43",
+    "name": "Health and Social Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
+      "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
+      "ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SHSS"
+  },
+  {
+    "id": "ocd-organization/738cbc97-841f-4c2a-b631-4ea815f17d7f",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/822df52b-f962-478d-8bf5-3bbe3c9dd811",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/a1adb2e5-3c63-4032-81e8-9e787976ca63",
+      "ocd-person/a5fc1d39-03f4-427f-9266-8baf789b6ac6",
+      "ocd-person/aea19844-4572-4086-9462-e50ad3ff4b76",
+      "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50",
+      "ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HJUD"
+  },
+  {
+    "id": "ocd-organization/4c2dc0d0-6850-4d1d-af36-1f1052098ce0",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
+      "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
+      "ocd-person/f1816065-31d1-4757-b8b9-714e15daeccf",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SJUD"
+  },
+  {
+    "id": "ocd-organization/be8dad03-26e1-4dbb-b436-b7efd8e7c99c",
+    "name": "Labor and Commerce",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a",
+      "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716",
+      "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
+      "ocd-person/7dcdf7b8-530a-4b81-85b6-745af9224eb1",
+      "ocd-person/e1a32811-98f9-484f-8d4b-12df7eab4183",
+      "ocd-person/a66f1539-56d3-458c-8ac0-3aff6907a69d",
+      "ocd-person/c3b004d2-d62a-45de-a212-382396a20b59"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HL%26C"
+  },
+  {
+    "id": "ocd-organization/34e6556a-e208-4d39-b6d0-71a96844aafb",
+    "name": "Labor and Commerce",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e14b5980-9a38-4420-8903-70738802edf6",
+      "ocd-person/ddad148b-d8ed-4eff-826d-3861709eb500",
+      "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e",
+      "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
+      "ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SL%26C"
+  },
+  {
+    "id": "ocd-organization/ab8e7739-6fcc-4621-a2bc-6dac0b753a49",
+    "name": "Legislative Budget and Audit",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e",
+      "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716",
+      "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c",
+      "ocd-person/e1989648-fdd3-4e88-a0f0-9e27e75c0f03",
+      "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/a66f1539-56d3-458c-8ac0-3aff6907a69d",
+      "ocd-person/e187d603-9202-4f64-80b0-6366702aec11",
+      "ocd-person/14f39e67-1604-4eb4-8000-99c699f196a0"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HBUD"
+  },
+  {
+    "id": "ocd-organization/d66070c3-55c1-4e57-a9d2-4407aa7c3c11",
+    "name": "Legislative Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
+      "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
+      "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
+      "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
+      "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e",
+      "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
+      "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "ocd-person/e187d603-9202-4f64-80b0-6366702aec11",
+      "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SLEC"
+  },
+  {
+    "id": "ocd-organization/96f4363a-db31-497b-a251-7b7fb1b9a31b",
+    "name": "Military and Veterans' Affairs Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb",
+      "ocd-person/822df52b-f962-478d-8bf5-3bbe3c9dd811",
+      "ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a",
+      "ocd-person/7dcdf7b8-530a-4b81-85b6-745af9224eb1",
+      "ocd-person/e1a32811-98f9-484f-8d4b-12df7eab4183",
+      "ocd-person/9d56634b-f2d0-43fe-b20e-ed2465b0ad9c",
+      "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HMLV"
+  },
+  {
+    "id": "ocd-organization/7b14c37b-c2e6-4b9c-aadf-fda7be24bf45",
+    "name": "Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5ef3ef20-0fd1-41a3-be56-7844d169bba8",
+      "ocd-person/c3b004d2-d62a-45de-a212-382396a20b59",
+      "ocd-person/354dc869-cbaf-4298-89cd-c691c0f52a1e",
+      "ocd-person/c9bf1b47-3ed8-49e8-9535-2a7094c52d1a",
+      "ocd-person/7dcdf7b8-530a-4b81-85b6-745af9224eb1",
+      "ocd-person/fbe52f5e-1dd2-4d44-9205-b2ebbbe39eee",
+      "ocd-person/a66f1539-56d3-458c-8ac0-3aff6907a69d",
+      "ocd-person/3f4670ef-c5b7-4a5b-bd91-9f8605a0affa",
+      "ocd-person/c1d170a4-d099-43cb-b7e5-5a9db63ae716"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HRES"
+  },
+  {
+    "id": "ocd-organization/8b6f04cd-8b4c-40fd-afce-d432f4756adc",
+    "name": "Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/4511370e-1ac8-4135-a622-d5b533faeb43",
+      "ocd-person/627922d3-e631-4c32-841f-148f061b0c75",
+      "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
+      "ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774",
+      "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SRES"
+  },
+  {
+    "id": "ocd-organization/17b102cc-1657-4a6e-89f2-121736b14de6",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "ocd-person/7474d172-6c90-47f9-aae1-9f66c9518be2",
+      "ocd-person/b097e069-345d-42da-b821-0c2c9747ccfc",
+      "ocd-person/8ed150a0-45be-4844-abe5-d921c9f5a435",
+      "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
+      "ocd-person/aea19844-4572-4086-9462-e50ad3ff4b76",
+      "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HRLS"
+  },
+  {
+    "id": "ocd-organization/6797913e-5656-4277-8746-6ad510f33638",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "ocd-person/e187d603-9202-4f64-80b0-6366702aec11",
+      "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SRLS"
+  },
+  {
+    "id": "ocd-organization/f272f860-5a9e-48d7-a7d5-767084a654ea",
+    "name": "Select Committee on Legislative Ethics",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b2eaa848-d651-4521-9abb-21b68da5d5c6",
+      "ocd-person/0b2d5ec3-c1b2-4b09-8444-144c92125cc4",
+      "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246",
+      "ocd-person/6cec7228-ed13-47f6-b896-59f927789f6d",
+      "ocd-person/2a1a6b8f-1f9c-4a1b-9059-7b2f8cc93ed9",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
+      "ocd-person/82334f7b-8119-4494-bf3e-a7ddb09536bd"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SETH"
+  },
+  {
+    "id": "ocd-organization/aea87bf3-4182-4ccc-80c6-216aca65a8f9",
+    "name": "Special Committee On Arctic Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/cd3ca264-553d-4e21-a993-e3f5097b1b77",
+      "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/34?code=SAAF"
+  },
+  {
+    "id": "ocd-organization/9002a55b-4735-4fa0-892c-52276a9ec313",
+    "name": "State Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
+      "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
+      "ocd-person/6e6762ad-37ca-4166-982c-75aab9701d0c",
+      "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
+      "ocd-person/a669e6fd-ba4c-42db-b2e8-079600a60f58",
+      "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
+      "ocd-person/e8756722-e9e9-4246-95e3-13019cb3bd50",
+      "ocd-person/6692f2e6-2ad5-4b9c-a3f5-a0243c087064"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HSTA"
+  },
+  {
+    "id": "ocd-organization/14370166-9e1b-48a1-a27d-8eda82427552",
+    "name": "State Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/53f7b86b-ce31-4199-86ef-f566ae9aa02c",
+      "ocd-person/e14b5980-9a38-4420-8903-70738802edf6",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/f1816065-31d1-4757-b8b9-714e15daeccf",
+      "ocd-person/2ba2d14f-a08a-4f05-a9d4-5ca63d09561e"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SSTA"
+  },
+  {
+    "id": "ocd-organization/ac8c867a-7193-4ea2-947b-3cf0fcdd89cb",
+    "name": "Task Force on Education Funding",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
+      "ocd-person/5637be3f-7a59-48cc-8f8a-ad7a8bac8ee9",
+      "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
+      "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a",
+      "ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031",
+      "ocd-person/c50de9c3-90a3-4c6d-9003-50e12c6c5246"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/34?code=HTEF"
+  },
+  {
+    "id": "ocd-organization/a49aed7c-6d8c-4476-8185-f82491279737",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
+      "ocd-person/132c5970-0ed3-4a8c-baa9-2917196daedb",
+      "ocd-person/abb33c56-f4ba-4c95-938e-658677368ca4",
+      "ocd-person/a1adb2e5-3c63-4032-81e8-9e787976ca63",
+      "ocd-person/0160c6d2-4090-4143-8e23-f8501501bdd0",
+      "ocd-person/2d74c456-7818-42bc-a284-63026fbbfc56",
+      "ocd-person/6692f2e6-2ad5-4b9c-a3f5-a0243c087064"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HTRA"
+  },
+  {
+    "id": "ocd-organization/c723af14-79ea-4d4d-b9fe-290d6bbd237d",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e14b5980-9a38-4420-8903-70738802edf6",
+      "ocd-person/c66c309d-1612-4eab-863c-59e34b643e2c",
+      "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "ocd-person/627922d3-e631-4c32-841f-148f061b0c75",
+      "ocd-person/1ae3974e-660d-4526-b351-fff9b689b51a"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=STRA"
+  },
+  {
+    "id": "ocd-organization/b65228e0-d03c-4d47-99db-6cc5d3a81cb7",
+    "name": "Tribal Affairs Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5ef3ef20-0fd1-41a3-be56-7844d169bba8",
+      "ocd-person/7db414a5-dd7e-48a9-aba2-9c0204f93a5c",
+      "ocd-person/1ac31dd3-6e42-43b1-91b0-4da4a1399543",
+      "ocd-person/a160c8f2-f8a9-4429-9bc2-e14831545503",
+      "ocd-person/a5fc1d39-03f4-427f-9266-8baf789b6ac6",
+      "ocd-person/722ec3e9-7e0d-4dda-bf19-11d873df7031",
+      "ocd-person/c3b004d2-d62a-45de-a212-382396a20b59"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=HTRB"
+  },
+  {
+    "id": "ocd-organization/7af4457e-af33-41c3-b371-34d7114a7d2f",
+    "name": "World Trade Special",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bfdc2ee2-7760-4119-9d68-4962f1e1a285",
+      "ocd-person/57554431-caac-4074-a8d8-40a4e6289ec1",
+      "ocd-person/4ac9a4bf-e2d9-4257-a360-9e91dc234deb",
+      "ocd-person/f1816065-31d1-4757-b8b9-714e15daeccf",
+      "ocd-person/cd3ca264-553d-4e21-a993-e3f5097b1b77",
+      "ocd-person/f5c83068-a809-4f57-8b77-1e77c87ee93b",
+      "ocd-person/e187d603-9202-4f64-80b0-6366702aec11"
+    ],
+    "officialUrl": "https://www.akleg.gov/basis/Committee/Details/33?code=SWTR"
+  }
+]

@@ -1,0 +1,1811 @@
+[
+  {
+    "id": "ocd-person/09493dc0-a224-4cf6-a859-1384ffeda8a0",
+    "name": "Aisha Gomez",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "62A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15531",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/62A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/1a50d8e6-64c4-4c8f-87ee-dedde17c1c2c",
+    "name": "Alex Falconer",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "49A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15630",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/49A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/c5f2a744-0a3e-481f-9224-e4d5a58b9c9d",
+    "name": "Alice Mann",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "50",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1270",
+    "imageUrl": "https://www.senate.mn/graphics/50Mann.jpg"
+  },
+  {
+    "id": "ocd-person/8300aa36-f818-4ae8-ad31-f9373e396e08",
+    "name": "Amanda Hemmingsen-Jaeger",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "47",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15620",
+    "imageUrl": "https://www.senate.mn/graphics/47Hemmingsen-Jaeger.jpg"
+  },
+  {
+    "id": "ocd-person/3e1cd4f3-2c37-4531-b2cb-ca875c82d773",
+    "name": "Andrew Lang",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1223",
+    "imageUrl": "https://www.senate.mn/graphics/16Lang.jpg"
+  },
+  {
+    "id": "ocd-person/aabdca28-85ec-41e4-be90-726acaaa0cff",
+    "name": "Andrew Mathews",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1222",
+    "imageUrl": "https://www.senate.mn/graphics/15Mathews.jpg"
+  },
+  {
+    "id": "ocd-person/bba68b5b-90ac-4465-bdd2-fdf23c33b87a",
+    "name": "Andrew Myers",
+    "chamber": "house",
+    "party": "R",
+    "district": "45A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15618",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/45A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/41cf59c9-a2c3-442d-85f1-7d6ec8de1a97",
+    "name": "Andy Smith",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "25B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15606",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/25B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/4749e0fb-4f41-46e3-a8b4-19fdbbbde113",
+    "name": "Ann Johnson Stewart",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "45",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1243",
+    "imageUrl": "https://www.senate.mn/graphics/45Johnson_Stewart.jpg"
+  },
+  {
+    "id": "ocd-person/ec588921-873b-4335-8fa1-2e3485008d3e",
+    "name": "Ann Rest",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "43",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1051",
+    "imageUrl": "https://www.senate.mn/graphics/43Rest.jpg"
+  },
+  {
+    "id": "ocd-person/8c85da58-235b-4769-be5f-dcf5b7c66c75",
+    "name": "Anquam Mahamoud",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "62B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15639",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/62B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/20c89480-8cde-4106-8b3d-54183371960a",
+    "name": "Aric Putnam",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "14",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1249",
+    "imageUrl": "https://www.senate.mn/graphics/14PutnamAric.jpg"
+  },
+  {
+    "id": "ocd-person/9f56bc31-f522-4e29-af62-cdc616babc88",
+    "name": "Athena Hollins",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "66B",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/profile/15553",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/66B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f8d52f8b-1b8c-454d-87be-42edd3100511",
+    "name": "Ben Bakeberg",
+    "chamber": "house",
+    "party": "R",
+    "district": "54B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15569",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/54B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f5597924-50c0-4bfc-bd63-3d3b814274f8",
+    "name": "Ben Davis",
+    "chamber": "house",
+    "party": "R",
+    "district": "6A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15594",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/06A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/354e366b-b9b5-46b4-b9ce-f3d96f508ceb",
+    "name": "Bernie Perryman",
+    "chamber": "house",
+    "party": "R",
+    "district": "14A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15599",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/14A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/971431ad-1fdb-49e5-9cf0-57cfff1645a8",
+    "name": "Bianca Virnig",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "52B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15625",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/52B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/8a84172a-6b96-4b28-a9ab-bf11625528a3",
+    "name": "Bidal Duran",
+    "chamber": "house",
+    "party": "R",
+    "district": "2A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15629",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/02A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/05fb3c26-0704-49c8-8eb6-8c624b752434",
+    "name": "Bill Lieske",
+    "chamber": "senate",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1272",
+    "imageUrl": "https://www.senate.mn/graphics/58Lieske.jpg"
+  },
+  {
+    "id": "ocd-person/f839da78-1e9c-4e4b-b1d7-d203970ec6b2",
+    "name": "Bill Weber",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1199",
+    "imageUrl": "https://www.senate.mn/graphics/22Weber.jpg"
+  },
+  {
+    "id": "ocd-person/ad3245d1-b310-4d50-8290-e642d078f661",
+    "name": "Bjorn Olson",
+    "chamber": "house",
+    "party": "R",
+    "district": "22A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15544",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/22A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/fe6a11bc-199d-467e-9447-3999c8250490",
+    "name": "Bobbie Harder",
+    "chamber": "house",
+    "party": "R",
+    "district": "17B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15601",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/17B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/c7436be4-472a-4d5e-82f5-f46359395d3a",
+    "name": "Bobby Joe Champion",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "59",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1212",
+    "imageUrl": "https://www.senate.mn/graphics/59Champion.jpg"
+  },
+  {
+    "id": "ocd-person/7536b66f-54fe-436e-ba03-83291c3c8d12",
+    "name": "Bonnie Westlin",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "42",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1266",
+    "imageUrl": "https://www.senate.mn/graphics/42Westlin.jpg"
+  },
+  {
+    "id": "ocd-person/05f634e6-f8d3-4983-9604-dfc8dddc574e",
+    "name": "Brad Tabke",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "54A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15523",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/54A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/372ff500-488c-4bf6-9557-6b5824c6e193",
+    "name": "Brion Curran",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "36B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15614",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/36B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/b135d3fd-c3cd-4bb5-a0b8-eefef669aada",
+    "name": "Bryan Lawrence",
+    "chamber": "house",
+    "party": "R",
+    "district": "27B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15626",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/27B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/57b9021d-f5b7-4f80-a82d-a93ca9a123d0",
+    "name": "Cal Bahr",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/31Bahr.jpg"
+  },
+  {
+    "id": "ocd-person/0fcdf023-48a4-4f62-92d0-0be6715bf229",
+    "name": "Cal Warwas",
+    "chamber": "house",
+    "party": "R",
+    "district": "7B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15648",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/07B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/69ac712d-4de2-448a-8b84-ef07b4c4e423",
+    "name": "Carla Nelson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1178",
+    "imageUrl": "https://www.senate.mn/graphics/24Nelson.jpg"
+  },
+  {
+    "id": "ocd-person/bfa93ce5-99ed-4840-9d49-c3531a6e7742",
+    "name": "Carlie Kotyza-Witthuhn",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "49B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15515",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/49B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/31bf14e3-fcde-4b2f-b2c4-1dd47b9a260b",
+    "name": "Cedrick Frazier",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "43A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15548",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/43A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/ec1171fd-3b90-4137-b01d-041f905c642d",
+    "name": "Cheryl Youakim",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "46B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15450",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/46B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/d9abe93e-6eba-4658-a0cd-68610585606b",
+    "name": "Chris Swedzinski",
+    "chamber": "house",
+    "party": "R",
+    "district": "15A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15369",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/15A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/9afffc3e-2fd8-404c-beeb-5bf3e17397ce",
+    "name": "Clare Oumou Verbeten",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "66",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1274",
+    "imageUrl": "https://www.senate.mn/graphics/66OumouVerbeten.jpg"
+  },
+  {
+    "id": "ocd-person/57755948-5912-49c5-b8b7-65c110ae44d9",
+    "name": "Dan Wolgamott",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "14B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15499",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/14B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/04242ba4-8fb4-4306-98d2-cae358d8e532",
+    "name": "Danny Nadeau",
+    "chamber": "house",
+    "party": "R",
+    "district": "34A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15612",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/34A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/c0275aeb-e2ff-44c7-b4ab-cae4bf495d84",
+    "name": "Dave Baker",
+    "chamber": "house",
+    "party": "R",
+    "district": "16B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15429",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/16B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a8c6c773-371b-4df9-a57a-5d2565c7b876",
+    "name": "Dave Pinto",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "64B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15444",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/64B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/0d187b4d-c15c-487e-9602-541bd7dd948a",
+    "name": "David Gottfried",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "40B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15650",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/40B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f4047f6d-971d-41be-bbce-e15dac5829ae",
+    "name": "Dawn Gillman",
+    "chamber": "house",
+    "party": "R",
+    "district": "17A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15600",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/17A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/2c27d592-c50b-45ae-b62a-ff657c828a5c",
+    "name": "Doron Clark",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "60",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1275",
+    "imageUrl": "https://www.senate.mn/graphics/60Clark.jpg"
+  },
+  {
+    "id": "ocd-person/7eb10c5c-1b6e-4ee2-9dac-589e3db32f49",
+    "name": "Drew Roach",
+    "chamber": "house",
+    "party": "R",
+    "district": "58B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15642",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/58B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/6652aa40-32c5-4430-bbf6-707a0b8a1f56",
+    "name": "Duane Quam",
+    "chamber": "house",
+    "party": "R",
+    "district": "24A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15366",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/24A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f27e2742-5c0f-4dba-a37f-76592f91f6f0",
+    "name": "Elliott Engen",
+    "chamber": "house",
+    "party": "R",
+    "district": "36A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15613",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/36A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f38e8115-610c-4e22-b9cb-80bd96311410",
+    "name": "Emma Greenman",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "63B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15552",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/63B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a9040c8f-56d4-4ad9-83f5-e6f1216e7a5e",
+    "name": "Eric Lucero",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/30Lucero.jpg"
+  },
+  {
+    "id": "ocd-person/f520232e-1086-4353-b904-9ff7a89ba5e8",
+    "name": "Eric Pratt",
+    "chamber": "senate",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1210",
+    "imageUrl": "https://www.senate.mn/graphics/55Pratt.jpg"
+  },
+  {
+    "id": "ocd-person/e62d342c-ae38-4607-88d7-3a7f3f7e248b",
+    "name": "Erica Schwartz",
+    "chamber": "house",
+    "party": "R",
+    "district": "18A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15644",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/18A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/0d6f7edf-eae0-441d-8089-84472ce1f36f",
+    "name": "Erin Koegel",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "39A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15465",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/39A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/5233b98b-0b6d-47c9-9fc0-9218a592f8d8",
+    "name": "Erin Maye Quade",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "56",
+    "bioUrl": "https://erinmayequade.com/",
+    "imageUrl": "https://www.senate.mn/graphics/56MayeQuade.jpg"
+  },
+  {
+    "id": "ocd-person/81828030-d1b8-4641-8692-8148fca58b28",
+    "name": "Erin Murphy",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "64",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1248",
+    "imageUrl": "https://www.senate.mn/graphics/64MurphyErin.jpg"
+  },
+  {
+    "id": "ocd-person/b140f0d2-f803-4118-9c6c-72aa322ec3bb",
+    "name": "Esther Agbaje",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "59B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15551",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/59B.gif"
+  },
+  {
+    "id": "ocd-person/d0e94ca0-b600-4567-88ee-34a861ca38aa",
+    "name": "Ethan Cha",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "47B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15621",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/47B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/5644f3f8-6394-4ab6-9619-7ab6702b37ea",
+    "name": "Foung Hawj",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "67",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1213",
+    "imageUrl": "https://www.senate.mn/graphics/67Hawj.jpg"
+  },
+  {
+    "id": "ocd-person/d8da71a7-c99b-4510-8abc-2d8e78db3fff",
+    "name": "Fue Lee",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "59A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15468",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/59A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/d1b377a1-8caa-4e37-999b-83ef8a1bf92c",
+    "name": "Gary Dahms",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1174",
+    "imageUrl": "https://www.senate.mn/graphics/16Dahms.jpg"
+  },
+  {
+    "id": "ocd-person/d3857eb4-0ec5-4406-840a-e338aad6a238",
+    "name": "Gene Dornink",
+    "chamber": "senate",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1250",
+    "imageUrl": "https://www.senate.mn/graphics/27DorninkGene.jpg"
+  },
+  {
+    "id": "ocd-person/2cb0f6d7-006d-4f7a-a1a3-218eff6016aa",
+    "name": "Ginny Klevorn",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "42B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15512",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/42B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/7a52595e-fa21-4e21-88d6-b03e4d9f1f77",
+    "name": "Glenn Gruenhagen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/17Gruenhagen.jpg"
+  },
+  {
+    "id": "ocd-person/6a13cdd4-3646-4fe9-a2a3-5f1399c2c146",
+    "name": "Grant Hauschild",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "3",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1252",
+    "imageUrl": "https://www.senate.mn/graphics/03Hauschild.jpg"
+  },
+  {
+    "id": "ocd-person/5bf21441-27fe-4f78-8fc1-83ca3ee5700d",
+    "name": "Greg Davids",
+    "chamber": "house",
+    "party": "R",
+    "district": "26B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/10123",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/26B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/371f41ef-a432-4880-950b-f3ac4b17d02f",
+    "name": "Harry Niska",
+    "chamber": "house",
+    "party": "R",
+    "district": "31A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15608",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/31A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/9411a121-c47d-431a-b407-88ff5c891c5f",
+    "name": "Heather Gustafson",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "36",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1263",
+    "imageUrl": "https://www.senate.mn/graphics/36Gustafson.jpg"
+  },
+  {
+    "id": "ocd-person/3ace0851-830e-42a1-8390-27c1142f2367",
+    "name": "Heather Keeler",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "4A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15539",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/04A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/05831ea3-3480-4a57-a5ea-a1844a554301",
+    "name": "Huldah Hiltsley",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "38A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15634",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/38A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a916d408-21ae-4eee-a2d7-c8019478f521",
+    "name": "Isaac Schultz",
+    "chamber": "house",
+    "party": "R",
+    "district": "10B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15597",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/10B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/b6ea5e13-3aad-438c-bed0-749a9bff80c3",
+    "name": "Jamie Long",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "61B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15529",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/61B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f15c0d42-4380-4f9b-b66d-14ffe61e1a40",
+    "name": "Jason Rarick",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.mnsenaterepublicans.com/jason-rarick/",
+    "imageUrl": "https://www.senate.mn/graphics/11Rarick.jpg"
+  },
+  {
+    "id": "ocd-person/8892bfba-9b17-4378-8c85-f2d73d2b88ac",
+    "name": "Jay Xiong",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "67B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15533",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/67B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/edcf7ea6-b735-46b3-9d50-fa189cda6e8d",
+    "name": "Jeff Backer",
+    "chamber": "house",
+    "party": "R",
+    "district": "9A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15428",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/09A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f6aa30f5-2e66-44ae-8de0-352c64ddafe8",
+    "name": "Jeff Dotseth",
+    "chamber": "house",
+    "party": "R",
+    "district": "11A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15598",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/11A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/971dbd16-363f-4151-a75c-306746aec18e",
+    "name": "Jeff Howe",
+    "chamber": "senate",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1239",
+    "imageUrl": "https://www.senate.mn/graphics/13Howe.jpg"
+  },
+  {
+    "id": "ocd-person/72c6929c-a329-4613-99a0-5e339f5a045f",
+    "name": "Jeff Witte",
+    "chamber": "house",
+    "party": "R",
+    "district": "57B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15570",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/57B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/8d0a69ec-1301-4df5-9676-86720555ea7c",
+    "name": "Jen McEwen",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "8",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1241",
+    "imageUrl": "https://www.senate.mn/graphics/07McEwenJen.jpg"
+  },
+  {
+    "id": "ocd-person/f0824aef-4692-46c8-bafa-f19a01a9d716",
+    "name": "Jeremy Miller",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1179",
+    "imageUrl": "https://www.senate.mn/graphics/26Miller.jpg"
+  },
+  {
+    "id": "ocd-person/5099a61c-2d2a-41d0-a03d-ccbbb0edbf15",
+    "name": "Jess Hanson",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "55A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15563",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/55A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/fc189dd9-b597-4744-86d3-ac315b93a3f3",
+    "name": "Jim Abeler",
+    "chamber": "senate",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1216",
+    "imageUrl": "https://www.senate.mn/graphics/35Abeler.jpg"
+  },
+  {
+    "id": "ocd-person/ac087885-bab6-4fbf-b88a-daf71262c8b6",
+    "name": "Jim Carlson",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "52",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1140",
+    "imageUrl": "https://www.senate.mn/graphics/51Carlson.jpg"
+  },
+  {
+    "id": "ocd-person/0897d40e-d8b4-4b1e-b0cf-e0ae4e9685f2",
+    "name": "Jim Joy",
+    "chamber": "house",
+    "party": "R",
+    "district": "4B",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/profile/15591",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/04B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/d7012c12-e223-4409-823b-ba3e55be6677",
+    "name": "Jim Nash",
+    "chamber": "house",
+    "party": "R",
+    "district": "48A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15441",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/48A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a2fed609-2172-4740-b9f3-f00a6da4716d",
+    "name": "Jimmy Gordon",
+    "chamber": "house",
+    "party": "R",
+    "district": "28A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15632",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/28A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/6292245e-1db4-4a8e-ba2a-a036e7b68044",
+    "name": "Joe McDonald",
+    "chamber": "house",
+    "party": "R",
+    "district": "29A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15360",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/29A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f08531c2-0974-4606-ab08-f5453ff76edd",
+    "name": "Joe Schomacker",
+    "chamber": "house",
+    "party": "R",
+    "district": "21A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15367",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/21A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/c86f501e-0b47-4e57-8f5a-d7d0be2392af",
+    "name": "John Burkel",
+    "chamber": "house",
+    "party": "R",
+    "district": "1A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15538",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/01A.gif"
+  },
+  {
+    "id": "ocd-person/b31cb55a-94ea-4f44-a4b9-8003b32c749a",
+    "name": "John Hoffman",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "34",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1205",
+    "imageUrl": "https://www.senate.mn/graphics/36Hoffman.jpg"
+  },
+  {
+    "id": "ocd-person/5d8ac115-4a2b-4f0f-b70a-c1df26184891",
+    "name": "John Huot",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "56B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15527",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/56B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f6b649e0-5359-4d22-8ff0-6ca017bc5e23",
+    "name": "John Jasinski",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1227",
+    "imageUrl": "https://www.senate.mn/graphics/24Jasinski.jpg"
+  },
+  {
+    "id": "ocd-person/4acf27d9-edd4-4f04-97c7-164390a5664b",
+    "name": "John Marty",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "40",
+    "bioUrl": "https://www.johnmarty.org/",
+    "imageUrl": "https://www.senate.mn/graphics/40Marty.jpg"
+  },
+  {
+    "id": "ocd-person/8c4ed90f-f243-43f1-b205-0edd374777d8",
+    "name": "Jon Koznick",
+    "chamber": "house",
+    "party": "R",
+    "district": "57A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15436",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/57A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/4c3116e2-98db-4367-b543-a12220c9b12f",
+    "name": "Jordan Rasmusson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/09Rasmusson.jpg"
+  },
+  {
+    "id": "ocd-person/18549c8f-0d80-4c2f-bdcc-f3762c3acb19",
+    "name": "Josh Heintzeman",
+    "chamber": "house",
+    "party": "R",
+    "district": "6B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15435",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/06B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/4558fb30-435a-4fde-acdd-bdcc82c7da45",
+    "name": "Josiah Hill",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "33B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15611",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/33B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/4ca681ca-58ab-4d75-b7ef-8d255f858d62",
+    "name": "Judy Seeberger",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "41",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1265",
+    "imageUrl": "https://www.senate.mn/graphics/41Seeberger.jpg"
+  },
+  {
+    "id": "ocd-person/62a79a93-6117-4f36-87ef-f4058c34142a",
+    "name": "Julia Coleman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1244",
+    "imageUrl": "https://www.senate.mn/graphics/47ColemanJulia.jpg"
+  },
+  {
+    "id": "ocd-person/15f0a29b-674a-4146-8a93-019c9a3f305e",
+    "name": "Julie Greene",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "50A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15633",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/50A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/1912cdc1-267c-4d36-acec-08896502658e",
+    "name": "Kaela Berg",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "55B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15550",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/55B.gif"
+  },
+  {
+    "id": "ocd-person/ecea4720-d4e0-4c21-a4dd-76cdb54023d2",
+    "name": "Kari Rehrauer",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "35B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15640",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/35B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/dde8cf7d-52c2-48e5-bf65-f0fe2477713c",
+    "name": "Karin Housley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1214",
+    "imageUrl": "https://www.senate.mn/graphics/39Housley.jpg"
+  },
+  {
+    "id": "ocd-person/12252e69-5ffb-459b-a84e-333af1219f94",
+    "name": "Katie Jones",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "61A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15638",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/61A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/939c0bab-e76d-443f-b46b-7f98d05036e2",
+    "name": "Keith Allen",
+    "chamber": "house",
+    "party": "R",
+    "district": "19A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15627",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/19A.gif"
+  },
+  {
+    "id": "ocd-person/3eb5eb9d-cd17-4a48-ac4c-4f7a7b8e133e",
+    "name": "Kelly Moller",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "40A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15511",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/40A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/4d922135-f178-4e50-8439-ebbf47cf025c",
+    "name": "Keri Heintzeman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1276",
+    "imageUrl": "https://www.senate.mn/graphics/06Heintzeman.jpg"
+  },
+  {
+    "id": "ocd-person/6902f219-7571-4bf1-a0af-ffa9eae2c23f",
+    "name": "Kim Hicks",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "25A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15605",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/25A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/d9b75b0d-6065-4efc-81e2-03084dee070a",
+    "name": "Krista Knudsen",
+    "chamber": "house",
+    "party": "R",
+    "district": "5A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15592",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/05A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/ed73b309-bb2f-4805-a33b-a3fb760e6664",
+    "name": "Kristi Pursell",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "58A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15571",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/58A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/ad111cf3-f5f9-4e94-a087-dc39ce1fb136",
+    "name": "Kristin Bahner",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "37B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15505",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/37B.gif"
+  },
+  {
+    "id": "ocd-person/d32d0b31-20af-4068-a5bd-42fd0a072ded",
+    "name": "Kristin Robbins",
+    "chamber": "house",
+    "party": "R",
+    "district": "37A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15504",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/37A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a4451923-cc1b-4d5d-9c14-5c50062335a2",
+    "name": "Larry Kraft",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "46A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15619",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/46A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/afff2a0a-1b2d-480e-a90d-8609842f0927",
+    "name": "Leigh Finke",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "66A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15575",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/66A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/00240593-7a31-4725-8c31-c723115732bb",
+    "name": "Leon Lillie",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "44B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/12269",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/44B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/5604b347-d9b5-40b6-844d-8bc5246283d3",
+    "name": "Liish Kozlowski",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "8B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15595",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/08B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/39814623-d268-47a1-8dcd-78e3ae1a33cf",
+    "name": "Lindsey Port",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "55",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1245",
+    "imageUrl": "https://www.senate.mn/graphics/56PortLindsey.jpg"
+  },
+  {
+    "id": "ocd-person/7b7b8d46-05d4-4285-b728-abcad1a430d5",
+    "name": "Lisa Demuth",
+    "chamber": "house",
+    "party": "R",
+    "district": "13A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15498",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls93/13A.gif?v=032323"
+  },
+  {
+    "id": "ocd-person/26ed75ae-3230-4e92-82a3-486bd76e1893",
+    "name": "Liz Boldon",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "25",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/25Boldon.jpg"
+  },
+  {
+    "id": "ocd-person/f9dbe591-5c2d-4a25-836a-ae05863b40ff",
+    "name": "Liz Lee",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "67A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15576",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/67A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/e57307af-8e06-4c44-997d-a2cad2cdb231",
+    "name": "Liz Reyer",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "52A",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/profile/15549",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/52A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/75e19dbb-1f4b-4ace-b87e-201e445d25b4",
+    "name": "Lucy Rehm",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "48B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15622",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/48B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/b0d93fc5-2efc-4908-aceb-7b2fc208b34d",
+    "name": "Luke Frederick",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "18B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15542",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/18B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/d1c094c0-6184-49e4-a18a-d5b900caca1b",
+    "name": "Mar\\xEDa Isa P\\xE9rez-Vega",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "65B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15574",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/65B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/0682bc6b-e4f2-427a-917b-96fbc49bb741",
+    "name": "Marion Rarick",
+    "chamber": "house",
+    "party": "R",
+    "district": "29B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15409",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/29B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/9837607c-b08b-4742-ad5f-3e8f72f8b7b4",
+    "name": "Marj Fogelman",
+    "chamber": "house",
+    "party": "R",
+    "district": "21B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15604",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/21B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/de9b28f6-a2a8-4edd-98cb-2b3ff2e6382c",
+    "name": "Mark Johnson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1217",
+    "imageUrl": "https://www.senate.mn/graphics/01Johnson.jpg"
+  },
+  {
+    "id": "ocd-person/f20a4255-6c65-4091-a0f5-aea70f133cdb",
+    "name": "Mark Koran",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.markkoranmn.com/",
+    "imageUrl": "https://www.senate.mn/graphics/32Koran.jpg"
+  },
+  {
+    "id": "ocd-person/1acddc90-d32a-4495-a769-27f8b57193b7",
+    "name": "Mary Clardy",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "53A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15568",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/53A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/1b284763-8577-49ab-b641-f4f079196646",
+    "name": "Mary Franson",
+    "chamber": "house",
+    "party": "R",
+    "district": "12B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15347",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/12B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/2795e0ed-3a02-4afc-8836-f5c3c067139c",
+    "name": "Mary Kunesh-Podein",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "39",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1242",
+    "imageUrl": "https://www.senate.mn/graphics/41KuneshPodeinMary.jpg"
+  },
+  {
+    "id": "ocd-person/cbab855f-4a47-4afd-b74a-468a4545b82b",
+    "name": "Matt Bliss",
+    "chamber": "house",
+    "party": "R",
+    "district": "2B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15458",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/02B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a4b21c2d-d3fe-41dc-9614-0ff80878850c",
+    "name": "Matt Klein",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "53",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1235",
+    "imageUrl": "https://www.senate.mn/graphics/52Klein.jpg"
+  },
+  {
+    "id": "ocd-person/662f07d4-7dd5-4549-bded-c8b5a200e054",
+    "name": "Matt Norris",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "32B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15609",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/32B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/afca05de-e5ff-4b1c-b38c-444f37b92687",
+    "name": "Max Rymer",
+    "chamber": "house",
+    "party": "R",
+    "district": "28B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15643",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/28B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/8164812a-be9a-44e0-bf42-741cb4a01e2c",
+    "name": "Meg Luger-Nikolai",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "64A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15654",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/64A.gif?v=012126"
+  },
+  {
+    "id": "ocd-person/d2fb6801-379e-481c-9313-2ac099d3a775",
+    "name": "Melissa Wiklund",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "51",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1209",
+    "imageUrl": "https://www.senate.mn/graphics/50Wiklund.jpg"
+  },
+  {
+    "id": "ocd-person/3a76623e-d295-4c58-be60-fd37a285a39b",
+    "name": "Michael Kreun",
+    "chamber": "senate",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1262",
+    "imageUrl": "https://www.senate.mn/graphics/32Kreun.jpg"
+  },
+  {
+    "id": "ocd-person/4815983e-d0b9-4ebc-855f-bb9eac8aa5ae",
+    "name": "Mike Freiberg",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "43B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15398",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/43B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/564bbace-b157-416d-ae59-81cd8a1fbaf8",
+    "name": "Mike Holmstrom",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1277",
+    "imageUrl": "https://www.senate.mn/graphics/29Holmstrom.jpg"
+  },
+  {
+    "id": "ocd-person/8910b3db-698e-4019-b976-0ee19ecb8ca0",
+    "name": "Mike Howard",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "51A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15518",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/51A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/4c34f3d9-8890-4145-8a96-92ab23f046c0",
+    "name": "Mike Wiener",
+    "chamber": "house",
+    "party": "R",
+    "district": "5B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15593",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/05B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/591ea10b-1362-434e-90be-2db0877a0e9c",
+    "name": "Mohamud Noor",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "60B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15528",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/60B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/1b1055a8-959c-452c-a2a8-106a4ccef20d",
+    "name": "Natalie Zeleznikar",
+    "chamber": "house",
+    "party": "R",
+    "district": "3B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15624",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/03B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/63b26a4d-ae7c-4267-89ab-dfa4a1f341ad",
+    "name": "Nathan Coulter",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "51B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15567",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/51B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/172cb289-beec-4bc1-8627-f027f2cd3769",
+    "name": "Nathan Nelson",
+    "chamber": "house",
+    "party": "R",
+    "district": "11B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15534",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/11B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/7eaf40ec-f926-4992-8962-65b90846ef80",
+    "name": "Nathan Wesenberg",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1256",
+    "imageUrl": "https://www.senate.mn/graphics/10Wesenberg.jpg"
+  },
+  {
+    "id": "ocd-person/764db471-e56d-4ef0-9df8-4e7a164c3b7e",
+    "name": "Ned Carroll",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "42A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15617",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls93/42A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/55a02119-b43d-4b39-a19b-07411c5ec7c9",
+    "name": "Nick Frentz",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "18",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1224",
+    "imageUrl": "https://www.senate.mn/graphics/19Frentz.jpg"
+  },
+  {
+    "id": "ocd-person/171224fc-8a8d-4516-aa87-a2f5bcf1ea46",
+    "name": "Nolan West",
+    "chamber": "house",
+    "party": "R",
+    "district": "32A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15476",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/32A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/04eeaa61-ee3c-4e36-88f2-b415660175eb",
+    "name": "Omar Fateh",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "62",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1247",
+    "imageUrl": "https://www.senate.mn/graphics/62FatehOmar.jpg"
+  },
+  {
+    "id": "ocd-person/26c19220-1368-4453-81c9-3b0c395e3949",
+    "name": "Pam Altendorf",
+    "chamber": "house",
+    "party": "R",
+    "district": "20A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15602",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/20A.gif"
+  },
+  {
+    "id": "ocd-person/4bab18ef-55dc-44bf-adfe-8dbdf9488a09",
+    "name": "Patti Anderson",
+    "chamber": "house",
+    "party": "R",
+    "district": "33A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15610",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/33A.gif"
+  },
+  {
+    "id": "ocd-person/b393cb61-cb71-4cd0-8132-6e21c2a7202d",
+    "name": "Patty Acomb",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "45B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15513",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/45B.gif"
+  },
+  {
+    "id": "ocd-person/71df2690-6a54-4452-960a-54a5b6540bc7",
+    "name": "Patty Mueller",
+    "chamber": "house",
+    "party": "R",
+    "district": "23B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15561",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/23B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/ab35dde5-226a-4427-9344-c74d8291a75f",
+    "name": "Paul Anderson",
+    "chamber": "house",
+    "party": "R",
+    "district": "12A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15301",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/12A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/3e0eb8aa-b66c-4b30-9a0e-f1326c6f0589",
+    "name": "Paul Novotny",
+    "chamber": "house",
+    "party": "R",
+    "district": "30B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15536",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/30B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/380875c6-dc4c-4062-8c2d-f5b80dd64c4c",
+    "name": "Paul Torkelson",
+    "chamber": "house",
+    "party": "R",
+    "district": "15B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15304",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/15B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/fde08265-b73e-4a4b-ba87-d90d71319640",
+    "name": "Paul Utke",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1218",
+    "imageUrl": "https://www.senate.mn/graphics/02Utke.jpg"
+  },
+  {
+    "id": "ocd-person/16c8390c-93c6-403e-83d4-5ff1a81fe4aa",
+    "name": "Peggy Bennett",
+    "chamber": "house",
+    "party": "R",
+    "district": "23A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15430",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls93/23A.jpg"
+  },
+  {
+    "id": "ocd-person/75f1b339-bd9f-4f7c-820b-75812553bde0",
+    "name": "Peggy Scott",
+    "chamber": "house",
+    "party": "R",
+    "district": "31B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15314",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/31B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/fb643600-2577-4561-a902-6f158a5c40e4",
+    "name": "Pete Johnson",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "8A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15636",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/08A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/929dc6f7-63f4-4a9d-ba24-6ab8c5964acf",
+    "name": "Peter Fischer",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "44A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15396",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/44A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/f9fb7c65-e0ab-484c-8517-b20267cc3f07",
+    "name": "Rich Draheim",
+    "chamber": "senate",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1225",
+    "imageUrl": "https://www.senate.mn/graphics/20Draheim.jpg"
+  },
+  {
+    "id": "ocd-person/c41944c1-d89b-4c3f-a76f-d5c58d0a507f",
+    "name": "Rick Hansen",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "53B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/12282",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/53B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/e783687f-ea0d-480a-a1ff-3072f491fb44",
+    "name": "Ripper Repinski",
+    "chamber": "house",
+    "party": "R",
+    "district": "26A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15641",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/26A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/9cdb9977-9923-4124-ae93-c45e28f1f51c",
+    "name": "Rob Farnsworth",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1254",
+    "imageUrl": "https://www.senate.mn/graphics/07Farnsworth.jpg"
+  },
+  {
+    "id": "ocd-person/b8c303a5-0a73-4a26-8071-be5a9dcf113a",
+    "name": "Rob Kupec",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "4",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1253",
+    "imageUrl": "https://www.senate.mn/graphics/04Kupec.jpg"
+  },
+  {
+    "id": "ocd-person/f2b7f80c-abb4-4204-839f-eb9a4de6dbab",
+    "name": "Robert Bierman",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "56A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15526",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/56A.gif"
+  },
+  {
+    "id": "ocd-person/e7b3aed7-aa50-4c4b-bd53-eacc60e53ba8",
+    "name": "Roger Skraba",
+    "chamber": "house",
+    "party": "R",
+    "district": "3A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15623",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/03A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/3059daef-810c-4917-b6fa-c059312f97bf",
+    "name": "Ron Kresha",
+    "chamber": "house",
+    "party": "R",
+    "district": "10A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15404",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/10A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/834a2c10-beb0-454e-8e08-619309d8a08a",
+    "name": "Ron Latz",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "46",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1102",
+    "imageUrl": "https://www.senate.mn/graphics/46Latz.jpg"
+  },
+  {
+    "id": "ocd-person/1ff5f689-18c9-4d74-970f-c289f915dc6a",
+    "name": "Samakab Hussein",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "65A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15573",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/65A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/74dec7df-a9b9-48aa-9fae-bbe45990f4f5",
+    "name": "Samantha Sencer-Mura",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "63A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15572",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/63A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/3f73ba2f-f038-47ff-b721-27118592b691",
+    "name": "Samantha Vang",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "38B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15510",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/38B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/94c52434-9616-43bd-863b-9481943dedb1",
+    "name": "Sandra Feist",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "39B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15547",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/39B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/0b83a916-567b-4d36-843f-17d8f5e13b8d",
+    "name": "Sandy Pappas",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "65",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1046",
+    "imageUrl": "https://www.senate.mn/graphics/65Pappas.jpg"
+  },
+  {
+    "id": "ocd-person/4dc8ff31-159a-457a-9551-a897d222f87e",
+    "name": "Scott Dibble",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "61",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1010",
+    "imageUrl": "https://www.senate.mn/graphics/61Dibble.jpg"
+  },
+  {
+    "id": "ocd-person/18e1e0aa-a224-4772-b4d1-11c7a9ed510f",
+    "name": "Scott Van Binsbergen",
+    "chamber": "house",
+    "party": "R",
+    "district": "16A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15647",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/16A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/204ac87d-7f04-4b49-adc4-658faec7d413",
+    "name": "Shane Mekeland",
+    "chamber": "house",
+    "party": "R",
+    "district": "27A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15500",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/27A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/0b860ed2-515a-4212-81ab-cc27b5e16223",
+    "name": "Shelley Buck",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "47A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15655",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/47A.gif?v=012126"
+  },
+  {
+    "id": "ocd-person/2e342c55-f56d-4895-9dd2-ef1271f784c0",
+    "name": "Spencer Igo",
+    "chamber": "house",
+    "party": "R",
+    "district": "7A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15540",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/07A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/e67843ce-752d-4cc0-abb9-4a45b8b8fdca",
+    "name": "Steve Cwodzinski",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "49",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1234",
+    "imageUrl": "https://www.senate.mn/graphics/49Cwodzinski.jpg"
+  },
+  {
+    "id": "ocd-person/a947d529-ab68-4ae8-b1e8-7ff012dde193",
+    "name": "Steve Drazkowski",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/20Drazkowski.jpg"
+  },
+  {
+    "id": "ocd-person/b867618c-7a49-4cb3-94ac-b5836ae8dedf",
+    "name": "Steve Elkins",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "50B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15517",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/50B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/23bda6c1-1fa1-4d42-9b6c-8c76d1d91227",
+    "name": "Steve Gander",
+    "chamber": "house",
+    "party": "R",
+    "district": "1B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15631",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/01B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/9d8b9b67-e74b-4e7f-92d5-52e3c0907f1d",
+    "name": "Steve Green",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/02Green.jpg"
+  },
+  {
+    "id": "ocd-person/3c90edec-1bce-4197-8e1c-cc840102c7a9",
+    "name": "Steve Jacob",
+    "chamber": "house",
+    "party": "R",
+    "district": "20B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15603",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/20B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/bd086574-4116-4b0a-ad6b-7c0352293f06",
+    "name": "Susan Pha",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "38",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1264",
+    "imageUrl": "https://www.senate.mn/graphics/38Pha.jpg"
+  },
+  {
+    "id": "ocd-person/e60bb3ff-5164-4d6d-9029-d2e3d2ac69a0",
+    "name": "Sydney Jordan",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "60A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15535",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/60A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/9e7eca64-ff97-48f2-8887-916e50d917cd",
+    "name": "Terry Stier",
+    "chamber": "house",
+    "party": "R",
+    "district": "22B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15646",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/22B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/015d0cf4-9742-4050-8084-a62be4107f2e",
+    "name": "Tim O'Driscoll",
+    "chamber": "house",
+    "party": "R",
+    "district": "13B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15364",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/13B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/ed6e8851-f7a8-41af-b2b6-570bd2004587",
+    "name": "Tina Liebling",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "24B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/12268",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/24B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/05de7bba-70ee-4848-b0ec-d67354b6073a",
+    "name": "Tom Dippel",
+    "chamber": "house",
+    "party": "R",
+    "district": "41B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15628",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/41B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/a798a6be-e28f-447c-b9ce-ffd7bf9a0ed4",
+    "name": "Tom Murphy",
+    "chamber": "house",
+    "party": "R",
+    "district": "9B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15596",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/09B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/2989633c-a60b-4337-972d-49941a4db1b6",
+    "name": "Tom Sexton",
+    "chamber": "house",
+    "party": "R",
+    "district": "19B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15645",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/19B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/1c19414e-994b-46d4-8971-432ed482ca39",
+    "name": "Torrey Westrom",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1197",
+    "imageUrl": "https://www.senate.mn/graphics/12Westrom.jpg"
+  },
+  {
+    "id": "ocd-person/5d9e1da5-ecf9-45d9-b104-7d1238032aff",
+    "name": "Tou Xiong",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "44",
+    "bioUrl": "https://www.house.leg.state.mn.us/members/hmem.asp",
+    "imageUrl": "https://www.senate.mn/graphics/44Xiong.jpg"
+  },
+  {
+    "id": "ocd-person/0b721953-c642-4b33-b203-5eb3f3da210b",
+    "name": "Walter Hudson",
+    "chamber": "house",
+    "party": "R",
+    "district": "30A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15607",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/30A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/dc676c57-0779-4d0e-9ba4-a07d7034dfa1",
+    "name": "Warren Limmer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1032",
+    "imageUrl": "https://www.senate.mn/graphics/37Limmer.jpg"
+  },
+  {
+    "id": "ocd-person/0926949b-8d9e-4fc0-b860-7662f46afdc6",
+    "name": "Wayne Johnson",
+    "chamber": "house",
+    "party": "R",
+    "district": "41A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15637",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/41A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/622e5358-869c-4d25-b6ed-e5425ca56caa",
+    "name": "Xp Lee",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "34B",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15652",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/34B.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/acacede0-a09a-45b9-8990-646dfa5bd59a",
+    "name": "Zach Duckworth",
+    "chamber": "senate",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1246",
+    "imageUrl": "https://www.senate.mn/graphics/58DuckworthZach.jpg"
+  },
+  {
+    "id": "ocd-person/ed5f1cc0-ff12-461e-9016-0ef27f180430",
+    "name": "Zack Stephenson",
+    "chamber": "house",
+    "party": "DFL",
+    "district": "35A",
+    "bioUrl": "https://www.house.mn.gov/members/profile/15507",
+    "imageUrl": "https://www.house.mn.gov/hinfo/memberimgls94/35A.gif?v=112221"
+  },
+  {
+    "id": "ocd-person/332e30b5-dc8d-4074-9c16-6e2a6255d135",
+    "name": "Zaynab Mohamed",
+    "chamber": "senate",
+    "party": "DFL",
+    "district": "63",
+    "bioUrl": "https://www.senate.mn/members/member_bio.html?mem_id=1273",
+    "imageUrl": "https://www.senate.mn/graphics/63Mohamed.jpg"
+  }
+]

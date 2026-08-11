@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "session": {
+    "id": null,
+    "label": "",
+    "convenes": null,
+    "inSession": false,
+    "next": null
+  },
+  "counts": {
+    "legislators": 147,
+    "committees": 59,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Oklahoma Legislature",
+    "url": "https://www.oklegislature.gov"
+  },
+  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+}

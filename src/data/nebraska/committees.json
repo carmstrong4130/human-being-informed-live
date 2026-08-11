@@ -1,0 +1,344 @@
+[
+  {
+    "id": "ocd-organization/7cd46649-f205-4598-9ee7-e55c93061e0c",
+    "name": "Agriculture",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f",
+      "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/5868ed3b-2931-4080-a7c2-9b4eb0e3d487",
+      "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
+      "ocd-person/356c7606-4eaa-4494-83a5-68dbaf3e77f6",
+      "ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2",
+      "ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=1"
+  },
+  {
+    "id": "ocd-organization/36c7d5bf-b8f2-4da0-87df-7e7690d4cb35",
+    "name": "Appropriations",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/809c0698-2669-426a-819a-275a0773ff84",
+      "ocd-person/fdac2d3a-3497-4e34-8247-af670c901dd8",
+      "ocd-person/03ee8938-314f-4db4-ac76-9507d85fc03c",
+      "ocd-person/dda3cdbe-5e52-439e-ac68-02588b6d7cab",
+      "ocd-person/2ad42fad-ae37-44a6-8933-0a942f7a85f7",
+      "ocd-person/fd6e1947-c274-4ff5-b2ee-5e5a79d6a729",
+      "ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413",
+      "ocd-person/0ae0ba8c-757e-459f-aecc-4a0501a25cbb",
+      "ocd-person/a9cc86ff-602c-453f-9d6c-fd1567c7fbd7"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=2"
+  },
+  {
+    "id": "ocd-organization/0a43e7ad-dab8-4a84-b12e-8959bfcd0945",
+    "name": "Banking, Commerce and Insurance",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
+      "ocd-person/cc0182c9-3cfe-46b1-8fd2-03e90385c6d5",
+      "ocd-person/63d2956a-a0be-40db-a0e3-6c32743951ab",
+      "ocd-person/a98b3cf6-9bf8-40a3-94f3-1c196e233ebd",
+      "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "ocd-person/14507b1b-007f-4f87-adbb-a5e4669efba8",
+      "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce",
+      "ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=3"
+  },
+  {
+    "id": "ocd-organization/023c82b6-88b8-4b63-9717-ffc65acb5cca",
+    "name": "Building Maintenance Special",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/967bf436-18bf-444e-bd2f-d83e5ec78995",
+      "ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70",
+      "ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413",
+      "ocd-person/809c0698-2669-426a-819a-275a0773ff84",
+      "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov"
+  },
+  {
+    "id": "ocd-organization/78dcbcb5-34fc-4c08-8f87-aa2f0f9ac634",
+    "name": "Business and Labor",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2",
+      "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1",
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/5868ed3b-2931-4080-a7c2-9b4eb0e3d487",
+      "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
+      "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
+      "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=4"
+  },
+  {
+    "id": "ocd-organization/b90851b8-8a17-4751-b66a-472ad63a7bff",
+    "name": "Education",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce",
+      "ocd-person/967bf436-18bf-444e-bd2f-d83e5ec78995",
+      "ocd-person/40eb4961-5467-4d1b-af44-59a2e4de6fae",
+      "ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a",
+      "ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066",
+      "ocd-person/e586486b-002b-4dfb-8eec-a209c915dc95",
+      "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
+      "ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=5"
+  },
+  {
+    "id": "ocd-organization/4cabada8-6d58-42f5-b9b7-6c5ce8df094b",
+    "name": "Enrollment and Review Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov"
+  },
+  {
+    "id": "ocd-organization/efff8657-f69f-40be-b461-01591ea6a779",
+    "name": "Executive Board Special",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
+      "ocd-person/809c0698-2669-426a-819a-275a0773ff84",
+      "ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb",
+      "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
+      "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
+      "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
+      "ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413",
+      "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1"
+    ],
+    "officialUrl": "https://news.legislature.ne.gov/exe"
+  },
+  {
+    "id": "ocd-organization/bd544029-797d-4c94-8b3c-aa9a46d47131",
+    "name": "General Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a",
+      "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
+      "ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f",
+      "ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4",
+      "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
+      "ocd-person/356c7606-4eaa-4494-83a5-68dbaf3e77f6",
+      "ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080",
+      "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=6"
+  },
+  {
+    "id": "ocd-organization/61a3606f-3a53-4f1a-a173-7b364086b09d",
+    "name": "Government, Military and Veterans Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d",
+      "ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4",
+      "ocd-person/40eb4961-5467-4d1b-af44-59a2e4de6fae",
+      "ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4",
+      "ocd-person/5868ed3b-2931-4080-a7c2-9b4eb0e3d487",
+      "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
+      "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
+      "ocd-person/86a9643e-4777-48d4-a79a-5ed192fb7f70"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=7"
+  },
+  {
+    "id": "ocd-organization/0107133f-6a5b-40f4-9f4a-075fd1fc2a90",
+    "name": "Health and Human Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a98b3cf6-9bf8-40a3-94f3-1c196e233ebd",
+      "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
+      "ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb",
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
+      "ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066",
+      "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=8"
+  },
+  {
+    "id": "ocd-organization/30f0452a-dee1-4142-bfb9-e061487f62ec",
+    "name": "Judiciary",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ecf3913e-8e18-4aec-8991-12549df820cd",
+      "ocd-person/bc906a77-5932-4042-9ede-a13b24924236",
+      "ocd-person/cc0182c9-3cfe-46b1-8fd2-03e90385c6d5",
+      "ocd-person/356c7606-4eaa-4494-83a5-68dbaf3e77f6",
+      "ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a",
+      "ocd-person/70751bb8-56af-4fd1-b2dc-21943dc7bb2d",
+      "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1",
+      "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=9"
+  },
+  {
+    "id": "ocd-organization/d14af89e-6f28-4fed-804f-86e45760ae47",
+    "name": "Legislative Performance Audit Special",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4a8d555a-4bba-4f76-a3e1-88eee6030413",
+      "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
+      "ocd-person/fd6e1947-c274-4ff5-b2ee-5e5a79d6a729",
+      "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce",
+      "ocd-person/809c0698-2669-426a-819a-275a0773ff84"
+    ],
+    "officialUrl": "https://news.legislature.ne.gov/lpa"
+  },
+  {
+    "id": "ocd-organization/649ce00e-af19-4093-83bb-74de45177c6d",
+    "name": "Legislature's Planning Special",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/bc906a77-5932-4042-9ede-a13b24924236",
+      "ocd-person/0ae0ba8c-757e-459f-aecc-4a0501a25cbb",
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
+      "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
+      "ocd-person/3c015cf9-e3de-42cf-a364-64607ecc70ce",
+      "ocd-person/62ccba1d-4200-41c7-a051-21fa421a206a",
+      "ocd-person/809c0698-2669-426a-819a-275a0773ff84"
+    ],
+    "officialUrl": "https://news.legislature.ne.gov/lpc"
+  },
+  {
+    "id": "ocd-organization/cec4892f-4e62-41cf-a46e-659cb052d27f",
+    "name": "Natural Resources",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82",
+      "ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f",
+      "ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a",
+      "ocd-person/967bf436-18bf-444e-bd2f-d83e5ec78995",
+      "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
+      "ocd-person/e586486b-002b-4dfb-8eec-a209c915dc95",
+      "ocd-person/471fb0d6-b798-4c0c-bac1-021db8b68801",
+      "ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=10"
+  },
+  {
+    "id": "ocd-organization/aa10442c-2b37-4500-b23e-ce4cc3ea9277",
+    "name": "Nebraska Retirement Systems",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb",
+      "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1",
+      "ocd-person/a98b3cf6-9bf8-40a3-94f3-1c196e233ebd",
+      "ocd-person/bf280e36-3547-4d6a-b5aa-d6c32bb5547a",
+      "ocd-person/e586486b-002b-4dfb-8eec-a209c915dc95",
+      "ocd-person/809c0698-2669-426a-819a-275a0773ff84"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=11"
+  },
+  {
+    "id": "ocd-organization/10a12dae-7a37-4cb8-9f04-3869f9b280e4",
+    "name": "Revenue",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/63d2956a-a0be-40db-a0e3-6c32743951ab",
+      "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
+      "ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce",
+      "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "ocd-person/14507b1b-007f-4f87-adbb-a5e4669efba8",
+      "ocd-person/9d6fd408-5497-4038-9716-c1f487e348d2",
+      "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
+      "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=12"
+  },
+  {
+    "id": "ocd-organization/3ae8493f-3ae0-468c-b109-5541dce7f4d4",
+    "name": "Rules Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2ad42fad-ae37-44a6-8933-0a942f7a85f7",
+      "ocd-person/bc906a77-5932-4042-9ede-a13b24924236",
+      "ocd-person/f5d27385-af4c-4c08-8654-3e27ef120d94",
+      "ocd-person/bfc9dd37-6a7b-4ea2-acf5-c8e161a27764",
+      "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov"
+  },
+  {
+    "id": "ocd-organization/963b7064-678d-43c9-a5bb-6c2c58b45b97",
+    "name": "Select Committee on Committees",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/fdac2d3a-3497-4e34-8247-af670c901dd8",
+      "ocd-person/03ee8938-314f-4db4-ac76-9507d85fc03c",
+      "ocd-person/ecf3913e-8e18-4aec-8991-12549df820cd",
+      "ocd-person/25c29fce-5de4-46cd-97f0-887033d446ce",
+      "ocd-person/5e6ca662-d4e3-405b-a060-d0150546eede",
+      "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
+      "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
+      "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
+      "ocd-person/70b3f826-87f3-43c6-9762-27a178156a55",
+      "ocd-person/471fb0d6-b798-4c0c-bac1-021db8b68801",
+      "ocd-person/de8d4e0a-36dd-4a84-96ee-e4b7bc4cf69d",
+      "ocd-person/374b6dc4-5b90-4028-814c-84895a293c84",
+      "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov"
+  },
+  {
+    "id": "ocd-organization/dbbacc14-cd48-4a3c-a2bc-ed5e4d94b162",
+    "name": "State-Tribal Relations Special",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0f176ff3-ed75-4605-9e8b-5bb5a3d3c4cf",
+      "ocd-person/01d5ca17-53a1-463a-b2f6-74fe24833c0f",
+      "ocd-person/03ee8938-314f-4db4-ac76-9507d85fc03c",
+      "ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4",
+      "ocd-person/dae0883f-3a53-4873-99df-b0e10ea64066",
+      "ocd-person/1b988941-ec1a-4f87-b17a-51fb0309dea0",
+      "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov"
+  },
+  {
+    "id": "ocd-organization/c3228155-87a3-4a5a-afb8-6dccfc9ad592",
+    "name": "Transportation and Telecommunications",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/471fb0d6-b798-4c0c-bac1-021db8b68801",
+      "ocd-person/3da787e9-f6ed-4069-bd74-58ec7c015efb",
+      "ocd-person/ecf3913e-8e18-4aec-8991-12549df820cd",
+      "ocd-person/54fe68ba-6857-483f-b2ae-ba3233a548c4",
+      "ocd-person/30b4a401-6f6b-4367-80c2-b9d60d7c527f",
+      "ocd-person/70751bb8-56af-4fd1-b2dc-21943dc7bb2d",
+      "ocd-person/37ed5b35-3aea-40a2-95ed-ecc5120fbe82",
+      "ocd-person/bc906a77-5932-4042-9ede-a13b24924236"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=13"
+  },
+  {
+    "id": "ocd-organization/cadb53a8-d394-4e62-b84e-e6fd0bcd7c5b",
+    "name": "Urban Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/27784792-d54f-4a64-8408-a4a1ce0c26b1",
+      "ocd-person/4bfe5183-1afc-42fa-92c1-7ffe5cbb1080",
+      "ocd-person/db002bad-ee6a-4e22-b5c5-840c665ecad4",
+      "ocd-person/d3b8ad26-4cf1-4abf-ae4e-0f7a65f92fe6",
+      "ocd-person/0436186a-3b62-46f1-8f36-55e09fca3e77",
+      "ocd-person/7093e661-0dbc-4c75-91e0-09a3e171caf1",
+      "ocd-person/1e43a5b4-e63c-434a-977c-592174c2c635"
+    ],
+    "officialUrl": "https://nebraskalegislature.gov/committees/landing_pages/index.php?cid=14"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "session": {
+    "id": null,
+    "label": "",
+    "convenes": null,
+    "inSession": false,
+    "next": null
+  },
+  "counts": {
+    "legislators": 252,
+    "committees": 58,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Pennsylvania General Assembly",
+    "url": "https://www.legis.state.pa.us"
+  },
+  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+}

@@ -1,0 +1,598 @@
+[
+  {
+    "id": "ocd-organization/7847c5f5-7da8-41a3-aca2-fda286c35e77",
+    "name": "Agriculture, Conservation and Forestry",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/30ae681d-e01b-4305-9c6e-60df2e62b49b",
+      "ocd-person/a3fd29b8-0e0e-4559-a71f-6f7cf20be60f",
+      "ocd-person/82b51bea-5f96-46d6-bbcf-4d973f701b27",
+      "ocd-person/cf1f0a32-7107-44ea-96f2-1f3c604d87cc",
+      "ocd-person/8bc14822-ff62-4ffe-bf42-4114bd5bd99b",
+      "ocd-person/050d357e-3b22-4647-942f-56c9d8755194",
+      "ocd-person/a3281b8a-e758-4804-a964-e8db96d043a8",
+      "ocd-person/0e9ec0ba-18f6-4dd5-90c2-5893f0216138",
+      "ocd-person/fa3e8ae3-757e-44fb-9451-6bf381d748ce",
+      "ocd-person/05a89099-12b0-46b5-9f6e-002e1e621583",
+      "ocd-person/fb8f35c6-65a4-42d0-9009-3def6dcc62cb",
+      "ocd-person/2e5b6467-1014-4771-9aae-2c401029ed01"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/ACF"
+  },
+  {
+    "id": "ocd-organization/f25448c0-906f-4843-84ee-db0c51a6045e",
+    "name": "Appropriations and Financial Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/062977a2-a482-4c4f-b053-75cae4bdce31",
+      "ocd-person/8f61f208-cf99-489a-aa36-847438b0ed60",
+      "ocd-person/20082672-8aa7-4d49-bad7-fe5a92d1720d",
+      "ocd-person/187c138c-d84d-4813-884e-553b8a9354f1",
+      "ocd-person/38a3d5d7-cc62-4479-bfba-03d40099e7cd",
+      "ocd-person/3080d13f-59de-437a-b405-a2313be6ee89",
+      "ocd-person/81123167-ba38-419a-92e5-fe0102d6a553",
+      "ocd-person/468ba602-86c5-4293-85b2-45e87313c1c3",
+      "ocd-person/d72eadfd-23ee-4ecb-9853-e139ea82aec3",
+      "ocd-person/1c52b583-18c3-4e12-ae7a-2b07d589f753",
+      "ocd-person/134a1697-216a-4761-827f-840f72c640a0",
+      "ocd-person/b0c25078-ee4b-4638-9523-17997681a6e7",
+      "ocd-person/2c0651f3-bbea-49c8-9da3-a713953ff4d8"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/AFA"
+  },
+  {
+    "id": "ocd-organization/1988410d-9ef1-46c7-81a2-f0e8933ec1da",
+    "name": "Bills in the Second Reading",
+    "chamber": "house",
+    "members": [
+      "ocd-person/48305a9e-8f2a-4cea-8689-b93491c82ad5",
+      "ocd-person/6c313875-2dc9-4ef5-b869-c3cc0b7d5c97",
+      "ocd-person/14000c75-b0e9-451c-a081-9121970897de",
+      "ocd-person/8bc14822-ff62-4ffe-bf42-4114bd5bd99b",
+      "ocd-person/8abb4c0b-ed96-442e-8483-93a05845dcc5",
+      "ocd-person/0bb988f9-6dca-4fd8-ac06-3603af31094f",
+      "ocd-person/bed16528-b0ae-40e0-89a0-7303b946fb71",
+      "ocd-person/69e87146-73a0-434e-9cbb-8d7c80e7ce30"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/51d337e5-254d-4c6a-8a30-ea8abba4ddbb",
+    "name": "Bills in Their Second Reading",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b060c143-2734-491d-b28f-f6e4e2c77cb8",
+      "ocd-person/050d357e-3b22-4647-942f-56c9d8755194",
+      "ocd-person/73dfc0b1-9ce4-4d8e-8119-1dc7396fbb2c",
+      "ocd-person/3439fe0c-fb43-4977-ac8c-1dd1f8f10e96"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/5019a431-ca0e-452c-9072-e312fd7b3b51",
+    "name": "Conduct and  Ethics",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d071215f-4839-4c4c-ab4d-f3c7179004a6",
+      "ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736",
+      "ocd-person/32c9dbd7-beb7-481e-b0f4-22f3eaa00e50",
+      "ocd-person/ce4a4a85-e41d-410f-bfba-07f7f5b9dee0",
+      "ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37"
+    ],
+    "officialUrl": "https://legislature.maine.gov/standing-committees-of-the-senate"
+  },
+  {
+    "id": "ocd-organization/d5d9a76d-a2b6-42d7-a7fa-57b5d75ae987",
+    "name": "Criminal Justice and Public Safety",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/db11e611-94a4-4451-8486-f941a532789d",
+      "ocd-person/194ff967-ad0b-4f2d-8cb7-ef1e062b235c",
+      "ocd-person/32f4600c-1bc1-4758-8d94-69878c863e00",
+      "ocd-person/1793f579-da58-422f-bc22-36da20ce246c",
+      "ocd-person/6d397c09-c2d3-41ff-b33a-c42efae4f187",
+      "ocd-person/1b986e08-1270-49ba-b6d0-941a950d3008",
+      "ocd-person/f6eea224-7845-41b1-8e05-030ef3d8d886",
+      "ocd-person/0bb988f9-6dca-4fd8-ac06-3603af31094f",
+      "ocd-person/95538c83-57ab-4334-92a9-1991de0c3c9f",
+      "ocd-person/c3185181-4ae9-42ce-8bf5-9a2f04c2422b",
+      "ocd-person/a1ab39cd-e95b-4f16-9fdc-9f7d2685fc45",
+      "ocd-person/73dfc0b1-9ce4-4d8e-8119-1dc7396fbb2c",
+      "ocd-person/fb8f35c6-65a4-42d0-9009-3def6dcc62cb"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/e4d29dad-c398-476a-b1a8-ce90db35ad3b",
+    "name": "Education and Cultural Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/8c2c2996-5a72-4c9a-a0d9-958099f3a304",
+      "ocd-person/8abb4c0b-ed96-442e-8483-93a05845dcc5",
+      "ocd-person/72cc3b25-8e1e-4095-93be-216ee191572c",
+      "ocd-person/bdb29bb6-c6a2-461a-8527-06ac1ba20049",
+      "ocd-person/3fbfa65e-661c-4b82-a754-9ae0c6956797",
+      "ocd-person/82f5c446-4f81-4c54-98ae-7b302003d39d",
+      "ocd-person/b7b97724-7abc-44fb-bace-d3606d3fadb2",
+      "ocd-person/32c9dbd7-beb7-481e-b0f4-22f3eaa00e50",
+      "ocd-person/59048d8e-de6a-4f84-aa27-0ae867742214",
+      "ocd-person/b0c25078-ee4b-4638-9523-17997681a6e7",
+      "ocd-person/69e87146-73a0-434e-9cbb-8d7c80e7ce30",
+      "ocd-person/7498179f-e3de-47b7-9aee-9abee716522a",
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/EDU"
+  },
+  {
+    "id": "ocd-organization/81e7b482-c8cb-43ba-b675-baab4ebcc879",
+    "name": "Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b795e4ca-6b0d-4101-902d-8db5c1b54485",
+      "ocd-person/410a9d92-cdb2-4927-b589-72e32d525883",
+      "ocd-person/64a07a85-a469-4c9d-9b7c-bf4de46ade74",
+      "ocd-person/f338ea4f-b539-450c-bca4-161c427bb81a",
+      "ocd-person/3fbfa65e-661c-4b82-a754-9ae0c6956797",
+      "ocd-person/a3281b8a-e758-4804-a964-e8db96d043a8",
+      "ocd-person/a1ab39cd-e95b-4f16-9fdc-9f7d2685fc45",
+      "ocd-person/76ab2f9a-14e8-4eb5-ae0e-1a26e4a3a04c"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/b12eb09c-2a9c-4e76-a48a-5d086ac0fe06",
+    "name": "Energy, Utilities and Technology",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ce4a4a85-e41d-410f-bfba-07f7f5b9dee0",
+      "ocd-person/efda26eb-c8f7-443c-a963-95419878a856",
+      "ocd-person/14000c75-b0e9-451c-a081-9121970897de",
+      "ocd-person/7dea9101-48ec-4f1a-871e-a4f1c98b8914",
+      "ocd-person/f905d6bf-dd0b-4637-94ba-381e14083f6e",
+      "ocd-person/95538c83-57ab-4334-92a9-1991de0c3c9f",
+      "ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535",
+      "ocd-person/bed16528-b0ae-40e0-89a0-7303b946fb71",
+      "ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa",
+      "ocd-person/76ab2f9a-14e8-4eb5-ae0e-1a26e4a3a04c",
+      "ocd-person/140459ab-ba63-410a-819c-aec28c2f2f66",
+      "ocd-person/7d5a163c-a37a-48be-9a3f-2e4b54e3fdd6",
+      "ocd-person/0842c8ba-66a3-4896-aede-def84a65605b"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/EUT"
+  },
+  {
+    "id": "ocd-organization/d2d456d4-04cc-4793-8cbe-22a21f684ab8",
+    "name": "Engrossed Bills",
+    "chamber": "house",
+    "members": [
+      "ocd-person/35363ed2-34d2-4f93-bbce-2b0fe26d962e",
+      "ocd-person/95538c83-57ab-4334-92a9-1991de0c3c9f",
+      "ocd-person/30ae681d-e01b-4305-9c6e-60df2e62b49b",
+      "ocd-person/1b986e08-1270-49ba-b6d0-941a950d3008",
+      "ocd-person/e603c478-27c7-4f68-ba31-4ef3732ab916",
+      "ocd-person/3cdb36ad-77a1-401d-8479-630ae970300b",
+      "ocd-person/94645c8f-f06c-485e-b5fa-797e3590ea30",
+      "ocd-person/10c768fb-c5ef-448e-9759-d76f6c313909"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/29b84dd8-0069-4894-8fe8-36df7f25dd17",
+    "name": "Engrossed Bills",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6d397c09-c2d3-41ff-b33a-c42efae4f187",
+      "ocd-person/ec504278-9872-4842-a99c-80b31e563707",
+      "ocd-person/24bd9e6e-f10d-4e0d-a4b1-72bbe45f4e0d",
+      "ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa"
+    ],
+    "officialUrl": "https://legislature.maine.gov/standing-committees-of-the-senate"
+  },
+  {
+    "id": "ocd-organization/1e099027-258b-4171-89d2-846f9ee7208d",
+    "name": "Environment and Natural Resources",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0321d169-de06-4377-8cd5-6cdb51471393",
+      "ocd-person/6ec04f29-e02d-4c39-96e8-e9ed823437e7",
+      "ocd-person/7777fc5c-d508-4332-aac4-ec4799cf1721",
+      "ocd-person/44cd2c44-aa58-4129-bc5f-eefc64bf836f",
+      "ocd-person/eb5efd36-8020-46f1-a6ef-6dac6873f692",
+      "ocd-person/0f9ba178-89fb-439e-afa2-c327414d966d",
+      "ocd-person/8f4aa04f-f106-456f-a09f-e901c78939b6",
+      "ocd-person/051d0089-f1cc-4523-a48d-ae98700165f8",
+      "ocd-person/fc107a79-150e-414f-b796-960c96d75eb6",
+      "ocd-person/35363ed2-34d2-4f93-bbce-2b0fe26d962e",
+      "ocd-person/b060c143-2734-491d-b28f-f6e4e2c77cb8",
+      "ocd-person/444d3040-a7ee-4559-8d5f-bfc515617605",
+      "ocd-person/30414bf4-13ad-4bd5-a1d9-3cf11be6464d"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/ENR"
+  },
+  {
+    "id": "ocd-organization/c36205ee-0a8f-4795-be16-65486837eeff",
+    "name": "Ethics",
+    "chamber": "house",
+    "members": [
+      "ocd-person/dff0e200-fd8c-4ada-ac3d-e014a529dd59",
+      "ocd-person/1e7a6a8f-7160-4bee-80d1-b1dc47b3db4f",
+      "ocd-person/d9825f86-280b-4b70-9a6e-2bb7f02e239a",
+      "ocd-person/32f4600c-1bc1-4758-8d94-69878c863e00",
+      "ocd-person/0f9ba178-89fb-439e-afa2-c327414d966d",
+      "ocd-person/468ba602-86c5-4293-85b2-45e87313c1c3",
+      "ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b",
+      "ocd-person/194ff967-ad0b-4f2d-8cb7-ef1e062b235c"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/0666b496-b2d1-45f8-b317-2d602faf5100",
+    "name": "Government Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736",
+      "ocd-person/dff0e200-fd8c-4ada-ac3d-e014a529dd59",
+      "ocd-person/187c138c-d84d-4813-884e-553b8a9354f1",
+      "ocd-person/56960ccd-b154-42ae-9fb3-c323e07c23b1",
+      "ocd-person/72193c8f-2b94-4e56-bff4-482bde6037eb",
+      "ocd-person/1793f579-da58-422f-bc22-36da20ce246c",
+      "ocd-person/3ef077c6-482d-4dc2-92ef-69ac2a09bf06",
+      "ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9",
+      "ocd-person/9a9e7eab-5a12-452d-8d3b-57aa2dfa34b4",
+      "ocd-person/feb330d7-8122-4547-b38a-38279732a9ce",
+      "ocd-person/a18c5356-5572-4a99-8a7c-e86105afb821",
+      "ocd-person/4276be86-7dfa-4817-9792-52622b93ff40"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/GOC"
+  },
+  {
+    "id": "ocd-organization/4e5f109f-5416-4527-91cc-0bcd2cf83f9a",
+    "name": "Health and Human Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/050d357e-3b22-4647-942f-56c9d8755194",
+      "ocd-person/e26fdc8a-3099-4ea4-ad2d-1ccdc45ce1e6",
+      "ocd-person/513edd6e-0d85-4ad6-8852-577cd5c0ee02",
+      "ocd-person/2f7e7649-5c68-4f8f-8c9a-7993b66d383a",
+      "ocd-person/43e6cd5d-1e16-4099-b46b-1b6883e679b6",
+      "ocd-person/1e34b996-ad95-4a32-866c-dd65ee82e3f4",
+      "ocd-person/ec1a81b6-7c7f-4bac-99d4-ab0677e865d1",
+      "ocd-person/1f33e4be-1228-4c31-9b0f-c79012be9d07",
+      "ocd-person/24bd9e6e-f10d-4e0d-a4b1-72bbe45f4e0d",
+      "ocd-person/feb330d7-8122-4547-b38a-38279732a9ce",
+      "ocd-person/59c5505d-902d-4b6a-b3d5-8e036e640348",
+      "ocd-person/2715d740-16c6-49ec-9224-d3d9a24e47ee"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/HHS"
+  },
+  {
+    "id": "ocd-organization/0f4c6ad6-2473-4eb8-b9f8-eacca6021477",
+    "name": "Health Coverage, Insurance and Financial Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d071215f-4839-4c4c-ab4d-f3c7179004a6",
+      "ocd-person/3cdb36ad-77a1-401d-8479-630ae970300b",
+      "ocd-person/56960ccd-b154-42ae-9fb3-c323e07c23b1",
+      "ocd-person/8292a538-3cda-492f-8686-da248f432df3",
+      "ocd-person/b3f3ab98-9169-42f8-b7d7-c04b3bdfb545",
+      "ocd-person/34231d57-22e2-4f2f-be41-d2734fa6211f",
+      "ocd-person/64a07a85-a469-4c9d-9b7c-bf4de46ade74",
+      "ocd-person/ef0c0f85-eacc-4f97-9dba-d0781c40f274",
+      "ocd-person/0b6557f4-ce52-460b-99af-ec88b847d81a",
+      "ocd-person/ff5fbabd-df54-46a9-a36c-e78dad524105",
+      "ocd-person/522f7557-1c06-451b-9c81-78080fc5c21c",
+      "ocd-person/df555146-b927-4268-b8cf-d3d7b0848b14",
+      "ocd-person/d91a8965-c40d-481f-af61-5acb9b953fd3"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/HCIFS"
+  },
+  {
+    "id": "ocd-organization/411abf59-6594-4287-8298-c0f0d570d002",
+    "name": "Housing and Economic Development",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6d397c09-c2d3-41ff-b33a-c42efae4f187",
+      "ocd-person/10c768fb-c5ef-448e-9759-d76f6c313909",
+      "ocd-person/1e7a6a8f-7160-4bee-80d1-b1dc47b3db4f",
+      "ocd-person/28891c40-a850-4e37-a339-4f60976ab515",
+      "ocd-person/e1e7623e-aee4-4631-942c-e65c56d514c3",
+      "ocd-person/cef7caa9-828c-4272-a694-2aa16a5397ea",
+      "ocd-person/d071215f-4839-4c4c-ab4d-f3c7179004a6",
+      "ocd-person/f6eea224-7845-41b1-8e05-030ef3d8d886",
+      "ocd-person/9a9e7eab-5a12-452d-8d3b-57aa2dfa34b4",
+      "ocd-person/48305a9e-8f2a-4cea-8689-b93491c82ad5",
+      "ocd-person/d16d8ff0-3e6f-4970-9baf-767c9eb09fab",
+      "ocd-person/4276be86-7dfa-4817-9792-52622b93ff40",
+      "ocd-person/17a906a0-129a-46f8-b12e-22910db55dbf"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/HED"
+  },
+  {
+    "id": "ocd-organization/27f25be4-9737-4a18-bf65-5e5b42ed3d70",
+    "name": "Inland Fisheries and Wildlife",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/34231d57-22e2-4f2f-be41-d2734fa6211f",
+      "ocd-person/524f6cce-8333-442a-aff3-2e92bd9df894",
+      "ocd-person/50f75f0e-328c-413c-8733-de2872c5b7b0",
+      "ocd-person/44cd2c44-aa58-4129-bc5f-eefc64bf836f",
+      "ocd-person/81ab0331-83cd-4551-bf74-b732623c86b8",
+      "ocd-person/a3281b8a-e758-4804-a964-e8db96d043a8",
+      "ocd-person/e4f0e3da-2e65-4986-96ad-1ef21f9da73d",
+      "ocd-person/a2494f1d-e78d-4a29-b631-5c40b3fe43d8",
+      "ocd-person/a3686503-340d-4f8b-91d3-6f8de4d8a55d",
+      "ocd-person/6c313875-2dc9-4ef5-b869-c3cc0b7d5c97",
+      "ocd-person/d91a8965-c40d-481f-af61-5acb9b953fd3",
+      "ocd-person/3439fe0c-fb43-4977-ac8c-1dd1f8f10e96",
+      "ocd-person/94645c8f-f06c-485e-b5fa-797e3590ea30",
+      "ocd-person/30414bf4-13ad-4bd5-a1d9-3cf11be6464d"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/IFW"
+  },
+  {
+    "id": "ocd-organization/30ec564d-250b-470f-ac7d-b7dfdd3e15b1",
+    "name": "Judiciary",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d9825f86-280b-4b70-9a6e-2bb7f02e239a",
+      "ocd-person/50f75f0e-328c-413c-8733-de2872c5b7b0",
+      "ocd-person/906cd606-c6ff-41e5-87a6-e038b711fa61",
+      "ocd-person/dff0e200-fd8c-4ada-ac3d-e014a529dd59",
+      "ocd-person/49a5c100-0379-4ce8-af49-de4c4f817abc",
+      "ocd-person/b3f3ab98-9169-42f8-b7d7-c04b3bdfb545",
+      "ocd-person/8dd63807-ac15-408c-97de-c8e9195a6a42",
+      "ocd-person/03370150-e682-4bce-9989-4a8b73f10042",
+      "ocd-person/65c05666-3d38-4098-b2fc-6a519f21f71f",
+      "ocd-person/b873e7d2-9103-47e9-8c25-df94056f728d",
+      "ocd-person/12fc57e0-db0e-4112-a7c0-226b952a11b8",
+      "ocd-person/a3a29593-781a-462d-93cc-685be03b3b56",
+      "ocd-person/b61923e6-c463-4df4-95b2-117d74c030bd",
+      "ocd-person/a3fd29b8-0e0e-4559-a71f-6f7cf20be60f"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/JUD"
+  },
+  {
+    "id": "ocd-organization/c9f5084c-916d-4623-bb31-e73ef76055e4",
+    "name": "Labor",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/42c79801-802e-4f3d-8917-f3f956766e50",
+      "ocd-person/a18c5356-5572-4a99-8a7c-e86105afb821",
+      "ocd-person/4bc2b129-52c1-4dfd-99af-dd38f620183a",
+      "ocd-person/d87034c7-fd93-4ba1-a61b-f4ea810506c9",
+      "ocd-person/ec504278-9872-4842-a99c-80b31e563707",
+      "ocd-person/7893adc7-d4fb-42e4-bae0-1258ce673096",
+      "ocd-person/8c2c2996-5a72-4c9a-a0d9-958099f3a304",
+      "ocd-person/5df4dc20-8fb9-432c-8844-c72a66a325d6",
+      "ocd-person/9b3c17b4-3c7a-4f8d-96bb-8215a385fdd2",
+      "ocd-person/dec943c1-07d5-479a-972f-a3c1cc6a2714",
+      "ocd-person/fc107a79-150e-414f-b796-960c96d75eb6",
+      "ocd-person/ef82117f-6819-4f84-92dc-a49bebded523",
+      "ocd-person/0842c8ba-66a3-4896-aede-def84a65605b"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/LAB"
+  },
+  {
+    "id": "ocd-organization/ab8750fe-0bc9-4f1d-a377-32543427aeea",
+    "name": "Leaves of Absence",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c3185181-4ae9-42ce-8bf5-9a2f04c2422b",
+      "ocd-person/30414bf4-13ad-4bd5-a1d9-3cf11be6464d",
+      "ocd-person/4bc2b129-52c1-4dfd-99af-dd38f620183a",
+      "ocd-person/8646c09c-1d84-4065-bcf2-8be6a8baf494",
+      "ocd-person/e1e7623e-aee4-4631-942c-e65c56d514c3",
+      "ocd-person/7dea9101-48ec-4f1a-871e-a4f1c98b8914",
+      "ocd-person/ec1a81b6-7c7f-4bac-99d4-ab0677e865d1",
+      "ocd-person/12fc57e0-db0e-4112-a7c0-226b952a11b8"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/646f53d4-faae-4210-8d43-89ceceff9718",
+    "name": "Legislative Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b890f601-0023-4d87-acf7-a4db5cbf2b62",
+      "ocd-person/43c2650b-6248-46f9-a553-8c2bd0bab294",
+      "ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9",
+      "ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b",
+      "ocd-person/3cdb36ad-77a1-401d-8479-630ae970300b",
+      "ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535",
+      "ocd-person/7f03a30f-5a77-49b2-8c92-57f7a4238052",
+      "ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec",
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4",
+      "ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/LC"
+  },
+  {
+    "id": "ocd-organization/54c9ec48-d672-4b6e-b6a6-4ab1193d2c6c",
+    "name": "Marine Resources",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/82b51bea-5f96-46d6-bbcf-4d973f701b27",
+      "ocd-person/0321d169-de06-4377-8cd5-6cdb51471393",
+      "ocd-person/b6cdaab7-6aec-4c65-a239-e18c6e839fbc",
+      "ocd-person/38a3d5d7-cc62-4479-bfba-03d40099e7cd",
+      "ocd-person/cef7caa9-828c-4272-a694-2aa16a5397ea",
+      "ocd-person/cd08563e-987c-4c06-9487-4a22015e18a9",
+      "ocd-person/e603c478-27c7-4f68-ba31-4ef3732ab916",
+      "ocd-person/e4f0e3da-2e65-4986-96ad-1ef21f9da73d",
+      "ocd-person/24bd9e6e-f10d-4e0d-a4b1-72bbe45f4e0d",
+      "ocd-person/35363ed2-34d2-4f93-bbce-2b0fe26d962e",
+      "ocd-person/dac0a6d5-74a6-4948-8e27-cd036a44668d",
+      "ocd-person/2ffd13d7-b22a-4bea-8bc0-eaa6c0a53c17",
+      "ocd-person/674df0e4-1997-4d43-b377-274485c0cd42"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/MAR"
+  },
+  {
+    "id": "ocd-organization/78a06c34-aab1-443d-9396-f6993295dd82",
+    "name": "Personnel",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/43c2650b-6248-46f9-a553-8c2bd0bab294",
+      "ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9",
+      "ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec",
+      "ocd-person/b890f601-0023-4d87-acf7-a4db5cbf2b62",
+      "ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/PER"
+  },
+  {
+    "id": "ocd-organization/3d346e84-1fd1-4f7e-ab4a-bb8094ac0521",
+    "name": "Rules",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/50f75f0e-328c-413c-8733-de2872c5b7b0",
+      "ocd-person/43c2650b-6248-46f9-a553-8c2bd0bab294",
+      "ocd-person/82f5c446-4f81-4c54-98ae-7b302003d39d",
+      "ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b",
+      "ocd-person/7f03a30f-5a77-49b2-8c92-57f7a4238052",
+      "ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec",
+      "ocd-person/4276be86-7dfa-4817-9792-52622b93ff40",
+      "ocd-person/b890f601-0023-4d87-acf7-a4db5cbf2b62",
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4",
+      "ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/RUL"
+  },
+  {
+    "id": "ocd-organization/a54b6cd7-7f91-4f75-b729-ddc739adf0d4",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4",
+      "ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9",
+      "ocd-person/863a9ef0-5916-40d6-9929-7a7b498af0ec",
+      "ocd-person/4276be86-7dfa-4817-9792-52622b93ff40",
+      "ocd-person/bd417e77-81d9-4e60-8b2a-b940da10bc37"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/2c8c9bea-e180-488c-b053-7cce71cad172",
+    "name": "Rules and Business of the House",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b890f601-0023-4d87-acf7-a4db5cbf2b62",
+      "ocd-person/0f9ba178-89fb-439e-afa2-c327414d966d",
+      "ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b",
+      "ocd-person/7f03a30f-5a77-49b2-8c92-57f7a4238052"
+    ],
+    "officialUrl": "https://legislature.maine.gov"
+  },
+  {
+    "id": "ocd-organization/660bdaed-9632-4664-b05c-eab4bf3dc8e3",
+    "name": "Senatorial Vote",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4",
+      "ocd-person/6d397c09-c2d3-41ff-b33a-c42efae4f187",
+      "ocd-person/0321d169-de06-4377-8cd5-6cdb51471393",
+      "ocd-person/3ef077c6-482d-4dc2-92ef-69ac2a09bf06",
+      "ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535",
+      "ocd-person/062977a2-a482-4c4f-b053-75cae4bdce31",
+      "ocd-person/fa3e8ae3-757e-44fb-9451-6bf381d748ce"
+    ],
+    "officialUrl": "https://legislature.maine.gov/standing-committees-of-the-senate"
+  },
+  {
+    "id": "ocd-organization/315b0b7a-a997-4a47-8d1c-719e7b06ca7f",
+    "name": "State and Local Government",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/34231d57-22e2-4f2f-be41-d2734fa6211f",
+      "ocd-person/187c138c-d84d-4813-884e-553b8a9354f1",
+      "ocd-person/1e9dcfd4-a93c-49e3-9099-fa4a85f732d0",
+      "ocd-person/2288cf22-64f4-4f1f-b5e3-b1ada5c72914",
+      "ocd-person/8f4aa04f-f106-456f-a09f-e901c78939b6",
+      "ocd-person/b6102f7e-216a-4632-901c-25b2b446f080",
+      "ocd-person/410a9d92-cdb2-4927-b589-72e32d525883",
+      "ocd-person/61ef08d1-e345-42af-a56e-4fcd5076f0f5",
+      "ocd-person/db11e611-94a4-4451-8486-f941a532789d",
+      "ocd-person/abfa3321-4f0f-42a1-81ef-25b5d7bbfd3e",
+      "ocd-person/d43df0c7-0dfd-4640-9881-f37611c15830",
+      "ocd-person/674df0e4-1997-4d43-b377-274485c0cd42",
+      "ocd-person/76a9907f-f257-4621-b176-8e911bb8cf35"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/SLG"
+  },
+  {
+    "id": "ocd-organization/7d1dc3a5-dcca-46a3-bee8-9b1380d33b24",
+    "name": "State House Facilities",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7f03a30f-5a77-49b2-8c92-57f7a4238052",
+      "ocd-person/b07e421b-8c1f-473d-aa7a-10d71e8a443b",
+      "ocd-person/3cdb36ad-77a1-401d-8479-630ae970300b",
+      "ocd-person/f4b39a4f-3a31-4e15-9b0a-459cb260f535",
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/SHF"
+  },
+  {
+    "id": "ocd-organization/ab20227d-2fcc-40ee-944e-d1f4745d3951",
+    "name": "Taxation",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f9010476-1b1e-4407-b672-b81cd0ee8ae6",
+      "ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa",
+      "ocd-person/187c138c-d84d-4813-884e-553b8a9354f1",
+      "ocd-person/0b3965de-8fe2-42b4-bc21-115d6b2b470f",
+      "ocd-person/3fbfa65e-661c-4b82-a754-9ae0c6956797",
+      "ocd-person/55262df3-ff33-4e9e-a504-912ac2558ede",
+      "ocd-person/90989c27-4cd8-409e-8325-9bd50dac9cf4",
+      "ocd-person/a18c5356-5572-4a99-8a7c-e86105afb821",
+      "ocd-person/6e471a24-9252-4c4d-aff6-a00c0c84604d",
+      "ocd-person/07984348-1057-4adf-9816-8407548bdb35",
+      "ocd-person/2c48b67e-10dd-4162-af2b-add94f3bc728",
+      "ocd-person/be3df38c-150a-4e3c-8c16-6e97bdbeadc4",
+      "ocd-person/3853d2fe-2580-4041-abb1-b4136172e9c0"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/TAX"
+  },
+  {
+    "id": "ocd-organization/83c44931-e243-4e61-afa6-3cce286cf060",
+    "name": "Transportation",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b795e4ca-6b0d-4101-902d-8db5c1b54485",
+      "ocd-person/2715d740-16c6-49ec-9224-d3d9a24e47ee",
+      "ocd-person/72193c8f-2b94-4e56-bff4-482bde6037eb",
+      "ocd-person/eb5efd36-8020-46f1-a6ef-6dac6873f692",
+      "ocd-person/cd08563e-987c-4c06-9487-4a22015e18a9",
+      "ocd-person/54f9af68-0a59-4cd7-a448-40725e8781ab",
+      "ocd-person/80900bc0-7e26-4195-a0af-ec56b9f34fe0",
+      "ocd-person/648b245c-8c13-4caf-944c-f775ff48aab2",
+      "ocd-person/6c313875-2dc9-4ef5-b869-c3cc0b7d5c97",
+      "ocd-person/c76a67f9-4d87-4a73-8d89-eea7cd8a3a98",
+      "ocd-person/4cd1a303-929b-43fe-b92c-1cca8a89d302",
+      "ocd-person/0d692e7b-535a-498b-8072-a258806fecb4",
+      "ocd-person/8a75e2da-2389-4052-9592-1e607ba2dfc1"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/TRA"
+  },
+  {
+    "id": "ocd-organization/2799d1a0-633d-42e2-9903-742842fb9bc1",
+    "name": "Veterans and Legal Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736",
+      "ocd-person/a65cc42d-ae91-4f47-8269-4673f106682f",
+      "ocd-person/8646c09c-1d84-4065-bcf2-8be6a8baf494",
+      "ocd-person/2f7e7649-5c68-4f8f-8c9a-7993b66d383a",
+      "ocd-person/f52b3788-349b-4b6c-84a3-72d02a953616",
+      "ocd-person/f338ea4f-b539-450c-bca4-161c427bb81a",
+      "ocd-person/3ef077c6-482d-4dc2-92ef-69ac2a09bf06",
+      "ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9",
+      "ocd-person/48305a9e-8f2a-4cea-8689-b93491c82ad5",
+      "ocd-person/a3686503-340d-4f8b-91d3-6f8de4d8a55d",
+      "ocd-person/d2a31aea-936e-459b-85e8-a031ba2756e9",
+      "ocd-person/9db9a9ba-552e-446f-b5a3-58f74596a115",
+      "ocd-person/05a89099-12b0-46b5-9f6e-002e1e621583"
+    ],
+    "officialUrl": "https://legislature.maine.gov/committee/#Committees/VLA"
+  }
+]

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06",
+    "name": "Alan Martinez",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMAAL",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMAAL.jpg"
+  },
+  {
+    "id": "ocd-person/c4caca3c-faa3-445f-91e0-cce9edd53a5a",
+    "name": "Andi Reeb",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HREEB",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HREEB.jpg"
+  },
+  {
+    "id": "ocd-person/5cf6976d-e616-4579-a194-ec3c37260ebd",
+    "name": "Andr\\xE9s Romero",
+    "chamber": "house",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROMA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HROMA.jpg"
+  },
+  {
+    "id": "ocd-person/ed0ba54a-4fc3-4c50-aa0d-f74b1f0e86f6",
+    "name": "Andrea Romero",
+    "chamber": "house",
+    "party": "D",
+    "district": "46",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROAN",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HROAN.jpg"
+  },
+  {
+    "id": "ocd-person/948ee9a0-a718-46f1-a1fe-35eb97f01fad",
+    "name": "Angel Charley",
+    "chamber": "senate",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCHAR",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/65a92fa05202ee2b13428333/630e642f-dfc6-48c0-930b-c25b16d80e76/Headshot.jpg"
+  },
+  {
+    "id": "ocd-person/ea2a9403-248c-4474-aea0-47b45265e0be",
+    "name": "Angelica Rubio",
+    "chamber": "house",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HRUBI",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HRUBI.jpg"
+  },
+  {
+    "id": "ocd-person/75986bbd-3629-4520-a770-f86c46f423ab",
+    "name": "Angelita Mejia",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMEAN",
+    "imageUrl": "https://bloximages.newyork1.vip.townnews.com/rdrnews.com/content/tncms/assets/v3/editorial/5/0f/50f20b06-de3c-11ee-8fb3-1b97c5eaf40c/65ec9fd35dc59.image.jpg?resize=457%2C500"
+  },
+  {
+    "id": "ocd-person/ee127909-55b5-4854-b3c6-2e45e19b7156",
+    "name": "Anita Gonzales",
+    "chamber": "house",
+    "party": "D",
+    "district": "70",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGOAN",
+    "imageUrl": "https://anita4newmexico.com/wp-content/uploads/2024/02/Anita-ABOUT.jpg"
+  },
+  {
+    "id": "ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656",
+    "name": "Ant Thornton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=STHOR",
+    "imageUrl": "https://antthorntonfornm.com/wp-content/uploads/2024/02/Ant-Thornton-768x768.jpg"
+  },
+  {
+    "id": "ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735",
+    "name": "Antoinette Sedillo Lopez",
+    "chamber": "senate",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSEDI",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSEDI.jpg"
+  },
+  {
+    "id": "ocd-person/057c7d79-a168-4b7b-ae96-66cf41e4f115",
+    "name": "Art De La Cruz",
+    "chamber": "house",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDELA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HDELA.jpg"
+  },
+  {
+    "id": "ocd-person/145aba4a-89ba-4c17-b1ec-2f4b568f5048",
+    "name": "Benny Shendo",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHEN",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHEN.jpg"
+  },
+  {
+    "id": "ocd-person/e0e4fcc9-1e0c-49f8-894d-223c863d61f8",
+    "name": "Bill Hall",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372",
+    "name": "Bill Sharer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSHAR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSHAR.jpg"
+  },
+  {
+    "id": "ocd-person/33aa9a6b-b106-4216-8ea5-82d85cd2250a",
+    "name": "Bill Soules",
+    "chamber": "senate",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSOUL",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSOUL.jpg"
+  },
+  {
+    "id": "ocd-person/5e9a828c-3dfb-4f88-8dfe-f8fccf11ef78",
+    "name": "Bobby Gonzales",
+    "chamber": "senate",
+    "party": "D",
+    "district": "6",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SGONZ",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SGONZ.jpg"
+  },
+  {
+    "id": "ocd-person/05f3609c-c2a6-42fc-bf6a-5141f8050ff8",
+    "name": "Brian Baca",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBACB",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HBACB.jpg"
+  },
+  {
+    "id": "ocd-person/46464f19-1bda-489f-93cf-3772d0445407",
+    "name": "Candy Ezzell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HEZZE.jpg"
+  },
+  {
+    "id": "ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d",
+    "name": "Carrie Hamblen",
+    "chamber": "senate",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHAMB",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SHAMB.jpg"
+  },
+  {
+    "id": "ocd-person/35f36593-4252-4205-b123-cc7236e96954",
+    "name": "Catherine Cullen",
+    "chamber": "house",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCUCA",
+    "imageUrl": "https://cullen4nm.com/wp-content/plugins/phastpress/phast.php/c2VydmljZT1pbWFnZXMmc3JjPWh0dHBzJTNBJTJGJTJGY3VsbGVuNG5tLmNvbSUyRndwLWNvbnRlbnQlMkZ1cGxvYWRzJTJGMjAyNCUyRjA3JTJGSU1HXzMyMjguanBnJmNhY2hlTWFya2VyPTE3MzAxNTM0NzYtMTUyNzQyJnRva2VuPTU0MDM0MzcxMmJiYWYyZmY.q.jpg"
+  },
+  {
+    "id": "ocd-person/8b51e39c-5f4c-48dd-affd-b97c6062d87e",
+    "name": "Cathrynn Brown",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBROW",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HBROW.jpg"
+  },
+  {
+    "id": "ocd-person/052e06cd-7f58-4c3c-8640-be1d8842a19b",
+    "name": "Charlotte Little",
+    "chamber": "house",
+    "party": "D",
+    "district": "68",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLITC",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HLITC.jpg"
+  },
+  {
+    "id": "ocd-person/6ecab682-9ccf-4777-940d-afa418b601b8",
+    "name": "Chris Chandler",
+    "chamber": "house",
+    "party": "D",
+    "district": "43",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAN",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HCHAN.jpg"
+  },
+  {
+    "id": "ocd-person/631f715e-754c-4410-a967-1e5a928ae971",
+    "name": "Cindy Nava",
+    "chamber": "senate",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SNACI",
+    "imageUrl": "https://s3.amazonaws.com/cms.ipressroom.com/175/files/20187/5b883c6f2cfac267c6377417_Cindy+Nava+1/Cindy+Nava+1_mid.jpg"
+  },
+  {
+    "id": "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7",
+    "name": "Craig Brandt",
+    "chamber": "senate",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAN",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SBRAN.jpg"
+  },
+  {
+    "id": "ocd-person/8819e763-061e-4f30-9828-af635428b41a",
+    "name": "Cristina Paraj\\xF3n",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPARA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HPARA.jpg"
+  },
+  {
+    "id": "ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882",
+    "name": "Crystal Brantley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg"
+  },
+  {
+    "id": "ocd-person/2e2ecadf-7236-48c5-8145-e7fea6fcd393",
+    "name": "Cynthia Borrego",
+    "chamber": "house",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBORR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HBORR.jpg"
+  },
+  {
+    "id": "ocd-person/9d5296b7-b8b1-40c8-a8ce-246f719b8ff0",
+    "name": "David Gallegos",
+    "chamber": "senate",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADV",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SGADM.jpg"
+  },
+  {
+    "id": "ocd-person/124f1c82-12f1-45ab-b21e-67cc4a529d18",
+    "name": "Day Hochman-Vigil",
+    "chamber": "house",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHOCH",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HHOCH.jpg"
+  },
+  {
+    "id": "ocd-person/e347c564-d1f5-4fb8-a24d-47218fa754e7",
+    "name": "Debbie O'Malley",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SOMAL",
+    "imageUrl": "https://www.naco.org/sites/default/files/styles/349x333/public/PIC_OMalley%2C%20Debbie.webp"
+  },
+  {
+    "id": "ocd-person/8cb27ec7-dc78-49b1-bc3f-18ad2beb76b6",
+    "name": "Debbie Sari\\xF1ana",
+    "chamber": "house",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSARI",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSARI.jpg"
+  },
+  {
+    "id": "ocd-person/0421351b-6a8c-4731-bf93-5029d6b4feab",
+    "name": "Derrick Lente",
+    "chamber": "house",
+    "party": "D",
+    "district": "65",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLENT",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HLENT.jpg"
+  },
+  {
+    "id": "ocd-person/c8e6de13-632b-4e09-8d1f-ff8ab2431acc",
+    "name": "Diane Torres-Vel\\xE1squez",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOLE",
+    "imageUrl": "https://static.wixstatic.com/media/4db618_2eb9e70e0469459fa20a1b6a172d7f67~mv2.jpg/v1/fill/w_200,h_200,fp_0.47_0.36,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/image000000.jpg"
+  },
+  {
+    "id": "ocd-person/6563f869-64f5-42fb-9707-263fee6f59dc",
+    "name": "Doreen Gallegos",
+    "chamber": "house",
+    "party": "D",
+    "district": "52",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGADO",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HGADO.jpg"
+  },
+  {
+    "id": "ocd-person/810e1619-ebae-4139-be1e-778e252a09b0",
+    "name": "Elaine Sena Cortez",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSEEL",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/6101dbe38853cb26aaf1d169/482eeab7-b7c0-4dfc-bc83-1b4ecc0e66b4/945A8275-Edit.jpg"
+  },
+  {
+    "id": "ocd-person/19ad7971-bfe4-49e2-bc0f-c5416df1f241",
+    "name": "Eleanor Ch\\xE1vez",
+    "chamber": "house",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAL",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HCHAL.jpg"
+  },
+  {
+    "id": "ocd-person/6677ca7f-f961-44f1-a241-d14280762f5d",
+    "name": "Gabriel Ramos",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SRAMO",
+    "imageUrl": "http://www.nmlegis.gov/Images/Legislators/Senate/SRAMO.jpg"
+  },
+  {
+    "id": "ocd-person/9564298b-dc55-4037-8205-5eca1c2063dc",
+    "name": "Gail Armstrong",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HARMG",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HARMG.jpg"
+  },
+  {
+    "id": "ocd-person/b4c20aea-b56c-4a19-a89a-788c53d995d7",
+    "name": "George Mu\\xF1oz",
+    "chamber": "senate",
+    "party": "D",
+    "district": "4",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SMUNO",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SMUNO.jpg"
+  },
+  {
+    "id": "ocd-person/e7e8e973-411b-45fd-8fd7-7e4ea7d9f1be",
+    "name": "Harlan Vincent",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HVINC",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HVINC.jpg"
+  },
+  {
+    "id": "ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91",
+    "name": "Harold Pope",
+    "chamber": "senate",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPOPE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SPOPE.jpg"
+  },
+  {
+    "id": "ocd-person/e5d44d75-76df-41fc-87ae-27bc4c943d50",
+    "name": "Heather Berghmans",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBERG",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/HeatherBerghmans24.jpg"
+  },
+  {
+    "id": "ocd-person/c41b373a-7376-4084-b0de-3648cfce9b05",
+    "name": "Jack Chatfield",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHAT",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HCHAT.jpg"
+  },
+  {
+    "id": "ocd-person/bc8985ad-c6e6-42cd-b2d5-30688e4616a1",
+    "name": "Janelle Anyanonu",
+    "chamber": "house",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANYA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HANYA.jpg"
+  },
+  {
+    "id": "ocd-person/221a42af-f54f-4e66-b648-9b0028165595",
+    "name": "Javier Mart\\xEDnez",
+    "chamber": "house",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMARJ",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMARJ.jpg"
+  },
+  {
+    "id": "ocd-person/ee5fab91-b6eb-43be-bf26-300302eec5d1",
+    "name": "Jay Block",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBLOC",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jay_Block.jpg"
+  },
+  {
+    "id": "ocd-person/601202fc-f916-4be1-ae20-8c437293817e",
+    "name": "Jeff Steinborn",
+    "chamber": "senate",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEI",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEI.jpg"
+  },
+  {
+    "id": "ocd-person/6968fa09-cbf8-42a5-a5a6-132b0b663103",
+    "name": "Jenifer Jones",
+    "chamber": "house",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJONJ",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HJONJ.jpg"
+  },
+  {
+    "id": "ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88",
+    "name": "Jim Townsend",
+    "chamber": "senate",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOWJ",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HTOWJ.jpg"
+  },
+  {
+    "id": "ocd-person/d92a32b1-e3ef-43d7-8e63-c24e59c52b3d",
+    "name": "Jimmy Mason",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMASO",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMASO.jpg"
+  },
+  {
+    "id": "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
+    "name": "Joanne Ferrary",
+    "chamber": "house",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFERJ",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HFERJ.jpg"
+  },
+  {
+    "id": "ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b",
+    "name": "Joe Cervantes",
+    "chamber": "senate",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCERV",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SCERV.jpg"
+  },
+  {
+    "id": "ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0",
+    "name": "John Block",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HBLOC",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HBLOC.jpg"
+  },
+  {
+    "id": "ocd-person/3c29303f-1a07-4767-9172-b7f453918d77",
+    "name": "Jon Henry",
+    "chamber": "house",
+    "party": "R",
+    "district": "54",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHENR",
+    "imageUrl": "https://assets.civicengine.com/uploads/candidate/headshot/810348/810348.jpg"
+  },
+  {
+    "id": "ocd-person/854e0c8a-0093-4282-8544-8d20bafde8f6",
+    "name": "Joseph Hernandez",
+    "chamber": "house",
+    "party": "D",
+    "district": "4",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO",
+    "imageUrl": "https://progressivevotersguide.com/sites/default/files/styles/candidate/public/new%20mexico/2024/general/Joseph%20H.jpg?itok=DRcr52HE"
+  },
+  {
+    "id": "ocd-person/0ed175a3-3c71-4b42-bf53-9435d0f93f52",
+    "name": "Joseph Sanchez",
+    "chamber": "house",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSAJO",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSAJO.jpg"
+  },
+  {
+    "id": "ocd-person/71b8feb5-0bbd-45bd-9b25-c6dc7642962b",
+    "name": "Josh Hernandez",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERN",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HHERN.jpg"
+  },
+  {
+    "id": "ocd-person/82528266-9d6a-4fb3-854e-be9ab6a549b7",
+    "name": "Joshua Sanchez",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSANJ",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSANJ.jpg"
+  },
+  {
+    "id": "ocd-person/930a9ffb-d292-49d5-8c43-c42bdab290ff",
+    "name": "Joy Garratt",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGARR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HGARR.jpg"
+  },
+  {
+    "id": "ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09",
+    "name": "Kathleen Cates",
+    "chamber": "house",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCATE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HCATE.jpg"
+  },
+  {
+    "id": "ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db",
+    "name": "Katy Duhigg",
+    "chamber": "senate",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SDUHI",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SDUHI.jpg"
+  },
+  {
+    "id": "ocd-person/0dd8a8ff-99c5-4d1a-90fb-3b74398a4141",
+    "name": "Kristina Ortez",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HORTE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HORTE.jpg"
+  },
+  {
+    "id": "ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7",
+    "name": "Larry Scott",
+    "chamber": "senate",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSCOT.jpg"
+  },
+  {
+    "id": "ocd-person/9b0d6912-d333-4ae7-b626-ce643099a43d",
+    "name": "Leo Jaramillo",
+    "chamber": "senate",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SJARA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SJARA.jpg"
+  },
+  {
+    "id": "ocd-person/ecc60fc8-8598-4650-8a55-6e91d24e991e",
+    "name": "Linda L\\xF3pez",
+    "chamber": "senate",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLOPE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SLOPE.jpg"
+  },
+  {
+    "id": "ocd-person/570bb94a-0500-44de-8983-ca259e0d4a60",
+    "name": "Linda Serrato",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSERR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSERR.jpg"
+  },
+  {
+    "id": "ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400",
+    "name": "Linda Trujillo",
+    "chamber": "senate",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL",
+    "imageUrl": "http://www.nmlegis.gov/Images/Legislators/House/HTRUL.jpg"
+  },
+  {
+    "id": "ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03",
+    "name": "Liz Stefanics",
+    "chamber": "senate",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEF",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEF.jpg"
+  },
+  {
+    "id": "ocd-person/13ad8eb1-a64f-4a08-8c68-a1488466128f",
+    "name": "Liz Thomson",
+    "chamber": "house",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTHOE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HTHOE.jpg"
+  },
+  {
+    "id": "ocd-person/6f02eec7-0afe-4f15-ad56-653148da00c0",
+    "name": "Luis Terrazas",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTERR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HTERR.jpg"
+  },
+  {
+    "id": "ocd-person/c2fb0283-189c-4b0c-9d99-7b70d2f62c40",
+    "name": "Marian Matthews",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMATT",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMATT.jpg"
+  },
+  {
+    "id": "ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd",
+    "name": "Marianna Anaya",
+    "chamber": "house",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HANMA",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MariannaAnaya.jpg"
+  },
+  {
+    "id": "ocd-person/aa8f331c-d541-4acd-b025-e218e01764e2",
+    "name": "Mark Duncan",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDUNC",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HDUNC.jpg"
+  },
+  {
+    "id": "ocd-person/406c0ab4-c372-42bc-ba14-77181dc7c418",
+    "name": "Mark Murphy",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/fb0443f9-b6d7-4b3b-a87e-0d8b143ed64b",
+    "name": "Martha Garcia",
+    "chamber": "house",
+    "party": "D",
+    "district": "6",
+    "bioUrl": "https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46",
+    "name": "Martin Hickey",
+    "chamber": "senate",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SHICK",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SHICK.jpg"
+  },
+  {
+    "id": "ocd-person/dc968f82-503e-4246-9124-b880fd6ae3ae",
+    "name": "Martin Zamora",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HZAMO",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HZAMO.jpg"
+  },
+  {
+    "id": "ocd-person/e3affc46-1790-48ba-ae36-5c00473d6c35",
+    "name": "Matthew McQueen",
+    "chamber": "house",
+    "party": "D",
+    "district": "50",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMCQU",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMCQU.jpg"
+  },
+  {
+    "id": "ocd-person/ac49b3cf-9fb8-4fa1-af55-4b35a6570c87",
+    "name": "Meredith Dixon",
+    "chamber": "house",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HDIXO",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HDIXO.jpg"
+  },
+  {
+    "id": "ocd-person/5b9af862-0f9f-42b2-a694-f80055129d6c",
+    "name": "Micaela Cadena",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCADA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HCADA.jpg"
+  },
+  {
+    "id": "ocd-person/ce888eff-62f5-41c0-9114-651c43f77aba",
+    "name": "Michael Padilla",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPADI",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SPADI.jpg"
+  },
+  {
+    "id": "ocd-person/3363aa83-2490-4631-b04b-9a52fdbad14b",
+    "name": "Miguel Garc\\xEDa",
+    "chamber": "house",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGAMP",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HGAMP.jpg"
+  },
+  {
+    "id": "ocd-person/f1144347-0a16-43e4-97b9-01308a890631",
+    "name": "Mimi Stewart",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SSTEW",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SSTEW.jpg"
+  },
+  {
+    "id": "ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de",
+    "name": "Moe Maestas",
+    "chamber": "senate",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://nmlegis.gov/Members/Legislator?SponCode=smaem",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SMAEM.jpg"
+  },
+  {
+    "id": "ocd-person/48969449-b004-4ca3-a72b-8508e95e0051",
+    "name": "Natalie Figueroa",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HFIGU",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HFIGU.jpg"
+  },
+  {
+    "id": "ocd-person/57440e55-06ad-4f1f-8aa5-3bdd31a805dd",
+    "name": "Nathan Small",
+    "chamber": "house",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSMAL",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSMAL.jpg"
+  },
+  {
+    "id": "ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9",
+    "name": "Nicole Chavez",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HCHNI",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/NicoleChavez.jpeg"
+  },
+  {
+    "id": "ocd-person/daefbf8d-768f-4dab-8f4f-0a272e2cb697",
+    "name": "Nicole Tobiassen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=STOBI",
+    "imageUrl": "https://nicolefornm.com/wp-content/uploads/2023/06/Nicole-Tobiassen-Headshot-3-768x512.jpg"
+  },
+  {
+    "id": "ocd-person/800d2a2e-1622-4ab2-b290-3c537b38bdf8",
+    "name": "Pamelya Herndon",
+    "chamber": "house",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEPA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HHEPA.jpg"
+  },
+  {
+    "id": "ocd-person/4093c9b8-d07a-4a12-b13b-abbd4130b1fe",
+    "name": "Pat Boone",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBOON",
+    "imageUrl": "https://senatorpatboone.com/wp-content/uploads/2024/03/Pat-Boone-Photo-1.jpg"
+  },
+  {
+    "id": "ocd-person/20dc90cf-7805-4609-8631-45db1973cd5c",
+    "name": "Pat Roybal Caballero",
+    "chamber": "house",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HROYB",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HROYB.jpg"
+  },
+  {
+    "id": "ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d",
+    "name": "Pat Woods",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWOOD",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SWOOD.jpg"
+  },
+  {
+    "id": "ocd-person/94eed261-74bb-4f8b-a0ab-62b2a7ff8e98",
+    "name": "Patty Lundstrom",
+    "chamber": "house",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUND",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HLUND.jpg"
+  },
+  {
+    "id": "ocd-person/8cc272e5-bf6a-441e-9b0a-407ed6361afa",
+    "name": "Paulene Abeyta",
+    "chamber": "house",
+    "party": "D",
+    "district": "69",
+    "bioUrl": "https://www.nmlegis.gov/members/Legislator?SponCode=HABMI",
+    "imageUrl": "https://womencount.org/wp-content/uploads/2024/03/Michelle-Paulene-Abeyta-300x300.jpeg"
+  },
+  {
+    "id": "ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38",
+    "name": "Pete Campos",
+    "chamber": "senate",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SCAMP",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SCAMP.jpg"
+  },
+  {
+    "id": "ocd-person/7595b557-0c70-44e3-a26b-af533d1ca94d",
+    "name": "Peter Wirth",
+    "chamber": "senate",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRT",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SWIRT.jpg"
+  },
+  {
+    "id": "ocd-person/a36bdc41-5666-4208-b8f0-8d9012d31f22",
+    "name": "Randy Pettigrew",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HPETT",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HPETT.jpg"
+  },
+  {
+    "id": "ocd-person/e8d69d4c-dfd4-4e22-939a-cc356ba7ac05",
+    "name": "Ray Lara",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLARA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HLARA.jpg"
+  },
+  {
+    "id": "ocd-person/2904a9a3-7e21-4c6f-b40a-e79288ca1b49",
+    "name": "Rebecca Dow",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://www.nmlegis.gov/Members/Former_Legislator?SponCode=HDOWR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HDOWR.jpg"
+  },
+  {
+    "id": "ocd-person/0b7d9451-0462-4064-b28e-6d44123edd1e",
+    "name": "Reena Szczepanski",
+    "chamber": "house",
+    "party": "D",
+    "district": "47",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCZE",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSZCZ.jpg"
+  },
+  {
+    "id": "ocd-person/0884aac3-cddb-4374-88e1-94bf623410f3",
+    "name": "Rex Wilson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRE",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/948ba2f7-fd71-42ed-a35a-e692b76d2ca2",
+    "name": "Rod Montoya",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMONR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMONR.jpg"
+  },
+  {
+    "id": "ocd-person/a9377979-b109-4e11-b338-89b203c04527",
+    "name": "Sarah Silva",
+    "chamber": "house",
+    "party": "D",
+    "district": "53",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSISA",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/66d0e643284c6d63d067a073/8916e12c-d13c-49fb-810a-2c7ffb58d300/SilvaSarah.JPG"
+  },
+  {
+    "id": "ocd-person/fa98430a-5031-4c64-bd6d-8a6f0cc4043e",
+    "name": "Shannon Pinto",
+    "chamber": "senate",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SPINS",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SPINS.jpg"
+  },
+  {
+    "id": "ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7",
+    "name": "Stefani Lord",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLORD",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HLORD.jpg"
+  },
+  {
+    "id": "ocd-person/82ac8832-cb59-4ea3-b6e7-a74e2115f37d",
+    "name": "Steve Lanier",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SLANI",
+    "imageUrl": "https://www.naco.org/sites/default/files/styles/349x333/public/Steve%20Lanier.webp"
+  },
+  {
+    "id": "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f",
+    "name": "Susan Herrera",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHERS",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HHERS.jpg"
+  },
+  {
+    "id": "ocd-person/f2394325-2797-4403-8f77-7f4dd3db0bb9",
+    "name": "Tanya Moya",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMIRA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMIRA.jpg"
+  },
+  {
+    "id": "ocd-person/a564eb5c-5c29-43ef-a40f-241efb70ef8d",
+    "name": "Tara Luj\\xE1n",
+    "chamber": "house",
+    "party": "D",
+    "district": "48",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HLUTA",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HLUTA.jpg"
+  },
+  {
+    "id": "ocd-person/69fcccf7-9cfb-4c8f-978a-c85fbd55922d",
+    "name": "Wonda Johnson",
+    "chamber": "house",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HJOHD",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HJOHD.jpg"
+  },
+  {
+    "id": "ocd-person/bc947ac1-c584-4e5f-84a9-ea9f6ac959c6",
+    "name": "Yanira Gurrola",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HGURR",
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HGURR.jpg"
+  }
+]

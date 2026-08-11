@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-08-11T01:22:14.049Z",
+  "session": {
+    "id": null,
+    "label": "",
+    "convenes": null,
+    "inSession": false,
+    "next": null
+  },
+  "counts": {
+    "legislators": 49,
+    "committees": 22,
+    "bills": 0,
+    "voteEvents": 0
+  },
+  "source": {
+    "name": "Nebraska Legislature",
+    "url": "https://nebraskalegislature.gov"
+  },
+  "lastUpdatedRoster": "2026-08-11T01:22:14.049Z"
+}

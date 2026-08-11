@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "ocd-organization/8eedc1b8-2081-440e-bb23-f28b3d181174",
+    "name": "Agriculture and Forestry",
+    "chamber": "house",
+    "members": [
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42",
+      "ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23",
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
+      "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+      "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
+      "ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036",
+      "ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd",
+      "ocd-person/de4c986e-ec06-437e-8d3d-b7ca591606bc",
+      "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+      "ocd-person/ff14c161-755d-44c8-a1e5-c2e3930a5317",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413",
+      "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02",
+      "ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/7120f672-fb5b-44ad-86a1-6d94e52b8d17",
+    "name": "Agriculture Conservation and Forestry",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e",
+      "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/f8a8e593-6236-406f-91fc-16ca21190257",
+    "name": "Baldwin County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+      "ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff",
+      "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/39e10ea3-d469-4fda-97c8-fb1628162bac",
+    "name": "Banking and Insurance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/e6c4edb0-48af-4db8-aa0a-57570f0aef1e",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e",
+      "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/72f4cb77-3953-4be1-b8f6-c8f9d5300c26",
+    "name": "Boards, Agencies and Commissions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/7da5c799-bd67-458a-b3b1-a0cdda8f474e",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/5071243c-3e2d-4acb-ac8d-0d3a8af3eb8a",
+      "ocd-person/eb947430-2674-4158-8290-0d973c59e834",
+      "ocd-person/95e63d6f-1815-4364-8817-0d26e360013f",
+      "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/cb13d31f-dabc-4cb3-9617-2a0b6fbac558",
+    "name": "Children and Senior Advocacy",
+    "chamber": "house",
+    "members": [
+      "ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05",
+      "ocd-person/25308613-cda5-4e1c-aef7-821ada580575",
+      "ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8",
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/5658aa05-6ffa-4774-a8a4-f49c169769d2",
+      "ocd-person/70d0256c-91eb-4338-b86d-181e1db4d8f7",
+      "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
+      "ocd-person/63c58557-7c03-41f5-934a-866daed33ec8",
+      "ocd-person/31629cc7-81e6-4422-9aa3-89e6b9073259",
+      "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/a82bcb36-d122-4701-85bf-b937c91b9e91",
+    "name": "Children and Youth Health",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/69e6d6dd-1698-4e32-aaa3-3c52c1f758c4",
+    "name": "Children First Trust Fund Legislative Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/c863c6ff-d3b0-4dc0-a3b9-6d5ef9c7ef16",
+    "name": "Commerce and Small Business",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
+      "ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4",
+      "ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a",
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749",
+      "ocd-person/cbfd2b4e-f512-4176-b2f6-1df9d2d9c99c",
+      "ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2",
+      "ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0",
+      "ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d",
+      "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649",
+      "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb",
+      "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
+      "ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/8f51fa27-124a-4349-afd3-ea302ae1f90c",
+    "name": "Community Service Grants Legislative Advisory",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/81d155b9-9293-408d-97be-895278f344f4",
+    "name": "Confirmations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/e6c4edb0-48af-4db8-aa0a-57570f0aef1e",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/933d7556-9d1b-4105-ba8d-c3edce71de8e",
+    "name": "Constitution, Campaigns and Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
+      "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
+      "ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf",
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a",
+      "ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7",
+      "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3",
+      "ocd-person/ab6d4114-8d0a-4439-934b-10197234473c",
+      "ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e",
+      "ocd-person/5071243c-3e2d-4acb-ac8d-0d3a8af3eb8a",
+      "ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0",
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/b61390e9-bf48-47cb-bc41-7c3d5751cdab",
+    "name": "Contract Review Permanent Legislative Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+      "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2"
+    ],
+    "officialUrl": "https://www.legislature.state.al.us"
+  },
+  {
+    "id": "ocd-organization/a09b0a5e-5e84-4594-9500-d458df1cec3a",
+    "name": "County and Municipal Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413",
+      "ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b",
+      "ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8",
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a",
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036",
+      "ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff",
+      "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+      "ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3",
+      "ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e",
+      "ocd-person/ff14c161-755d-44c8-a1e5-c2e3930a5317",
+      "ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e",
+      "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/91eb8e2f-572f-49ef-86a6-a90abef229f2",
+    "name": "County and Municipal Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/86431943-51dd-4227-b698-74b2d0171cdc",
+    "name": "County Government Interim",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/82c65522-f7d6-4415-ba22-a511ec5961fa",
+    "name": "Economic Development and Tourism",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05",
+      "ocd-person/721421f8-e118-4163-bae9-72f3662696e9",
+      "ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c",
+      "ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7",
+      "ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0",
+      "ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff",
+      "ocd-person/319cc74b-3113-4053-8bda-0e1903227207",
+      "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
+      "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/6b191fda-698d-4061-8396-fef9771847ee",
+      "ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/de8958dd-988e-4552-8790-93edfd1417ed",
+    "name": "Economic Incentives Permanent Legislative Advisory",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4",
+      "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/f1401643-a18b-4fa6-b4fb-26c381264321",
+    "name": "Education Policy",
+    "chamber": "house",
+    "members": [
+      "ocd-person/902f0f81-a34c-4714-a3eb-bf563abbea96",
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+      "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
+      "ocd-person/70d0256c-91eb-4338-b86d-181e1db4d8f7",
+      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
+      "ocd-person/ab6d4114-8d0a-4439-934b-10197234473c",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2",
+      "ocd-person/3a86c192-f9b1-4b58-9f5b-2119d1fe4e0d",
+      "ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea",
+      "ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a",
+      "ocd-person/25308613-cda5-4e1c-aef7-821ada580575",
+      "ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/a36e295b-7d11-46cd-9f22-722e8cd73241",
+    "name": "Education Policy",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/00727c09-8dcd-4992-82a6-75cd292f0b6b",
+    "name": "Energy Policy Permanent Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7",
+      "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/184229b0-d78d-49d0-acdf-1e6ef03ff74a",
+    "name": "Ethics and Campaign Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23",
+      "ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a",
+      "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+      "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
+      "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
+      "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+      "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
+      "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
+      "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02",
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/f85a459a-dc6e-499d-88cc-9577b2fced69",
+    "name": "Finance and Taxation Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/660c93cd-7b67-4974-91ba-af26dee46cb1",
+    "name": "Finance and Taxation General Fund",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/e5ec96c4-62c8-4893-a7b6-ae3b5384303b",
+    "name": "Finances and Budget Permanent Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+      "ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4",
+      "ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181",
+      "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
+      "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/902f0f81-a34c-4714-a3eb-bf563abbea96",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+      "ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/e8e920d0-3bcb-40ef-bfc6-463d4e594265",
+    "name": "Financial Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036",
+      "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
+      "ocd-person/70d0256c-91eb-4338-b86d-181e1db4d8f7",
+      "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+      "ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
+      "ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf",
+      "ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f",
+      "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649",
+      "ocd-person/31629cc7-81e6-4422-9aa3-89e6b9073259"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/720a9d50-3c1c-484d-9215-b6a871d99a56",
+    "name": "Fiscal Responsibility",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90",
+      "ocd-person/95e63d6f-1815-4364-8817-0d26e360013f",
+      "ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf",
+      "ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf",
+      "ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c",
+      "ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea",
+      "ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/b1b828cd-2a0c-4542-b845-de6cc15cb00f",
+    "name": "Fiscal Responsibility and Economic Development",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/e6c4edb0-48af-4db8-aa0a-57570f0aef1e",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/4688c82d-5146-4c7d-b990-873ef36d4f18",
+    "name": "Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+      "ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0",
+      "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
+      "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
+      "ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38",
+      "ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624",
+      "ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff",
+      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
+      "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb",
+      "ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4",
+      "ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/6ee6d5ae-7ad8-4ca1-834d-aef17c4a4e86",
+    "name": "Healthcare",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/70cc4d53-1c36-43b4-a93e-22a4ad403b91",
+    "name": "Historical Records Advisory Board Legislative Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/1df67fd6-4a81-4b6c-98f8-566148e6d5e4",
+    "name": "Homeland Security Oversight Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/e2d5c71b-840b-4dcf-acf8-bc64b9f73cd2",
+    "name": "Housing Finance Authority Legislative Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/ce03fbf5-a9ab-486a-b006-c21d836d318d",
+    "name": "Information Technology Permanent Legislative Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/754f6bd6-a750-4810-bdaa-cc770ac19c02",
+    "name": "Insurance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+      "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749",
+      "ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0",
+      "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
+      "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+      "ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd",
+      "ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3",
+      "ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d",
+      "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/d634a8dc-b4c6-421a-86f9-aae110ddd9de",
+    "name": "Jefferson County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
+      "ocd-person/721421f8-e118-4163-bae9-72f3662696e9",
+      "ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c",
+      "ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38",
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+      "ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf",
+      "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+      "ocd-person/63c58557-7c03-41f5-934a-866daed33ec8",
+      "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
+      "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf",
+      "ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d",
+      "ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea",
+      "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604",
+      "ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/8a64fe66-f69a-4d2a-aa68-d2ff63647eb1",
+    "name": "Jefferson County Legislation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/951648ff-dd4e-4874-acfc-bc51190e069d",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1fda4118-bfb1-4ffa-b71a-a9d131feec6b",
+      "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604",
+      "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+      "ocd-person/7da5c799-bd67-458a-b3b1-a0cdda8f474e",
+      "ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38",
+      "ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7",
+      "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+      "ocd-person/8394a967-dcf1-4901-a8d5-9ca120da382e",
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf",
+      "ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f",
+      "ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90",
+      "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+      "ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9",
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/3785c106-ea78-48f4-ab4f-412af1cd2043",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/9c35284c-1eee-4bfc-abd5-ce7e898430ff",
+    "name": "Lee County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
+      "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
+      "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
+      "ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd",
+      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/8e4e6d3f-76e0-43da-99cd-3a20c3474e44",
+    "name": "Legislative Committee to Award the Legislative Medal of Honor for Law Enforcement Officers",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce"
+    ],
+    "officialUrl": "https://www.legislature.state.al.us"
+  },
+  {
+    "id": "ocd-organization/46f7016e-875a-4ad6-a91c-94c4d35a5572",
+    "name": "Legislative Committee to Investigate Confidentiality Issues Involving Complaints Filed with the State Ethics Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/044259ac-57ee-4b8a-811e-3a6d46dfc78f",
+    "name": "Legislative Prison",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/60d295cd-54b5-4188-8763-43e9b643d863",
+    "name": "License Plates Legislative Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/4b38fa0e-6d72-40d3-8f46-228cfb25b141",
+    "name": "Limestone County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/95e63d6f-1815-4364-8817-0d26e360013f",
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a",
+      "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/ebc1a036-3eff-48cc-a5b4-fdf8b98160b1",
+    "name": "Local Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
+      "ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23",
+      "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/cbfd2b4e-f512-4176-b2f6-1df9d2d9c99c",
+      "ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d",
+      "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649",
+      "ocd-person/6b191fda-698d-4061-8396-fef9771847ee",
+      "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/ad3ddea6-673c-49a6-9040-02236b2e3a5e",
+    "name": "Local Legislation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/76bfa75b-f79a-461d-aef3-e38fad7fcde0",
+    "name": "Madison County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2",
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+      "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
+      "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
+      "ocd-person/eb947430-2674-4158-8290-0d973c59e834",
+      "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb",
+      "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/daec86fc-abcc-45e8-a2c1-7e00c8f8fe97",
+    "name": "Madison County Legislation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/e769251f-adfb-4220-bceb-fe036da78f46",
+    "name": "Military and Veterans Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd",
+      "ocd-person/ab6d4114-8d0a-4439-934b-10197234473c",
+      "ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e",
+      "ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c",
+      "ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a",
+      "ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7",
+      "ocd-person/8394a967-dcf1-4901-a8d5-9ca120da382e",
+      "ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e",
+      "ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2",
+      "ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f",
+      "ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90",
+      "ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601",
+      "ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/c5950015-c97c-4d3d-a539-78edbf368497",
+    "name": "Mobile County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b",
+      "ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0",
+      "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/9c321da1-864e-4fe7-8caf-fc9e2df1dc3e",
+    "name": "Mobile County Legislation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/30e84b0f-f6a2-447f-93c1-e3d22ca2b29f",
+    "name": "Montgomery County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a",
+      "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
+      "ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e",
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f",
+      "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649",
+      "ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/d4dab91f-880c-4ca6-aef1-27c060e8aa26",
+    "name": "Nuclear Energy Activities and Hazardous Chemical Toxic Waste Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/a442e201-63ad-4db1-b324-55f2b52b96a7",
+    "name": "Oil and Gas Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/5a0ad927-7550-4010-bf48-b74ae24bcc96",
+    "name": "Ports, Waterways and Intermodal Transit Members",
+    "chamber": "house",
+    "members": [
+      "ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0",
+      "ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624",
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
+      "ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd",
+      "ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e",
+      "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa",
+      "ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4",
+      "ocd-person/721421f8-e118-4163-bae9-72f3662696e9",
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b",
+      "ocd-person/902f0f81-a34c-4714-a3eb-bf563abbea96"
+    ],
+    "officialUrl": "https://www.legislature.state.al.us"
+  },
+  {
+    "id": "ocd-organization/8033186a-7f6a-4efb-af53-7992fc5c919b",
+    "name": "Public Accounts Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/a38436cc-9de7-4b11-94b6-b0bcb53ee7c2",
+    "name": "Public Safety and Homeland Security",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c",
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b",
+      "ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23",
+      "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+      "ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05",
+      "ocd-person/319cc74b-3113-4053-8bda-0e1903227207",
+      "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
+      "ocd-person/8394a967-dcf1-4901-a8d5-9ca120da382e",
+      "ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90",
+      "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02",
+      "ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9",
+      "ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a",
+      "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604",
+      "ocd-person/25308613-cda5-4e1c-aef7-821ada580575"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/fb59f12e-630d-4729-ba3e-54db7b88c9a0",
+    "name": "Reapportionment Permanent Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/465e2db9-fea4-4f4a-9420-1d2f88f0e921",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+      "ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8",
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+      "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+      "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
+      "ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601",
+      "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
+      "ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c",
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/43f4c321-79e5-41db-b14b-206a73f599f9",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+      "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/727d0644-27fa-48ba-b853-7fcbcd0415d2",
+    "name": "Shelby County Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
+      "ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9",
+      "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+      "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
+      "ocd-person/ab6d4114-8d0a-4439-934b-10197234473c",
+      "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+      "ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/6d8c1e13-d2d1-4530-8455-bbf579e72ca9",
+    "name": "Shelby County Legislation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/a7181a15-d00d-450a-8bcc-fdd7f5e15bf1",
+    "name": "State Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
+      "ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9",
+      "ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8",
+      "ocd-person/5658aa05-6ffa-4774-a8a4-f49c169769d2",
+      "ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/5071243c-3e2d-4acb-ac8d-0d3a8af3eb8a",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/eb947430-2674-4158-8290-0d973c59e834",
+      "ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa",
+      "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
+      "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+      "ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601",
+      "ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/ebbe5c15-758a-4000-88bd-ed9bdaba64b8",
+    "name": "State Governmental Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/b7c0e86a-cf93-4640-a33f-98626f4bf408",
+    "name": "State Parks Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff",
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90",
+      "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/2741e4a1-9d9e-4592-9515-387f825bde29",
+    "name": "Sunset",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4"
+    ],
+    "officialUrl": "https://www.legislature.state.al.us"
+  },
+  {
+    "id": "ocd-organization/1ac6bdfa-a0f7-46b6-9795-ddbd3c83ea9b",
+    "name": "Tourism",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/e6c4edb0-48af-4db8-aa0a-57570f0aef1e",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/67cde455-df2b-4b43-a6b0-e2026e693ce8",
+    "name": "Transportation",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+      "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+      "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05",
+      "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+      "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
+      "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/95e63d6f-1815-4364-8817-0d26e360013f",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/721421f8-e118-4163-bae9-72f3662696e9",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b"
+    ],
+    "officialUrl": "https://www.legislature.state.al.us"
+  },
+  {
+    "id": "ocd-organization/f07a0a81-c1b9-447b-a27a-4b15dae92c9d",
+    "name": "Transportation and Energy",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+      "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+      "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+      "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+      "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+      "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+      "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+      "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e",
+      "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/ac38217c-eed4-4525-ac10-37895dcb0e73",
+    "name": "Transportation, Utilities and Infrastructure",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6b191fda-698d-4061-8396-fef9771847ee",
+      "ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085",
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+      "ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624",
+      "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+      "ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/95e63d6f-1815-4364-8817-0d26e360013f",
+      "ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4",
+      "ocd-person/721421f8-e118-4163-bae9-72f3662696e9"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/50645f1d-4bf1-45e0-b2a0-a9772470f9ad",
+    "name": "Tuscaloosa County",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38",
+      "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
+      "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02"
+    ],
+    "officialUrl": "https://www.legislature.state.al.us"
+  },
+  {
+    "id": "ocd-organization/e349e273-aec6-4152-9e2f-cf04be1cec6b",
+    "name": "Urban and Rural Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036",
+      "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
+      "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/de4c986e-ec06-437e-8d3d-b7ca591606bc",
+      "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+      "ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e",
+      "ocd-person/63c58557-7c03-41f5-934a-866daed33ec8",
+      "ocd-person/ff14c161-755d-44c8-a1e5-c2e3930a5317",
+      "ocd-person/31629cc7-81e6-4422-9aa3-89e6b9073259",
+      "ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/2be853bb-d508-4718-a664-bcd9e77e763f",
+    "name": "Veterans, Military Affairs, and Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+      "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+      "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+      "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+      "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+      "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+      "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-senate-standing-current-year"
+  },
+  {
+    "id": "ocd-organization/4a030630-4b45-43b3-8389-4d192d6bce9d",
+    "name": "Water Policy and Management Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+      "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+      "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+      "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+      "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
+      "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d"
+    ],
+    "officialUrl": "https://gql.api.alison.legislature.state.al.us/graphql"
+  },
+  {
+    "id": "ocd-organization/01e92aeb-fa2e-468e-a44f-63ee22668cb5",
+    "name": "Ways and Means Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+      "ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd",
+      "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+      "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+      "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+      "ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749",
+      "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+      "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+      "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+      "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+      "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+      "ocd-person/3a86c192-f9b1-4b58-9f5b-2119d1fe4e0d",
+      "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+      "ocd-person/902f0f81-a34c-4714-a3eb-bf563abbea96",
+      "ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  },
+  {
+    "id": "ocd-organization/516a7458-88ab-4acc-9f6b-592c51956c3e",
+    "name": "Ways and Means General Fund",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2",
+      "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
+      "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
+      "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+      "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+      "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
+      "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+      "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+      "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+      "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
+      "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+      "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+      "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+      "ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181",
+      "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26"
+    ],
+    "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
+  }
+]

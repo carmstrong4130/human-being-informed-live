@@ -1,0 +1,560 @@
+[
+  {
+    "id": "ocd-person/e9301c44-8042-4031-8ed0-4731c64a5a66",
+    "name": "Alonna Berry",
+    "chamber": "house",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://housedems.delaware.gov/members/house-district-20/",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2025/08/Untitled-design-1-710x710.png"
+  },
+  {
+    "id": "ocd-person/fccfb524-6aee-40a9-8469-081e961dd072",
+    "name": "Bill Bush",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Bush",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Bush.jpg"
+  },
+  {
+    "id": "ocd-person/35bf376a-ffc2-4468-b6ab-0ef72cc8d05b",
+    "name": "Bill Carson",
+    "chamber": "house",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Carson",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Carson.jpg"
+  },
+  {
+    "id": "ocd-person/8b5f6201-6c2f-4847-8d69-737ae776c44b",
+    "name": "Brian Pettyjohn",
+    "chamber": "senate",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Pettyjohn",
+    "imageUrl": "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Pettyjohn_Brian_Member_Card-min-1.png"
+  },
+  {
+    "id": "ocd-person/11732933-9dce-46b4-8683-67e8449b315b",
+    "name": "Bryan Shupe",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Shupe",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Shupe_Bryan_Member_Card.jpg"
+  },
+  {
+    "id": "ocd-person/f35b571a-d734-4086-b358-ff21382d802f",
+    "name": "Bryan Townsend",
+    "chamber": "senate",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Townsend",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2022/09/Townsend-1-1-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/5a29dfb1-14b5-4535-b8ee-da8f432d0727",
+    "name": "Bryant Richardson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/Richardson",
+    "imageUrl": "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Richardson.Headshot.2023.Downsized-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/4f6f337c-16e7-4d39-a503-6b4b36650d2d",
+    "name": "Charles Postles",
+    "chamber": "house",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Postles",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Charlie_Postles_Member_Card_710x710.png"
+  },
+  {
+    "id": "ocd-person/933a1f48-bea2-43f7-9ccb-a793ac4ac71d",
+    "name": "Claire Snyder-Hall",
+    "chamber": "house",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/153/SnyderHall",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/image-3-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/d187436c-b3d3-4512-9172-b7a868942fe4",
+    "name": "Cyndie Romer",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Romer",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Romer.jpg"
+  },
+  {
+    "id": "ocd-person/2341b6b1-2501-4aae-908a-b83346da21eb",
+    "name": "Dan Cruce",
+    "chamber": "senate",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://senatedems.delaware.gov/members/senate-district-1/",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2022/09/Cruce-Headshot-2025-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/947a912f-49e7-4697-896e-fbcd1bcf41d3",
+    "name": "Danny Short",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/DShort",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Daniel_Short_Member_Card.jpg"
+  },
+  {
+    "id": "ocd-person/8c5ff346-9896-489e-be96-db9d46d846da",
+    "name": "Darius Brown",
+    "chamber": "senate",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Brown",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Brown.png"
+  },
+  {
+    "id": "ocd-person/44e38555-6698-43cb-aa8b-f47de87ba4e3",
+    "name": "Dave Lawson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Lawson",
+    "imageUrl": "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Lawson_Dave_Member_Card-min-1.png"
+  },
+  {
+    "id": "ocd-person/25071aeb-2a5c-4e8b-b166-4a313b3ac22d",
+    "name": "Dave Sokola",
+    "chamber": "senate",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Sokola",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Sokola.png"
+  },
+  {
+    "id": "ocd-person/0b53dd28-648e-4fe1-a05a-36a21ec12e63",
+    "name": "Dave Wilson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Wilson",
+    "imageUrl": "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Wilson_David_Member_Card-min-1.png"
+  },
+  {
+    "id": "ocd-person/7e631da1-ef0f-4c6f-ba17-e5ae2860dad6",
+    "name": "Debra Heffernan",
+    "chamber": "house",
+    "party": "D",
+    "district": "6",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Heffernan",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Heffernan.jpg"
+  },
+  {
+    "id": "ocd-person/5c5f5bf8-d155-4911-8e06-eb6cc664859e",
+    "name": "DeShanna Neal",
+    "chamber": "house",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Neal",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Neal.jpg"
+  },
+  {
+    "id": "ocd-person/07cb3c97-de4e-4210-8c83-b7276c001024",
+    "name": "Ed Osienski",
+    "chamber": "house",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Osienski",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Osienski.jpg"
+  },
+  {
+    "id": "ocd-person/fb743246-9c86-45f5-95eb-34bc1e11bef1",
+    "name": "Eric Buckson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Buckson",
+    "imageUrl": "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/11/Buckson.Headshot.2023.Downsized-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/bfab3b33-30ff-45fc-a45f-ae796d43de68",
+    "name": "Eric Morrison",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/Morrison",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Morrison-NEW-1.jpg"
+  },
+  {
+    "id": "ocd-person/f94d59b8-6120-43d2-9788-b30fe945d8d2",
+    "name": "Frank Burns",
+    "chamber": "house",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/153/Burns",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/Untitled-design-5-710x710.png"
+  },
+  {
+    "id": "ocd-person/0cac3293-534b-4188-93e3-37ef6cd333ae",
+    "name": "Frank Cooke",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Cooke",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Cooke.jpg"
+  },
+  {
+    "id": "ocd-person/7d5fb783-232d-4cc2-b7c7-fdbf4d06eb69",
+    "name": "Gerald Hocker",
+    "chamber": "senate",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Hocker",
+    "imageUrl": "https://senategop.delaware.gov/wp-content/blogs.dir/216/files/sites/216/2022/10/Hocker_Gerald_Member_Card-min.png"
+  },
+  {
+    "id": "ocd-person/7188a518-8d78-42e8-b618-ee38a10d20a4",
+    "name": "Jack Walsh",
+    "chamber": "senate",
+    "party": "D",
+    "district": "9",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Walsh",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Walsh.png"
+  },
+  {
+    "id": "ocd-person/aa0846e8-7d8d-46ed-b4c9-54c9c2243d16",
+    "name": "Jeff Hilovsky",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Hilovsky",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/12/JeffHilovsky2023-square-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/ef94fe15-3a43-405c-8ec6-d446784dfb32",
+    "name": "Jeff Spiegelman",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Spiegelman",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/spiegelman-headshot-compressed-jan-231.jpeg"
+  },
+  {
+    "id": "ocd-person/4932afab-9381-40d2-837f-f735d1c14b88",
+    "name": "Jesse Vanderwende",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Vanderwende",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Vanderwende_Jesse_Member_Card.jpg"
+  },
+  {
+    "id": "ocd-person/d020ca16-1926-4279-adc8-c0a6cddeac6e",
+    "name": "Josue Ortega",
+    "chamber": "house",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://housedems.delaware.gov/members/house-district-3/",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/474480597_4306272319612855_6829813080207680412_n-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/5b43a977-2fe9-49e8-b3de-6873eab0692c",
+    "name": "Kam Smith",
+    "chamber": "house",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://housedems.delaware.gov/members/house-district-15/",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/image-4-710x710.jpg"
+  },
+  {
+    "id": "ocd-person/b24cb06f-0cb1-4682-8038-d31b8ebc76fb",
+    "name": "Kendra Johnson",
+    "chamber": "house",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/KJohnson",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/K-Johnson.jpg"
+  },
+  {
+    "id": "ocd-person/7ae371b6-0fd5-457a-af26-032432dd381b",
+    "name": "Kerri Harris",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Harris",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Harris.jpg"
+  },
+  {
+    "id": "ocd-person/d1020a85-27a1-4458-9ae2-90b09367be2c",
+    "name": "Kevin Hensley",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Hensley",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/hensley-headshot-cropped-jan-231.jpeg"
+  },
+  {
+    "id": "ocd-person/80dfa709-d199-4950-a067-2dafc40241b9",
+    "name": "Kim Williams",
+    "chamber": "house",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/KWilliams",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Williams.jpg"
+  },
+  {
+    "id": "ocd-person/0dc99b9c-115c-4da0-81b1-22aa5b6750e0",
+    "name": "Krista Griffith",
+    "chamber": "house",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Griffith",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2022/09/Griffith-headshot.jpg"
+  },
+  {
+    "id": "ocd-person/b5a52e58-da64-49a2-85b2-84f55427fa83",
+    "name": "Kyra Hoffner",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Hoffner",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2022/09/54321266879_820e6ac631_c-640x710.jpg"
+  },
+  {
+    "id": "ocd-person/1e6f6e97-5c95-4351-afe2-d8843f7897bc",
+    "name": "Larry Lambert",
+    "chamber": "house",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/Lambert",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Lambert.jpg"
+  },
+  {
+    "id": "ocd-person/e0bd9610-eafd-4e25-931a-6674762e4c03",
+    "name": "Laura Sturgeon",
+    "chamber": "senate",
+    "party": "D",
+    "district": "4",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Sturgeon",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Sturgeon.png"
+  },
+  {
+    "id": "ocd-person/85f716aa-751a-4258-a68b-f6ed94b2daa0",
+    "name": "Lyndon Yearick",
+    "chamber": "house",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Yearick",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Lyndon_D_Yearick_710x710-710x710.png"
+  },
+  {
+    "id": "ocd-person/6c816294-3378-48c1-b2fd-bb5cd57a9deb",
+    "name": "Madinah Wilson-Anton",
+    "chamber": "house",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/WilsonAnton",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Wilson-Anton.jpg"
+  },
+  {
+    "id": "ocd-person/1f51da39-f7e2-4489-9307-f2121e9e8adf",
+    "name": "Mara Gorman",
+    "chamber": "house",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/153/Gorman",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MaraGorman2024.jpeg"
+  },
+  {
+    "id": "ocd-person/eee736fd-ee29-403a-9bbc-713961c734b7",
+    "name": "Marie Pinkney",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/Pinkney",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Pinkney.png"
+  },
+  {
+    "id": "ocd-person/ec594c77-7bbe-45c5-9ffd-0f6a3aad1e36",
+    "name": "Melanie Ross Levin",
+    "chamber": "house",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://housedems.delaware.gov/members/house-district-10/",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2024/11/Untitled-design-2-1-710x710.png"
+  },
+  {
+    "id": "ocd-person/2ceeb021-8aee-405f-afd6-f53f0c3d0bb7",
+    "name": "Melissa Minor-Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/MinorBrown",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Minor-Brown.jpg"
+  },
+  {
+    "id": "ocd-person/c9f1393e-01c8-4597-a6e5-6d43330264dc",
+    "name": "Mike Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/MichaelSmith",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/RepSmith-headshot-jan-25-resized.jpg"
+  },
+  {
+    "id": "ocd-person/5e54d79a-5ba8-4966-93aa-2e05788a3ddc",
+    "name": "Nicole Poore",
+    "chamber": "senate",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Poore",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Poore.png"
+  },
+  {
+    "id": "ocd-person/fdf8cd7b-933f-469b-b1b7-119b39ba5e86",
+    "name": "Nnamdi Chukwuocha",
+    "chamber": "house",
+    "party": "D",
+    "district": "1",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Chukwuocha",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Chukwuocha.jpg"
+  },
+  {
+    "id": "ocd-person/6a8995a4-deab-416f-89ce-987c8c6557aa",
+    "name": "Rae Moore",
+    "chamber": "house",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/SMoore",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2022/09/Moore_Sheraea_Member_Card-min-710x710.png"
+  },
+  {
+    "id": "ocd-person/e841e17b-6ea1-4401-b3d3-9b99237b6366",
+    "name": "Ray Seigfried",
+    "chamber": "senate",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://senatedems.delaware.gov/members/senate-district-5/",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2022/09/8344182d-3f96-487f-aee1-554e065f16c4-533x710.jpg"
+  },
+  {
+    "id": "ocd-person/26490cf5-c29c-485e-bdc5-1e340a4c10f6",
+    "name": "Rich Collins",
+    "chamber": "house",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Collins",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Rich_Collins_Member_Card_710x710.png"
+  },
+  {
+    "id": "ocd-person/5cd844e2-9346-40d9-a804-7531aa49ccd4",
+    "name": "Ron Gray",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Gray",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2022/08/Ron_Gray_Member_Card.jpg"
+  },
+  {
+    "id": "ocd-person/d96a4018-ca3f-40a6-a12c-cc38d757e9f0",
+    "name": "Russ Huxtable",
+    "chamber": "senate",
+    "party": "D",
+    "district": "6",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Huxtable",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Huxtable.png"
+  },
+  {
+    "id": "ocd-person/6fd6e720-822c-45ee-8fac-933b4eb9ccb5",
+    "name": "Sean Lynn",
+    "chamber": "house",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Lynn",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2022/09/Lynn_Sean_Member_Card-min-710x710.png"
+  },
+  {
+    "id": "ocd-person/1952d6d2-3cd8-4a2c-b663-f16052b948c3",
+    "name": "Shannon Morris",
+    "chamber": "house",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Morris",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2023/02/morris-headshot-compressed-jan-23.jpeg"
+  },
+  {
+    "id": "ocd-person/0a452e37-d7e7-403d-97ff-740c1d257eda",
+    "name": "Sophie Phillips",
+    "chamber": "house",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/Phillips",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Phillips.jpg"
+  },
+  {
+    "id": "ocd-person/a42132e6-9070-44a4-81be-70797c4ea2bb",
+    "name": "Spiros Mantzavinos",
+    "chamber": "senate",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/151/Mantzavinos",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Mantzavinos.png"
+  },
+  {
+    "id": "ocd-person/3ad8467d-5ec5-4626-aab5-11e42b62ad60",
+    "name": "Stephanie Bolden",
+    "chamber": "house",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Bolden",
+    "imageUrl": "https://housedems.delaware.gov/wp-content/blogs.dir/210/files/sites/210/2023/02/Bolden.jpg"
+  },
+  {
+    "id": "ocd-person/24e001be-be7a-4110-8488-2e385315ff5b",
+    "name": "Stephanie Hansen",
+    "chamber": "senate",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Hansen",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Hansen.png"
+  },
+  {
+    "id": "ocd-person/101c752d-fbe4-471c-ae50-f2b1409a328f",
+    "name": "Tim Dukes",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Dukes",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2023/01/dukes-headshot-compressed2-jan-23.png"
+  },
+  {
+    "id": "ocd-person/ca88dc3b-bbc6-4eb8-af32-9821268ebda5",
+    "name": "Tizzy Lockman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Lockman",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Lockman.png"
+  },
+  {
+    "id": "ocd-person/89be0266-5ecf-40ac-9f5c-3dba2ce79a0d",
+    "name": "Trey Paradee",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/150/Paradee",
+    "imageUrl": "https://senatedems.delaware.gov/wp-content/blogs.dir/219/files/sites/219/2023/03/Senator-Paradee.png"
+  },
+  {
+    "id": "ocd-person/312de86b-37d6-4ffe-a47c-63163e4177c0",
+    "name": "Valerie Giltner",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://legis.delaware.gov/AssemblyMember/152/JonesGiltner",
+    "imageUrl": "https://housegop.delaware.gov/wp-content/blogs.dir/207/files/sites/207/2024/01/RepJonesGiltner-headshot-jan-25-resized.jpg"
+  }
+]

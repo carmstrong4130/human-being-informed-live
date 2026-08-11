@@ -1,0 +1,1117 @@
+[
+  {
+    "id": "ocd-organization/ccb3f896-65e2-4cdb-bedc-b4346c1154c2",
+    "name": "Administrative Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1120aff3-9773-4cc8-9c47-18026559363a",
+      "ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a",
+      "ocd-person/a91af3e5-8f27-4aa3-9c5d-6166eeb7ec8a",
+      "ocd-person/82e04ad9-64c8-4439-9853-cbc3e273d637",
+      "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
+      "ocd-person/0cffa048-1b45-4609-a1b6-9e741ca1948c",
+      "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
+      "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
+      "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7",
+      "ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9",
+      "ocd-person/a688f8ac-d265-4830-963f-617b726524ed",
+      "ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820",
+      "ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb",
+      "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=417&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/d2c26213-42d5-498f-8d38-c7c6a7864600",
+    "name": "Administrative Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe",
+      "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
+      "ocd-person/74fd77d2-ffa9-42cd-9849-0b64464bcc6f",
+      "ocd-person/56666b37-2788-433a-9c32-19af826613e4",
+      "ocd-person/a0948c13-b3a0-4040-b0db-9f8f8c67eeac",
+      "ocd-person/8a183515-ff32-4660-8e9c-1317f274a603",
+      "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
+      "ocd-person/365647a0-0840-4a40-aac8-697ab21dbcd5",
+      "ocd-person/97650810-9219-451e-97d1-e3d3318c5d53"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/administrative-rules"
+  },
+  {
+    "id": "ocd-organization/6b8a8817-b6c5-4ff8-a2c9-eb5b0113631b",
+    "name": "Aeronautics and Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
+      "ocd-person/f2bc8c9d-050a-4531-84eb-1f233ad7042a",
+      "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
+      "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
+      "ocd-person/19a4841c-4571-4803-8f5d-262f664fb31a",
+      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
+      "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
+      "ocd-person/edf90069-7569-4cd7-9a8e-e3890e395ac7",
+      "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
+      "ocd-person/595024d3-b5fd-45e4-a980-4774f531d051",
+      "ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe",
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/transportation"
+  },
+  {
+    "id": "ocd-organization/f55cf9f6-21ed-4a8e-b11f-b101f21305a7",
+    "name": "Agriculture",
+    "chamber": "house",
+    "members": [
+      "ocd-person/91b38015-8cd5-410e-b850-34961760b8d7",
+      "ocd-person/bae91554-72c9-4dbd-b042-b4bd800e4732",
+      "ocd-person/382dfd67-bd2a-4271-bb79-62fe045102ea",
+      "ocd-person/b2857b06-9290-4141-9bc4-2a105bc51ce8",
+      "ocd-person/14d6a46d-124c-4274-ae72-bfe5541a4a0a",
+      "ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b",
+      "ocd-person/25f65ce4-eb63-4beb-92d0-0d07db7f851a",
+      "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=499&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/e710abf6-f591-47b0-a052-fd74cc61f513",
+    "name": "Agriculture and Wildlife",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
+      "ocd-person/c0db5455-8d12-4525-ab57-afa8ed7e1d7f",
+      "ocd-person/a3c36ebe-151f-4632-ab04-31963f55f9d8",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/74fd77d2-ffa9-42cd-9849-0b64464bcc6f",
+      "ocd-person/f7e51701-fb8a-4d48-8f61-951096c0c76d",
+      "ocd-person/a0948c13-b3a0-4040-b0db-9f8f8c67eeac",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/077e2743-495e-4198-a096-5675796d78a4",
+      "ocd-person/365647a0-0840-4a40-aac8-697ab21dbcd5",
+      "ocd-person/812abf8c-ed2d-4b91-8d69-0917a39adeed",
+      "ocd-person/4d4f5043-830c-498d-806c-5b1e9eb183df",
+      "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/agriculture-and-wildlife"
+  },
+  {
+    "id": "ocd-organization/93e670d7-22ac-4034-867e-71eca123751d",
+    "name": "Alcohol, Tobacco and Controlled Substances",
+    "chamber": "house",
+    "members": [
+      "ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a",
+      "ocd-person/246cfe54-edbd-4844-9bdc-0213c4b501e9",
+      "ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b",
+      "ocd-person/2c065b7f-f5eb-4c15-bd69-10a7fa339b28",
+      "ocd-person/3eb936f1-5bc8-40bb-832e-c617d461115c",
+      "ocd-person/818eac04-d5b7-49be-b740-84a8432cf5b3",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
+      "ocd-person/fc634688-e6d0-4b9b-919c-0c1f001d51a7"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=475&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/8ea9eb08-781e-47f1-9a30-9bf80ec904e1",
+    "name": "Appropriations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90",
+      "ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4",
+      "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
+      "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
+      "ocd-person/74fd77d2-ffa9-42cd-9849-0b64464bcc6f",
+      "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
+      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
+      "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/8a183515-ff32-4660-8e9c-1317f274a603",
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19",
+      "ocd-person/c0db5455-8d12-4525-ab57-afa8ed7e1d7f",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3",
+      "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/appropriations"
+  },
+  {
+    "id": "ocd-organization/4ef127a7-22f1-48a0-b792-66edf412fa62",
+    "name": "Appropriations and Budget",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/987fd457-5b14-4300-95f1-e92f7cd5f748",
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862",
+      "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
+      "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
+      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
+      "ocd-person/1120aff3-9773-4cc8-9c47-18026559363a",
+      "ocd-person/612db560-defe-471a-a45f-cf259a4ffeaa",
+      "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/47e6f0cc-bf0d-4375-b0f7-3e0c88779ca5",
+      "ocd-person/428ba1b3-23b7-433a-8f18-ca53f6eed9aa",
+      "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7",
+      "ocd-person/97351530-ef54-4859-acdd-effcb11eaf1f",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
+      "ocd-person/016593c8-d702-434a-ba7c-aee48b14b6b3",
+      "ocd-person/a865c489-d177-4058-af64-51c2f0abef68",
+      "ocd-person/a6aa7540-02db-458d-9031-e6af94d63b44",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b",
+      "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/joint-committee-appropriations-and-budget"
+  },
+  {
+    "id": "ocd-organization/c25065dc-dd7e-4e3a-a471-24855e30befb",
+    "name": "Appropriations and Budget",
+    "chamber": "house",
+    "members": [
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/987fd457-5b14-4300-95f1-e92f7cd5f748",
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862",
+      "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
+      "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
+      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
+      "ocd-person/1120aff3-9773-4cc8-9c47-18026559363a",
+      "ocd-person/612db560-defe-471a-a45f-cf259a4ffeaa",
+      "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
+      "ocd-person/7bfc4244-9498-4a20-bdf7-44383688b608",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/47e6f0cc-bf0d-4375-b0f7-3e0c88779ca5",
+      "ocd-person/428ba1b3-23b7-433a-8f18-ca53f6eed9aa",
+      "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7",
+      "ocd-person/97351530-ef54-4859-acdd-effcb11eaf1f",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
+      "ocd-person/016593c8-d702-434a-ba7c-aee48b14b6b3",
+      "ocd-person/a865c489-d177-4058-af64-51c2f0abef68",
+      "ocd-person/a6aa7540-02db-458d-9031-e6af94d63b44",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b",
+      "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b",
+      "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/02199811-b2fb-44e2-ac28-78a5b892a7a0",
+    "name": "Banking, Financial Services and Pensions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a1d5d401-d767-4088-b9b6-e03af9d5ed49",
+      "ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
+      "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
+      "ocd-person/3eb936f1-5bc8-40bb-832e-c617d461115c",
+      "ocd-person/a6aa7540-02db-458d-9031-e6af94d63b44",
+      "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
+      "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=420&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/a96406e7-0ee4-4e19-a8b6-197cfff79923",
+    "name": "Business",
+    "chamber": "house",
+    "members": [
+      "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
+      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae",
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/14d6a46d-124c-4274-ae72-bfe5541a4a0a",
+      "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
+      "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=421&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/8705e3b1-807a-48c8-9879-d3b5268d86f5",
+    "name": "Business and Insurance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/edf90069-7569-4cd7-9a8e-e3890e395ac7",
+      "ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4",
+      "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
+      "ocd-person/19a4841c-4571-4803-8f5d-262f664fb31a",
+      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
+      "ocd-person/6bf75215-5df0-4dfc-adfb-98c60a6871bd",
+      "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
+      "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
+      "ocd-person/812abf8c-ed2d-4b91-8d69-0917a39adeed"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/business-and-commerce"
+  },
+  {
+    "id": "ocd-organization/ffda4589-2567-4cd4-99cc-9d6236ab8cbd",
+    "name": "Children, Youth and Family Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
+      "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
+      "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
+      "ocd-person/b0168a8a-bf16-4ddb-85ef-a7503cdb4d66",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=422&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/a7874ea4-655f-4df4-ac64-23405b4f4d07",
+    "name": "Civil Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0cffa048-1b45-4609-a1b6-9e741ca1948c",
+      "ocd-person/246cfe54-edbd-4844-9bdc-0213c4b501e9",
+      "ocd-person/5b2d71b9-21c7-4291-ac09-e2840fee2919",
+      "ocd-person/f4d5b128-a016-4eda-b6c6-e298fe29bc29",
+      "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/016593c8-d702-434a-ba7c-aee48b14b6b3",
+      "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b",
+      "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=433&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/cc7077a0-3b84-4b41-8421-15400002e410",
+    "name": "Commerce and Economic Development Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
+      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae",
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/14d6a46d-124c-4274-ae72-bfe5541a4a0a",
+      "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
+      "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/ced"
+  },
+  {
+    "id": "ocd-organization/61841e18-bcdf-4bfc-82f8-d844b48b9f5d",
+    "name": "Common Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/dc094bcd-66c1-47f4-b9b0-94272636a7fe",
+      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862",
+      "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
+      "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
+      "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
+      "ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b",
+      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
+      "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f",
+      "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
+      "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=423&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/66aa7d79-1dc3-4106-a28b-8b5fa74489c0",
+    "name": "County and Municipal Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d93c695c-f9d6-4f97-b92e-73249f89545a",
+      "ocd-person/8746752e-619b-454d-9ef6-7f4434acdd71",
+      "ocd-person/8dac97e3-d74f-4f58-bb7d-83412600975f",
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
+      "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=424&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/8a2850f1-9741-4af4-8695-dddd1e78de92",
+    "name": "Criminal Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb",
+      "ocd-person/57fd0b98-5608-470a-a70b-971165572afb",
+      "ocd-person/8dac97e3-d74f-4f58-bb7d-83412600975f",
+      "ocd-person/b2857b06-9290-4141-9bc4-2a105bc51ce8",
+      "ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062",
+      "ocd-person/a865c489-d177-4058-af64-51c2f0abef68"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=474&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/1dda842e-6f40-447f-8ac1-e33f9ff691f0",
+    "name": "Economic Development, Workforce and Tourism",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/f2bc8c9d-050a-4531-84eb-1f233ad7042a",
+      "ocd-person/19a4841c-4571-4803-8f5d-262f664fb31a",
+      "ocd-person/b8b4337f-5741-4fad-bcf3-38c526cf6c5a",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19",
+      "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/economic-development-workforce-and-tourism"
+  },
+  {
+    "id": "ocd-organization/66b6bbea-2b3f-4bad-a6e1-3229574c27d4",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
+      "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
+      "ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/56666b37-2788-433a-9c32-19af826613e4",
+      "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
+      "ocd-person/595024d3-b5fd-45e4-a980-4774f531d051",
+      "ocd-person/8a183515-ff32-4660-8e9c-1317f274a603",
+      "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
+      "ocd-person/c0db5455-8d12-4525-ab57-afa8ed7e1d7f"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/education"
+  },
+  {
+    "id": "ocd-organization/1200d34e-251d-4a12-8379-d10f0ecbd8b0",
+    "name": "Education Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/dc094bcd-66c1-47f4-b9b0-94272636a7fe",
+      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862",
+      "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
+      "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
+      "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
+      "ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b",
+      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
+      "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f",
+      "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
+      "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/edu"
+  },
+  {
+    "id": "ocd-organization/4e534de2-e5e3-4103-8314-3545e32e8c89",
+    "name": "Elections and Ethics",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062",
+      "ocd-person/e825fe1a-a46d-4a07-b9e4-c9e82e357c90",
+      "ocd-person/82e04ad9-64c8-4439-9853-cbc3e273d637",
+      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
+      "ocd-person/2c065b7f-f5eb-4c15-bd69-10a7fa339b28",
+      "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/ethics"
+  },
+  {
+    "id": "ocd-organization/4dac93b5-60db-4d60-b73e-6fbcd91c386a",
+    "name": "Energy",
+    "chamber": "house",
+    "members": [
+      "ocd-person/479b4def-b284-426b-8290-86bdce854bce",
+      "ocd-person/428ba1b3-23b7-433a-8f18-ca53f6eed9aa",
+      "ocd-person/dc094bcd-66c1-47f4-b9b0-94272636a7fe",
+      "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
+      "ocd-person/752b02fd-2ce1-46d3-88a3-337d64df6b1a",
+      "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
+      "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
+      "ocd-person/a1d5d401-d767-4088-b9b6-e03af9d5ed49",
+      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
+      "ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=426&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/1e6a735c-ecf7-4b64-938d-78896523267b",
+    "name": "Energy",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6",
+      "ocd-person/f2bc8c9d-050a-4531-84eb-1f233ad7042a",
+      "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
+      "ocd-person/3219df30-79cf-43c5-814d-b1f4b02d53bb",
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/97650810-9219-451e-97d1-e3d3318c5d53",
+      "ocd-person/4d4f5043-830c-498d-806c-5b1e9eb183df"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/energy"
+  },
+  {
+    "id": "ocd-organization/457846bd-9e55-4e88-8216-ffbe503ab592",
+    "name": "Energy and Natural Resources Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
+      "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
+      "ocd-person/612db560-defe-471a-a45f-cf259a4ffeaa",
+      "ocd-person/3af08d09-7d36-4f0b-b257-a0206a8c2778",
+      "ocd-person/428ba1b3-23b7-433a-8f18-ca53f6eed9aa",
+      "ocd-person/91b38015-8cd5-410e-b850-34961760b8d7",
+      "ocd-person/a688f8ac-d265-4830-963f-617b726524ed",
+      "ocd-person/2c065b7f-f5eb-4c15-bd69-10a7fa339b28",
+      "ocd-person/527c315f-7d62-4de1-a543-6c81a0ac11a3",
+      "ocd-person/479b4def-b284-426b-8290-86bdce854bce",
+      "ocd-person/bae91554-72c9-4dbd-b042-b4bd800e4732",
+      "ocd-person/818eac04-d5b7-49be-b740-84a8432cf5b3",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/enr"
+  },
+  {
+    "id": "ocd-organization/aa058d78-c09e-4ef0-8334-dec2241267c2",
+    "name": "General Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/752b02fd-2ce1-46d3-88a3-337d64df6b1a",
+      "ocd-person/b0168a8a-bf16-4ddb-85ef-a7503cdb4d66",
+      "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
+      "ocd-person/a7eb5f03-0a2a-4235-b2f8-b4983e1a8cf2",
+      "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
+      "ocd-person/47e6f0cc-bf0d-4375-b0f7-3e0c88779ca5",
+      "ocd-person/d93d9d8d-1299-423a-bb9e-ade2bcb0fa11",
+      "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=117"
+  },
+  {
+    "id": "ocd-organization/937bc0c1-4082-4c19-9683-2aba8ed91be2",
+    "name": "Government Modernization and Technology",
+    "chamber": "house",
+    "members": [
+      "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
+      "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
+      "ocd-person/4d0b52d3-ad1f-45c9-b46e-3676194ef82c",
+      "ocd-person/84087e63-a192-4be6-9367-64b2c93a2dcc",
+      "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
+      "ocd-person/df9c291c-e14f-487a-8ff6-9182734ababf",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/bdd6a3f7-c76a-459e-aad3-e833a9e110f8",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=511&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/7611219e-cba9-41cf-afaa-87cc912a9951",
+    "name": "Government Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7",
+      "ocd-person/3eb936f1-5bc8-40bb-832e-c617d461115c",
+      "ocd-person/987fd457-5b14-4300-95f1-e92f7cd5f748",
+      "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
+      "ocd-person/e825fe1a-a46d-4a07-b9e4-c9e82e357c90",
+      "ocd-person/14d6a46d-124c-4274-ae72-bfe5541a4a0a",
+      "ocd-person/d93c695c-f9d6-4f97-b92e-73249f89545a",
+      "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
+      "ocd-person/752b02fd-2ce1-46d3-88a3-337d64df6b1a",
+      "ocd-person/b0168a8a-bf16-4ddb-85ef-a7503cdb4d66",
+      "ocd-person/0389a5f1-0777-4a48-8faf-98779dc16849",
+      "ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062",
+      "ocd-person/df9c291c-e14f-487a-8ff6-9182734ababf",
+      "ocd-person/47e6f0cc-bf0d-4375-b0f7-3e0c88779ca5",
+      "ocd-person/428ba1b3-23b7-433a-8f18-ca53f6eed9aa",
+      "ocd-person/a1d5d401-d767-4088-b9b6-e03af9d5ed49",
+      "ocd-person/8746752e-619b-454d-9ef6-7f4434acdd71",
+      "ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/gov"
+  },
+  {
+    "id": "ocd-organization/d5b585d1-4a43-498b-9c0e-9ed7a8c5c2d1",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4",
+      "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
+      "ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90",
+      "ocd-person/3219df30-79cf-43c5-814d-b1f4b02d53bb",
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/6bf75215-5df0-4dfc-adfb-98c60a6871bd",
+      "ocd-person/365647a0-0840-4a40-aac8-697ab21dbcd5"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/health-and-human-services"
+  },
+  {
+    "id": "ocd-organization/fd0e9cb6-63c3-4008-9287-2d4c10f4f1fe",
+    "name": "Health and Human Services Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/7bfc4244-9498-4a20-bdf7-44383688b608",
+      "ocd-person/246cfe54-edbd-4844-9bdc-0213c4b501e9",
+      "ocd-person/382dfd67-bd2a-4271-bb79-62fe045102ea",
+      "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
+      "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
+      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
+      "ocd-person/84087e63-a192-4be6-9367-64b2c93a2dcc",
+      "ocd-person/a7eb5f03-0a2a-4235-b2f8-b4983e1a8cf2",
+      "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
+      "ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9",
+      "ocd-person/016593c8-d702-434a-ba7c-aee48b14b6b3",
+      "ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a",
+      "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/hhs"
+  },
+  {
+    "id": "ocd-organization/7ae76962-8016-4395-a5b4-327a95bde5f6",
+    "name": "Insurance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f4d5b128-a016-4eda-b6c6-e298fe29bc29",
+      "ocd-person/d93d9d8d-1299-423a-bb9e-ade2bcb0fa11",
+      "ocd-person/a91af3e5-8f27-4aa3-9c5d-6166eeb7ec8a",
+      "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a",
+      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
+      "ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=432&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/d3737b0c-c1d3-4b14-b79a-d6f4f1af0532",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3",
+      "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
+      "ocd-person/6bf75215-5df0-4dfc-adfb-98c60a6871bd",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/97650810-9219-451e-97d1-e3d3318c5d53"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/judiciary"
+  },
+  {
+    "id": "ocd-organization/12f4ce88-369a-4d2f-b538-ef1db7b27668",
+    "name": "Judiciary and Public Safety Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a865c489-d177-4058-af64-51c2f0abef68",
+      "ocd-person/0cffa048-1b45-4609-a1b6-9e741ca1948c",
+      "ocd-person/246cfe54-edbd-4844-9bdc-0213c4b501e9",
+      "ocd-person/5b2d71b9-21c7-4291-ac09-e2840fee2919",
+      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/b2857b06-9290-4141-9bc4-2a105bc51ce8",
+      "ocd-person/57fd0b98-5608-470a-a70b-971165572afb",
+      "ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/0b9df925-a78c-4ee4-a58c-5d7c2ace10fd",
+      "ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb",
+      "ocd-person/a6aa7540-02db-458d-9031-e6af94d63b44",
+      "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/jud"
+  },
+  {
+    "id": "ocd-organization/3e5e59bf-51aa-41e5-8029-78a64b1f216f",
+    "name": "Legislative Evaluation and Development",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/b0ab4df0-8cc1-43f6-9ed1-567b75e91468",
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/lead"
+  },
+  {
+    "id": "ocd-organization/31b9ea71-61a4-4c1b-a786-2c1769794f42",
+    "name": "Legislative Office of Fiscal Transparency Oversight (LOFT)",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0",
+      "ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/14ac3593-aa7a-491e-aba0-93474e93673d",
+      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/oversight-committee-legislative-office-fiscal-transparency-loft"
+  },
+  {
+    "id": "ocd-organization/36e28d34-7fa5-437e-a0bb-920f82cfc765",
+    "name": "Legislative Task Force on the Grand River Dam Authority Members",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe",
+      "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
+      "ocd-person/b2857b06-9290-4141-9bc4-2a105bc51ce8",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/14ac3593-aa7a-491e-aba0-93474e93673d",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158",
+      "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/joint-legislative-task-force-grand-river-dam-authority"
+  },
+  {
+    "id": "ocd-organization/83c1a617-a76c-47b9-8a9d-f4460e123dae",
+    "name": "Local and County Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055",
+      "ocd-person/a0948c13-b3a0-4040-b0db-9f8f8c67eeac",
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/a3c36ebe-151f-4632-ab04-31963f55f9d8",
+      "ocd-person/74fd77d2-ffa9-42cd-9849-0b64464bcc6f",
+      "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
+      "ocd-person/edf90069-7569-4cd7-9a8e-e3890e395ac7",
+      "ocd-person/8a183515-ff32-4660-8e9c-1317f274a603",
+      "ocd-person/365647a0-0840-4a40-aac8-697ab21dbcd5",
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/general-government"
+  },
+  {
+    "id": "ocd-organization/8b0b98d5-1c50-474c-97de-c780804333ee",
+    "name": "Pandemic Relief Funding",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0",
+      "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
+      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
+      "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
+      "ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/47e6f0cc-bf0d-4375-b0f7-3e0c88779ca5",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
+      "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/joint-committee-pandemic-relief-funding"
+  },
+  {
+    "id": "ocd-organization/a21d293c-48fc-4c2a-b8b7-bc6a4047e32d",
+    "name": "Postsecondary Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/25f65ce4-eb63-4beb-92d0-0d07db7f851a",
+      "ocd-person/190ef3e9-fdd4-4434-80da-06ebb08f2eaf",
+      "ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/1d6bc21f-6774-45de-b805-23cd8b5c32aa",
+      "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/edu/posted"
+  },
+  {
+    "id": "ocd-organization/4ab25f9d-ded7-42c1-b2a8-f03383c2108d",
+    "name": "Public Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/382dfd67-bd2a-4271-bb79-62fe045102ea",
+      "ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9",
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
+      "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=434&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/0b272dae-1a19-4f1b-b0d4-d7b9b3519091",
+    "name": "Public Safety",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b2857b06-9290-4141-9bc4-2a105bc51ce8",
+      "ocd-person/0b9df925-a78c-4ee4-a58c-5d7c2ace10fd",
+      "ocd-person/a91af3e5-8f27-4aa3-9c5d-6166eeb7ec8a",
+      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
+      "ocd-person/8746752e-619b-454d-9ef6-7f4434acdd71",
+      "ocd-person/bdd6a3f7-c76a-459e-aad3-e833a9e110f8",
+      "ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83",
+      "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=122"
+  },
+  {
+    "id": "ocd-organization/07c5f1b6-4ac2-4d17-a624-db98b9b4bf7a",
+    "name": "Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
+      "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055",
+      "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
+      "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
+      "ocd-person/077e2743-495e-4198-a096-5675796d78a4",
+      "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19",
+      "ocd-person/4d4f5043-830c-498d-806c-5b1e9eb183df"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/public-safety"
+  },
+  {
+    "id": "ocd-organization/36e98f1f-fc30-40c1-aea1-b4db3d8c2ab0",
+    "name": "Retirement and Government Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/f7e51701-fb8a-4d48-8f61-951096c0c76d",
+      "ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe",
+      "ocd-person/a0948c13-b3a0-4040-b0db-9f8f8c67eeac",
+      "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/3219df30-79cf-43c5-814d-b1f4b02d53bb",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/812abf8c-ed2d-4b91-8d69-0917a39adeed"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/retirement-insurance"
+  },
+  {
+    "id": "ocd-organization/406d7c0a-9f86-4a2b-809e-48335f1ca0f1",
+    "name": "Revenue and Taxation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/56666b37-2788-433a-9c32-19af826613e4",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/b8b4337f-5741-4fad-bcf3-38c526cf6c5a",
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/8a183515-ff32-4660-8e9c-1317f274a603",
+      "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
+      "ocd-person/97650810-9219-451e-97d1-e3d3318c5d53",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3",
+      "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/finance"
+  },
+  {
+    "id": "ocd-organization/048f5efd-77a9-49ee-82b3-1ef652f76222",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/987fd457-5b14-4300-95f1-e92f7cd5f748",
+      "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
+      "ocd-person/57fd0b98-5608-470a-a70b-971165572afb",
+      "ocd-person/3af08d09-7d36-4f0b-b257-a0206a8c2778",
+      "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
+      "ocd-person/97351530-ef54-4859-acdd-effcb11eaf1f",
+      "ocd-person/479b4def-b284-426b-8290-86bdce854bce",
+      "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=436&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/2e09cf75-2656-4b68-b3d9-69e5f577a917",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/14ac3593-aa7a-491e-aba0-93474e93673d",
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
+      "ocd-person/f7e51701-fb8a-4d48-8f61-951096c0c76d",
+      "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
+      "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/49a41053-6a43-44a8-92b9-9fd5e97a56fe",
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/rules"
+  },
+  {
+    "id": "ocd-organization/112c0c96-d648-48a0-8ebf-21210f10db1f",
+    "name": "Select Committee to Review Mental Health Finances",
+    "chamber": "house",
+    "members": [
+      "ocd-person/97351530-ef54-4859-acdd-effcb11eaf1f",
+      "ocd-person/c1f71291-89c1-4109-a15c-2483743d333a",
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/5b2d71b9-21c7-4291-ac09-e2840fee2919",
+      "ocd-person/382dfd67-bd2a-4271-bb79-62fe045102ea",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
+      "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7",
+      "ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/016593c8-d702-434a-ba7c-aee48b14b6b3",
+      "ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a",
+      "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/selectmh"
+  },
+  {
+    "id": "ocd-organization/831fbbca-9a56-4252-9149-0bd529f54689",
+    "name": "Select Committee to Review Mental Health Finances",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/95f06268-cdfb-463b-aa2e-fb789fbc97c4",
+      "ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/select-committee-review-mental-health-finances"
+  },
+  {
+    "id": "ocd-organization/a56dd594-72cf-48eb-bead-c9d6d059a1e7",
+    "name": "State Powers",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0389a5f1-0777-4a48-8faf-98779dc16849",
+      "ocd-person/df9c291c-e14f-487a-8ff6-9182734ababf",
+      "ocd-person/8dac97e3-d74f-4f58-bb7d-83412600975f",
+      "ocd-person/bae91554-72c9-4dbd-b042-b4bd800e4732",
+      "ocd-person/fc634688-e6d0-4b9b-919c-0c1f001d51a7"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=437&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/2f25ed58-d70a-44e3-9f75-2a0e8bd355e6",
+    "name": "State Tribal Relations",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/joint-committee-state-tribal-relations"
+  },
+  {
+    "id": "ocd-organization/a6bd29aa-576a-44f8-ba65-ff87c1b3bf8d",
+    "name": "State Tribal Relations",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
+      "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
+      "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/95734f94-939c-4774-82a5-c9222201f62f",
+      "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/joint-committee-state-tribal-relations"
+  },
+  {
+    "id": "ocd-organization/1f0fbcfd-6060-44f5-9d86-73e2dec4592d",
+    "name": "Task Force on Rethinking Paying Subminimal Wage for Persons with Disabilities",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/task-force/JOINTRETHINKH"
+  },
+  {
+    "id": "ocd-organization/55f2f54a-95b0-45a1-825b-e22e929a6e22",
+    "name": "Technology and Telecommunications",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
+      "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
+      "ocd-person/a3c36ebe-151f-4632-ab04-31963f55f9d8",
+      "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
+      "ocd-person/b8b4337f-5741-4fad-bcf3-38c526cf6c5a",
+      "ocd-person/f7e51701-fb8a-4d48-8f61-951096c0c76d",
+      "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
+      "ocd-person/0388a9a8-8de3-4620-8c44-e887e0f1cecd",
+      "ocd-person/54d37a3d-68cb-4e87-9916-c38f2f0f8ed3"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/technology-and-telecommunications"
+  },
+  {
+    "id": "ocd-organization/15f13621-b21d-4dee-8368-87629245c3da",
+    "name": "Tourism",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1d6bc21f-6774-45de-b805-23cd8b5c32aa",
+      "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
+      "ocd-person/7bfc4244-9498-4a20-bdf7-44383688b608",
+      "ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820",
+      "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=473&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/cbcc6d7a-390c-4176-bc80-3d4a6f29f00c",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a",
+      "ocd-person/d8c6a83e-cdac-439d-af83-d90d9f543541",
+      "ocd-person/3a5828d9-b8bf-491c-adfe-19f5331d1e20",
+      "ocd-person/6cfaac2f-52af-4aad-8ec4-6373bb45bf24",
+      "ocd-person/82e04ad9-64c8-4439-9853-cbc3e273d637",
+      "ocd-person/e825fe1a-a46d-4a07-b9e4-c9e82e357c90",
+      "ocd-person/d93c695c-f9d6-4f97-b92e-73249f89545a",
+      "ocd-person/612db560-defe-471a-a45f-cf259a4ffeaa",
+      "ocd-person/7bfc4244-9498-4a20-bdf7-44383688b608",
+      "ocd-person/91b38015-8cd5-410e-b850-34961760b8d7",
+      "ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820",
+      "ocd-person/527c315f-7d62-4de1-a543-6c81a0ac11a3"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=124"
+  },
+  {
+    "id": "ocd-organization/1879d3fa-06ad-4bc0-9bbd-754215bf2f56",
+    "name": "Utilities",
+    "chamber": "house",
+    "members": [
+      "ocd-person/527c315f-7d62-4de1-a543-6c81a0ac11a3",
+      "ocd-person/a688f8ac-d265-4830-963f-617b726524ed",
+      "ocd-person/3a5828d9-b8bf-491c-adfe-19f5331d1e20",
+      "ocd-person/4d0b52d3-ad1f-45c9-b46e-3676194ef82c",
+      "ocd-person/1120aff3-9773-4cc8-9c47-18026559363a",
+      "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
+      "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
+      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=441&SubCommID=0"
+  },
+  {
+    "id": "ocd-organization/d7d8314c-ac36-40f0-8c0e-a63218dce8f2",
+    "name": "Veteran and Military Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/84087e63-a192-4be6-9367-64b2c93a2dcc",
+      "ocd-person/a7eb5f03-0a2a-4235-b2f8-b4983e1a8cf2",
+      "ocd-person/8dac97e3-d74f-4f58-bb7d-83412600975f",
+      "ocd-person/987fd457-5b14-4300-95f1-e92f7cd5f748",
+      "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
+      "ocd-person/0389a5f1-0777-4a48-8faf-98779dc16849",
+      "ocd-person/190ef3e9-fdd4-4434-80da-06ebb08f2eaf",
+      "ocd-person/a865c489-d177-4058-af64-51c2f0abef68"
+    ],
+    "officialUrl": "https://www.okhouse.gov/committees/house/hhs/veterans"
+  },
+  {
+    "id": "ocd-organization/d4e104f0-54d8-4ead-a5a9-c11ee247c3b4",
+    "name": "Veterans and Military Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
+      "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6",
+      "ocd-person/bc85e399-f4bc-4690-b34b-685e15242904",
+      "ocd-person/077e2743-495e-4198-a096-5675796d78a4",
+      "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
+      "ocd-person/595024d3-b5fd-45e4-a980-4774f531d051",
+      "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
+      "ocd-person/c0db5455-8d12-4525-ab57-afa8ed7e1d7f",
+      "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055"
+    ],
+    "officialUrl": "https://oksenate.gov/committees/veterans-and-military-affairs"
+  },
+  {
+    "id": "ocd-organization/03cf1ac5-4552-4570-bf99-3a41e491f8a7",
+    "name": "Wildlife",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3af08d09-7d36-4f0b-b257-a0206a8c2778",
+      "ocd-person/818eac04-d5b7-49be-b740-84a8432cf5b3",
+      "ocd-person/a91af3e5-8f27-4aa3-9c5d-6166eeb7ec8a",
+      "ocd-person/5b2d71b9-21c7-4291-ac09-e2840fee2919",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/d8c6a83e-cdac-439d-af83-d90d9f543541",
+      "ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a"
+    ],
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=443&SubCommID=0"
+  }
+]

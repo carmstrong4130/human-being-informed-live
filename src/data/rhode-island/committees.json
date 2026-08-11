@@ -1,0 +1,583 @@
+[
+  {
+    "id": "ocd-organization/a71576e2-02a9-41d5-a5bd-0d3a7cec2fac",
+    "name": "Artificial Intelligence and Emerging Technologies",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/afeed427-2ef1-4197-840d-7ab06883e186",
+      "ocd-person/a5f646b2-0370-494c-aebc-25869f019a1b",
+      "ocd-person/71da5365-46a9-4f2c-abc8-308bde2577ec",
+      "ocd-person/5ab817c5-d86c-4bf0-9a8f-78ca20cdc56b",
+      "ocd-person/e676d270-0470-40c2-ab57-e8ced3471005",
+      "ocd-person/3a4fd015-1c56-4d7b-9e57-1a2a6b9b4c9b",
+      "ocd-person/285c33e3-5c40-44d8-9c16-22e49b6a0a81"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/SenateCommitteeMembers.aspx?ComChoiceS=SAIT&CommitteeName=Artificial%20Intelligence%20and%20Emerging%20Technologies"
+  },
+  {
+    "id": "ocd-organization/4500b767-87ce-4832-9492-4c6722a4f7c4",
+    "name": "Commerce",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/01ddc920-772c-4098-b9f8-8704783940e5",
+      "ocd-person/c5757781-d437-4b9b-b7a1-9bb96c9b74ab",
+      "ocd-person/8d466b6a-ea53-46bb-aa86-3131ac76533f",
+      "ocd-person/63bb0194-1993-4149-b39d-23f229c3040e",
+      "ocd-person/6913b936-2e96-414a-80d6-6518f5accb7e",
+      "ocd-person/75750ad6-0bec-4d81-8561-85036c0d99df",
+      "ocd-person/2cd8c21d-f576-4060-a311-0459e01ffef6",
+      "ocd-person/1378a3d6-95fe-4a21-8fcb-11fefdb97d84",
+      "ocd-person/a2ff0de0-40d1-4ac1-a347-e1e9dedb6d30",
+      "ocd-person/b3d5296c-05df-46f5-9a93-4caf96121a84"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCOC"
+  },
+  {
+    "id": "ocd-organization/dd4d5b71-16c2-4613-b663-bbc72a6eb0b1",
+    "name": "Conduct",
+    "chamber": "house",
+    "members": [
+      "ocd-person/38c539f2-0698-4fa2-a761-477608365838",
+      "ocd-person/1f8f3c9b-ba19-45de-af45-b0501d0607f0",
+      "ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f",
+      "ocd-person/632b3bf0-a3f8-4c0d-9818-d03c861318dc",
+      "ocd-person/397f8729-c37c-4882-af7e-d7235e9f06f2",
+      "ocd-person/44424388-03a6-452b-992b-3c082949f62f",
+      "ocd-person/ce92c860-ad04-4cc5-91eb-52add74c98e5",
+      "ocd-person/ed735cca-8f53-4304-a1ec-9e212744ec17",
+      "ocd-person/7c4d8cad-55e5-474d-ac05-8db9a59da7fd",
+      "ocd-person/45fd70a7-613e-405d-959f-2900eea0f264",
+      "ocd-person/d28514b2-da9f-4c03-9590-781d3c1529ad"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HCDT"
+  },
+  {
+    "id": "ocd-organization/62e12c7e-68a9-4b21-927e-a06cdc4a5880",
+    "name": "Corporations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0b700db6-fe30-4fb4-a988-05ae0d618720",
+      "ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33",
+      "ocd-person/38c539f2-0698-4fa2-a761-477608365838",
+      "ocd-person/202a1def-abb3-4f77-8ef1-5c453d2d5423",
+      "ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851",
+      "ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e",
+      "ocd-person/6ddaaa6f-48c9-468e-a744-714728251586",
+      "ocd-person/f0206346-2c07-4316-a556-cee7fe595e9a",
+      "ocd-person/632b3bf0-a3f8-4c0d-9818-d03c861318dc",
+      "ocd-person/397f8729-c37c-4882-af7e-d7235e9f06f2",
+      "ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214",
+      "ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d",
+      "ocd-person/45fd70a7-613e-405d-959f-2900eea0f264",
+      "ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071",
+      "ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HCORP"
+  },
+  {
+    "id": "ocd-organization/5dafc018-9303-4655-9a01-34e7e3cc2f61",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ce92c860-ad04-4cc5-91eb-52add74c98e5",
+      "ocd-person/1f8f3c9b-ba19-45de-af45-b0501d0607f0",
+      "ocd-person/dd5636ac-e9a1-4d98-8f21-6376b8977706",
+      "ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e",
+      "ocd-person/f0206346-2c07-4316-a556-cee7fe595e9a",
+      "ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616",
+      "ocd-person/6e9979b1-f131-4d71-8146-71f10bd06e57",
+      "ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad",
+      "ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3",
+      "ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b",
+      "ocd-person/4ad02cf0-3ead-4bc4-84e3-d1c08c3aa11a",
+      "ocd-person/39bdc05c-bda5-4ea9-b4ad-4cc7172adf56",
+      "ocd-person/181465b6-b392-4222-acec-456182d23aa5",
+      "ocd-person/6c7285bd-fdd3-4629-be6f-4a01d19e9c25",
+      "ocd-person/160de7ca-e70f-4cd4-b218-e9600c24a5aa"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemr.asp?ComChoiceR=HEDC"
+  },
+  {
+    "id": "ocd-organization/37ff50f1-bfc7-4512-9945-6e95cb67ee57",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/75750ad6-0bec-4d81-8561-85036c0d99df",
+      "ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3",
+      "ocd-person/3a4fd015-1c56-4d7b-9e57-1a2a6b9b4c9b",
+      "ocd-person/80931d0d-c52e-492a-8b92-c191aa00c03f",
+      "ocd-person/e9b6ecf5-de39-4026-83fa-3766ed43cc49",
+      "ocd-person/71da5365-46a9-4f2c-abc8-308bde2577ec",
+      "ocd-person/580b2e15-faff-4b83-bbea-fb6110a9f975",
+      "ocd-person/285c33e3-5c40-44d8-9c16-22e49b6a0a81",
+      "ocd-person/b3d5296c-05df-46f5-9a93-4caf96121a84"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCOE"
+  },
+  {
+    "id": "ocd-organization/7025c0df-1e4f-466c-a854-42e9ca22b9cc",
+    "name": "Environment and Agriculture",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c5757781-d437-4b9b-b7a1-9bb96c9b74ab",
+      "ocd-person/01ddc920-772c-4098-b9f8-8704783940e5",
+      "ocd-person/5ab817c5-d86c-4bf0-9a8f-78ca20cdc56b",
+      "ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f",
+      "ocd-person/961061c2-4ce9-4ac4-85c4-28b20c800e9d",
+      "ocd-person/e676d270-0470-40c2-ab57-e8ced3471005",
+      "ocd-person/2cd8c21d-f576-4060-a311-0459e01ffef6",
+      "ocd-person/afeed427-2ef1-4197-840d-7ab06883e186"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SEAA"
+  },
+  {
+    "id": "ocd-organization/47b46c42-2df6-4146-a053-706b15e55374",
+    "name": "Environment and Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b12f1651-fc9e-440c-9bc3-ff326505cca4",
+      "ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e",
+      "ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b",
+      "ocd-person/6d4c7be7-4e68-4aa1-9262-81995fcc231e",
+      "ocd-person/7daab32c-5d7f-4db2-b141-026d3595f69f",
+      "ocd-person/5d976bb8-2481-45d2-bae9-df4b565d9526",
+      "ocd-person/cef11d28-cbbb-4ffd-b8f2-23c71e73f1b3",
+      "ocd-person/32458c0f-8b82-4f49-a191-90d68c3f375f",
+      "ocd-person/9386224e-9603-4695-8f46-a1033d8534a5",
+      "ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef",
+      "ocd-person/8318a7d4-6d81-4825-8821-4e7aed69b4dc",
+      "ocd-person/d28514b2-da9f-4c03-9590-781d3c1529ad",
+      "ocd-person/dd5636ac-e9a1-4d98-8f21-6376b8977706",
+      "ocd-person/0e459c44-8d77-408e-9db6-c0e0b79274fd",
+      "ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HENR&CommitteeName=Environment%20and%20Natural%20Resources"
+  },
+  {
+    "id": "ocd-organization/63191979-ab9b-4fe2-bbdb-24c9053a4d68",
+    "name": "Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ed735cca-8f53-4304-a1ec-9e212744ec17",
+      "ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f",
+      "ocd-person/7769ff96-3f6e-4747-b14b-de0a8648af61",
+      "ocd-person/202a1def-abb3-4f77-8ef1-5c453d2d5423",
+      "ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33",
+      "ocd-person/5d976bb8-2481-45d2-bae9-df4b565d9526",
+      "ocd-person/44424388-03a6-452b-992b-3c082949f62f",
+      "ocd-person/c2b18728-5409-42b0-a789-d7f5bd717780",
+      "ocd-person/85b2ef21-1f02-4d9e-9f74-a40a2e942f7c",
+      "ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c",
+      "ocd-person/39bdc05c-bda5-4ea9-b4ad-4cc7172adf56",
+      "ocd-person/da9a4b15-1cbf-4645-bd98-58ce413b68e1",
+      "ocd-person/6c7285bd-fdd3-4629-be6f-4a01d19e9c25",
+      "ocd-person/bdccc3f1-4b2d-4f64-8653-ada4322d6a10",
+      "ocd-person/0e459c44-8d77-408e-9db6-c0e0b79274fd"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HFIN&CommitteeName=Finance"
+  },
+  {
+    "id": "ocd-organization/ccc15125-2c05-4ff0-bdb8-77190b697675",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/71da5365-46a9-4f2c-abc8-308bde2577ec",
+      "ocd-person/d688b16c-5bf2-41df-b1c9-e8c5de7e437c",
+      "ocd-person/037e3b02-7f48-4cab-bb04-2524aa9a883d",
+      "ocd-person/23ac0ada-a340-4539-a4c9-33e4c437add6",
+      "ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f",
+      "ocd-person/177cd512-2835-4b9b-b77c-60fe178ec26e",
+      "ocd-person/6913b936-2e96-414a-80d6-6518f5accb7e",
+      "ocd-person/5ab817c5-d86c-4bf0-9a8f-78ca20cdc56b",
+      "ocd-person/3a4fd015-1c56-4d7b-9e57-1a2a6b9b4c9b",
+      "ocd-person/c5757781-d437-4b9b-b7a1-9bb96c9b74ab"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SFIN"
+  },
+  {
+    "id": "ocd-organization/09b5cc8e-5aa4-450d-b0a6-7c714555e019",
+    "name": "Health and Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/160de7ca-e70f-4cd4-b218-e9600c24a5aa",
+      "ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad",
+      "ocd-person/6ddaaa6f-48c9-468e-a744-714728251586",
+      "ocd-person/6d4c7be7-4e68-4aa1-9262-81995fcc231e",
+      "ocd-person/b12f1651-fc9e-440c-9bc3-ff326505cca4",
+      "ocd-person/785df766-de25-496b-a823-e4ad64c462cb",
+      "ocd-person/32458c0f-8b82-4f49-a191-90d68c3f375f",
+      "ocd-person/c11b7057-fe39-42b6-8a38-91d9e7349118",
+      "ocd-person/9386224e-9603-4695-8f46-a1033d8534a5",
+      "ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef",
+      "ocd-person/bc0b7591-fb22-44c1-9766-49ea0d70d894",
+      "ocd-person/4ad02cf0-3ead-4bc4-84e3-d1c08c3aa11a",
+      "ocd-person/7c4d8cad-55e5-474d-ac05-8db9a59da7fd",
+      "ocd-person/8318a7d4-6d81-4825-8821-4e7aed69b4dc",
+      "ocd-person/dd5636ac-e9a1-4d98-8f21-6376b8977706"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HHHS&CommitteeName=Health%20and%20Human%20Services"
+  },
+  {
+    "id": "ocd-organization/550c49c2-67d9-4746-b253-794e4fada6d5",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3",
+      "ocd-person/c5991f11-e719-473e-93c4-cfc52fae3e6d",
+      "ocd-person/e676d270-0470-40c2-ab57-e8ced3471005",
+      "ocd-person/177cd512-2835-4b9b-b77c-60fe178ec26e",
+      "ocd-person/80931d0d-c52e-492a-8b92-c191aa00c03f",
+      "ocd-person/825b006a-e38e-4f0c-81b7-4df73e2a90fa",
+      "ocd-person/66e402e8-4f13-44f3-b029-7d1c3aab99b7",
+      "ocd-person/285c33e3-5c40-44d8-9c16-22e49b6a0a81"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCHH"
+  },
+  {
+    "id": "ocd-organization/bfc97979-c4cf-43f3-b34c-adbc04e1723e",
+    "name": "Housing and Municipal Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e9b6ecf5-de39-4026-83fa-3766ed43cc49",
+      "ocd-person/9dbec823-aab4-40bb-a26a-e51a896dcc1f",
+      "ocd-person/961061c2-4ce9-4ac4-85c4-28b20c800e9d",
+      "ocd-person/a5f646b2-0370-494c-aebc-25869f019a1b",
+      "ocd-person/2cd8c21d-f576-4060-a311-0459e01ffef6",
+      "ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3",
+      "ocd-person/a2ff0de0-40d1-4ac1-a347-e1e9dedb6d30",
+      "ocd-person/b3d5296c-05df-46f5-9a93-4caf96121a84",
+      "ocd-person/afeed427-2ef1-4197-840d-7ab06883e186"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCHM"
+  },
+  {
+    "id": "ocd-organization/badf854c-c237-45cf-808d-3966e4c83f28",
+    "name": "Innovation, Internet and Technology",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c2b18728-5409-42b0-a789-d7f5bd717780",
+      "ocd-person/6d4c7be7-4e68-4aa1-9262-81995fcc231e",
+      "ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b",
+      "ocd-person/632b3bf0-a3f8-4c0d-9818-d03c861318dc",
+      "ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214",
+      "ocd-person/75bd1298-3fc9-42cc-87c6-23bdc20a7b56",
+      "ocd-person/c5f9a1f5-502b-41b6-8848-bfa359b1bad9",
+      "ocd-person/c11b7057-fe39-42b6-8a38-91d9e7349118",
+      "ocd-person/cad61cfb-b3e8-417a-934e-1add601d4cba",
+      "ocd-person/39bdc05c-bda5-4ea9-b4ad-4cc7172adf56",
+      "ocd-person/d28514b2-da9f-4c03-9590-781d3c1529ad",
+      "ocd-person/dd5636ac-e9a1-4d98-8f21-6376b8977706",
+      "ocd-person/a6d519b0-89bd-45d5-9067-3ae0b421eee7",
+      "ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f",
+      "ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HIIT&CommitteeName=Innovation%20and%20Technology"
+  },
+  {
+    "id": "ocd-organization/8e833aed-5f25-4737-9a1d-4c0244839883",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/7daab32c-5d7f-4db2-b141-026d3595f69f",
+      "ocd-person/cef11d28-cbbb-4ffd-b8f2-23c71e73f1b3",
+      "ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5",
+      "ocd-person/386a8117-95b5-441f-91d0-665effac1af4",
+      "ocd-person/b12f1651-fc9e-440c-9bc3-ff326505cca4",
+      "ocd-person/785df766-de25-496b-a823-e4ad64c462cb",
+      "ocd-person/6cb1ca03-2ea8-4ee8-9ecb-faa37f4c5966",
+      "ocd-person/e073b501-75f0-4fc6-9e61-392b9931f070",
+      "ocd-person/be85e7a9-0455-4e02-92f7-834710d0e401",
+      "ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3",
+      "ocd-person/38c539f2-0698-4fa2-a761-477608365838",
+      "ocd-person/ad453635-2239-4a63-a153-a9f925b32621",
+      "ocd-person/bc0b7591-fb22-44c1-9766-49ea0d70d894",
+      "ocd-person/a6d519b0-89bd-45d5-9067-3ae0b421eee7",
+      "ocd-person/1f8f3c9b-ba19-45de-af45-b0501d0607f0"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HJUD&CommitteeName=Judiciary"
+  },
+  {
+    "id": "ocd-organization/385d1a3e-9ffd-460a-8490-4ff6df6c2d4b",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/57b194bd-2b6a-46b8-a7b4-35b629bb0b04",
+      "ocd-person/580b2e15-faff-4b83-bbea-fb6110a9f975",
+      "ocd-person/e9b6ecf5-de39-4026-83fa-3766ed43cc49",
+      "ocd-person/a857e27b-7ced-43ad-bd08-a954e5f781ac",
+      "ocd-person/89fadd1c-b02c-45aa-b008-bf31d3fea4a1",
+      "ocd-person/b747e057-fdd2-480a-beb9-c4ef37ae1e12",
+      "ocd-person/a5f646b2-0370-494c-aebc-25869f019a1b",
+      "ocd-person/ef7ddd55-3351-4ca9-adfc-aef71505ec95",
+      "ocd-person/285c33e3-5c40-44d8-9c16-22e49b6a0a81",
+      "ocd-person/9f4a0209-d8b0-42e5-9217-d4fd2f0d67e6"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SJUD"
+  },
+  {
+    "id": "ocd-organization/69382499-2079-4f2c-8d85-742574066641",
+    "name": "Labor",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6cb1ca03-2ea8-4ee8-9ecb-faa37f4c5966",
+      "ocd-person/cad61cfb-b3e8-417a-934e-1add601d4cba",
+      "ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c",
+      "ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735",
+      "ocd-person/6ddaaa6f-48c9-468e-a744-714728251586",
+      "ocd-person/7daab32c-5d7f-4db2-b141-026d3595f69f",
+      "ocd-person/75bd1298-3fc9-42cc-87c6-23bdc20a7b56",
+      "ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f",
+      "ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616",
+      "ocd-person/85b2ef21-1f02-4d9e-9f74-a40a2e942f7c",
+      "ocd-person/c937560c-277e-4c48-9656-bb385a7910f3",
+      "ocd-person/89e9f600-0af5-471c-89bb-b27142def4c9",
+      "ocd-person/ce92c860-ad04-4cc5-91eb-52add74c98e5",
+      "ocd-person/181465b6-b392-4222-acec-456182d23aa5",
+      "ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HLAB&CommitteeName=Labor"
+  },
+  {
+    "id": "ocd-organization/e424a745-a5b3-41e0-91a4-ee3c787fb266",
+    "name": "Labor and Gaming",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a5f646b2-0370-494c-aebc-25869f019a1b",
+      "ocd-person/9f4a0209-d8b0-42e5-9217-d4fd2f0d67e6",
+      "ocd-person/177cd512-2835-4b9b-b77c-60fe178ec26e",
+      "ocd-person/a857e27b-7ced-43ad-bd08-a954e5f781ac",
+      "ocd-person/89fadd1c-b02c-45aa-b008-bf31d3fea4a1",
+      "ocd-person/03fdc4f3-715d-4f83-ab31-1a63f86a4dcf",
+      "ocd-person/5ab817c5-d86c-4bf0-9a8f-78ca20cdc56b",
+      "ocd-person/1378a3d6-95fe-4a21-8fcb-11fefdb97d84",
+      "ocd-person/a2ff0de0-40d1-4ac1-a347-e1e9dedb6d30"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SLAB"
+  },
+  {
+    "id": "ocd-organization/e97f2d3a-1a1b-42d8-8821-c7f15e542916",
+    "name": "Legislative Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a9ba95ac-22f3-4aeb-8fdd-eb236675d8d4",
+      "ocd-person/bfb76f36-00b6-47da-89da-e1db5421ff55",
+      "ocd-person/02f4f018-3639-4fb1-aced-f8684161121d",
+      "ocd-person/03fdc4f3-715d-4f83-ab31-1a63f86a4dcf",
+      "ocd-person/bd30e693-11a2-412f-b81a-bebc78d91145"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemJ.asp?ComChoiceJ=JCLS"
+  },
+  {
+    "id": "ocd-organization/bb323c48-9304-48eb-8cef-3ba3f68dceac",
+    "name": "Municipal Government and Housing",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071",
+      "ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef",
+      "ocd-person/9386224e-9603-4695-8f46-a1033d8534a5",
+      "ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851",
+      "ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735",
+      "ocd-person/386a8117-95b5-441f-91d0-665effac1af4",
+      "ocd-person/75bd1298-3fc9-42cc-87c6-23bdc20a7b56",
+      "ocd-person/0065fe7b-08cf-4d17-b358-c0c04ab45616",
+      "ocd-person/85b2ef21-1f02-4d9e-9f74-a40a2e942f7c",
+      "ocd-person/c937560c-277e-4c48-9656-bb385a7910f3",
+      "ocd-person/be85e7a9-0455-4e02-92f7-834710d0e401",
+      "ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b",
+      "ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5",
+      "ocd-person/da9a4b15-1cbf-4645-bd98-58ce413b68e1",
+      "ocd-person/2c3d82e7-8bdc-4da9-bbab-e42bb5e223fb"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HMGH&CommitteeName=Municipal%20Government%20and%20Housing"
+  },
+  {
+    "id": "ocd-organization/185b77ae-07af-4d90-928c-97c692a7bdf2",
+    "name": "Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/45fd70a7-613e-405d-959f-2900eea0f264",
+      "ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3",
+      "ocd-person/1f8f3c9b-ba19-45de-af45-b0501d0607f0",
+      "ocd-person/6d4c7be7-4e68-4aa1-9262-81995fcc231e",
+      "ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735",
+      "ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214",
+      "ocd-person/785df766-de25-496b-a823-e4ad64c462cb",
+      "ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f",
+      "ocd-person/e073b501-75f0-4fc6-9e61-392b9931f070",
+      "ocd-person/32458c0f-8b82-4f49-a191-90d68c3f375f",
+      "ocd-person/89e9f600-0af5-471c-89bb-b27142def4c9",
+      "ocd-person/be85e7a9-0455-4e02-92f7-834710d0e401",
+      "ocd-person/0b700db6-fe30-4fb4-a988-05ae0d618720",
+      "ocd-person/9386224e-9603-4695-8f46-a1033d8534a5",
+      "ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b",
+      "ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b",
+      "ocd-person/cad61cfb-b3e8-417a-934e-1add601d4cba"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HCOO&CommitteeName=Oversight"
+  },
+  {
+    "id": "ocd-organization/3fdfc929-fd47-49f0-8b21-7b9cf22d370b",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/570c899e-34b2-4e30-93e2-79f588ff8aef",
+      "ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33",
+      "ocd-person/45fd70a7-613e-405d-959f-2900eea0f264",
+      "ocd-person/7769ff96-3f6e-4747-b14b-de0a8648af61",
+      "ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e",
+      "ocd-person/632b3bf0-a3f8-4c0d-9818-d03c861318dc",
+      "ocd-person/397f8729-c37c-4882-af7e-d7235e9f06f2",
+      "ocd-person/785df766-de25-496b-a823-e4ad64c462cb",
+      "ocd-person/6cb1ca03-2ea8-4ee8-9ecb-faa37f4c5966",
+      "ocd-person/c5f9a1f5-502b-41b6-8848-bfa359b1bad9",
+      "ocd-person/44424388-03a6-452b-992b-3c082949f62f",
+      "ocd-person/ce92c860-ad04-4cc5-91eb-52add74c98e5",
+      "ocd-person/bd30e693-11a2-412f-b81a-bebc78d91145",
+      "ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f",
+      "ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HRUL&CommitteeName=Rules"
+  },
+  {
+    "id": "ocd-organization/502941ba-60e4-42cc-bfcc-e2e6d4fdbde3",
+    "name": "Rules, Government Ethics and Oversight",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/580b2e15-faff-4b83-bbea-fb6110a9f975",
+      "ocd-person/3a4fd015-1c56-4d7b-9e57-1a2a6b9b4c9b",
+      "ocd-person/23ac0ada-a340-4539-a4c9-33e4c437add6",
+      "ocd-person/b747e057-fdd2-480a-beb9-c4ef37ae1e12",
+      "ocd-person/d688b16c-5bf2-41df-b1c9-e8c5de7e437c",
+      "ocd-person/75750ad6-0bec-4d81-8561-85036c0d99df",
+      "ocd-person/e9b6ecf5-de39-4026-83fa-3766ed43cc49",
+      "ocd-person/03fdc4f3-715d-4f83-ab31-1a63f86a4dcf",
+      "ocd-person/57b194bd-2b6a-46b8-a7b4-35b629bb0b04"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SCOO"
+  },
+  {
+    "id": "ocd-organization/236ab4b9-56f1-4b5b-af86-3f56aefb4509",
+    "name": "Small Business",
+    "chamber": "house",
+    "members": [
+      "ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b",
+      "ocd-person/0e459c44-8d77-408e-9db6-c0e0b79274fd",
+      "ocd-person/f0206346-2c07-4316-a556-cee7fe595e9a",
+      "ocd-person/53f07987-a534-4194-ba51-2fcd62f0f63e",
+      "ocd-person/7daab32c-5d7f-4db2-b141-026d3595f69f",
+      "ocd-person/8fad7738-c303-432e-9442-ce2b6dfe87e5",
+      "ocd-person/5d976bb8-2481-45d2-bae9-df4b565d9526",
+      "ocd-person/44424388-03a6-452b-992b-3c082949f62f",
+      "ocd-person/f9877000-1919-4f5b-a8b7-f05a1092bdab",
+      "ocd-person/38c539f2-0698-4fa2-a761-477608365838",
+      "ocd-person/320f08df-f7d3-4ebe-a696-9c2b8d98f75b",
+      "ocd-person/ad453635-2239-4a63-a153-a9f925b32621",
+      "ocd-person/4ad02cf0-3ead-4bc4-84e3-d1c08c3aa11a",
+      "ocd-person/d28514b2-da9f-4c03-9590-781d3c1529ad",
+      "ocd-person/a6d519b0-89bd-45d5-9067-3ae0b421eee7"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HSMB&CommitteeName=Small%20Business"
+  },
+  {
+    "id": "ocd-organization/9e414b17-2119-4667-b743-3b8a08a6cac3",
+    "name": "Special Legislation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c",
+      "ocd-person/44424388-03a6-452b-992b-3c082949f62f",
+      "ocd-person/f9877000-1919-4f5b-a8b7-f05a1092bdab",
+      "ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851",
+      "ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735",
+      "ocd-person/386a8117-95b5-441f-91d0-665effac1af4",
+      "ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214",
+      "ocd-person/6e9979b1-f131-4d71-8146-71f10bd06e57",
+      "ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d",
+      "ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad",
+      "ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5",
+      "ocd-person/181465b6-b392-4222-acec-456182d23aa5",
+      "ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f",
+      "ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f",
+      "ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HLEG&CommitteeName=Special%20Legislation"
+  },
+  {
+    "id": "ocd-organization/b1a24a27-42e6-485f-be14-103b81f82ea9",
+    "name": "Special Legislation and Veterans' Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/037e3b02-7f48-4cab-bb04-2524aa9a883d",
+      "ocd-person/ef7ddd55-3351-4ca9-adfc-aef71505ec95",
+      "ocd-person/66e402e8-4f13-44f3-b029-7d1c3aab99b7",
+      "ocd-person/b747e057-fdd2-480a-beb9-c4ef37ae1e12",
+      "ocd-person/6913b936-2e96-414a-80d6-6518f5accb7e",
+      "ocd-person/23ac0ada-a340-4539-a4c9-33e4c437add6",
+      "ocd-person/825b006a-e38e-4f0c-81b7-4df73e2a90fa",
+      "ocd-person/57b194bd-2b6a-46b8-a7b4-35b629bb0b04",
+      "ocd-person/c5991f11-e719-473e-93c4-cfc52fae3e6d"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemS.asp?ComChoiceS=SLEG"
+  },
+  {
+    "id": "ocd-organization/c0a3a5ee-2002-47b6-8858-ee164d2812a9",
+    "name": "State Government and Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/016b40cf-1be0-4e66-acdf-78a029822e1c",
+      "ocd-person/44424388-03a6-452b-992b-3c082949f62f",
+      "ocd-person/f9877000-1919-4f5b-a8b7-f05a1092bdab",
+      "ocd-person/b9359c6a-fbb2-4165-af9b-a6c63290d851",
+      "ocd-person/11bc8a51-bee7-422d-8bb7-6a9177e55735",
+      "ocd-person/386a8117-95b5-441f-91d0-665effac1af4",
+      "ocd-person/4f6ac85b-f69f-4916-beaf-a30087ba1214",
+      "ocd-person/e70e3449-7587-4a64-a940-922d543f5a2d",
+      "ocd-person/c937560c-277e-4c48-9656-bb385a7910f3",
+      "ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad",
+      "ocd-person/bffdb553-5c5c-403e-8e2c-47b34a7b50f5",
+      "ocd-person/181465b6-b392-4222-acec-456182d23aa5",
+      "ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f",
+      "ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f",
+      "ocd-person/0b20a11e-e90b-4ff2-aa25-5334a8592071"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HSGE&CommitteeName=State%20Government%20and%20Elections"
+  },
+  {
+    "id": "ocd-organization/4995550f-b5de-435c-86d3-aa03609fa5e2",
+    "name": "State Lottery Permanent",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/4352dbd3-90e5-4cf3-9bf6-accff7592c33",
+      "ocd-person/d688b16c-5bf2-41df-b1c9-e8c5de7e437c",
+      "ocd-person/85b2ef21-1f02-4d9e-9f74-a40a2e942f7c",
+      "ocd-person/03fdc4f3-715d-4f83-ab31-1a63f86a4dcf",
+      "ocd-person/e7d41b59-5619-4a67-a1ec-221fdc24e6c3",
+      "ocd-person/02f4f018-3639-4fb1-aced-f8684161121d",
+      "ocd-person/1cd78f67-6adb-47c6-98cd-f49ca8eb603f",
+      "ocd-person/037e3b02-7f48-4cab-bb04-2524aa9a883d"
+    ],
+    "officialUrl": "https://webserver.rilegislature.gov/ComMembers/ComMemJ.asp?ComChoiceJ=JLOT"
+  },
+  {
+    "id": "ocd-organization/18fd0b66-2a54-4064-b98b-d93617952aa2",
+    "name": "Veterans' Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c9229f5a-b4ac-4cf2-b227-a0b4e56cca2f",
+      "ocd-person/3efcf2f9-f7f8-4441-9ec7-4f6d8c17940f",
+      "ocd-person/20543a6c-f763-4297-a19b-c670fbe8a68b",
+      "ocd-person/6e9979b1-f131-4d71-8146-71f10bd06e57",
+      "ocd-person/f9877000-1919-4f5b-a8b7-f05a1092bdab",
+      "ocd-person/0b700db6-fe30-4fb4-a988-05ae0d618720",
+      "ocd-person/b6a9a38c-0f39-4150-b041-fd6c75f9c8ad",
+      "ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3",
+      "ocd-person/ad453635-2239-4a63-a153-a9f925b32621",
+      "ocd-person/bc0b7591-fb22-44c1-9766-49ea0d70d894",
+      "ocd-person/ed735cca-8f53-4304-a1ec-9e212744ec17",
+      "ocd-person/7c4d8cad-55e5-474d-ac05-8db9a59da7fd",
+      "ocd-person/d28514b2-da9f-4c03-9590-781d3c1529ad",
+      "ocd-person/da9a4b15-1cbf-4645-bd98-58ce413b68e1",
+      "ocd-person/160de7ca-e70f-4cd4-b218-e9600c24a5aa"
+    ],
+    "officialUrl": "https://rilegislature.gov/Pages/CommitteeMembers.aspx?ComChoiceR=HVET&CommitteeName=Veterans%27%20Affairs"
+  }
+]

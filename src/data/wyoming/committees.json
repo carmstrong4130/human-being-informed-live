@@ -1,0 +1,514 @@
+[
+  {
+    "id": "ocd-organization/3d1dc2c7-d71c-4bf5-a4c2-8dadc7154093",
+    "name": "Agriculture, State and Public Lands and Water Resources",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
+      "ocd-person/416ee113-2983-43ab-bf24-3d7134767b41",
+      "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2",
+      "ocd-person/e79049b8-a6d9-4356-a190-fc1e90837d5d",
+      "ocd-person/970ff542-b60c-4a3b-bd63-492a38a0a878",
+      "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+      "ocd-person/c6b78357-5a9d-41e9-b947-1d81227b0f15",
+      "ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629",
+      "ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d",
+      "ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064",
+      "ocd-person/e6276406-b441-4265-a110-7e3f9b8b0e3f",
+      "ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57",
+      "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J05"
+  },
+  {
+    "id": "ocd-organization/0f7ee687-6092-4353-bf13-bf75ae23c992",
+    "name": "Air Transportation Liaison",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3198aa67-829e-4827-8b26-8955cbf36f4a",
+      "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
+      "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "ocd-person/c0c75f8e-6d58-4197-9076-154528191d47",
+      "ocd-person/64428f70-4a9b-453d-b2f5-bbbdcdb370e5",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SAT"
+  },
+  {
+    "id": "ocd-organization/d0957bf5-4c9b-4f27-b7ea-cff09cc7b228",
+    "name": "Appropriations",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+      "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e",
+      "ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd",
+      "ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839",
+      "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+      "ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181",
+      "ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+      "ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48",
+      "ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff",
+      "ocd-person/057afdb5-3c0e-4503-b6cd-50ba6df1aaab",
+      "ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J02"
+  },
+  {
+    "id": "ocd-organization/1d79190a-dfa9-4ffd-80a9-d332d36e1e3a",
+    "name": "Blockchain, Financial Technology and Digital Innovation Technology Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c",
+      "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db",
+      "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
+      "ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd",
+      "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/S19"
+  },
+  {
+    "id": "ocd-organization/5b448c0a-626b-4ca4-b2e1-1928a96e1b48",
+    "name": "Capital Financing and Investments Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
+      "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+      "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
+      "ocd-person/6ff4eff9-e68c-42a1-9aa5-b964daa37a89",
+      "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db",
+      "ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181",
+      "ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5",
+      "ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+      "ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48",
+      "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SCF"
+  },
+  {
+    "id": "ocd-organization/aa4325c2-de5a-449a-99e2-3c89547fd240",
+    "name": "Corporations, Elections and Political Subdivisions",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251",
+      "ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a",
+      "ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1",
+      "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f",
+      "ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d",
+      "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+      "ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f",
+      "ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822",
+      "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2",
+      "ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a",
+      "ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064",
+      "ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J07"
+  },
+  {
+    "id": "ocd-organization/49233d71-d8ee-4f6d-afd9-c3521cb58cdf",
+    "name": "Education",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d811f813-1093-449a-a4dc-5d02c704ee49",
+      "ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe",
+      "ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c",
+      "ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c",
+      "ocd-person/fc63a597-e32a-4c94-a2f2-7420f7836aeb",
+      "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
+      "ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9",
+      "ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56",
+      "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
+      "ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163",
+      "ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4",
+      "ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J04"
+  },
+  {
+    "id": "ocd-organization/5e9b1ad1-c121-4659-9ffd-c6b1ae9b4a71",
+    "name": "Federal Natural Resource Management Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
+      "ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251",
+      "ocd-person/8ddb8078-482c-4df5-983d-ece9e5825cc2",
+      "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+      "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+      "ocd-person/f3fe63a7-b938-41c4-b2f5-b4069949a163"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SFR"
+  },
+  {
+    "id": "ocd-organization/8feafb56-d282-4dfe-bca4-51f2a002632c",
+    "name": "Gaming Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
+      "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
+      "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822",
+      "ocd-person/51b4d190-c5b4-4860-acb9-a6569f26e064",
+      "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2025/S44"
+  },
+  {
+    "id": "ocd-organization/a8e3bd0e-0bfe-4ceb-962b-ac9a7bc111ed",
+    "name": "Health Insurance Affordability Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a",
+      "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
+      "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5",
+      "ocd-person/219dcec3-8f83-401b-91df-1a79ac725889",
+      "ocd-person/e6276406-b441-4265-a110-7e3f9b8b0e3f"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2026/S50"
+  },
+  {
+    "id": "ocd-organization/bad0347b-50fb-46e5-a0dd-4f584a49ff8d",
+    "name": "Journal",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "ocd-person/64428f70-4a9b-453d-b2f5-bbbdcdb370e5",
+      "ocd-person/df82de40-cf5b-4197-b276-5e5982146849",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/J11"
+  },
+  {
+    "id": "ocd-organization/479af9ab-dbd2-4b33-b06a-ac5dfa3d4ff0",
+    "name": "Judiciary",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4",
+      "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
+      "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "ocd-person/0a177e23-5f49-46dd-bc32-b2403ea7124c",
+      "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
+      "ocd-person/19e421d2-03a4-4a0a-86e8-b18b63d13822",
+      "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
+      "ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd",
+      "ocd-person/286af01e-ace3-4de2-b1c3-44756370d932",
+      "ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56",
+      "ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd",
+      "ocd-person/b2d0dc89-4104-4f6e-a1eb-bbc9dafbefa9",
+      "ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J01"
+  },
+  {
+    "id": "ocd-organization/fc6114c0-6648-49ce-b8ba-86b9b27136c0",
+    "name": "Labor, Health and Social Services",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c",
+      "ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d",
+      "ocd-person/a3ddc445-efa1-4c0c-809a-d21fc383fa59",
+      "ocd-person/9fe08ab5-b31c-4f7b-bb23-c7aff3cd3e4d",
+      "ocd-person/ff389664-aac3-4241-abc7-3a8e781e5989",
+      "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "ocd-person/b598ad4e-6124-4863-ac74-dbb13630e7db",
+      "ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9",
+      "ocd-person/15ae95ba-274d-4b7b-a2c7-a5cfb5e2b089",
+      "ocd-person/b91459e7-2049-4cf9-8b0b-f769ce373613",
+      "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "ocd-person/4e09e885-4101-4e95-8560-17d35caad18c",
+      "ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a",
+      "ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J10"
+  },
+  {
+    "id": "ocd-organization/958db4ff-696f-43cc-99f5-aa7d4a09ff22",
+    "name": "Legislative Facilities, Technology and Process Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251",
+      "ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2",
+      "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/2a0be03f-4f0a-4b2e-850b-50b4d0dade13",
+      "ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SFT"
+  },
+  {
+    "id": "ocd-organization/85ba7c85-a81e-40c2-a447-868607f869e7",
+    "name": "Management Audit",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a",
+      "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+      "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+      "ocd-person/63e25ff3-1832-45c8-a9af-669bb74a3aa4",
+      "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
+      "ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea",
+      "ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337",
+      "ocd-person/b2265fcb-f768-4617-ad03-15f5b65af79f",
+      "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SMA"
+  },
+  {
+    "id": "ocd-organization/1d713897-1811-4eb4-a627-09b6b3f20148",
+    "name": "Management Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
+      "ocd-person/b9414bc4-f900-474b-b99c-8f2716419683",
+      "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181",
+      "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+      "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768",
+      "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
+      "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/SMC"
+  },
+  {
+    "id": "ocd-organization/28ccd416-9ac7-4869-9a13-b015ff4469e4",
+    "name": "Minerals, Business and Economic Development",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0",
+      "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768",
+      "ocd-person/ffe52a1f-bc33-424a-bd8c-a2df967ac83a",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/13022d64-c748-4603-b60e-bd176383b8f1",
+      "ocd-person/25e8e592-1425-4e8d-bcce-97ec84ef66c3",
+      "ocd-person/2a0be03f-4f0a-4b2e-850b-50b4d0dade13",
+      "ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733",
+      "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
+      "ocd-person/4c9350f0-084c-4ba2-be0d-9ee0b5f6c629",
+      "ocd-person/86d51e65-7fef-49ff-a19a-60984fe2fab2",
+      "ocd-person/8b636fd9-d6e2-4369-9764-c56803244076",
+      "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
+      "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J09"
+  },
+  {
+    "id": "ocd-organization/a8e479cc-f4ff-456c-82bf-8d09f0fd558e",
+    "name": "Natural Resource Funding Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c6578593-1ca0-4b7d-8635-67249df87c36",
+      "ocd-person/fc63a597-e32a-4c94-a2f2-7420f7836aeb",
+      "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "ocd-person/13022d64-c748-4603-b60e-bd176383b8f1",
+      "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+      "ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SNR"
+  },
+  {
+    "id": "ocd-organization/3859d0e9-5b0b-4eb5-a1a6-1fb6a1c8ec7d",
+    "name": "Revenue",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0cd9d0d3-09eb-4cf1-8e5b-bfc15a71b337",
+      "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09",
+      "ocd-person/4665c34f-70f5-4bc0-af49-0239e0e907a1",
+      "ocd-person/6d1c2665-46ea-444d-b88b-b22e2623e660",
+      "ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251",
+      "ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251",
+      "ocd-person/0df4327b-df46-4886-ab09-0c8a55639548",
+      "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+      "ocd-person/472c50ea-da65-42c3-a9b3-3639a9881a7f",
+      "ocd-person/25e8e592-1425-4e8d-bcce-97ec84ef66c3",
+      "ocd-person/89408a3a-ae27-4a8d-aa93-0050a48cf93d",
+      "ocd-person/e6242790-9cdf-48ec-a5d3-aae3e5439733",
+      "ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61",
+      "ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J03"
+  },
+  {
+    "id": "ocd-organization/f9f6c3f7-8768-4524-aa39-5c7b77d6eda5",
+    "name": "Rules and Procedure",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
+      "ocd-person/b9414bc4-f900-474b-b99c-8f2716419683",
+      "ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd",
+      "ocd-person/2f0d84dc-df29-4c3d-83ea-aa56beca9839",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/b9bbea38-a84b-4173-a599-cd9f5500b181",
+      "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+      "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+      "ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd",
+      "ocd-person/b7a5cb78-6473-4b7b-9c27-90c8ab2130a5",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+      "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "ocd-person/2fc47a70-0bf7-4d7c-bda2-5cdbf75a99ea",
+      "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768",
+      "ocd-person/201b5fe9-4060-4dfa-ae2c-c59a3a3120ff",
+      "ocd-person/1f6a3489-e152-487f-852a-23fc40a22185",
+      "ocd-person/f20c9c17-f2bd-4c88-9f6f-208af6a61f26",
+      "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J12"
+  },
+  {
+    "id": "ocd-organization/188a1227-effe-4120-95b9-4bfd9aed2c6b",
+    "name": "School Facilities Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "ocd-person/9995703e-90eb-4d20-a2f6-bfd9542102bd",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/5395223c-9b56-410d-b18f-978d9e2a07a9",
+      "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+      "ocd-person/5eabff67-a57e-4fd5-b62c-3072d0374d56",
+      "ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a",
+      "ocd-person/219dcec3-8f83-401b-91df-1a79ac725889",
+      "ocd-person/e6276406-b441-4265-a110-7e3f9b8b0e3f",
+      "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SSF"
+  },
+  {
+    "id": "ocd-organization/1e707321-a284-41b1-86d5-56a425721949",
+    "name": "School Finance Recalibration Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768",
+      "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e",
+      "ocd-person/016465da-4d49-4ffc-8bb0-cf9528bc6d0e",
+      "ocd-person/b9414bc4-f900-474b-b99c-8f2716419683",
+      "ocd-person/510546dd-c3ca-4ce4-9342-f77e05712f2e",
+      "ocd-person/7f287d7d-8f05-4116-8bcf-33174ecf1e9c",
+      "ocd-person/931a9e71-33a6-4e65-be91-703ad612447e",
+      "ocd-person/28649646-1108-4954-9381-4aa2d3b6f31b",
+      "ocd-person/d811f813-1093-449a-a4dc-5d02c704ee49",
+      "ocd-person/312edf5d-1dad-475a-b3bd-4b58f5f98ad4",
+      "ocd-person/c1525bf9-8a43-4807-b72a-e42f94267b09",
+      "ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2025/SSR"
+  },
+  {
+    "id": "ocd-organization/9452bdc1-6524-48ca-9cc7-68e471cc892f",
+    "name": "Special Investigative",
+    "chamber": "house",
+    "members": [
+      "ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4",
+      "ocd-person/df82de40-cf5b-4197-b276-5e5982146849",
+      "ocd-person/970ff542-b60c-4a3b-bd63-492a38a0a878",
+      "ocd-person/65ae499e-9549-42e2-ab16-65b56eb0f8ab",
+      "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
+      "ocd-person/8b636fd9-d6e2-4369-9764-c56803244076",
+      "ocd-person/232d6600-4cfd-40a1-abb9-8a1eecd84768"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2026/S49"
+  },
+  {
+    "id": "ocd-organization/23f77d2f-ce68-4228-b8f8-e2559db580f1",
+    "name": "State Shooting Complex Oversight Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/394ba273-63d7-409d-90cd-5d183e750ea4",
+      "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+      "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
+      "ocd-person/d110d38a-8f1f-4056-b89d-d7d46613c72a"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/S35"
+  },
+  {
+    "id": "ocd-organization/b54785c5-65dd-4b06-9d39-405285fb9b6f",
+    "name": "Transportation, Highways and Military Affairs",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7052600a-c1b3-484d-80a3-232fc9815d7c",
+      "ocd-person/f46abbfe-3a0a-4657-a4ac-fbc418adfcc7",
+      "ocd-person/6ff4eff9-e68c-42a1-9aa5-b964daa37a89",
+      "ocd-person/9b6e58cd-4dbc-4554-a677-b362c913c069",
+      "ocd-person/ff389664-aac3-4241-abc7-3a8e781e5989",
+      "ocd-person/13022d64-c748-4603-b60e-bd176383b8f1",
+      "ocd-person/afa67bb0-3191-4dce-94ab-ddb3a9e7475c",
+      "ocd-person/df82de40-cf5b-4197-b276-5e5982146849",
+      "ocd-person/f40c41d5-b371-49c5-a597-db8435e613a0",
+      "ocd-person/a8a05d47-8306-4f20-a848-02c92db1fffe",
+      "ocd-person/be3b0a04-4e00-42e4-9202-5c8f68aacedd",
+      "ocd-person/6466bd0e-d531-4ac0-8667-3e7f34a32f9a",
+      "ocd-person/8b636fd9-d6e2-4369-9764-c56803244076",
+      "ocd-person/219dcec3-8f83-401b-91df-1a79ac725889"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J08"
+  },
+  {
+    "id": "ocd-organization/990c6605-37c9-4b97-83c5-2dace3dd9f20",
+    "name": "Travel, Recreation, Wildlife and Cultural Resources",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3198aa67-829e-4827-8b26-8955cbf36f4a",
+      "ocd-person/e0c25487-a7fb-406b-b637-c3a4de3c6770",
+      "ocd-person/bc53e98d-bd3c-4a67-9822-68e609f45251",
+      "ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f",
+      "ocd-person/c0c75f8e-6d58-4197-9076-154528191d47",
+      "ocd-person/64428f70-4a9b-453d-b2f5-bbbdcdb370e5",
+      "ocd-person/588c810c-0a65-475b-9593-46fa556cb962",
+      "ocd-person/286af01e-ace3-4de2-b1c3-44756370d932",
+      "ocd-person/7d3ea3c1-de6a-433f-83e2-c53dde09be61",
+      "ocd-person/65ae499e-9549-42e2-ab16-65b56eb0f8ab",
+      "ocd-person/4e09e885-4101-4e95-8560-17d35caad18c",
+      "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
+      "ocd-person/1f6a3489-e152-487f-852a-23fc40a22185",
+      "ocd-person/6dd13000-c423-47d8-9fbb-3cbcf730d7fe"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2023/J06"
+  },
+  {
+    "id": "ocd-organization/bf2144d7-3e75-425b-a636-39183940a71f",
+    "name": "Tribal Relations Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0b07cbe8-73ba-4371-9acb-95cb7ecf6251",
+      "ocd-person/df82de40-cf5b-4197-b276-5e5982146849",
+      "ocd-person/afa67bb0-3191-4dce-94ab-ddb3a9e7475c",
+      "ocd-person/39076643-ca3a-47d2-888e-d944eb4f5de9",
+      "ocd-person/9c9a9e1b-8107-40ac-b667-a8e75c5f806d",
+      "ocd-person/4f702d02-54ad-4143-837a-09be9a03ee6e"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/STR"
+  },
+  {
+    "id": "ocd-organization/90d82896-47c6-4676-a826-75c9d7057a39",
+    "name": "Water Select",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c954b74f-1933-4be4-801d-cc93f7f37ac0",
+      "ocd-person/cfed8eb6-ad00-4414-9ceb-bd5d46c5974f",
+      "ocd-person/416ee113-2983-43ab-bf24-3d7134767b41",
+      "ocd-person/982cdb50-2a81-47b4-97e8-cf80b92d1412",
+      "ocd-person/84464d31-bdbb-4687-9757-27794e64d319",
+      "ocd-person/2a0be03f-4f0a-4b2e-850b-50b4d0dade13",
+      "ocd-person/970ff542-b60c-4a3b-bd63-492a38a0a878",
+      "ocd-person/dcc60e43-41b3-44ef-976c-0604a295b9cd",
+      "ocd-person/587874e4-f0c9-4679-aa08-a2442b7d33b1",
+      "ocd-person/e72a31cf-cefd-42c1-9620-967af32a2f48",
+      "ocd-person/343a76eb-5672-433a-9d39-f34b6f683cab",
+      "ocd-person/d1ac363d-41ed-4c2c-a661-6e400d0b7d57"
+    ],
+    "officialUrl": "https://www.wyoleg.gov/Committees/2024/SWC"
+  }
+]

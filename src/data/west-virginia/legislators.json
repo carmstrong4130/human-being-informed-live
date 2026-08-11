@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "ocd-person/76544899-58ec-4065-a3e8-4a4d8a12b4eb",
+    "name": "Adam Burkhammer",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Burkhammer",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/burkhammer_adam.jpg"
+  },
+  {
+    "id": "ocd-person/c15b4eb1-1dc4-498f-9929-43ff34445317",
+    "name": "Adam Vance",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vance",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/vance_adam.jpg"
+  },
+  {
+    "id": "ocd-person/57c08164-a673-4269-84d9-6017e740eaac",
+    "name": "Amy Grady",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Grady",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/senate/grady_amy.jpg"
+  },
+  {
+    "id": "ocd-person/e6deff1e-fb70-4bf0-a2b6-9c30567fcd9d",
+    "name": "Andy Shamblin",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Shamblin",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/shamblin_andy.jpg"
+  },
+  {
+    "id": "ocd-person/86a1fdf7-e6af-41b4-8d69-0d0815fc9512",
+    "name": "Anitra Hamilton",
+    "chamber": "house",
+    "party": "D",
+    "district": "81",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hamilton",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/hamilton_anitra.jpg"
+  },
+  {
+    "id": "ocd-person/37bf9de9-84b5-4983-8742-a5c3eeeca64a",
+    "name": "Anne Charnock",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Charnock",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/charnock_anne.jpg"
+  },
+  {
+    "id": "ocd-person/de50d28d-6a58-4244-8c74-36ca3f41767a",
+    "name": "Ben Queen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Queen",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2023/senate/queen_ben.jpg"
+  },
+  {
+    "id": "ocd-person/ffd4b452-510d-48f0-ac07-51af538b46f0",
+    "name": "Betsy Kelly",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kelly",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/kelly_betsy.jpg"
+  },
+  {
+    "id": "ocd-person/b5b3734c-fa9f-422b-b0d4-ce8b2b2624c5",
+    "name": "Bill Anderson",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anderson",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2022/house/anderson_bill.jpg"
+  },
+  {
+    "id": "ocd-person/4d4f0511-706a-406b-9259-05c4008d8b64",
+    "name": "Bill Bell",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bell",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/bell_bill.jpg"
+  },
+  {
+    "id": "ocd-person/84ae4ee5-01d1-402d-8267-787a78dd58e5",
+    "name": "Bill Flanigan",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Flanigan",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/flanigan_bill.jpg"
+  },
+  {
+    "id": "ocd-person/8bd21671-34c1-4ba3-aced-0dcaa110029c",
+    "name": "Bill Hamilton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Hamilton",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/senate/hamilton_bill.jpg"
+  },
+  {
+    "id": "ocd-person/ad2e5607-a6ef-4458-88fc-bea91da19ac6",
+    "name": "Bill Ridenour",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ridenour",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/ridenour_bill.jpg"
+  },
+  {
+    "id": "ocd-person/9f35a509-bd40-4ed2-8792-407169b7a944",
+    "name": "Bill Roop",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Roop",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/roop_carl.jpg"
+  },
+  {
+    "id": "ocd-person/a70a295b-82a5-44a0-ba22-a462823f7abb",
+    "name": "Bob Fehrenbacher",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fehrenbacher",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/fehrenbacher_bob.jpg"
+  },
+  {
+    "id": "ocd-person/be5e24ac-6372-4364-a9b0-2e9b33a1a234",
+    "name": "Brian Helton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Helton",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/helton_brian.jpg"
+  },
+  {
+    "id": "ocd-person/9cdbf48f-3fd5-4147-9f26-a78632d99929",
+    "name": "Bryan Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith,%20B.",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/smith_bryan.jpg"
+  },
+  {
+    "id": "ocd-person/6e588e9a-4d48-444d-92b4-629e00900440",
+    "name": "Bryan Ward",
+    "chamber": "house",
+    "party": "R",
+    "district": "86",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/ward_bryan.jpg"
+  },
+  {
+    "id": "ocd-person/34e1e6dd-469b-4e3d-9cc5-604bffe79730",
+    "name": "Buck Jennings",
+    "chamber": "house",
+    "party": "R",
+    "district": "84",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jennings",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/jennings_d.jpg"
+  },
+  {
+    "id": "ocd-person/8941d02d-cee0-47a4-9c68-de73382b20af",
+    "name": "Charles Clements",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Clements",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/senate/clements_charles.jpg"
+  },
+  {
+    "id": "ocd-person/7ad5da9a-c2b3-4f9b-b62c-6cd7f0564f43",
+    "name": "Chris Anders",
+    "chamber": "house",
+    "party": "R",
+    "district": "97",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Anders",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/anders_chris.jpg"
+  },
+  {
+    "id": "ocd-person/eb6d633a-5526-413b-872d-bd36f4d9a906",
+    "name": "Chris Phillips",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Phillips",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2019/house/phillips_chris.jpg"
+  },
+  {
+    "id": "ocd-person/9c82f11d-28f2-4167-b10c-26815533f73a",
+    "name": "Chris Rose",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rose",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/rose_chris.jpg"
+  },
+  {
+    "id": "ocd-person/cdd73d73-98d4-43f0-9eec-a030c4ce080f",
+    "name": "Chris Toney",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Toney",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/toney_christopher.jpg"
+  },
+  {
+    "id": "ocd-person/1f91d255-ce76-40b4-86fd-f9412407f869",
+    "name": "Chuck Horst",
+    "chamber": "house",
+    "party": "R",
+    "district": "95",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Horst",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/horst_chuck.jpg"
+  },
+  {
+    "id": "ocd-person/338acc2a-d910-4c29-aa94-bf39fbebdeec",
+    "name": "Chuck Sheedy",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Sheedy",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/sheedy_charles.jpg"
+  },
+  {
+    "id": "ocd-person/cf728c9e-40e8-4f73-a5fa-0d46844aa38e",
+    "name": "Clay Riley",
+    "chamber": "house",
+    "party": "R",
+    "district": "72",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Riley",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/riley_clay.jpg"
+  },
+  {
+    "id": "ocd-person/e05b927b-a702-4143-87b2-79a8c81d4eee",
+    "name": "Corby Dillon",
+    "chamber": "house",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dillon",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/dillon_henry.jpg"
+  },
+  {
+    "id": "ocd-person/e304d393-2b0a-45c3-9f59-98455e0d73a0",
+    "name": "Craig Hart",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.wvlegislature.gov/senate1/lawmaker.cfm?member=Senator%20Hart",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/hart_craig.jpg"
+  },
+  {
+    "id": "ocd-person/6c7fa52c-c313-4f10-aab9-ba9cc0269743",
+    "name": "Dana Ferrell",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ferrell",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/ferrell_dana.jpg"
+  },
+  {
+    "id": "ocd-person/32c4e5cf-81f5-4564-bb9b-568d13156dec",
+    "name": "Daniel Linville",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Linville",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/linville_daniel.jpg"
+  },
+  {
+    "id": "ocd-person/60b7f294-2c42-40ab-ab7d-2a639e5be5e5",
+    "name": "Darren Thorne",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Thorne",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/thorne_darren.jpg"
+  },
+  {
+    "id": "ocd-person/9ad2e11c-daf4-4f33-9c2d-0075beaeada8",
+    "name": "Dave Foggin",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Foggin",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/foggin_dave.jpg"
+  },
+  {
+    "id": "ocd-person/297732cd-3e12-4ce1-b6ca-7e046d8b3e46",
+    "name": "Dave McCormick",
+    "chamber": "house",
+    "party": "R",
+    "district": "82",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McCormick",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/mccormick_david.jpg"
+  },
+  {
+    "id": "ocd-person/79e71ddf-33fc-4e28-8324-dd52aaa0e653",
+    "name": "David Cannon",
+    "chamber": "house",
+    "party": "R",
+    "district": "89",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon,%20D.",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/cannon_david.jpg"
+  },
+  {
+    "id": "ocd-person/b0526275-df8b-4f42-b16b-064aa721a858",
+    "name": "David Green",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Green",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/green_david.jpg"
+  },
+  {
+    "id": "ocd-person/94a511d8-31ee-4f7d-9227-005b143f9c47",
+    "name": "Dean Jeffries",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jeffries",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2022/house/jeffries_dean.jpg"
+  },
+  {
+    "id": "ocd-person/43f0eeae-cf06-4d8b-a568-03e63c72b796",
+    "name": "Donald Bennett",
+    "chamber": "house",
+    "party": "R",
+    "district": "94",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bennett",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/bennett_donald.jpg"
+  },
+  {
+    "id": "ocd-person/70ac0a53-79d8-426b-950b-83e9be022bf3",
+    "name": "Doug Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Smith",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/smith_doug.jpg"
+  },
+  {
+    "id": "ocd-person/0714e7e4-9da4-46bf-a8f5-e48be1af2242",
+    "name": "El\\xEDas Coop-Gonz\\xE1lez",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Coop-Gonzalez",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/coopgonzalez_elias.jpg"
+  },
+  {
+    "id": "ocd-person/d7f119af-3e41-40a1-9541-bfa1a1e7a9b4",
+    "name": "Elliott Pritt",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/pritt_david.jpg"
+  },
+  {
+    "id": "ocd-person/db5d813b-3cd2-4a6d-b656-b48624f61094",
+    "name": "Eric Brooks",
+    "chamber": "house",
+    "party": "R",
+    "district": "45",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Brooks",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/brooks_eric.jpg"
+  },
+  {
+    "id": "ocd-person/18d03332-9bd9-4070-9101-6cf93ab2105e",
+    "name": "Eric Tarr",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Tarr",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/tarr_eric.jpg"
+  },
+  {
+    "id": "ocd-person/74fee589-c9e9-4dd7-a719-d9b165b2b2c7",
+    "name": "Erica Moore",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Moore",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/moore_erica.jpg"
+  },
+  {
+    "id": "ocd-person/10dbdccd-3754-49b8-ae28-8f75c4d6936f",
+    "name": "Evan Hansen",
+    "chamber": "house",
+    "party": "D",
+    "district": "79",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hansen",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2019/house/hansen_evan.jpg"
+  },
+  {
+    "id": "ocd-person/b875b7d6-4941-42a6-bcdf-c5da19bf0ced",
+    "name": "Evan Worrell",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Worrell",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/worrell_evan.jpg"
+  },
+  {
+    "id": "ocd-person/405fa851-873f-4895-acd5-d394fbb06be3",
+    "name": "Gary Howell",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/howell_gary.jpg"
+  },
+  {
+    "id": "ocd-person/409397ae-ceea-4b1b-bce5-b042af057232",
+    "name": "Geno Chiarelli",
+    "chamber": "house",
+    "party": "R",
+    "district": "78",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Chiarelli",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/chiarelli_geno.jpg"
+  },
+  {
+    "id": "ocd-person/5bb7ff93-88f4-42ec-ba11-6921dead66a1",
+    "name": "George Miller",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Miller",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/miller_george.jpg"
+  },
+  {
+    "id": "ocd-person/2ee0335d-f067-4ca3-99ce-e10944fa8875",
+    "name": "George Street",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Street",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/street_george.jpg"
+  },
+  {
+    "id": "ocd-person/de2f5e4b-192a-463d-91b0-73f212e8f953",
+    "name": "Glenn Jeffries",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Jeffries",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/jeffries_glenn.jpg"
+  },
+  {
+    "id": "ocd-person/c66e0d8a-9d20-47ce-8d45-50d4b5aaa0d3",
+    "name": "Greg Watt",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Watt",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/watt_gregory.jpg"
+  },
+  {
+    "id": "ocd-person/1495b97d-e012-4f6f-84b9-3e1d67b8a016",
+    "name": "Guy Ward",
+    "chamber": "house",
+    "party": "R",
+    "district": "74",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ward,%20G.",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/ward_guy.jpg"
+  },
+  {
+    "id": "ocd-person/68163122-16de-4528-8eda-fd1f9783c45d",
+    "name": "Hollis Lewis",
+    "chamber": "house",
+    "party": "D",
+    "district": "57",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Lewis",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2023/house/lewis_hollis.jpg"
+  },
+  {
+    "id": "ocd-person/f8921713-413e-4f72-8291-464f2cef3f7b",
+    "name": "Ian Masters",
+    "chamber": "house",
+    "party": "R",
+    "district": "91",
+    "bioUrl": "https://www.wvlegislature.gov/house/lawmaker.cfm?member=Delegate%20Masters",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/masters_ian.jpg"
+  },
+  {
+    "id": "ocd-person/33e56ab1-3106-45fa-a992-fab181983a99",
+    "name": "J.B. Akers",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://www.wvlegislature.gov/house/lawmaker.cfm?member=Delegate%20Akers",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/akers_james.jpg"
+  },
+  {
+    "id": "ocd-person/b4df4940-ac0e-4e1a-ba3c-940d604b4ad2",
+    "name": "Jack Woodrum",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Woodrum",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/woodrum_jack.jpg"
+  },
+  {
+    "id": "ocd-person/e617259d-e2c9-4043-a759-321c7e3ff7f0",
+    "name": "Jarred Cannon",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cannon",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2022/house/cannon_jarred.jpg"
+  },
+  {
+    "id": "ocd-person/bcbe03de-3df0-4c07-8973-0304dafa2cb8",
+    "name": "Jason Barrett",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barrett",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/barrett_jason.jpg"
+  },
+  {
+    "id": "ocd-person/a7ae16a1-8a1e-4280-8d00-9125719a893e",
+    "name": "Jay Taylor",
+    "chamber": "senate",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Taylor",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/taylor_jay.jpg"
+  },
+  {
+    "id": "ocd-person/81cad520-b015-42c8-b533-64a9e4596197",
+    "name": "Jeff Campbell",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Campbell",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/campbell_jeff.jpg"
+  },
+  {
+    "id": "ocd-person/e43a22ad-b630-496b-81f8-6b1f6ceaa13e",
+    "name": "Jeff Eldridge",
+    "chamber": "house",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Eldridge",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/eldridge_jeff.jpg"
+  },
+  {
+    "id": "ocd-person/0092e49c-3dfe-4a2b-b053-e7a0360accf1",
+    "name": "Jeff Stephens",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Stephens",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2023/house/stephens_jeffrey.jpg"
+  },
+  {
+    "id": "ocd-person/905290bd-c655-4a3d-9961-65a2f9c0e271",
+    "name": "Jim Butler",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Butler",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/butler_jim.jpg"
+  },
+  {
+    "id": "ocd-person/5a2928e1-3371-480d-be6f-1c3133de4609",
+    "name": "Jimmy Willis",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Willis",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/willis_jimmy.jpg"
+  },
+  {
+    "id": "ocd-person/fe6a6b8e-91f2-427f-9060-2cac2b9eb66c",
+    "name": "Joe Ellington",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Ellington",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2023/house/ellington_joe.jpg"
+  },
+  {
+    "id": "ocd-person/c93039e0-7c57-4289-9447-466f56bba802",
+    "name": "Joe Funkhouser",
+    "chamber": "house",
+    "party": "R",
+    "district": "98",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Funkhouser",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/funkhouser_joe.jpg"
+  },
+  {
+    "id": "ocd-person/e2f71bb6-832a-46f3-8247-5e2c16685fe1",
+    "name": "Joe Parsons",
+    "chamber": "house",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Parsons",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/parsons_frederick.jpg"
+  },
+  {
+    "id": "ocd-person/79271821-3d79-4f99-bba3-a147779bb3d0",
+    "name": "Joe Statler",
+    "chamber": "house",
+    "party": "R",
+    "district": "77",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Statler",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/statler_joe.jpg"
+  },
+  {
+    "id": "ocd-person/387d11ce-ecf1-4c80-a338-bd8c86f52004",
+    "name": "Joey Garcia",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/garcia_joey.jpg"
+  },
+  {
+    "id": "ocd-person/642a1eab-3a94-4d91-b1ff-5fc5e720cb06",
+    "name": "John Jordan",
+    "chamber": "house",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Jordan",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/jordan_john.jpg"
+  },
+  {
+    "id": "ocd-person/06c041be-0a45-4bfe-8e2d-49055af1205f",
+    "name": "John Paul Hott",
+    "chamber": "house",
+    "party": "R",
+    "district": "85",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hott",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/hott_john.jpg"
+  },
+  {
+    "id": "ocd-person/2c8a36d4-5afa-4b68-a6a0-1a9b170401b0",
+    "name": "John Williams",
+    "chamber": "house",
+    "party": "D",
+    "district": "80",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Williams",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/williams_john.jpg"
+  },
+  {
+    "id": "ocd-person/e83c168f-6725-47ea-ac8d-7dbadc6736c7",
+    "name": "Jonathan Kyle",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kyle",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/kyle_jonathan.jpg"
+  },
+  {
+    "id": "ocd-person/a71cd621-aa1e-4338-b0bd-ca9f7a03f667",
+    "name": "Jonathan Pinson",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pinson",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/pinson_jonathan.jpg"
+  },
+  {
+    "id": "ocd-person/be682c29-e66f-4a19-89cc-761c60330eea",
+    "name": "Jordan Bridges",
+    "chamber": "house",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bridges",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/bridges_jordan.jpg"
+  },
+  {
+    "id": "ocd-person/487dd54b-3091-4b0e-b798-0df99523b4c6",
+    "name": "Jordan Maynor",
+    "chamber": "house",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Maynor",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/maynor_jordan.jpg"
+  },
+  {
+    "id": "ocd-person/9d8c89be-2ece-4dff-8a6d-65dccb8e647e",
+    "name": "Josh Holstein",
+    "chamber": "house",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Holstein",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/holstein_josh.jpg"
+  },
+  {
+    "id": "ocd-person/0686b8e2-2d6a-4950-b3c3-0dbfe5a6e719",
+    "name": "Kathie Hess Crouse",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Crouse",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/crouse_kathie.jpg"
+  },
+  {
+    "id": "ocd-person/3317959e-9fbd-40dc-aa7a-0f0a9cc06c3f",
+    "name": "Kayla Young",
+    "chamber": "house",
+    "party": "D",
+    "district": "56",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Young",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/young_kayla.jpg"
+  },
+  {
+    "id": "ocd-person/13a851e4-7ecb-4609-bd19-3bd4ff7fbc1c",
+    "name": "Keith Marple",
+    "chamber": "house",
+    "party": "R",
+    "district": "69",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Marple",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/marple_keith.jpg"
+  },
+  {
+    "id": "ocd-person/bf1213a4-9f13-4c3e-a900-c1722909f8a6",
+    "name": "Kevan Bartlett",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Bartlett",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2019/house/bartlett_t.jpg"
+  },
+  {
+    "id": "ocd-person/599fd572-0475-4215-8d43-1474237f5a78",
+    "name": "Laura Chapman",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Chapman",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/chapman_laura.jpg"
+  },
+  {
+    "id": "ocd-person/ce1e7053-19d4-4405-8e31-f5c39af87ae9",
+    "name": "Laura Kimble",
+    "chamber": "house",
+    "party": "R",
+    "district": "71",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Kimble",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/kimble_laura.jpg"
+  },
+  {
+    "id": "ocd-person/7ae7ca12-88dc-4387-a9ee-49295af32fb7",
+    "name": "Lisa White",
+    "chamber": "house",
+    "party": "R",
+    "district": "96",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20White",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/white_lisa.jpg"
+  },
+  {
+    "id": "ocd-person/3f45442d-ffd9-4566-a661-42efa25f8e18",
+    "name": "Lori Dittman",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dittman",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/dittman_lori.jpg"
+  },
+  {
+    "id": "ocd-person/92599af8-32f7-4aa4-bab2-8c7b461f54a5",
+    "name": "Margitta Mazzocchi",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Mazzocchi",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/mazzocchi_margitta.jpg"
+  },
+  {
+    "id": "ocd-person/2461647c-b7dc-4df2-b1b8-6acee9700b7c",
+    "name": "Mark Dean",
+    "chamber": "house",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Dean",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/dean_mark.jpg"
+  },
+  {
+    "id": "ocd-person/e98e90d4-7e6d-47e0-b837-6f5f8b492d9c",
+    "name": "Mark Maynard",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Maynard",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/maynard_mark.jpg"
+  },
+  {
+    "id": "ocd-person/af0b8606-3832-40d4-91e2-3b71975e4b8f",
+    "name": "Mark Zatezalo",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Zatezalo",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/zatezalo_mark.jpg"
+  },
+  {
+    "id": "ocd-person/6a8371d3-32ba-4997-9cd4-ad26bafab694",
+    "name": "Marshall Clay",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clay",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/clay_marshall.jpg"
+  },
+  {
+    "id": "ocd-person/c56adc82-a476-4d3c-bd7f-51b2257b0032",
+    "name": "Marty Gearheart",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Gearheart",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/gearheart_marty.jpg"
+  },
+  {
+    "id": "ocd-person/074a2aa9-d012-437a-8d59-d3f4b9d73905",
+    "name": "Matthew Rohrbach",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Rohrbach",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/rohrbach_matthew.jpg"
+  },
+  {
+    "id": "ocd-person/3d5db222-66fb-4f3a-a178-d12246697654",
+    "name": "Michael Amos",
+    "chamber": "house",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Amos",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/amos_michael.jpg"
+  },
+  {
+    "id": "ocd-person/354b56ae-dee4-4536-879e-cfb0d80b4069",
+    "name": "Mickey Petitto",
+    "chamber": "house",
+    "party": "R",
+    "district": "70",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Petitto",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/petitto_mickey.jpg"
+  },
+  {
+    "id": "ocd-person/8fe81e26-b0ce-4349-a3e3-91d25247b980",
+    "name": "Mike Azinger",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Azinger",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/azinger_michael.jpg"
+  },
+  {
+    "id": "ocd-person/0ef791a3-2e24-4751-8686-21ffac958ce0",
+    "name": "Mike Hite",
+    "chamber": "house",
+    "party": "R",
+    "district": "92",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hite",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/hite_michael.jpg"
+  },
+  {
+    "id": "ocd-person/b76899a3-5189-495c-af2f-9ca8a4e8036e",
+    "name": "Mike Hornby",
+    "chamber": "house",
+    "party": "R",
+    "district": "93",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornby",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/hornby_mike.jpg"
+  },
+  {
+    "id": "ocd-person/c00003a6-3518-496e-b972-fd5aa566d4c4",
+    "name": "Mike Oliverio",
+    "chamber": "senate",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Oliverio",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/oliverio_michael.jpg"
+  },
+  {
+    "id": "ocd-person/1a97b137-218f-43cc-a24f-d806c6ac9fd2",
+    "name": "Mike Pushkin",
+    "chamber": "house",
+    "party": "D",
+    "district": "54",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pushkin",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/pushkin_mike.jpg"
+  },
+  {
+    "id": "ocd-person/500ddd59-2fb2-406a-869c-2b06f6cc2385",
+    "name": "Mike Woelfel",
+    "chamber": "senate",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Woelfel",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/woelfel_michael.jpg"
+  },
+  {
+    "id": "ocd-person/aa7bf09a-ce90-4e58-a893-42c813a16434",
+    "name": "Pat McGeehan",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20McGeehan",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/mcgeehan_pat.jpg"
+  },
+  {
+    "id": "ocd-person/61c66718-ebd4-4ded-827d-14b21ed01b0a",
+    "name": "Patricia Rucker",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Rucker",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/rucker_patricia.jpg"
+  },
+  {
+    "id": "ocd-person/9a7c2d4d-002a-439e-b095-e7b86329fc1c",
+    "name": "Patrick Lucas",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Lucas",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/lucas_patrick.jpg"
+  },
+  {
+    "id": "ocd-person/69547a9d-4e96-4ea8-94eb-528e40d5d004",
+    "name": "Patrick Martin",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Martin",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/senate/martin_patrick.jpg"
+  },
+  {
+    "id": "ocd-person/ca7ec436-00a0-447d-8592-00fc7d358571",
+    "name": "Phil Mallow",
+    "chamber": "house",
+    "party": "R",
+    "district": "75",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Mallow",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/mallow_phil.jpg"
+  },
+  {
+    "id": "ocd-person/28321ca7-5b8c-4b1a-9a85-2ae30e52045b",
+    "name": "Randy Smith",
+    "chamber": "senate",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=President%20Smith",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/smith_randy.jpg"
+  },
+  {
+    "id": "ocd-person/639eb22f-b161-4be3-9abc-9cccf4dfdd05",
+    "name": "Ray Canterbury",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Canterbury",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/canterbury_ray.jpg"
+  },
+  {
+    "id": "ocd-person/cc1fb64b-859b-4009-88b3-2cb23e7e9d9b",
+    "name": "Rick Garcia",
+    "chamber": "house",
+    "party": "D",
+    "district": "76",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Garcia",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/garcia_rick.jpg"
+  },
+  {
+    "id": "ocd-person/5e9dad08-2267-4354-b695-814e1014a0ec",
+    "name": "Rick Hillenbrand",
+    "chamber": "house",
+    "party": "R",
+    "district": "88",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hillenbrand",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/hillenbrand_rick.jpg"
+  },
+  {
+    "id": "ocd-person/aa01a651-9834-4b98-b9c3-25aee388087a",
+    "name": "Robbie Martin",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Martin",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2019/house/martin_carl.jpg"
+  },
+  {
+    "id": "ocd-person/86c70f70-4fc9-43f3-bd70-632d3a8f023b",
+    "name": "Robbie Morris",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Morris",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/morris_robbie.jpg"
+  },
+  {
+    "id": "ocd-person/a5fb80fa-41db-4bb7-8d0c-9f643b029b86",
+    "name": "Roger Hanshaw",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Speaker%20Hanshaw",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/hanshaw_roger.jpg"
+  },
+  {
+    "id": "ocd-person/e0166da1-e7d4-42ed-bf99-fe2a9cd3e82e",
+    "name": "Rollan Roberts",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Roberts",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/roberts_rollan.jpg"
+  },
+  {
+    "id": "ocd-person/f7a82cd3-d2c6-4f57-b0d0-d38322d1ad54",
+    "name": "Roy Cooper",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Cooper",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/cooper_roy.jpg"
+  },
+  {
+    "id": "ocd-person/c1187148-471e-4bdc-acf5-16fa0d5d998e",
+    "name": "Rupie Phillips",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Phillips",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/senate/phillips_rupie.jpg"
+  },
+  {
+    "id": "ocd-person/c95f5292-14c3-4e79-8465-05cca13242b6",
+    "name": "Ryan Browning",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Browning",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/browning_ryan.jpg"
+  },
+  {
+    "id": "ocd-person/680aa2ce-6408-4047-a36b-0b3badc82851",
+    "name": "Ryan Weld",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Weld",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/senate/weld_ryan.jpg"
+  },
+  {
+    "id": "ocd-person/003871b4-bf51-4bba-bacc-bf1ead7a9947",
+    "name": "Sarah Drennan",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Drennan",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/drennan_sarah.jpg"
+  },
+  {
+    "id": "ocd-person/5cd39fcf-7682-4cb0-8ac3-f7c4816f950d",
+    "name": "Scot Heckert",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Heckert",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/heckert_scot.jpg"
+  },
+  {
+    "id": "ocd-person/7a94bf35-24ea-49ba-bf09-b53c1465ffa7",
+    "name": "Scott Fuller",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Fuller",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/fuller_scott.jpg"
+  },
+  {
+    "id": "ocd-person/916ee127-a228-4dac-b945-312a5f76121a",
+    "name": "Sean Hornbuckle",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornbuckle",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/hornbuckle_sean.jpg"
+  },
+  {
+    "id": "ocd-person/bd0e9ba2-fe37-4251-96f2-44715a186750",
+    "name": "Shawn Fluharty",
+    "chamber": "house",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Fluharty",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/fluharty_shawn.jpg"
+  },
+  {
+    "id": "ocd-person/4b7f8925-344a-4ce2-b70c-76bb9127c4fa",
+    "name": "Stan Adkins",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Adkins",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/adkins_stanley.jpg"
+  },
+  {
+    "id": "ocd-person/c6a91d2b-9230-4d3e-a3d0-c3844ad9e985",
+    "name": "Tom Takubo",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Takubo",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/senate/takubo_tom.jpg"
+  },
+  {
+    "id": "ocd-person/da86ac6a-5d19-472e-80a0-8b8595cb3054",
+    "name": "Tom Willis",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Willis",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/senate/willis_tom.jpg"
+  },
+  {
+    "id": "ocd-person/4a909c49-37c6-4105-ac77-afe4745a1b1b",
+    "name": "Trenton Barnhart",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Barnhart",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/barnhart_trenton.jpg"
+  },
+  {
+    "id": "ocd-person/a6ad12cd-7040-4cf0-83b5-9de1fd835fa8",
+    "name": "Tresa Howell",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Howell,%20T.",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/howell_tresa.jpg"
+  },
+  {
+    "id": "ocd-person/8b2ff1b1-618d-47c4-8b20-8388c53eb412",
+    "name": "Tristan Leavitt",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Leavitt",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/leavitt_tristan.jpg"
+  },
+  {
+    "id": "ocd-person/381e0784-9202-4308-a138-399c84740804",
+    "name": "Vernon Criss",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Criss",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/criss_vernon.jpg"
+  },
+  {
+    "id": "ocd-person/147a2b54-846b-4fec-b394-be4b50827f5f",
+    "name": "Vince Deeds",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.wvlegislature.gov/Senate1/lawmaker.cfm?member=Senator%20Deeds",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/senate/deeds_vince.jpg"
+  },
+  {
+    "id": "ocd-person/542b49b1-72ed-4e96-98bf-e7c236b92e12",
+    "name": "Walter Hall",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hall",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/hall_walter.jpg"
+  },
+  {
+    "id": "ocd-person/de66a26a-0d5d-44d4-a687-58cffa1a2512",
+    "name": "Wayne Clark",
+    "chamber": "house",
+    "party": "R",
+    "district": "99",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Clark",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/clark_wayne.jpg"
+  },
+  {
+    "id": "ocd-person/1039d280-ca07-4923-a501-408c5f7703dc",
+    "name": "Zack Maynard",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Maynard",
+    "imageUrl": "http://www.wvlegislature.gov/images/members/2021/house/maynard_zack.jpg"
+  }
+]

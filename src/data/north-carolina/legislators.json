@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "ocd-person/559521af-e5f9-43c3-a75e-de9b242d364f",
+    "name": "Abe Jones",
+    "chamber": "house",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/780",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/780/Low"
+  },
+  {
+    "id": "ocd-person/9f9d7fb9-9981-412d-b3e2-45c7f67d189a",
+    "name": "Aisha Dew",
+    "chamber": "house",
+    "party": "D",
+    "district": "107",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/836",
+    "imageUrl": "https://static.wixstatic.com/media/382708_03a01c002bae45c2a4dd4b665892e242~mv2.png/v1/fill/w_369,h_369,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/aisha%20dew%20updated%20headshot.png"
+  },
+  {
+    "id": "ocd-person/6ca8b8ee-96ed-4b21-94cf-d67e49f9c1c8",
+    "name": "Alan Branson",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/821",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/alan_branson.jpg"
+  },
+  {
+    "id": "ocd-person/95a533af-7933-4992-aea6-dfdc626b7ca6",
+    "name": "Allen Buansi",
+    "chamber": "house",
+    "party": "D",
+    "district": "56",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/790",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/790/Low"
+  },
+  {
+    "id": "ocd-person/fc3772c1-d98a-4325-a6c8-96b9da492ed6",
+    "name": "Allen Chesser",
+    "chamber": "house",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/799",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/799/Low"
+  },
+  {
+    "id": "ocd-person/785927b3-34ca-4a2d-bc1c-df4cc8e16c47",
+    "name": "Allison Dahle",
+    "chamber": "house",
+    "party": "D",
+    "district": "11",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/740",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/740/Low"
+  },
+  {
+    "id": "ocd-person/5f309927-de7a-4fd4-930b-a369dd10fec8",
+    "name": "Amanda Cook",
+    "chamber": "house",
+    "party": "D",
+    "district": "60",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/1002",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/628fc48c-a48b-4128-87f1-2391ab795e0a",
+    "name": "Amber Baker",
+    "chamber": "house",
+    "party": "D",
+    "district": "72",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/782",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/782/Low"
+  },
+  {
+    "id": "ocd-person/46275779-8191-48be-8b0b-8373376fa23d",
+    "name": "Amos Quick",
+    "chamber": "house",
+    "party": "D",
+    "district": "58",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/725",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/725/Low"
+  },
+  {
+    "id": "ocd-person/8be9deca-bbd6-404f-8726-0aecaeb19ca7",
+    "name": "Amy Galey",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/429",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/429/Low"
+  },
+  {
+    "id": "ocd-person/5ca31513-814c-44b9-9206-aae55c05d056",
+    "name": "Anna Ferguson",
+    "chamber": "house",
+    "party": "R",
+    "district": "119",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/1003",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/367ad234-14bc-4d86-95ee-ab1176890d6e",
+    "name": "Becky Carney",
+    "chamber": "house",
+    "party": "D",
+    "district": "102",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/322",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/322/Low"
+  },
+  {
+    "id": "ocd-person/fdc7d25a-085c-4100-b5f4-a8ae51979292",
+    "name": "Ben Moss",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/784",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/784/Low"
+  },
+  {
+    "id": "ocd-person/0c960acb-381f-4ce9-b9d3-313fd882b6e1",
+    "name": "Benton Sawrey",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/445",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/445/Low"
+  },
+  {
+    "id": "ocd-person/cf469ccf-d24e-4ccd-a2fb-041806933b93",
+    "name": "Beth Gardner Helfrich",
+    "chamber": "house",
+    "party": "D",
+    "district": "98",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/832",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Beth_Gardner_Helfrich.jpeg"
+  },
+  {
+    "id": "ocd-person/ac7e8e60-b5cb-41c2-92f9-1bdf9204f79a",
+    "name": "Bill Rabon",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/303",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/303/Low"
+  },
+  {
+    "id": "ocd-person/f1d726fb-535d-456b-9712-b689afcb7763",
+    "name": "Bill Ward",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/816",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/816/Low"
+  },
+  {
+    "id": "ocd-person/b558be80-96b1-4df6-8714-fcba387f8abc",
+    "name": "Blair Eddins",
+    "chamber": "house",
+    "party": "R",
+    "district": "94",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/825",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/151642.jpg"
+  },
+  {
+    "id": "ocd-person/0104c116-78b6-4a91-af98-464fdbf12904",
+    "name": "Bob Brinson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/448",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bob_Brinson.jpg"
+  },
+  {
+    "id": "ocd-person/8911db0d-01aa-4e61-a0f5-727d07a5d232",
+    "name": "Bobby Hanig",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/435",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/435/Low"
+  },
+  {
+    "id": "ocd-person/dfacde1f-3324-4ebe-bc96-ae473548e951",
+    "name": "Brad Overcash",
+    "chamber": "senate",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/444",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/444/Low"
+  },
+  {
+    "id": "ocd-person/4142addf-2eb1-4557-b3d3-bcea559cbbd3",
+    "name": "Brandon Lofton",
+    "chamber": "house",
+    "party": "D",
+    "district": "104",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/751",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/751/Low"
+  },
+  {
+    "id": "ocd-person/1e419504-9efe-4b1f-b1e0-6e8d7d8c74a9",
+    "name": "Brenden Jones",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/723",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/723/Low"
+  },
+  {
+    "id": "ocd-person/23f1da0b-34b2-4347-adb4-f5fc26e0475d",
+    "name": "Brent Jackson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/281",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/281/Low"
+  },
+  {
+    "id": "ocd-person/c476ab83-c1f7-44a7-b7c9-4cfa4679bed8",
+    "name": "Brian Biggs",
+    "chamber": "house",
+    "party": "R",
+    "district": "70",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/793",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/793/Low"
+  },
+  {
+    "id": "ocd-person/19c32795-3313-4f2f-a1d2-b79ff1dd81fb",
+    "name": "Brian Echevarria",
+    "chamber": "house",
+    "party": "R",
+    "district": "82",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/828",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brian_Echiveria_.jpg"
+  },
+  {
+    "id": "ocd-person/0229944f-1584-4c3c-9a7b-5c97b6785a6f",
+    "name": "Brian Turner",
+    "chamber": "house",
+    "party": "D",
+    "district": "116",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/696",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/696/Low"
+  },
+  {
+    "id": "ocd-person/e596d2ce-a208-475c-a9c1-15e25ccb3404",
+    "name": "Bryan Cohn",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/827",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bryan__Cohn__20240808_093541.jpg"
+  },
+  {
+    "id": "ocd-person/b560f232-dfa2-49f7-81c8-42000cc9027b",
+    "name": "Buck Newton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/443",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/443/Low"
+  },
+  {
+    "id": "ocd-person/a2013778-1144-4936-a0fa-895ad190649f",
+    "name": "Caleb Theodros",
+    "chamber": "senate",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/451",
+    "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST0VSf38rEGBD-siclt6NuNe1QJ5F0bSq2yeTZaPl6B5jN6UixO_XTlOxWxObcJM0wmNgic4MjyZBFddFBYaj7sg"
+  },
+  {
+    "id": "ocd-person/91615553-5509-4625-ab20-7a81896438e0",
+    "name": "Carl Ford",
+    "chamber": "senate",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/410",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/410/Low"
+  },
+  {
+    "id": "ocd-person/f1ba290a-c2a5-453a-884c-6d03a2c8e83a",
+    "name": "Carla Cunningham",
+    "chamber": "house",
+    "party": "I",
+    "district": "106",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/642",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/642/Low"
+  },
+  {
+    "id": "ocd-person/80495071-4aea-43ff-9548-09860c77cc90",
+    "name": "Carolyn Logan",
+    "chamber": "house",
+    "party": "D",
+    "district": "101",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/750",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/750/Low"
+  },
+  {
+    "id": "ocd-person/6f78b8a8-f77c-4aef-bfa4-b3dac3312e33",
+    "name": "Carson Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/755",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/755/Low"
+  },
+  {
+    "id": "ocd-person/51b17197-aa93-4c8f-821d-81a32b41e2ae",
+    "name": "Celeste Cairns",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/797",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/797/Low"
+  },
+  {
+    "id": "ocd-person/2736ade6-4cc1-4833-ab0d-cf1953227726",
+    "name": "Charles Smith",
+    "chamber": "house",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/813",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/813/Low"
+  },
+  {
+    "id": "ocd-person/311f0605-29d2-4608-a964-323768582198",
+    "name": "Charlie Miller",
+    "chamber": "house",
+    "party": "R",
+    "district": "19",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/778",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/778/Low"
+  },
+  {
+    "id": "ocd-person/fdf6de7b-aad3-403b-96c3-a6a007b11ccd",
+    "name": "Chris Humphrey",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/747",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/747/Low"
+  },
+  {
+    "id": "ocd-person/9dfc9308-ec16-4da8-b5c7-8a9cc55df534",
+    "name": "Chris Measmer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/455",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/702adc2f-f401-4ab4-ac8e-8fcf1a14376b",
+    "name": "Cody Huneycutt",
+    "chamber": "house",
+    "party": "R",
+    "district": "67",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/833",
+    "imageUrl": "https://assets.civicengine.com/uploads/candidate/headshot/797923/797923.jpg"
+  },
+  {
+    "id": "ocd-person/a5d3d142-3601-429e-954c-fdb98b0e628a",
+    "name": "Cynthia Ball",
+    "chamber": "house",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/711",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/711/Low"
+  },
+  {
+    "id": "ocd-person/06dca4de-5217-45fc-b78a-fc7870ae7faf",
+    "name": "Dan Blue",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/268",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/268/Low"
+  },
+  {
+    "id": "ocd-person/443b38b0-1881-443c-ba43-70ffb1d7a9ea",
+    "name": "Dan Kiger",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/1004",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/93fbb331-6fe5-427f-802d-09881d4913d3",
+    "name": "Dana Jones",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/449",
+    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/162671.jpg"
+  },
+  {
+    "id": "ocd-person/91f238a6-29fd-4b65-bc48-1464da11786b",
+    "name": "Danny Britt",
+    "chamber": "senate",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/399",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/399/Low"
+  },
+  {
+    "id": "ocd-person/d0cbde92-5f2b-4177-822a-f100613a9b30",
+    "name": "Dante Pittman",
+    "chamber": "house",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/839",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DantePittman2024.JPG"
+  },
+  {
+    "id": "ocd-person/7074c9f6-6a8e-4c63-b0b3-ae43b9cfba0d",
+    "name": "Dave Craven",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/423",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/423/Low"
+  },
+  {
+    "id": "ocd-person/6b06a564-763d-421d-bc9b-4779f4dbc1a4",
+    "name": "David Willis",
+    "chamber": "house",
+    "party": "R",
+    "district": "68",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/779",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/779/Low"
+  },
+  {
+    "id": "ocd-person/ffdbb3fa-0445-460a-9501-18b5028fbe50",
+    "name": "Dean Arp",
+    "chamber": "house",
+    "party": "R",
+    "district": "69",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/640",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/640/Low"
+  },
+  {
+    "id": "ocd-person/1c0d5d12-7bc0-4296-a148-423e4faa7dae",
+    "name": "DeAndrea Salvador",
+    "chamber": "senate",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/431",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/431/Low"
+  },
+  {
+    "id": "ocd-person/cab978f1-1c91-41e4-9f2e-69af3c89bbf8",
+    "name": "Deb Butler",
+    "chamber": "house",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/730",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/730/Low"
+  },
+  {
+    "id": "ocd-person/fcff21e8-b2a0-4fe5-8fb9-1b1c084a26e1",
+    "name": "Dennis Riddell",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/665",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/665/Low"
+  },
+  {
+    "id": "ocd-person/636555c9-b55c-47f8-9fcc-c9cb93b27f50",
+    "name": "Destin Hall",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/719",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/719/Low"
+  },
+  {
+    "id": "ocd-person/034ed56d-8058-4489-be3e-3d4b9977ac4b",
+    "name": "Diane Wheatley",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/785",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/785/Low"
+  },
+  {
+    "id": "ocd-person/7e1cb220-ff5e-4543-bc51-f44ba7ee0a2b",
+    "name": "Donna White",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/728",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/728/Low"
+  },
+  {
+    "id": "ocd-person/d7308aed-454d-4091-b32c-606f516e9421",
+    "name": "Donnie Loftis",
+    "chamber": "house",
+    "party": "R",
+    "district": "109",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/788",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/788/Low"
+  },
+  {
+    "id": "ocd-person/dd2200c1-2bdb-4afc-a557-ebcbb5f1eee8",
+    "name": "Donny Lambeth",
+    "chamber": "house",
+    "party": "R",
+    "district": "75",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/646",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/646/Low"
+  },
+  {
+    "id": "ocd-person/0573192d-0557-449a-9c3e-8462844a79ab",
+    "name": "Dudley Greene",
+    "chamber": "house",
+    "party": "R",
+    "district": "85",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/777",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/777/Low"
+  },
+  {
+    "id": "ocd-person/10d93679-f5f4-496f-8b7c-89f923038ac0",
+    "name": "Ed Goodwin",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/744",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/744/Low"
+  },
+  {
+    "id": "ocd-person/b4b6f0a7-baca-4062-947a-989cb9f98356",
+    "name": "Eddie Settle",
+    "chamber": "senate",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/446",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/446/Low"
+  },
+  {
+    "id": "ocd-person/8c10abe1-4b81-404a-9164-9823e023cd2b",
+    "name": "Eric Ager",
+    "chamber": "house",
+    "party": "D",
+    "district": "114",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/819",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/819/Low"
+  },
+  {
+    "id": "ocd-person/ea801bb0-b3bd-4dbc-9164-25e7f4e63f84",
+    "name": "Erin Par\\xE9",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/770",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/770/Low"
+  },
+  {
+    "id": "ocd-person/1a32e77b-9880-467c-88c8-6aeb738f6525",
+    "name": "Frances Jackson",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/803",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/803/Low"
+  },
+  {
+    "id": "ocd-person/f75593f8-b178-47f1-8e72-e403f04dfb5d",
+    "name": "Frank Iler",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/598",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/598/Low"
+  },
+  {
+    "id": "ocd-person/1ba9c7a6-3a28-47ec-9704-6f3437463845",
+    "name": "Gale Adcock",
+    "chamber": "senate",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/436",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/436/Low"
+  },
+  {
+    "id": "ocd-person/32edee21-40a5-491f-b28e-316ba7262360",
+    "name": "Garland Pierce",
+    "chamber": "house",
+    "party": "D",
+    "district": "48",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/497",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/497/Low"
+  },
+  {
+    "id": "ocd-person/af3f63da-d39a-4542-b0f2-41f118d96f55",
+    "name": "Gladys Robinson",
+    "chamber": "senate",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/364",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/364/Low"
+  },
+  {
+    "id": "ocd-person/d2ab7bb8-d0d6-4824-a42e-d180c2644f9e",
+    "name": "Gloristine Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/794",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/794/Low"
+  },
+  {
+    "id": "ocd-person/aca7632d-5a2a-470c-bb83-6cf374c68172",
+    "name": "Grant Campbell",
+    "chamber": "house",
+    "party": "R",
+    "district": "83",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/830",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/campbellgrant.jpg"
+  },
+  {
+    "id": "ocd-person/940d4a15-ee12-4a3b-a7b5-70b9dea38379",
+    "name": "Harry Warren",
+    "chamber": "house",
+    "party": "R",
+    "district": "76",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/630",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/630/Low"
+  },
+  {
+    "id": "ocd-person/e94fc39b-d33c-4d24-81c7-2cd2cc5aa997",
+    "name": "Haseeb Fatmi",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/1002",
+    "imageUrl": "https://ogletree.com/app/uploads/people/haseeb-s-fatmi.jpg"
+  },
+  {
+    "id": "ocd-person/d01232af-826f-441e-85c0-efaedd1ba422",
+    "name": "Heather Rhyne",
+    "chamber": "house",
+    "party": "R",
+    "district": "97",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/823",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/148921.jpg"
+  },
+  {
+    "id": "ocd-person/9b6a3a48-9827-421f-9925-4717340110ab",
+    "name": "Howard Penny",
+    "chamber": "house",
+    "party": "R",
+    "district": "53",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/768",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/768/Low"
+  },
+  {
+    "id": "ocd-person/f7ffa24f-4c1f-416f-bf1d-30d762d9c6c3",
+    "name": "Hugh Blackwell",
+    "chamber": "house",
+    "party": "R",
+    "district": "86",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/580",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/580/Low"
+  },
+  {
+    "id": "ocd-person/11c5404c-5cb6-4f99-84a5-711a23e6295f",
+    "name": "Jake Johnson",
+    "chamber": "house",
+    "party": "R",
+    "district": "113",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/762",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/762/Low"
+  },
+  {
+    "id": "ocd-person/4547831d-14b9-4d9d-9e3c-15b66c389054",
+    "name": "James Roberson",
+    "chamber": "house",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/786",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/786/Low"
+  },
+  {
+    "id": "ocd-person/1a75f967-8f35-40aa-8b0a-990a135e70cb",
+    "name": "Jay Adams",
+    "chamber": "house",
+    "party": "R",
+    "district": "96",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/697",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/697/Low"
+  },
+  {
+    "id": "ocd-person/75860d99-3e31-4c38-b511-734f76477c9b",
+    "name": "Jay Chaudhuri",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/395",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/395/Low"
+  },
+  {
+    "id": "ocd-person/09d4ccb5-4456-4f33-aea7-36f3e2ef9e43",
+    "name": "Jeff McNeely",
+    "chamber": "house",
+    "party": "R",
+    "district": "84",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/761",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/761/Low"
+  },
+  {
+    "id": "ocd-person/f3f10d50-4117-41f8-b2af-c9273d3c425e",
+    "name": "Jeff Zenger",
+    "chamber": "house",
+    "party": "R",
+    "district": "74",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/775",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/775/Low"
+  },
+  {
+    "id": "ocd-person/1c0b287a-2695-47e3-8c7a-1868db5c8d5c",
+    "name": "Jennifer Balkcom",
+    "chamber": "house",
+    "party": "R",
+    "district": "117",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/820",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/820/Low"
+  },
+  {
+    "id": "ocd-person/9793e1e4-641c-4a5c-b1bc-7f6d0a65a655",
+    "name": "Jim Burgin",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/412",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/412/Low"
+  },
+  {
+    "id": "ocd-person/2fdb425d-47c9-4683-943e-15a566f3552b",
+    "name": "Jimmy Dixon",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/613",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/613/Low"
+  },
+  {
+    "id": "ocd-person/50435516-ccee-4b72-9075-e27a0bfe0a72",
+    "name": "Joe Pike",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/808",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/808/Low"
+  },
+  {
+    "id": "ocd-person/cc410819-75a4-46dd-a3d5-edbd80d9f861",
+    "name": "John Bell",
+    "chamber": "house",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/661",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/661/Low"
+  },
+  {
+    "id": "ocd-person/3a96a66b-58e9-4ce5-bc6c-803b19c2746d",
+    "name": "John Blust",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/234",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/21657.jpg"
+  },
+  {
+    "id": "ocd-person/7d07a14d-a5dc-46a9-8277-85fee42921a1",
+    "name": "John Lowery",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/1001",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/bde014bb-27c1-42a3-909f-c5d96cca5c3f",
+    "name": "John Sauls",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/393",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/393/Low"
+  },
+  {
+    "id": "ocd-person/cb059250-c895-4a14-bfa2-997aed42155e",
+    "name": "John Torbett",
+    "chamber": "house",
+    "party": "R",
+    "district": "108",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/606",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/606/Low"
+  },
+  {
+    "id": "ocd-person/3622ded7-77d3-46f8-a62b-dad1c8f3e589",
+    "name": "Jonah Garson",
+    "chamber": "senate",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/1001",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5ce70c57184229000120643d/1635110523522-15B7H44X3PRPJSL2DYJH/ParryLaw_PLLC_20211020_1501-2.jpg"
+  },
+  {
+    "id": "ocd-person/a8fb7327-cfc3-4951-a15f-5a60ba05dcba",
+    "name": "Jonathan Almond",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/843",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jonathan_Almond_20241029_031016.png"
+  },
+  {
+    "id": "ocd-person/196e72cf-7987-4847-8e2f-03b540064e86",
+    "name": "Jordan Lopez",
+    "chamber": "house",
+    "party": "D",
+    "district": "112",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/835",
+    "imageUrl": "https://lopez4nc.com/wp-content/uploads/2023/12/FAV1127_LOPEZ_-121.webp"
+  },
+  {
+    "id": "ocd-person/3e8067e6-6232-4ebb-979c-d077ab968446",
+    "name": "Joyce Waddell",
+    "chamber": "senate",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/393",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/393/Low"
+  },
+  {
+    "id": "ocd-person/e9c35f8c-48f0-46e3-bd47-2e9481abc971",
+    "name": "Julia Greenfield",
+    "chamber": "house",
+    "party": "D",
+    "district": "100",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/829",
+    "imageUrl": "https://greenvoterguidenc.org/wp-content/uploads/Julia-Greenfield-square-400x400.png"
+  },
+  {
+    "id": "ocd-person/5318144e-d466-40ea-8e35-f0f09bf57760",
+    "name": "Julia Howard",
+    "chamber": "house",
+    "party": "R",
+    "district": "77",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/53",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/53/Low"
+  },
+  {
+    "id": "ocd-person/c8ac71ee-e3dc-450f-83f7-efeb363e88bc",
+    "name": "Julie Mayfield",
+    "chamber": "senate",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/432",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/432/Low"
+  },
+  {
+    "id": "ocd-person/7b4481a0-466b-44be-8b39-def9e1bc04f8",
+    "name": "Julie von Haefen",
+    "chamber": "house",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/758",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/758/Low"
+  },
+  {
+    "id": "ocd-person/5afbb4dc-a121-414a-b600-53af0936beb8",
+    "name": "Kandie Smith",
+    "chamber": "senate",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/447",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/447/Low"
+  },
+  {
+    "id": "ocd-person/91f28923-c52e-4a47-aed2-944672902823",
+    "name": "Kanika Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "71",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/795",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/795/Low"
+  },
+  {
+    "id": "ocd-person/c0ca675d-4bd2-462f-9bcb-b7ac8226dbdf",
+    "name": "Karl Gillespie",
+    "chamber": "house",
+    "party": "R",
+    "district": "120",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/771",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/771/Low"
+  },
+  {
+    "id": "ocd-person/a39903f1-cf67-494a-8c6a-4ae15c334fc9",
+    "name": "Keith Kidwell",
+    "chamber": "house",
+    "party": "R",
+    "district": "79",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/749",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/749/Low"
+  },
+  {
+    "id": "ocd-person/4edb53d2-f5a1-447d-ac37-36da75a7a4ed",
+    "name": "Kelly Hastings",
+    "chamber": "house",
+    "party": "R",
+    "district": "110",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/618",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/618/Low"
+  },
+  {
+    "id": "ocd-person/410836ee-4f48-4934-8f95-fca6b2d2f051",
+    "name": "Kevin Corbin",
+    "chamber": "senate",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/433",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/433/Low"
+  },
+  {
+    "id": "ocd-person/6d8e0e56-939e-45c4-a9db-2fc370fbbdef",
+    "name": "Kyle Hall",
+    "chamber": "house",
+    "party": "R",
+    "district": "91",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/704",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/704/Low"
+  },
+  {
+    "id": "ocd-person/11c903f8-ce25-4463-8a24-a49394c21955",
+    "name": "Larry Potts",
+    "chamber": "house",
+    "party": "R",
+    "district": "81",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/724",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/724/Low"
+  },
+  {
+    "id": "ocd-person/3ed64eae-ecec-4cbf-a436-e7c1471a4cef",
+    "name": "Larry Strickland",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/727",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/727/Low"
+  },
+  {
+    "id": "ocd-person/283007b1-e7a2-486b-b19b-5a8126bc4128",
+    "name": "Laura Budd",
+    "chamber": "house",
+    "party": "D",
+    "district": "103",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/796",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/796/Low"
+  },
+  {
+    "id": "ocd-person/16a0c907-4efa-45a7-83d2-1c79cc541535",
+    "name": "Lindsey Prather",
+    "chamber": "house",
+    "party": "D",
+    "district": "115",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/809",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/809/Low"
+  },
+  {
+    "id": "ocd-person/21577fbd-e06f-4bc3-8717-e050ff165a74",
+    "name": "Lisa Barnes",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/427",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/427/Low"
+  },
+  {
+    "id": "ocd-person/a370c6f1-338d-49c3-a0b4-41e885dc0d80",
+    "name": "Lisa Grafstein",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/439",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/439/Low"
+  },
+  {
+    "id": "ocd-person/be5acee4-3874-4414-9aff-77043943c1c1",
+    "name": "Marcia Morey",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/732",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/732/Low"
+  },
+  {
+    "id": "ocd-person/7a50ad08-1f2a-4f5f-9463-b1672d3a60a3",
+    "name": "Maria Cervania",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/798",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/798/Low"
+  },
+  {
+    "id": "ocd-person/cc238a7c-3222-4ac2-8d4d-3884dd342a5f",
+    "name": "Mark Brody",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/663",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/663/Low"
+  },
+  {
+    "id": "ocd-person/1afc84ab-30e5-413a-8975-2a552e050aee",
+    "name": "Mark Hollo",
+    "chamber": "senate",
+    "party": "R",
+    "district": "45",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/450",
+    "imageUrl": "http://www.ncga.state.nc.us/House/pictures/hiRes/619.jpg"
+  },
+  {
+    "id": "ocd-person/601cab9a-8b58-42fa-a62e-4170ec23b955",
+    "name": "Mark Pless",
+    "chamber": "house",
+    "party": "R",
+    "district": "118",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/773",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/773/Low"
+  },
+  {
+    "id": "ocd-person/819581b6-a44a-4d4a-8a08-14c2dccd86f5",
+    "name": "Mary Belk",
+    "chamber": "house",
+    "party": "D",
+    "district": "88",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/713",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/713/Low"
+  },
+  {
+    "id": "ocd-person/1dfa7f10-249d-43aa-930b-a5be9e4fce9f",
+    "name": "Matthew Winslow",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/776",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/776/Low"
+  },
+  {
+    "id": "ocd-person/f40a7222-92eb-4d8e-ad4d-7008b859aae7",
+    "name": "Michael Garrett",
+    "chamber": "senate",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/414",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/414/Low"
+  },
+  {
+    "id": "ocd-person/f0121b49-81cc-45f5-98e1-1fbeee882c81",
+    "name": "Michael Lazzara",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/426",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/426/Low"
+  },
+  {
+    "id": "ocd-person/082079ab-53d2-43e5-be5f-cb7c6054edd3",
+    "name": "Michael Lee",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/387",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/387/Low"
+  },
+  {
+    "id": "ocd-person/b3b24f9e-5eb4-475e-8b06-7040cfb39fb5",
+    "name": "Mike Colvin",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/831",
+    "imageUrl": "https://votemikecolvin.com/wp-content/uploads/2024/01/untitled-1024x1024.jpg"
+  },
+  {
+    "id": "ocd-person/f6d0fc41-fbfa-4829-aa33-f5977edf1082",
+    "name": "Mike Schietzelt",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/840",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MikeSchietzelt2024.jpg"
+  },
+  {
+    "id": "ocd-person/d4713ec5-e36b-49bb-bfc8-6b7fe9c0e9a7",
+    "name": "Mitchell Setzer",
+    "chamber": "house",
+    "party": "R",
+    "district": "89",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/149",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/149/Low"
+  },
+  {
+    "id": "ocd-person/018cd1c9-5b84-4f8e-8a1d-6f0326ce1f2f",
+    "name": "Monika Johnson-Hostler",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/834",
+    "imageUrl": "https://www.uncfsu.edu/assets/Images/Student_Stories/Monika-Hostler.jpg"
+  },
+  {
+    "id": "ocd-person/c733e47e-af6a-4f31-a350-010043b5164b",
+    "name": "Mujtaba Mohammed",
+    "chamber": "senate",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/417",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/417/Low"
+  },
+  {
+    "id": "ocd-person/6acc3963-2724-4d88-8762-f78df333be94",
+    "name": "Nasif Majeed",
+    "chamber": "house",
+    "party": "I",
+    "district": "99",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/752",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/752/Low"
+  },
+  {
+    "id": "ocd-person/121cec2b-d03f-45bc-a835-1ae5f4eb18d3",
+    "name": "Natalie Murdock",
+    "chamber": "senate",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/422",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/422/Low"
+  },
+  {
+    "id": "ocd-person/1e2d0ef7-d021-4427-af07-14fae1ad5aa0",
+    "name": "Neal Jackson",
+    "chamber": "house",
+    "party": "R",
+    "district": "78",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/804",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/804/Low"
+  },
+  {
+    "id": "ocd-person/7493bee0-b1ed-4d45-b772-b7fce91be4ff",
+    "name": "Norman Sanderson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/375",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/375/Low"
+  },
+  {
+    "id": "ocd-person/a73e339a-9724-45a5-9ebd-f1ca506374a0",
+    "name": "Paul Lowe",
+    "chamber": "senate",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/394",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/394/Low"
+  },
+  {
+    "id": "ocd-person/8f02ce28-e826-48f7-adc1-11f8e5c2ed26",
+    "name": "Paul Scott",
+    "chamber": "house",
+    "party": "R",
+    "district": "111",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/841",
+    "imageUrl": "https://static.wixstatic.com/media/a254ce_1422fda1afc540a697d4c59e20275ee8~mv2.png/v1/fill/w_626,h_1003,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/a254ce_1422fda1afc540a697d4c59e20275ee8~mv2.png"
+  },
+  {
+    "id": "ocd-person/f276e61a-c569-4924-b302-caeda17a306a",
+    "name": "Phil Berger",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/64",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/64/Low"
+  },
+  {
+    "id": "ocd-person/efae51b3-e547-46c0-87df-4ac35c0c60de",
+    "name": "Phil Rubin",
+    "chamber": "house",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/844",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/eab6e9df-d2e4-4476-b09d-cda1de0cf654",
+    "name": "Phil Shepard",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/628",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/628/Low"
+  },
+  {
+    "id": "ocd-person/4c2e2654-2647-4394-8efe-f09532225ff6",
+    "name": "Pricey Harrison",
+    "chamber": "house",
+    "party": "D",
+    "district": "61",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/504",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/504/Low"
+  },
+  {
+    "id": "ocd-person/25828c07-8295-45af-bd01-b044b59d530a",
+    "name": "Ralph Hise",
+    "chamber": "senate",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/298",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/298/Low"
+  },
+  {
+    "id": "ocd-person/064a56b9-d616-43a1-a3f2-ffd4938740d3",
+    "name": "Ray Jeffers",
+    "chamber": "house",
+    "party": "D",
+    "district": "2",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/805",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/805/Low"
+  },
+  {
+    "id": "ocd-person/27cea850-e6f2-4fe8-a02e-26f9867d00f1",
+    "name": "Ray Pickett",
+    "chamber": "house",
+    "party": "R",
+    "district": "93",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/772",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/772/Low"
+  },
+  {
+    "id": "ocd-person/837ec59b-a7db-41dc-9e9f-a7a83b462213",
+    "name": "Reece Pyrtle",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/787",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/787/Low"
+  },
+  {
+    "id": "ocd-person/7ee23b19-064e-4531-a9e8-2e928f8f2203",
+    "name": "Ren\\xE9e Price",
+    "chamber": "house",
+    "party": "D",
+    "district": "50",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/810",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/810/Low"
+  },
+  {
+    "id": "ocd-person/3aa6f3c5-cd15-42e1-907e-92e6f5362c8f",
+    "name": "Robert Reives",
+    "chamber": "house",
+    "party": "D",
+    "district": "54",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/684",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/684/Low"
+  },
+  {
+    "id": "ocd-person/230ed41f-56c1-459d-a66d-7ab0a3a8342b",
+    "name": "Rodney Pierce",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/838",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RodneyPierce2024.jpeg"
+  },
+  {
+    "id": "ocd-person/4f490403-b729-4f33-b3ba-5417db20cb0b",
+    "name": "Sam Watford",
+    "chamber": "house",
+    "party": "R",
+    "district": "80",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/687",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/687/Low"
+  },
+  {
+    "id": "ocd-person/4eb017f8-318e-43ba-b0c5-9fecbc3d0530",
+    "name": "Sarah Crawford",
+    "chamber": "house",
+    "party": "D",
+    "district": "66",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/800",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/800/Low"
+  },
+  {
+    "id": "ocd-person/f0d9b7f4-abb7-4111-b640-766a1f81d653",
+    "name": "Shelly Willingham",
+    "chamber": "house",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/700",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/700/Low"
+  },
+  {
+    "id": "ocd-person/c8c4c09a-5b3a-4521-82d4-2e2ded1b6b0a",
+    "name": "Sophia Chitlik",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/449",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/SophiaChitlik2024.jpg"
+  },
+  {
+    "id": "ocd-person/6b6dc936-a880-4bdb-9fba-11e0a2ff9f01",
+    "name": "Stephen Ross",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/812",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/812/Low"
+  },
+  {
+    "id": "ocd-person/d0af18d6-b4e1-4a9a-92f3-a6950961e953",
+    "name": "Steve Jarvis",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/430",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/430/Low"
+  },
+  {
+    "id": "ocd-person/e4c62004-8706-4984-acb1-0140967173f0",
+    "name": "Steve Tyson",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/774",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/774/Low"
+  },
+  {
+    "id": "ocd-person/f29f268e-5a29-4f49-8c5e-3fa19688f4a2",
+    "name": "Sydney Batch",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/434",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/434/Low"
+  },
+  {
+    "id": "ocd-person/fe39f817-2024-401d-a0a8-3818ca22bdb1",
+    "name": "Ted Alexander",
+    "chamber": "senate",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/416",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/416/Low"
+  },
+  {
+    "id": "ocd-person/b654a887-2eca-41f7-83ba-60044df0fc1c",
+    "name": "Ted Davis",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/637",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/637/Low"
+  },
+  {
+    "id": "ocd-person/1ac38d5f-d089-4589-bcc4-bef1f1675956",
+    "name": "Terry Brown",
+    "chamber": "house",
+    "party": "D",
+    "district": "92",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/783",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/783/Low"
+  },
+  {
+    "id": "ocd-person/1bc1818f-49fd-478a-affa-1f167adcfb51",
+    "name": "Tim Longest",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/818",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/818/Low"
+  },
+  {
+    "id": "ocd-person/20f45197-ec0c-4031-a889-2825bffb008a",
+    "name": "Tim Moffitt",
+    "chamber": "senate",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/623",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/438/Low"
+  },
+  {
+    "id": "ocd-person/f836e608-2d16-4792-bec5-0993fa2db3aa",
+    "name": "Tim Reeder",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/811",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/811/Low"
+  },
+  {
+    "id": "ocd-person/1a7c3ce0-97be-4601-895d-8300458a7e42",
+    "name": "Todd Carver",
+    "chamber": "house",
+    "party": "R",
+    "district": "95",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/842",
+    "imageUrl": "https://www.iredellfreenews.com/wp-content/uploads/2023/12/Todd-Carver.jpg.webp"
+  },
+  {
+    "id": "ocd-person/37e615d5-0c02-488c-83e2-e6e6df5b8184",
+    "name": "Todd Johnson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/406",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/406/Low"
+  },
+  {
+    "id": "ocd-person/81a19cd2-9493-4b85-b92b-44df8777530e",
+    "name": "Tom McInnis",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/389",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/389/Low"
+  },
+  {
+    "id": "ocd-person/47d80aae-1c7b-4330-96bd-76db7fe8b060",
+    "name": "Tracy Clark",
+    "chamber": "house",
+    "party": "D",
+    "district": "57",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/822",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/148017.jpg"
+  },
+  {
+    "id": "ocd-person/6045737f-cc7a-4cf5-b7e6-12419deed77b",
+    "name": "Tricia Cotham",
+    "chamber": "house",
+    "party": "R",
+    "district": "105",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/817",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/817/Low"
+  },
+  {
+    "id": "ocd-person/1ba98521-ee10-414a-9cf0-8b389ad02ffe",
+    "name": "Val Applewhite",
+    "chamber": "senate",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/440",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/440/Low"
+  },
+  {
+    "id": "ocd-person/baca6c05-f6c5-4239-bf9b-c4f57001273d",
+    "name": "Vernetta Alston",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/765",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/765/Low"
+  },
+  {
+    "id": "ocd-person/ece1f23b-841d-4145-9719-3807bf29f861",
+    "name": "Vickie Sawyer",
+    "chamber": "senate",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/405",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/405/Low"
+  },
+  {
+    "id": "ocd-person/5397305f-16ba-460d-aa16-3bee6185299b",
+    "name": "Warren Daniel",
+    "chamber": "senate",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/295",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/295/Low"
+  },
+  {
+    "id": "ocd-person/5eadd1cd-7d46-448d-9608-2901b596b24f",
+    "name": "William Brisson",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/558",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/558/Low"
+  },
+  {
+    "id": "ocd-person/da2ebbae-4f50-4a95-927d-359ed2a9a42b",
+    "name": "Woodson Bradley",
+    "chamber": "senate",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/454",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Woodson_Bradley_20240820_013503.jpg"
+  },
+  {
+    "id": "ocd-person/89065b80-ca15-43b3-bbe5-c7bb5e3a3843",
+    "name": "Wyatt Gable",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/837",
+    "imageUrl": "https://images.squarespace-cdn.com/content/v1/6555362b58434b0824932281/15739355-3436-4410-b02c-ed4d63322f69/untitled-7317.jpg"
+  },
+  {
+    "id": "ocd-person/d48b59a1-cf27-438e-8a25-2f8f179992f2",
+    "name": "Ya Liu",
+    "chamber": "house",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/806",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/806/Low"
+  },
+  {
+    "id": "ocd-person/6dea5a89-20c8-4370-94c2-0dac7fe29d77",
+    "name": "Zack Hawkins",
+    "chamber": "house",
+    "party": "D",
+    "district": "31",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/H/742",
+    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/742/Low"
+  }
+]

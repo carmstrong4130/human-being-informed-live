@@ -1,0 +1,680 @@
+[
+  {
+    "id": "ocd-organization/afefadf8-90f5-4514-a410-1e54530f3aed",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/6e8f2c0d-c9d3-4cb5-ae59-5264cb6d61a7",
+      "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "ocd-person/9128a4e7-1464-483c-8642-0d878da05619",
+      "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
+      "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057",
+      "ocd-person/183af2d0-dd61-476d-873f-305ae591968f",
+      "ocd-person/90a36fec-df56-4f22-bf16-790866d5b227",
+      "ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5",
+      "ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b",
+      "ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e",
+      "ocd-person/f9216229-6490-412d-aa30-8baac5c2be3e",
+      "ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668",
+      "ocd-person/4b29d125-27ee-46c7-a6ac-ed870c1f10a7",
+      "ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39",
+      "ocd-person/ec93f89c-d32f-4f34-bbe9-1aeb8305a065",
+      "ocd-person/d4068bfb-d487-4fde-b36e-7db0ac5cae38"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2139&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/2b268737-056c-4bfd-85aa-77e2755ef413",
+    "name": "Appropriations, Transportation and Technology",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c",
+      "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
+      "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d",
+      "ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2020&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/188772c8-ff6a-41ef-8046-e3baf2e10b36",
+    "name": "Artificial Intelligence and Innovation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4",
+      "ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2",
+      "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "ocd-person/94895484-6eda-42d7-823b-a4eab17071e8",
+      "ocd-person/8595d83f-1e95-4c0d-8c24-100a4a763a8f",
+      "ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverview?CommId=2280"
+  },
+  {
+    "id": "ocd-organization/72c6f56f-613b-4463-83ac-f4623999913d",
+    "name": "Capital Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6e8f2c0d-c9d3-4cb5-ae59-5264cb6d61a7",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
+      "ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
+      "ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Committee%20on%20Capital%20Review.pdf"
+  },
+  {
+    "id": "ocd-organization/3cb43a77-cebd-4c98-8228-c8dbd0cdd2f7",
+    "name": "Commerce",
+    "chamber": "house",
+    "members": [
+      "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
+      "ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e",
+      "ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2",
+      "ocd-person/b1da595a-8c97-42f8-ae58-694c17efa3f3",
+      "ocd-person/acfd8972-7a82-41f3-9fd7-0993cfa7365c",
+      "ocd-person/94895484-6eda-42d7-823b-a4eab17071e8",
+      "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3",
+      "ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5",
+      "ocd-person/d4068bfb-d487-4fde-b36e-7db0ac5cae38"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2169&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/2f66a433-0088-4d13-8df8-30b635f7379f",
+    "name": "Department of Economic Security Block Grants Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee",
+      "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd",
+      "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Legislative%20Committee%20on%20DES%20Block%20Grants.pdf"
+  },
+  {
+    "id": "ocd-organization/e0d3a690-2713-4dea-bf98-0dc84ab6be83",
+    "name": "Director Nominations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3",
+      "ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2095&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/9e138011-f42c-450a-bbf8-2e1d26415fbc",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4",
+      "ocd-person/2e9c0206-d392-48a3-a599-7f6d226527b7",
+      "ocd-person/c13f449f-0423-4ad5-836b-69913aad6600",
+      "ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057",
+      "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022",
+      "ocd-person/981d0aee-d239-4acc-9da8-1332481e57ee",
+      "ocd-person/7a33e2bd-8394-45d9-967b-0c39430ff39b",
+      "ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf",
+      "ocd-person/f9216229-6490-412d-aa30-8baac5c2be3e",
+      "ocd-person/bf406953-ad2b-43f7-95ea-3af060525c90"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1892&sessionId=123"
+  },
+  {
+    "id": "ocd-organization/ee2a91ed-f49b-4a98-9dff-b46e177c0926",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c",
+      "ocd-person/6241112b-910b-4ad8-9c0d-9caad318874f",
+      "ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21",
+      "ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e",
+      "ocd-person/06adeea1-c37c-4dd1-8be5-92e9b5d3556e",
+      "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2024&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/9afa1568-b043-4315-9d2e-6eac1e845406",
+    "name": "Ethics",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/355be281-2f88-4108-b894-62c54b67fba3",
+      "ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e",
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21",
+      "ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2030&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/f73874ae-747e-4253-8700-cadf4487c9ef",
+    "name": "Federalism and Family Law",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
+      "ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3",
+      "ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21",
+      "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2223&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/a18fb056-a854-4066-8282-d6a4af01fc4f",
+    "name": "Federalism, Military Affairs and Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/fd68e4c2-0463-477c-81ea-e2e36273e12b",
+      "ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29",
+      "ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f",
+      "ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e",
+      "ocd-person/c13f449f-0423-4ad5-836b-69913aad6600",
+      "ocd-person/bd3fb0ce-720a-4137-bd45-87fb6bcf8649",
+      "ocd-person/7a33e2bd-8394-45d9-967b-0c39430ff39b"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2185&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/61311ad2-5819-4d59-b14b-c6517f75669f",
+    "name": "Finance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/06adeea1-c37c-4dd1-8be5-92e9b5d3556e",
+      "ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6",
+      "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e",
+      "ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05",
+      "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d",
+      "ocd-person/355be281-2f88-4108-b894-62c54b67fba3"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2106&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/3a2bc36c-54b5-4796-a8c6-4def6b932cad",
+    "name": "Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d4068bfb-d487-4fde-b36e-7db0ac5cae38",
+      "ocd-person/981d0aee-d239-4acc-9da8-1332481e57ee",
+      "ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f",
+      "ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2",
+      "ocd-person/fd68e4c2-0463-477c-81ea-e2e36273e12b",
+      "ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2171&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/8456b3a2-ed1e-459b-91f6-263652cec89e",
+    "name": "Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/35f7056c-9f29-4b66-9ae0-f041fe6e7e05",
+      "ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e",
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/e1cd66fa-a0de-45fd-ae53-a4db7d178d21",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2022&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/bb16c11f-9c95-482a-bfe7-2eaafda3e0c2",
+    "name": "Health and Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce",
+      "ocd-person/176a6d0b-88bb-45fa-bf37-b4610972b2ae",
+      "ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee",
+      "ocd-person/77be0e97-4c93-4332-a9f9-9348560fdf98",
+      "ocd-person/9128a4e7-1464-483c-8642-0d878da05619",
+      "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd",
+      "ocd-person/93db82ca-c8b1-43e4-98ce-ba52f4d0f635",
+      "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
+      "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "ocd-person/8595d83f-1e95-4c0d-8c24-100a4a763a8f",
+      "ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3",
+      "ocd-person/99f91f84-b1db-4a48-897a-4f87593357ea"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2172&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/0934ac59-938d-4edf-b6b2-15b3dc1c77e8",
+    "name": "Health and Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
+      "ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2025&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/29cfd337-3613-47af-85be-6b4a286d1dcb",
+    "name": "Information Technology Authorization",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Information%20Technology%20Authorization%20Committee.pdf"
+  },
+  {
+    "id": "ocd-organization/84614c31-a041-458b-bdcf-404cee166215",
+    "name": "International Trade",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ec93f89c-d32f-4f34-bbe9-1aeb8305a065",
+      "ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf",
+      "ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1",
+      "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
+      "ocd-person/94895484-6eda-42d7-823b-a4eab17071e8",
+      "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3",
+      "ocd-person/90a36fec-df56-4f22-bf16-790866d5b227",
+      "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
+      "ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2186&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/38f22d4e-eeb2-43c8-8016-bf5b507b18c7",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a4f969ab-e79a-4364-9a93-ad8c75ccf668",
+      "ocd-person/bd3fb0ce-720a-4137-bd45-87fb6bcf8649",
+      "ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e",
+      "ocd-person/6dba6afa-b274-4273-b8c6-270d27214eee",
+      "ocd-person/c13f449f-0423-4ad5-836b-69913aad6600",
+      "ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c",
+      "ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e",
+      "ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1895&sessionId=123"
+  },
+  {
+    "id": "ocd-organization/759051cd-38fb-4bc0-9618-e3e3ba07ef01",
+    "name": "Judiciary and Elections",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3",
+      "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
+      "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "ocd-person/355be281-2f88-4108-b894-62c54b67fba3",
+      "ocd-person/384e8b4c-d85b-4414-9372-40116a10b3b6"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2029&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/3e9dbf76-536b-4c50-b979-f8ed48fc96e8",
+    "name": "Land, Agriculture and Rural Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/bc52f516-a13b-4490-a12c-7b98fa3969e5",
+      "ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf",
+      "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022",
+      "ocd-person/bcc217f5-fe08-4213-b8a5-78d1e4d64184",
+      "ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b",
+      "ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39",
+      "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1888&sessionId=123"
+  },
+  {
+    "id": "ocd-organization/429923b5-74f4-4b9e-8773-2621ceb9f155",
+    "name": "Legislative Audit",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b",
+      "ocd-person/66e496a4-a407-4af1-add3-ef6899b89807",
+      "ocd-person/81d12f3a-b635-4111-be8d-a71d2f7565f2",
+      "ocd-person/6241112b-910b-4ad8-9c0d-9caad318874f",
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e",
+      "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
+      "ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39",
+      "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Legislative%20Audit%20Committee.pdf"
+  },
+  {
+    "id": "ocd-organization/babdda9f-1783-439e-8501-464e918ed391",
+    "name": "Legislative Budget",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6e8f2c0d-c9d3-4cb5-ae59-5264cb6d61a7",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/06adeea1-c37c-4dd1-8be5-92e9b5d3556e",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057",
+      "ocd-person/159091af-9aa8-4cb8-8c9c-9e20ba83c0ed",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/90a36fec-df56-4f22-bf16-790866d5b227",
+      "ocd-person/77415ae8-cbbc-4f67-ac01-3f749d44ff08",
+      "ocd-person/bfb503ce-dcb1-444b-9484-8a90e73c6a6f",
+      "ocd-person/555adc5f-cc3a-46b1-a00b-8fb209bc457e",
+      "ocd-person/4b29d125-27ee-46c7-a6ac-ed870c1f10a7",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Legislative%20Budget%20Committee.pdf"
+  },
+  {
+    "id": "ocd-organization/cd50c8b2-4d77-43f0-9529-966c1d60adbc",
+    "name": "Legislative Council",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b",
+      "ocd-person/66e496a4-a407-4af1-add3-ef6899b89807",
+      "ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3",
+      "ocd-person/c13f449f-0423-4ad5-836b-69913aad6600",
+      "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "ocd-person/b6144266-5383-491f-8c87-df8fd11805ea",
+      "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
+      "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d",
+      "ocd-person/f9216229-6490-412d-aa30-8baac5c2be3e",
+      "ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd",
+      "ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015"
+    ],
+    "officialUrl": "https://www.azleg.gov/legislative-council"
+  },
+  {
+    "id": "ocd-organization/0bcdd546-67f2-439a-b099-c61998bd046b",
+    "name": "Legislative Income Tax Credit Review",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/06adeea1-c37c-4dd1-8be5-92e9b5d3556e",
+      "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Legislative%20Income%20Tax%20Credit%20Review%20Committee.pdf"
+  },
+  {
+    "id": "ocd-organization/e38bd282-f8b3-49e1-a335-e0726488fbe6",
+    "name": "Legislative Oversight Committee on the Department of Child Safety",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/051cb7cf-e965-49a7-844a-a8830447df0c",
+      "ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce",
+      "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
+      "ocd-person/99f91f84-b1db-4a48-897a-4f87593357ea",
+      "ocd-person/384e8b4c-d85b-4414-9372-40116a10b3b6"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Legislative%20Oversight%20Committee%20on%20the%20Department%20of%20Child%20Safety.pdf"
+  },
+  {
+    "id": "ocd-organization/12ac50a1-b5ac-474d-9479-65893bdf8106",
+    "name": "Legislative Water",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
+      "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
+      "ocd-person/df482d8a-1ed9-41ae-b4ba-d73d4cd9aa39",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "ocd-person/66e496a4-a407-4af1-add3-ef6899b89807"
+    ],
+    "officialUrl": "https://www.azleg.gov/icommittee/Joint%20Legislative%20Water%20Committee.pdf"
+  },
+  {
+    "id": "ocd-organization/cf7f24e0-33a8-4bea-9975-2d80068a4fec",
+    "name": "Military Affairs and Border Security",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/51520de4-0e87-475b-91d2-99aa18addf72",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/6241112b-910b-4ad8-9c0d-9caad318874f",
+      "ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b",
+      "ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5",
+      "ocd-person/384e8b4c-d85b-4414-9372-40116a10b3b6",
+      "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd",
+      "ocd-person/417c9599-7617-4b6d-ac0a-1d1b2a005f4e"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2031&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/0913184a-7fa5-42ca-834c-bba9b66eb6c6",
+    "name": "Natural Resources",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "ocd-person/0b8c9973-1ae5-4af3-8a73-713c8365eccd",
+      "ocd-person/51520de4-0e87-475b-91d2-99aa18addf72",
+      "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
+      "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
+      "ocd-person/384e8b4c-d85b-4414-9372-40116a10b3b6"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2028&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/87f8208e-5413-4157-b799-369ef85156e5",
+    "name": "Natural Resources, Energy and Water",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1e39adcf-868d-4722-a07b-09fcd36ad9ed",
+      "ocd-person/9128a4e7-1464-483c-8642-0d878da05619",
+      "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd",
+      "ocd-person/bcc217f5-fe08-4213-b8a5-78d1e4d64184",
+      "ocd-person/8595d83f-1e95-4c0d-8c24-100a4a763a8f",
+      "ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e",
+      "ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3",
+      "ocd-person/176a6d0b-88bb-45fa-bf37-b4610972b2ae",
+      "ocd-person/99f91f84-b1db-4a48-897a-4f87593357ea",
+      "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1893&sessionId=123"
+  },
+  {
+    "id": "ocd-organization/37d80a39-f133-40e1-8b55-354ccce70281",
+    "name": "Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff",
+      "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
+      "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "ocd-person/51520de4-0e87-475b-91d2-99aa18addf72",
+      "ocd-person/78fce9ac-3aa4-484f-b345-f55bbbf9db9b",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2235&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/2c533e88-aeee-4f0c-8844-6b079d640ca4",
+    "name": "Public Safety and Law Enforcement",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e",
+      "ocd-person/c6a181c7-b58e-4c2a-aa2d-9ca31fc6548f",
+      "ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e",
+      "ocd-person/2e9c0206-d392-48a3-a599-7f6d226527b7",
+      "ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4",
+      "ocd-person/fd68e4c2-0463-477c-81ea-e2e36273e12b",
+      "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "ocd-person/183af2d0-dd61-476d-873f-305ae591968f",
+      "ocd-person/bd3fb0ce-720a-4137-bd45-87fb6bcf8649",
+      "ocd-person/90a36fec-df56-4f22-bf16-790866d5b227",
+      "ocd-person/68c38dfc-a12b-4c51-8b70-c4e02931cddf",
+      "ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87",
+      "ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd",
+      "ocd-person/bf406953-ad2b-43f7-95ea-3af060525c90"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2188&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/40773893-fe16-4ef9-aac0-26088c536276",
+    "name": "Regulatory Affairs and Government Efficiency",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/355be281-2f88-4108-b894-62c54b67fba3",
+      "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "ocd-person/87e6206a-c16e-4038-a86f-0d5c88b993e3",
+      "ocd-person/5425612b-fb2c-4857-8f75-31523345eb2b",
+      "ocd-person/4b336587-cb71-4a49-9cf8-514cdd2771ff",
+      "ocd-person/f0175b18-52a0-407d-af38-c1fe118e209d",
+      "ocd-person/00f9103d-191e-40ca-8f5c-e5bf806896a6"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2236&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/162f2a75-7396-45af-bd5c-7699852b5803",
+    "name": "Regulatory Oversight",
+    "chamber": "house",
+    "members": [
+      "ocd-person/102ffcb1-3028-401f-b74f-6f45db25e05e",
+      "ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1",
+      "ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c",
+      "ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2237&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/8c0c6da5-98bc-4d4d-be9d-c68054d81817",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3",
+      "ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd",
+      "ocd-person/b2ed48a3-b9ae-42be-a2c8-22a47477acfd",
+      "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
+      "ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c",
+      "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
+      "ocd-person/a4fabea6-f50e-4fe9-8696-8b4505a481e8",
+      "ocd-person/37f8815d-1672-42dd-9e9b-305449d7bb8b"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1890&sessionId=123"
+  },
+  {
+    "id": "ocd-organization/4b160606-21c4-4c6a-8bd2-d53ddb50ad99",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/263ebe9c-566a-4b5c-bfbc-ea1f1d0dc3f2",
+      "ocd-person/c94f542a-52e0-4831-8479-02793a97ccd9",
+      "ocd-person/6241112b-910b-4ad8-9c0d-9caad318874f",
+      "ocd-person/36cc8d88-e944-4889-b8ab-cf5610f3f03e",
+      "ocd-person/faca0001-6681-450b-9577-6185f4f49a3d",
+      "ocd-person/030638cb-5fcd-4637-8c59-c129e28db988",
+      "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
+      "ocd-person/bde26535-68ee-4eef-bbc8-bfa8a4380015",
+      "ocd-person/66e496a4-a407-4af1-add3-ef6899b89807"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2021&sessionId=128"
+  },
+  {
+    "id": "ocd-organization/9e145f7d-426a-4caf-afd5-49ce71a79296",
+    "name": "Rural Economic Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe",
+      "ocd-person/9128a4e7-1464-483c-8642-0d878da05619",
+      "ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1",
+      "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "ocd-person/183af2d0-dd61-476d-873f-305ae591968f",
+      "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022",
+      "ocd-person/bcc217f5-fe08-4213-b8a5-78d1e4d64184"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverview?CommId=2281"
+  },
+  {
+    "id": "ocd-organization/1aa57247-469d-4c0f-bb10-35180c168106",
+    "name": "Science and Technology",
+    "chamber": "house",
+    "members": [
+      "ocd-person/77be0e97-4c93-4332-a9f9-9348560fdf98",
+      "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
+      "ocd-person/b1da595a-8c97-42f8-ae58-694c17efa3f3",
+      "ocd-person/acfd8972-7a82-41f3-9fd7-0993cfa7365c",
+      "ocd-person/94895484-6eda-42d7-823b-a4eab17071e8",
+      "ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3",
+      "ocd-person/981d0aee-d239-4acc-9da8-1332481e57ee",
+      "ocd-person/176a6d0b-88bb-45fa-bf37-b4610972b2ae",
+      "ocd-person/99f91f84-b1db-4a48-897a-4f87593357ea"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2189&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/41b76083-6077-48be-8690-809b6c67afba",
+    "name": "Transportation and Infrastructure",
+    "chamber": "house",
+    "members": [
+      "ocd-person/433aab5d-35be-48cc-80a9-f468d5279022",
+      "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe",
+      "ocd-person/0a4e4b0a-a16e-475b-8aa1-75088657d8c1",
+      "ocd-person/a437a3ce-e3ba-44ec-af75-3308e70f5a87",
+      "ocd-person/d78cb0f9-fd3c-472e-aeb8-716abd42f26e",
+      "ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3",
+      "ocd-person/bdcadc0a-7e86-4e6a-8e27-4896dbb094ce"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=2180&sessionId=129"
+  },
+  {
+    "id": "ocd-organization/0fd0918a-d17a-4c72-8b28-d59eec94f450",
+    "name": "Ways and Means",
+    "chamber": "house",
+    "members": [
+      "ocd-person/448cb969-a498-4826-ad1e-c443fe9b8057",
+      "ocd-person/8595d83f-1e95-4c0d-8c24-100a4a763a8f",
+      "ocd-person/6e8f2c0d-c9d3-4cb5-ae59-5264cb6d61a7",
+      "ocd-person/93db82ca-c8b1-43e4-98ce-ba52f4d0f635",
+      "ocd-person/70f55f83-fed8-497f-86a9-94b6d428b9b4",
+      "ocd-person/3b6fa6b2-0a60-4f2e-9fd8-0882b04d9e0b",
+      "ocd-person/17f344ec-ffe3-46fe-ba7a-8efdc5fbf2fd",
+      "ocd-person/0fb2e73b-b140-4669-a9bd-b75facb342dd",
+      "ocd-person/4b29d125-27ee-46c7-a6ac-ed870c1f10a7"
+    ],
+    "officialUrl": "https://apps.azleg.gov/BillStatus/CommitteeOverView/?commid=1896&sessionId=123"
+  }
+]

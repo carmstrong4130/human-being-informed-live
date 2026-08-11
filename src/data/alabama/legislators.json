@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
+    "name": "A.J. McCampbell",
+    "chamber": "house",
+    "party": "D",
+    "district": "71",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/McCampbell_71.png"
+  },
+  {
+    "id": "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
+    "name": "Adline Clarke",
+    "chamber": "house",
+    "party": "D",
+    "district": "97",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Clarke_97.png"
+  },
+  {
+    "id": "ocd-person/cb2488d5-f0b6-4e9f-948b-ff7e9f4e1907",
+    "name": "Alan Baker",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Baker_66.png"
+  },
+  {
+    "id": "ocd-person/3f96a690-e9a3-4774-8484-49a5a079b18c",
+    "name": "Allen Treadaway",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Treadaway_51.png"
+  },
+  {
+    "id": "ocd-person/84d43460-8578-4b85-b2ee-7f6849e270d8",
+    "name": "Andrew Jones",
+    "chamber": "senate",
+    "party": "R",
+    "district": "10",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Jones_10.png"
+  },
+  {
+    "id": "ocd-person/c128ed12-dd1b-4b5f-8c64-9d86bf9d6580",
+    "name": "Andy Whitt",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Whitt_6.png"
+  },
+  {
+    "id": "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
+    "name": "Anthony Daniels",
+    "chamber": "house",
+    "party": "D",
+    "district": "53",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Daniels_53.png"
+  },
+  {
+    "id": "ocd-person/15ebe01e-1447-4bdb-8dfb-e9d5948b872d",
+    "name": "April Weaver",
+    "chamber": "senate",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Weaver_14.png"
+  },
+  {
+    "id": "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
+    "name": "Arnold Mooney",
+    "chamber": "house",
+    "party": "R",
+    "district": "43",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Mooney_43.png"
+  },
+  {
+    "id": "ocd-person/b38546ec-f8fb-4e99-8e0c-46715b2e8578",
+    "name": "Arthur Orr",
+    "chamber": "senate",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Orr_3.png"
+  },
+  {
+    "id": "ocd-person/a1033b9f-f53e-46b8-ab4e-508d87e0d8e8",
+    "name": "Barbara Boyd",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Boyd_32.png"
+  },
+  {
+    "id": "ocd-person/375419e1-4626-4a9a-92ed-15962de5be09",
+    "name": "Barbara Drummond",
+    "chamber": "house",
+    "party": "D",
+    "district": "103",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Drummond_103.png"
+  },
+  {
+    "id": "ocd-person/a2413268-fe7d-4a14-839c-14e9723da23a",
+    "name": "Ben Harrison",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Harrison_2.png"
+  },
+  {
+    "id": "ocd-person/7da5c799-bd67-458a-b3b1-a0cdda8f474e",
+    "name": "Ben Robbins",
+    "chamber": "house",
+    "party": "R",
+    "district": "33",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Robbins_33.png"
+  },
+  {
+    "id": "ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a",
+    "name": "Berry Forte",
+    "chamber": "house",
+    "party": "D",
+    "district": "84",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Forte_84.png"
+  },
+  {
+    "id": "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
+    "name": "Bill Lamb",
+    "chamber": "house",
+    "party": "R",
+    "district": "62",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Lamb_62.png"
+  },
+  {
+    "id": "ocd-person/38c5b433-f53c-4073-a2da-a969e4c31696",
+    "name": "Billy Beasley",
+    "chamber": "senate",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Beasley_28.png"
+  },
+  {
+    "id": "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
+    "name": "Bob Fincher",
+    "chamber": "house",
+    "party": "R",
+    "district": "37",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Fincher_37.png"
+  },
+  {
+    "id": "ocd-person/6e6d5e12-363b-42dc-b0d1-191c82aa6493",
+    "name": "Bobby Singleton",
+    "chamber": "senate",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Singleton_24.png"
+  },
+  {
+    "id": "ocd-person/def57a9e-a907-4e62-b990-41dc19661c06",
+    "name": "Brett Easterbrook",
+    "chamber": "house",
+    "party": "R",
+    "district": "65",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Easterbrook_65.png"
+  },
+  {
+    "id": "ocd-person/aaffbe89-25dd-4454-85f7-81e4ed89c749",
+    "name": "Brock Colvin",
+    "chamber": "house",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Colvin_26.png"
+  },
+  {
+    "id": "ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38",
+    "name": "Bryan Brinyark",
+    "chamber": "house",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://ballotpedia.org/Bryan_Brinyark",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Brinyark_16.png"
+  },
+  {
+    "id": "ocd-person/3828d8e6-1f22-4cb1-be51-b3d3a0c36b98",
+    "name": "Bubba Underwood",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Underwood_3.png"
+  },
+  {
+    "id": "ocd-person/60ec1e11-da78-43be-90e5-5d850bf3edc7",
+    "name": "Chad Robertson",
+    "chamber": "house",
+    "party": "R",
+    "district": "40",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Robertson_40.png"
+  },
+  {
+    "id": "ocd-person/04a1794d-93f0-435f-8c68-1b435f2fc1a0",
+    "name": "Chip Brown",
+    "chamber": "house",
+    "party": "R",
+    "district": "105",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Brown_105.png"
+  },
+  {
+    "id": "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
+    "name": "Chris Blackshear",
+    "chamber": "house",
+    "party": "R",
+    "district": "80",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Blackshear_80.png"
+  },
+  {
+    "id": "ocd-person/67479855-f23e-4119-b886-91dddc09a47a",
+    "name": "Chris Elliott",
+    "chamber": "senate",
+    "party": "R",
+    "district": "32",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Elliott_32.png"
+  },
+  {
+    "id": "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
+    "name": "Chris England",
+    "chamber": "house",
+    "party": "D",
+    "district": "70",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/England_70.png"
+  },
+  {
+    "id": "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+    "name": "Chris Pringle",
+    "chamber": "house",
+    "party": "R",
+    "district": "101",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Pringle_101.png"
+  },
+  {
+    "id": "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
+    "name": "Chris Sells",
+    "chamber": "house",
+    "party": "R",
+    "district": "90",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Sells_90.png"
+  },
+  {
+    "id": "ocd-person/cbfd2b4e-f512-4176-b2f6-1df9d2d9c99c",
+    "name": "Cindy Myrex",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://ballotpedia.org/Cindy_Myrex",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/d1307771-6d50-4d56-9995-b5d799917d7b",
+    "name": "Clyde Chambliss",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Chambliss_30.png"
+  },
+  {
+    "id": "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
+    "name": "Corley Ellis",
+    "chamber": "house",
+    "party": "R",
+    "district": "41",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Ellis_41.png"
+  },
+  {
+    "id": "ocd-person/63e7d9b8-136c-4ebc-bb87-19660eb7b624",
+    "name": "Craig Lipscomb",
+    "chamber": "house",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Lipscomb_30.png"
+  },
+  {
+    "id": "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
+    "name": "Curtis Travis",
+    "chamber": "house",
+    "party": "D",
+    "district": "72",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Travis_72.png"
+  },
+  {
+    "id": "ocd-person/c58c02cd-0f5c-4454-b5d9-6eb0e604ea25",
+    "name": "Dan Roberts",
+    "chamber": "senate",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Roberts_15.png"
+  },
+  {
+    "id": "ocd-person/749e2cb2-e087-4920-aea3-b40d28f56db5",
+    "name": "Danny Crawford",
+    "chamber": "house",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Crawford_5.png"
+  },
+  {
+    "id": "ocd-person/4aab5f96-d36a-4274-9591-9922a353c10b",
+    "name": "Danny Garrett",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Garrett_44.png"
+  },
+  {
+    "id": "ocd-person/9b9fd235-1045-4935-a097-bd5e51d2c592",
+    "name": "David Faulkner",
+    "chamber": "house",
+    "party": "R",
+    "district": "46",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Faulkner_46.png"
+  },
+  {
+    "id": "ocd-person/fa2c59ea-1a07-429d-85e4-9c60652919aa",
+    "name": "David Sessions",
+    "chamber": "senate",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Sessions_35.png"
+  },
+  {
+    "id": "ocd-person/0efb60b3-60e6-4248-a264-41a2a1d35036",
+    "name": "David Standridge",
+    "chamber": "house",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Standridge_34.png"
+  },
+  {
+    "id": "ocd-person/ef19bb65-dc3c-4815-ac71-b1ffd9abf28b",
+    "name": "Donna Givens",
+    "chamber": "house",
+    "party": "R",
+    "district": "64",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Givens_64.png"
+  },
+  {
+    "id": "ocd-person/c1ce8b3f-ea56-4c8f-ab74-2a02b8d10063",
+    "name": "Donnie Chesteen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Chesteen_29.png"
+  },
+  {
+    "id": "ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd",
+    "name": "Ed Oliver",
+    "chamber": "house",
+    "party": "R",
+    "district": "81",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Oliver_81.png"
+  },
+  {
+    "id": "ocd-person/5658aa05-6ffa-4774-a8a4-f49c169769d2",
+    "name": "Ernie Yarbrough",
+    "chamber": "house",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Yarbrough_7.png"
+  },
+  {
+    "id": "ocd-person/3bc2e263-71cf-41e2-80c5-3f97cad999ff",
+    "name": "Frances Holk-Jones",
+    "chamber": "house",
+    "party": "R",
+    "district": "95",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Holk-Jones_95.png"
+  },
+  {
+    "id": "ocd-person/cf025dad-05a0-4a54-ba0b-bbeecb87c10e",
+    "name": "Garlan Gudger",
+    "chamber": "senate",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Gudger_4.png"
+  },
+  {
+    "id": "ocd-person/adbf5614-9045-4cb7-86eb-2d88f25a357a",
+    "name": "Gerald Allen",
+    "chamber": "senate",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Allen_21.png"
+  },
+  {
+    "id": "ocd-person/08fce57e-b511-4572-bcb8-7c712d8e7d05",
+    "name": "Ginny Shaver",
+    "chamber": "house",
+    "party": "R",
+    "district": "39",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Shaver_39.png"
+  },
+  {
+    "id": "ocd-person/7b9adc85-fd70-470a-b1bf-44ed412f3ba0",
+    "name": "Greg Albritton",
+    "chamber": "senate",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Albritton_22.png"
+  },
+  {
+    "id": "ocd-person/319cc74b-3113-4053-8bda-0e1903227207",
+    "name": "Greg Barnes",
+    "chamber": "house",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://ballotpedia.org/Greg_Barnes",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/de4c986e-ec06-437e-8d3d-b7ca591606bc",
+    "name": "Heath Allbright",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://ballotpedia.org/Heath_Allbright",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/bdfa9580-2ce0-4828-8f9e-52e6f066fbce",
+    "name": "Jabo Waggoner",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Waggoner_16.png"
+  },
+  {
+    "id": "ocd-person/a7e333c5-03f2-4343-9981-956bcc1ea38e",
+    "name": "Jack Williams",
+    "chamber": "senate",
+    "party": "R",
+    "district": "34",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Williams_34.png"
+  },
+  {
+    "id": "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
+    "name": "James Lomax",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Lomax_20.png"
+  },
+  {
+    "id": "ocd-person/390ee0ed-0b5e-4f45-a740-63511c4fa3fd",
+    "name": "Jamie Kiel",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Kiel_18.png"
+  },
+  {
+    "id": "ocd-person/d581a562-c33c-44c0-a707-c21dddf140aa",
+    "name": "Jay Hovey",
+    "chamber": "senate",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Hovey_27.png"
+  },
+  {
+    "id": "ocd-person/70d0256c-91eb-4338-b86d-181e1db4d8f7",
+    "name": "Jeana Ross",
+    "chamber": "house",
+    "party": "R",
+    "district": "27",
+    "bioUrl": "https://ballotpedia.org/Jeana_Ross",
+    "imageUrl": "https://education.ua.edu/wp-content/uploads/2023/02/Jeana-Ross.jpg"
+  },
+  {
+    "id": "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+    "name": "Jeff Sorrells",
+    "chamber": "house",
+    "party": "R",
+    "district": "87",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Sorrells_87.png"
+  },
+  {
+    "id": "ocd-person/48d9f4e1-ec8b-4353-9207-a70db34449a9",
+    "name": "Jennifer Fidler",
+    "chamber": "house",
+    "party": "R",
+    "district": "94",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Fidler_94.png"
+  },
+  {
+    "id": "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
+    "name": "Jeremy Gray",
+    "chamber": "house",
+    "party": "D",
+    "district": "83",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Gray_83.png"
+  },
+  {
+    "id": "ocd-person/8394a967-dcf1-4901-a8d5-9ca120da382e",
+    "name": "Jerry Starnes",
+    "chamber": "house",
+    "party": "R",
+    "district": "88",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Starnes_88.png"
+  },
+  {
+    "id": "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
+    "name": "Jim Carns",
+    "chamber": "house",
+    "party": "R",
+    "district": "48",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Carns_48.png"
+  },
+  {
+    "id": "ocd-person/1fda4118-bfb1-4ffa-b71a-a9d131feec6b",
+    "name": "Jim Hill",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hill_50.png"
+  },
+  {
+    "id": "ocd-person/972dcfd0-f2a2-438b-b5de-276ceb398a91",
+    "name": "Joe Lovvorn",
+    "chamber": "house",
+    "party": "R",
+    "district": "79",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Lovvorn_79.png"
+  },
+  {
+    "id": "ocd-person/51b33504-a943-4091-a3bd-f0b8feb124be",
+    "name": "Josh Carnley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Carnley_31.png"
+  },
+  {
+    "id": "ocd-person/73cebf90-bf5a-444a-857e-b5bbddc374bf",
+    "name": "Juandalynn Givan",
+    "chamber": "house",
+    "party": "D",
+    "district": "60",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Givan_60.png"
+  },
+  {
+    "id": "ocd-person/e259674a-2a78-4423-b8d0-3d759ee90912",
+    "name": "Keith Kelley",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Kelley_12.png"
+  },
+  {
+    "id": "ocd-person/441922a8-63c1-498b-9de5-f5ee85d9dcf3",
+    "name": "Kelvin Datcher",
+    "chamber": "house",
+    "party": "D",
+    "district": "52",
+    "bioUrl": "https://ballotpedia.org/Kelvin_Datcher",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Kelvin_Datcher_20240808_092142.jpeg"
+  },
+  {
+    "id": "ocd-person/0e1643ee-370a-499d-80df-96116d63c216",
+    "name": "Kelvin Lawrence",
+    "chamber": "house",
+    "party": "D",
+    "district": "69",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Lawrence_69.png"
+  },
+  {
+    "id": "ocd-person/ab6d4114-8d0a-4439-934b-10197234473c",
+    "name": "Kenneth Paschal",
+    "chamber": "house",
+    "party": "R",
+    "district": "73",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Paschal_73.png"
+  },
+  {
+    "id": "ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e",
+    "name": "Kenyatt\\xE9 Hassell",
+    "chamber": "house",
+    "party": "D",
+    "district": "78",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/kenyatte-hassell.png"
+  },
+  {
+    "id": "ocd-person/e0a28b79-3df1-491b-af90-4c0414ba72c8",
+    "name": "Kirk Hatcher",
+    "chamber": "senate",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Hatcher_26.png"
+  },
+  {
+    "id": "ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e",
+    "name": "Kristin Nelson",
+    "chamber": "house",
+    "party": "R",
+    "district": "38",
+    "bioUrl": "https://ballotpedia.org/Kristin_Nelson_(Alabama)",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/889eac7b-10b6-4f00-9bd6-e93a93d93211",
+    "name": "Lance Bell",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Bell_11.png"
+  },
+  {
+    "id": "ocd-person/abc69c3a-3f86-4880-a1ea-a2a52677b877",
+    "name": "Larry Stutts",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Stutts_6.png"
+  },
+  {
+    "id": "ocd-person/9314859d-000f-447c-9aa7-4993b13e8010",
+    "name": "Laura Hall",
+    "chamber": "house",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hall_19.png"
+  },
+  {
+    "id": "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+    "name": "Leigh Hulsey",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hulsey_15.png"
+  },
+  {
+    "id": "ocd-person/8ffbb88c-c323-436f-aab0-91a41bf6c8dd",
+    "name": "Linda Coleman-Madison",
+    "chamber": "senate",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Coleman-Madison_20.png"
+  },
+  {
+    "id": "ocd-person/5071243c-3e2d-4acb-ac8d-0d3a8af3eb8a",
+    "name": "Mack Butler",
+    "chamber": "house",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Butler_28.png"
+  },
+  {
+    "id": "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
+    "name": "Marcus Paramore",
+    "chamber": "house",
+    "party": "R",
+    "district": "89",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Paramore_89.png"
+  },
+  {
+    "id": "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
+    "name": "Margie Wilcox",
+    "chamber": "house",
+    "party": "R",
+    "district": "104",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Wilcox_104.png"
+  },
+  {
+    "id": "ocd-person/eb947430-2674-4158-8290-0d973c59e834",
+    "name": "Marilyn Lands",
+    "chamber": "house",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://ballotpedia.org/Marilyn_Lands",
+    "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/141174.jpg"
+  },
+  {
+    "id": "ocd-person/97514731-a41d-4328-841f-afdcaac1c6e2",
+    "name": "Mark Gidley",
+    "chamber": "house",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Gidley_29.png"
+  },
+  {
+    "id": "ocd-person/41debaee-f705-453d-a46f-3e8282b8a4b0",
+    "name": "Mark Shirey",
+    "chamber": "house",
+    "party": "R",
+    "district": "100",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Shirey_100.png"
+  },
+  {
+    "id": "ocd-person/63c58557-7c03-41f5-934a-866daed33ec8",
+    "name": "Mary Moore",
+    "chamber": "house",
+    "party": "D",
+    "district": "59",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Moore_59.png"
+  },
+  {
+    "id": "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+    "name": "Matt Simpson",
+    "chamber": "house",
+    "party": "R",
+    "district": "96",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Simpson_96.png"
+  },
+  {
+    "id": "ocd-person/e6c4edb0-48af-4db8-aa0a-57570f0aef1e",
+    "name": "Matt Woods",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Woods_13.png"
+  },
+  {
+    "id": "ocd-person/ff14c161-755d-44c8-a1e5-c2e3930a5317",
+    "name": "Matthew Hammett",
+    "chamber": "house",
+    "party": "R",
+    "district": "92",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hammett_92.png"
+  },
+  {
+    "id": "ocd-person/764f926b-598f-458e-84c4-5cc13c2302e5",
+    "name": "Merika Coleman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Coleman_19.png"
+  },
+  {
+    "id": "ocd-person/c2e0fa74-36df-4d34-8203-962c546442fa",
+    "name": "Mike Kirkland",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Kirkland_23.png"
+  },
+  {
+    "id": "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
+    "name": "Mike Shaw",
+    "chamber": "house",
+    "party": "R",
+    "district": "47",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Shaw_47.png"
+  },
+  {
+    "id": "ocd-person/947c7906-7825-442f-9241-d777b9bbe999",
+    "name": "Napoleon Bracy",
+    "chamber": "house",
+    "party": "D",
+    "district": "98",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Bracy_98.png"
+  },
+  {
+    "id": "ocd-person/097b764f-5d8c-462e-a962-3330c50721a4",
+    "name": "Nathaniel Ledbetter",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Ledbetter_24.png"
+  },
+  {
+    "id": "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+    "name": "Neil Rafferty",
+    "chamber": "house",
+    "party": "D",
+    "district": "54",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Rafferty_54.png"
+  },
+  {
+    "id": "ocd-person/3a86c192-f9b1-4b58-9f5b-2119d1fe4e0d",
+    "name": "Norman Crow",
+    "chamber": "house",
+    "party": "R",
+    "district": "63",
+    "bioUrl": "https://ballotpedia.org/Norman_Crow_(Alabama)",
+    "imageUrl": null
+  },
+  {
+    "id": "ocd-person/a86c6f40-304e-49fd-a312-3aa30660fcdf",
+    "name": "Ontario Tillman",
+    "chamber": "house",
+    "party": "D",
+    "district": "56",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Tillman_56.png"
+  },
+  {
+    "id": "ocd-person/95e63d6f-1815-4364-8817-0d26e360013f",
+    "name": "Parker Moore",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Moore_4.png"
+  },
+  {
+    "id": "ocd-person/19244bfa-5953-4304-8955-cc58d0c5d16d",
+    "name": "Patrick Sellers",
+    "chamber": "house",
+    "party": "D",
+    "district": "57",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Sellers_57.png"
+  },
+  {
+    "id": "ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181",
+    "name": "Paul Lee",
+    "chamber": "house",
+    "party": "R",
+    "district": "86",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Lee_86.png"
+  },
+  {
+    "id": "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
+    "name": "Pebblin Warren",
+    "chamber": "house",
+    "party": "D",
+    "district": "82",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Warren_82.png"
+  },
+  {
+    "id": "ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f",
+    "name": "Penni McClammy",
+    "chamber": "house",
+    "party": "D",
+    "district": "76",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/mcclammy.png"
+  },
+  {
+    "id": "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649",
+    "name": "Phillip Ensler",
+    "chamber": "house",
+    "party": "D",
+    "district": "74",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Ensler_74.png"
+  },
+  {
+    "id": "ocd-person/a84a3fe8-5444-4db3-9f64-06ea0cba0e90",
+    "name": "Phillip Pettus",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Pettus_1.png"
+  },
+  {
+    "id": "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb",
+    "name": "Phillip Rigsby",
+    "chamber": "house",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Rigsby_25.png"
+  },
+  {
+    "id": "ocd-person/b1e60061-fb98-4c20-8532-b734d08cdbc3",
+    "name": "Prince Chestnut",
+    "chamber": "house",
+    "party": "D",
+    "district": "67",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Chestnut_67.png"
+  },
+  {
+    "id": "ocd-person/040b7935-b32a-4d6d-9fa4-ec86e5ffd303",
+    "name": "Randy Price",
+    "chamber": "senate",
+    "party": "R",
+    "district": "13",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Price_13.png"
+  },
+  {
+    "id": "ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601",
+    "name": "Randy Wood",
+    "chamber": "house",
+    "party": "R",
+    "district": "36",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Wood_36.png"
+  },
+  {
+    "id": "ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413",
+    "name": "Reed Ingram",
+    "chamber": "house",
+    "party": "R",
+    "district": "75",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Ingram_75.png"
+  },
+  {
+    "id": "ocd-person/e95b6e20-1207-4cdc-9875-15d14bfd72d2",
+    "name": "Rex Reynolds",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Reynolds_21.png"
+  },
+  {
+    "id": "ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4",
+    "name": "Rhett Marques",
+    "chamber": "house",
+    "party": "R",
+    "district": "91",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Marques_91.png"
+  },
+  {
+    "id": "ocd-person/31629cc7-81e6-4422-9aa3-89e6b9073259",
+    "name": "Rick Rehm",
+    "chamber": "house",
+    "party": "R",
+    "district": "85",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Rehm_85.png"
+  },
+  {
+    "id": "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
+    "name": "Ritchie Whorton",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Whorton_22.png"
+  },
+  {
+    "id": "ocd-person/cd2d1a70-0bb3-49b3-871c-9e227392653d",
+    "name": "Rob Stewart",
+    "chamber": "senate",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Stewart_23.png"
+  },
+  {
+    "id": "ocd-person/3b925820-55f7-4d24-b4df-d924fd3d1bf7",
+    "name": "Rodger Smitherman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Smitherman_18.png"
+  },
+  {
+    "id": "ocd-person/721421f8-e118-4163-bae9-72f3662696e9",
+    "name": "Rolanda Hollis",
+    "chamber": "house",
+    "party": "D",
+    "district": "58",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hollis_58.png"
+  },
+  {
+    "id": "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02",
+    "name": "Ron Bolton",
+    "chamber": "house",
+    "party": "R",
+    "district": "61",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Bolton_61.png"
+  },
+  {
+    "id": "ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9",
+    "name": "Russell Bedsole",
+    "chamber": "house",
+    "party": "R",
+    "district": "49",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Bedsole_49.png"
+  },
+  {
+    "id": "ocd-person/21753744-c2a0-45d4-90f8-3d4082c794d4",
+    "name": "Sam Givhan",
+    "chamber": "senate",
+    "party": "R",
+    "district": "7",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Givhan_7.png"
+  },
+  {
+    "id": "ocd-person/1c825e04-ad1e-4009-a8d8-157abc001f3e",
+    "name": "Sam Jones",
+    "chamber": "house",
+    "party": "D",
+    "district": "99",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Jones_99.png"
+  },
+  {
+    "id": "ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c",
+    "name": "Scott Stadthagen",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Stadthagen_9.png"
+  },
+  {
+    "id": "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b",
+    "name": "Shane Stringer",
+    "chamber": "house",
+    "party": "R",
+    "district": "102",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Stringer_102.png"
+  },
+  {
+    "id": "ocd-person/9487b441-352c-43be-a2bb-8abc45e20671",
+    "name": "Shay Shelnutt",
+    "chamber": "senate",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Shelnutt_17.png"
+  },
+  {
+    "id": "ocd-person/6b191fda-698d-4061-8396-fef9771847ee",
+    "name": "Steve Clouse",
+    "chamber": "house",
+    "party": "R",
+    "district": "93",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Clouse_93.png"
+  },
+  {
+    "id": "ocd-person/4f0a4d5d-b27a-4f33-b394-f27d306f8a42",
+    "name": "Steve Hurst",
+    "chamber": "house",
+    "party": "R",
+    "district": "35",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hurst_35.png"
+  },
+  {
+    "id": "ocd-person/dd765598-9bed-4301-9f49-7e06fffd7fce",
+    "name": "Steve Livingston",
+    "chamber": "senate",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Livingston_8.png"
+  },
+  {
+    "id": "ocd-person/03612130-d61e-43dd-9768-ddca8f27d4ea",
+    "name": "Susan DuBose",
+    "chamber": "house",
+    "party": "R",
+    "district": "45",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/DuBose_45.png"
+  },
+  {
+    "id": "ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a",
+    "name": "TaShina Morris",
+    "chamber": "house",
+    "party": "D",
+    "district": "77",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Morris_77.png"
+  },
+  {
+    "id": "ocd-person/902f0f81-a34c-4714-a3eb-bf563abbea96",
+    "name": "Terri Collins",
+    "chamber": "house",
+    "party": "R",
+    "district": "8",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Collins_8.png"
+  },
+  {
+    "id": "ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23",
+    "name": "Thomas Jackson",
+    "chamber": "house",
+    "party": "D",
+    "district": "68",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Jackson_68.png"
+  },
+  {
+    "id": "ocd-person/2f934a90-dc27-4289-b571-36e80ea4384b",
+    "name": "Tim Melson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Melson_1.png"
+  },
+  {
+    "id": "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604",
+    "name": "Tim Wadsworth",
+    "chamber": "house",
+    "party": "R",
+    "district": "14",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Wadsworth_14.png"
+  },
+  {
+    "id": "ocd-person/32e10f9c-d38c-472f-8fb0-03450c4b538a",
+    "name": "Tom Butler",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Butler_2.png"
+  },
+  {
+    "id": "ocd-person/25308613-cda5-4e1c-aef7-821ada580575",
+    "name": "Tracy Estes",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Estes_17.png"
+  },
+  {
+    "id": "ocd-person/03ab8e26-365c-4dab-8e49-df2a8b7613f8",
+    "name": "Travis Hendrix",
+    "chamber": "house",
+    "party": "D",
+    "district": "55",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Hendrix_55.png"
+  },
+  {
+    "id": "ocd-person/82715f9c-12a1-4e99-8020-a47b37dfa92b",
+    "name": "Troy Stubbs",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Stubbs_31.png"
+  },
+  {
+    "id": "ocd-person/2e9b60b3-d931-412e-a9f6-803aa7c7b085",
+    "name": "Van Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "42",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/house/members/Smith_42.png"
+  },
+  {
+    "id": "ocd-person/63d0a35f-ec68-48e2-be94-d5e3cb60b3c3",
+    "name": "Vivian Figures",
+    "chamber": "senate",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Figures_33.png"
+  },
+  {
+    "id": "ocd-person/3f143edf-eac6-4bee-89b3-c5ac0b0b856e",
+    "name": "Wes Kitchens",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://alison.legislature.state.al.us/house-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Kitchens_9.png"
+  },
+  {
+    "id": "ocd-person/8cca1495-936e-4ac5-920a-cc4aa22e495e",
+    "name": "Will Barfoot",
+    "chamber": "senate",
+    "party": "R",
+    "district": "25",
+    "bioUrl": "https://alison.legislature.state.al.us/senate-leaders-members",
+    "imageUrl": "https://www.legislature.state.al.us/pdf/senate/members/Barfoot_25.png"
+  }
+]

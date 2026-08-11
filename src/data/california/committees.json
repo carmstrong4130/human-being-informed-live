@@ -1,0 +1,2143 @@
+[
+  {
+    "id": "ocd-organization/f8e48322-9788-46be-91bc-85d435930ebe",
+    "name": "2028 Olympic and Paralympic Games Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/olympic-games/about/overview"
+  },
+  {
+    "id": "ocd-organization/3c096395-7f06-4176-9dd7-c6c838b640d5",
+    "name": "Aging and Long-Term Care",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945"
+    ],
+    "officialUrl": "https://altc.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/1c494194-5223-4cad-a72e-dd7c814f2669",
+    "name": "Agriculture",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff"
+    ],
+    "officialUrl": "https://agri.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/4f0dab78-1bbc-4b56-825e-a305d841b2f6",
+    "name": "Agriculture",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d"
+    ],
+    "officialUrl": "https://sagri.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/4d2d7d32-158b-46b9-a9db-6a1fc0d05b01",
+    "name": "Alternative Protein Innovation Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/alternate-protein/about/overview"
+  },
+  {
+    "id": "ocd-organization/87d96bbb-b62e-4d24-bb02-141be6403239",
+    "name": "Appropriations",
+    "chamber": "house",
+    "members": [
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/75229920-399d-4216-9b76-c27ea398665a"
+    ],
+    "officialUrl": "https://apro.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/f743cf13-db87-4967-b1ee-eb0f3dd4264d",
+    "name": "Appropriations",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://sapro.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/7579c86f-859e-4cb9-94ad-85a5de266848",
+    "name": "Arts",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://arts.legislature.ca.gov"
+  },
+  {
+    "id": "ocd-organization/625a2a68-e1fe-4108-99e6-b61f1c23e74d",
+    "name": "Arts, Entertainment, Sports and Tourism",
+    "chamber": "house",
+    "members": [
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://aart.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/5d83d29b-79a8-4d0d-9370-874c4ba13fde",
+    "name": "Asia/California Trade and Investment Promotion Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/asia-ca-trade/about/overview"
+  },
+  {
+    "id": "ocd-organization/ff860dd1-0007-498f-bc53-959e5efd99bb",
+    "name": "Banking and Finance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9"
+    ],
+    "officialUrl": "https://abnk.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/f9714124-e623-4cb8-96ce-0506dac12368",
+    "name": "Banking and Financial Institutions",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b"
+    ],
+    "officialUrl": "https://sbnk.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/15139942-ebdf-43fc-b09f-ecd5f051ee4d",
+    "name": "Biotechnology and Medical Technology Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/bio-medical-tech/about/overview"
+  },
+  {
+    "id": "ocd-organization/ee8c8404-0312-48c7-ac8d-97864807b925",
+    "name": "Budget",
+    "chamber": "house",
+    "members": [
+      "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://abgt.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/183ed519-9c04-4bbe-9fa7-896b3423486f",
+    "name": "Budget and Fiscal Review",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2"
+    ],
+    "officialUrl": "https://sbud.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/4ac3f258-df86-4502-8c17-e3b74abf5bd1",
+    "name": "Business and Professions",
+    "chamber": "house",
+    "members": [
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae"
+    ],
+    "officialUrl": "https://abp.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/1eaffe99-572e-4ada-8f4f-f93e1f99e6dc",
+    "name": "Business, Professions and Economic Development",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0",
+      "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632",
+      "ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b"
+    ],
+    "officialUrl": "https://sbp.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/33d60b30-daef-4d35-8d7b-34cb9bec0429",
+    "name": "CalFresh Enrollment and Nutrition Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/calfresh-nutrition/about/overview"
+  },
+  {
+    "id": "ocd-organization/dcb75fb5-2438-4c78-af33-ef962f6acf99",
+    "name": "California-M\\xE9xico Bi-National Affairs Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/ca-mexico-affairs/about/overview"
+  },
+  {
+    "id": "ocd-organization/c8f7db7d-71c8-4cd2-b0c7-80e974e8c304",
+    "name": "California-Mexico Cooperation and Dialogue Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41"
+    ],
+    "officialUrl": "https://calmex.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/ec062494-0be9-4622-ae41-1f38211f2ef7",
+    "name": "Child Care Costs Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/child-care-costs/about/overview"
+  },
+  {
+    "id": "ocd-organization/e077acfd-fbd5-4395-b4af-51131c9c7113",
+    "name": "Climate Change Policies Legislative",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e"
+    ],
+    "officialUrl": "https://climatechangepolicies.legislature.ca.gov"
+  },
+  {
+    "id": "ocd-organization/5e355d16-a219-49a3-bfc7-93d52c648fa7",
+    "name": "Climate Innovation and Infrastructure Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/climate-innovation-infrastructure/about/overview"
+  },
+  {
+    "id": "ocd-organization/8e3b0fe8-639c-4e60-86ef-04fa4fc221f1",
+    "name": "Communications and Conveyance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1"
+    ],
+    "officialUrl": "https://acom.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/702406a3-9624-4e0c-85a6-046b05b755b6",
+    "name": "Community College: The Hub of the Community Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeoncommunitycollegethehubofthecommunity"
+  },
+  {
+    "id": "ocd-organization/66ce9215-df8f-41c3-88bf-c670df77462e",
+    "name": "Community Economic Mobility and Investment Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/economic-investment/about/overview"
+  },
+  {
+    "id": "ocd-organization/07fe5eea-2a9d-4cb2-a341-9394f063ff19",
+    "name": "Community Reinvestment Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/community-reinvestment/about/overview"
+  },
+  {
+    "id": "ocd-organization/3fbe9ec8-0044-496e-af94-9a788fd85794",
+    "name": "Cybersecurity Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/cybersecurity/about/overview"
+  },
+  {
+    "id": "ocd-organization/514b8f79-d404-4d9a-b0fa-d60ef437d0a1",
+    "name": "Developing Pathways to Purpose for Young Men Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/select-committee-on-developing-pathways-to-purpose-for-young-men/about/overview"
+  },
+  {
+    "id": "ocd-organization/23a8ec7f-c03a-4b70-a253-0ec0ae88f9a9",
+    "name": "Domestic Violence Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/domestic-violence/about/overview"
+  },
+  {
+    "id": "ocd-organization/1bbb3bd7-77a5-4814-80ee-878691f379ab",
+    "name": "Downtown Recovery Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/downtown-recovery/about/overview"
+  },
+  {
+    "id": "ocd-organization/e8edebca-1810-4965-aa66-481b4235c088",
+    "name": "Economic Development and Technological Innovation Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeoneconomicdevelopmentandtechnologicalinnovation"
+  },
+  {
+    "id": "ocd-organization/6d68f7ff-87d2-4285-a890-367b8148aabe",
+    "name": "Economic Development, Growth and Household Impact",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "ocd-person/78610d0e-c790-4fc9-ab8e-0887adbbe063",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693"
+    ],
+    "officialUrl": "https://aedghi.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/1849e837-f14f-473b-977a-311b2c5923ce",
+    "name": "Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d"
+    ],
+    "officialUrl": "https://aedn.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/97bac2d6-cbad-4ed7-859e-583b6280bdb5",
+    "name": "Education",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2"
+    ],
+    "officialUrl": "https://sedn.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/7c500ee3-735e-4af4-a88b-9742bde18c25",
+    "name": "Effective Postsecondary Career Technical Education and Workforce Development Programs Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/workforce-development-programs/about/overview"
+  },
+  {
+    "id": "ocd-organization/4fc89161-612c-4360-81bb-e746485c69ee",
+    "name": "Elections",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72"
+    ],
+    "officialUrl": "https://aelc.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/0966c088-f1e5-4398-86d5-5a4cb14228d9",
+    "name": "Elections and Constitutional Amendments",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632"
+    ],
+    "officialUrl": "https://selc.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/c9432775-a404-4497-b0e2-653b017f7648",
+    "name": "Electric Vehicles and Charging Infrastructure Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/electric-vehicles/about/overview"
+  },
+  {
+    "id": "ocd-organization/70b5b4c9-2afe-4bef-bdea-928c54172109",
+    "name": "Emergency Management",
+    "chamber": "house",
+    "members": [
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72"
+    ],
+    "officialUrl": "https://aem.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/4a3a7fc0-bc8e-4b9d-8569-ac55804a6692",
+    "name": "Emergency Management",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://sem.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/93713693-a759-4a14-853a-4db2454225e1",
+    "name": "Energy, Utilities and Communications",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b"
+    ],
+    "officialUrl": "https://seuc.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/b01238bf-d457-455c-bf23-c3610559325b",
+    "name": "Environmental Quality",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41"
+    ],
+    "officialUrl": "https://senv.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/d6295431-dd82-45ca-869e-0e19c1affb3e",
+    "name": "Environmental Safety and Toxic Materials",
+    "chamber": "house",
+    "members": [
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://aesm.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/7c6249fc-13af-4b1e-b57c-16bfdbd7d9ad",
+    "name": "Fairs, Allocation and Classification",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d"
+    ],
+    "officialUrl": "https://assembly.ca.gov/fairsallocation"
+  },
+  {
+    "id": "ocd-organization/6b6033bb-7e1c-4190-b58e-53eecf9845eb",
+    "name": "Fisheries and Aquaculture",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://fisheries.legislature.ca.gov"
+  },
+  {
+    "id": "ocd-organization/9f7fc1dc-3be0-4e96-b066-d01e7fd89a4a",
+    "name": "Governmental Organization",
+    "chamber": "house",
+    "members": [
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9",
+      "ocd-person/75229920-399d-4216-9b76-c27ea398665a"
+    ],
+    "officialUrl": "https://agov.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/78312f3d-fe3b-4b47-95c8-2b7e08d7f949",
+    "name": "Governmental Organization",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d"
+    ],
+    "officialUrl": "https://sgov.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/3b14bafa-e434-42f2-b8b6-e328a5d62367",
+    "name": "Green Economic Development Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeongreeneconomicdevelopment"
+  },
+  {
+    "id": "ocd-organization/70c9734b-9110-4919-b10f-e48eca4f88cc",
+    "name": "Health",
+    "chamber": "house",
+    "members": [
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9"
+    ],
+    "officialUrl": "https://ahea.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/a2455d98-ec13-4ef2-b1b7-a4da6a079430",
+    "name": "Health",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc"
+    ],
+    "officialUrl": "https://shea.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/7eef03b1-5d2f-4fe1-b0fb-498a2d91a108",
+    "name": "Higher Education",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "ocd-person/78610d0e-c790-4fc9-ab8e-0887adbbe063",
+      "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://ahed.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/50d30573-3a19-41da-8ab3-3cb69000ea0d",
+    "name": "Housing",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://shou.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/3266a4b4-8322-4a94-bf21-edc3986b0661",
+    "name": "Housing and Community Development",
+    "chamber": "house",
+    "members": [
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/75229920-399d-4216-9b76-c27ea398665a"
+    ],
+    "officialUrl": "https://ahcd.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/8a5fc657-39be-4a27-9b86-8a4ff8a81906",
+    "name": "Housing Construction Innovation Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/selectcommitteeonhousingconstructioninnovation/about/overview"
+  },
+  {
+    "id": "ocd-organization/ab4c228c-629f-4811-9f0e-38c235d45f2e",
+    "name": "Housing Construction Innovation Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/selectcommitteeonhousingconstructioninnovation/about/overview"
+  },
+  {
+    "id": "ocd-organization/ce2404e4-8a01-4180-af6d-8a6fdd4796cf",
+    "name": "Housing Finance and Affordability Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/housing-finance-affordability/about/overview"
+  },
+  {
+    "id": "ocd-organization/b5e8807a-6ba1-4e0a-8841-a0e86b737d9f",
+    "name": "Human Services",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea"
+    ],
+    "officialUrl": "https://ahum.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/f7a7c6e3-3b08-46f2-a796-eee3efee3311",
+    "name": "Human Services",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4"
+    ],
+    "officialUrl": "https://shum.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/9464cb06-bb0e-41b2-9641-f87ee6ba240b",
+    "name": "Hydrogen Energy Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeonhydrogenenergy"
+  },
+  {
+    "id": "ocd-organization/84030419-4e86-4f4c-9871-9410eb6d5437",
+    "name": "Insurance",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/e8ac7b26-03a5-4818-b05d-0f379029bbdb",
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae"
+    ],
+    "officialUrl": "https://ains.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/ce11ce3a-8990-4fa5-b36b-6de2f9befcb0",
+    "name": "Insurance",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc"
+    ],
+    "officialUrl": "https://sins.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/76ab803d-6b48-49d0-907e-c3978d5e4325",
+    "name": "International Sporting Events: Olympics and World Cup Soccer Special",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632"
+    ],
+    "officialUrl": "https://scise.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/3a18ff41-45e4-40a1-86d6-48c32dd00213",
+    "name": "Judiciary",
+    "chamber": "house",
+    "members": [
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7"
+    ],
+    "officialUrl": "https://ajud.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/338480d1-be4e-40ab-9cf2-f7e4d1638bb9",
+    "name": "Judiciary",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08"
+    ],
+    "officialUrl": "https://sjud.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/853896f1-9c7b-44b2-975d-3f00b9645ca4",
+    "name": "Labor and Employment",
+    "chamber": "house",
+    "members": [
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea"
+    ],
+    "officialUrl": "https://albr.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/120d85bf-082a-447e-9870-1c14ce26f639",
+    "name": "Labor, Public Employment and Retirement",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076"
+    ],
+    "officialUrl": "https://slper.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/7ccfbae9-b639-4890-a09f-27e0b59c458c",
+    "name": "Latina Inequities Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/latina-inequities/about/overview"
+  },
+  {
+    "id": "ocd-organization/fbae22fe-5fd2-4d6d-94e2-981cdbcffc51",
+    "name": "Legislative Audit",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08"
+    ],
+    "officialUrl": "https://legaudit.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/9bef1d18-58bd-46fc-8ae5-4907df0ac14e",
+    "name": "Legislative Budget",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72"
+    ],
+    "officialUrl": "https://jtlegbudget.legislature.ca.gov"
+  },
+  {
+    "id": "ocd-organization/2e6738ff-988a-4440-960d-7c477c79a8c8",
+    "name": "Legislative Emergency Management",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72",
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://jtemergencymanagement.legislature.ca.gov"
+  },
+  {
+    "id": "ocd-organization/63b20e24-83ed-43da-8700-626352e3db6f",
+    "name": "Legislative Ethics",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/ee85bc79-20ee-4046-905e-ad797995fa41",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://seth.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/699c7fe7-6e18-41c8-88b4-834b18c389c1",
+    "name": "Legislative Ethics Special",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/leg-ethics/about/overview"
+  },
+  {
+    "id": "ocd-organization/98fb15ea-83df-4bde-acc5-1f13db155f8d",
+    "name": "Local Government",
+    "chamber": "house",
+    "members": [
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/75229920-399d-4216-9b76-c27ea398665a",
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff"
+    ],
+    "officialUrl": "https://alcl.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/959b4a89-0055-404f-8609-f7cb9826581f",
+    "name": "Local Government",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/b3f55460-f87b-4db4-b6a5-35a735f34076",
+      "ocd-person/8b61aa87-d573-47e2-b17b-bd0edd3c8cf2",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db"
+    ],
+    "officialUrl": "https://slcl.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/402f0fe8-9778-43ab-91a0-a20bc5f4d6fc",
+    "name": "Master Plan for Higher Education Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/higher-ed/about/overview"
+  },
+  {
+    "id": "ocd-organization/ba09a288-2fda-499c-bad0-b7f840eff093",
+    "name": "Mental Health Crisis Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/mental-health/about/overview"
+  },
+  {
+    "id": "ocd-organization/c9174dbb-bca9-4d12-84ac-0eaf82c25a4a",
+    "name": "Military and Veterans Affairs",
+    "chamber": "house",
+    "members": [
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://amva.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/e1ee183c-31c9-4b57-ba96-e2ba12bd16e8",
+    "name": "Military and Veterans Affairs",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632"
+    ],
+    "officialUrl": "https://svet.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/5620495f-3229-4c08-8604-d749252167c6",
+    "name": "Minority Economic Development Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/cb0f6477-568f-49db-aba3-f88e7bccbefc",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeonminorityeconomicdevelopment"
+  },
+  {
+    "id": "ocd-organization/24839b79-0a49-42bf-bfe1-eb5dac3748e6",
+    "name": "Native American Affairs Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/native-american-affairs/about/overview"
+  },
+  {
+    "id": "ocd-organization/b851b5c9-e03b-4d1a-ada0-12ba493c7604",
+    "name": "Natural Resources",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
+      "ocd-person/78610d0e-c790-4fc9-ab8e-0887adbbe063",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d"
+    ],
+    "officialUrl": "https://antr.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/4266bc5c-8e65-4be0-b7d2-1db42bd4aead",
+    "name": "Natural Resources and Water",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0"
+    ],
+    "officialUrl": "https://sntr.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/fce741f3-f744-41c1-9941-bc00179e2abc",
+    "name": "Non-Profit Sector Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/nonprofit-sector/about/overview"
+  },
+  {
+    "id": "ocd-organization/0c4ef426-b6fe-4339-9fe1-432260a0c518",
+    "name": "Nonprofit Sector Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/e725b91e-1f7f-4510-a9cc-0b9a39d283c3",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeonthenonprofitsector"
+  },
+  {
+    "id": "ocd-organization/434baa51-773e-4623-87e7-3313c96032a5",
+    "name": "Older LGBTQ+ Californians Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/senateselectcommitteeonolderlgbtqcalifornians"
+  },
+  {
+    "id": "ocd-organization/f7a4d7c9-ee43-4195-9620-170152d4a67c",
+    "name": "Ports and Goods Movement Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/ports-goods/about/overview"
+  },
+  {
+    "id": "ocd-organization/3bec2cde-bec6-4e56-b4d9-1ccfbfd6be8a",
+    "name": "Ports and Goods Movement Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeontheportsandgoodsmovement"
+  },
+  {
+    "id": "ocd-organization/c8854e49-689f-4c66-b018-6512b0d099d4",
+    "name": "Privacy and Consumer Protection",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://apcp.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/57b6b339-9d1a-4411-904f-9cfd7a1cfc4e",
+    "name": "Privacy, Digital Technologies and Consumer Protection",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/ea5c3b3d-bbad-41f6-a912-69f60f1553a4",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/cecabb81-51ab-46f5-9815-cc3486da0632"
+    ],
+    "officialUrl": "https://spdtcp.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/b49342a0-c53c-43a3-bae7-0257b5847ca8",
+    "name": "Public Employment and Retirement",
+    "chamber": "house",
+    "members": [
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://aper.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/747868d4-6386-4590-a888-09c71848fc4a",
+    "name": "Public Safety",
+    "chamber": "house",
+    "members": [
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://apsf.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/695b4d30-f8a6-4190-a76e-3794c15d95d3",
+    "name": "Public Safety",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/aa59bbc8-0f05-4974-a88a-2e805deb26b4",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e"
+    ],
+    "officialUrl": "https://spsf.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/fe67fb1f-8a7a-47b9-94bb-90266e7161bf",
+    "name": "Racism, Hate and Xenophobia Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/racism-hate-xenophobia/about/overview"
+  },
+  {
+    "id": "ocd-organization/472fe451-c444-4395-85dd-93a5d87893e0",
+    "name": "Reproductive Health Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/2918acca-40a2-4819-a79a-b2873c7895bc",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/reproductive-health/about/overview"
+  },
+  {
+    "id": "ocd-organization/2923f5be-89db-445a-a9a7-4faa4f3caf18",
+    "name": "Revenue and Taxation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
+      "ocd-person/053d119b-847e-43bf-9a22-18b5f309067f",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/840aa009-3ae4-4484-b9f0-5c5f5060e7db",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://arev.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/dda5c97c-8ea5-45ae-9025-f959739c9950",
+    "name": "Revenue and Taxation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://srev.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/2e6fedd7-e51c-4255-bb30-37829c45eda2",
+    "name": "Rules",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/c830a90c-8964-4c0f-b31b-729cab1144fd",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/37f2dc9f-d788-4f71-b794-093c8816333b",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0",
+      "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
+      "ocd-person/68f5ee30-aa70-489b-84b7-6501e6188751",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/61cc77e3-551f-40e6-bb6f-16edd89b04db",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://jtrules.legislature.ca.gov"
+  },
+  {
+    "id": "ocd-organization/337e3bf9-2f36-45d0-b47a-2d7a91dd8317",
+    "name": "Rules",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df",
+      "ocd-person/e2da0f08-1bd8-4ac2-95f1-002870238527",
+      "ocd-person/75229920-399d-4216-9b76-c27ea398665a",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d"
+    ],
+    "officialUrl": "https://arul.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/9ce1e8ad-5104-449f-96f8-e4e1a4ce8d63",
+    "name": "Rules",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
+      "ocd-person/b4b8e8fb-831b-4cae-9081-b8f75477fcd0",
+      "ocd-person/19f694d8-b409-40e5-9f87-d8e3e84afc7f",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3"
+    ],
+    "officialUrl": "https://srul.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/d50defdd-4500-4ca1-8169-88a1a68463cb",
+    "name": "Sea Level Rise and the California Economy Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a",
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/sea-level-rise/about/overview"
+  },
+  {
+    "id": "ocd-organization/3b19ca9c-1ba6-4878-9b98-bfc18a518abf",
+    "name": "Select Committee on Bay Area Public Transit",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/295965df-6c71-4e11-806f-2b7d5be5d45c",
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/c71137b2-3fc3-48bf-b0ad-6c29aff98268",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeonbayareapublictransit"
+  },
+  {
+    "id": "ocd-organization/39348da2-526e-44ff-a9ba-93d42090998d",
+    "name": "Select Committee on Regulatory Authority",
+    "chamber": "house",
+    "members": [
+      "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
+      "ocd-person/8230907e-9ae3-4ae9-b52a-c8464a157f64",
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/regulatory-authority/about/overview"
+  },
+  {
+    "id": "ocd-organization/4850a974-24af-441e-aa1c-c29868da89c9",
+    "name": "Select Committee on the Independent Restaurant Industry in California",
+    "chamber": "house",
+    "members": [
+      "ocd-person/b20254b0-437a-4d3d-9aa9-baa5db2bc5ef",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/ca-restaurants/about/overview"
+  },
+  {
+    "id": "ocd-organization/e05da23d-6028-454b-b427-d4a0d9b72832",
+    "name": "Select Committee on the Transportation Costs and Impact of the Low Carbon Fuel Standard",
+    "chamber": "house",
+    "members": [
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/transportation-costs/about/overview"
+  },
+  {
+    "id": "ocd-organization/cb75246f-5bb0-4945-97ec-481475447f61",
+    "name": "Serving Students with Disabilities Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/student-disabilities/about/overview"
+  },
+  {
+    "id": "ocd-organization/a165533b-503d-43e0-8278-315cdc2f7520",
+    "name": "Social Determinants of Health Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/cb5b9356-6798-44d2-8dc2-caf5651ac4e3",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d"
+    ],
+    "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeonsocialdeterminantsofhealth"
+  },
+  {
+    "id": "ocd-organization/572f3881-b68d-4497-a2be-bf885025f0ef",
+    "name": "Social Housing Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/social-housing/about/overview"
+  },
+  {
+    "id": "ocd-organization/d1d59cb0-660b-430a-8ca1-56dbd9d47e65",
+    "name": "Status of Boys and Men of Color Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/87062971-b583-4983-8ac5-4af98bef354d",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
+      "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/men-of-color/about/overview"
+  },
+  {
+    "id": "ocd-organization/65ee5860-e895-4e33-acff-b0f37bcb25fd",
+    "name": "Transportation",
+    "chamber": "house",
+    "members": [
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
+      "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
+      "ocd-person/86d18985-f35b-4e16-9fcc-663394a156ff",
+      "ocd-person/a8879d70-713c-4d0c-b723-77d0e96c18df"
+    ],
+    "officialUrl": "https://atrn.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/e819c475-2f7a-41cd-89a4-fbc0f7fad165",
+    "name": "Transportation",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
+      "ocd-person/3dae8bef-7fb2-40a0-afee-78d79212521b",
+      "ocd-person/a76028df-5730-47b0-b617-1565621def41",
+      "ocd-person/b19c0361-ca41-4cba-bcf4-b7342a67f28b",
+      "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
+      "ocd-person/83a64401-d95d-42c5-8cfc-03bd29e4adc8",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/bd78b1b9-6d92-4c67-a1f4-0548575f3aa5",
+      "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
+      "ocd-person/1509d608-4d2b-4ebc-be73-b4cd6c06b7c6",
+      "ocd-person/de84277e-1c23-4036-bd64-b27c310a1c0e",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08",
+      "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
+    ],
+    "officialUrl": "https://stran.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/5c6714cc-5b85-4129-9e16-c2962d9effb3",
+    "name": "Utilities and Energy",
+    "chamber": "house",
+    "members": [
+      "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/820619fd-d053-4915-b099-1d134a880228",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a",
+      "ocd-person/75229920-399d-4216-9b76-c27ea398665a"
+    ],
+    "officialUrl": "https://autl.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/2da5d61d-b05f-45d8-beb8-2716dd3659ed",
+    "name": "Water, Parks and Wildlife",
+    "chamber": "house",
+    "members": [
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
+      "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
+      "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
+      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72",
+      "ocd-person/9e69729e-4383-410b-840e-ad4ea0f1ab4a"
+    ],
+    "officialUrl": "https://awpw.assembly.ca.gov"
+  },
+  {
+    "id": "ocd-organization/646aa716-4270-49c0-8fba-04f1aa293fe6",
+    "name": "Wildfire Prevention Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/32e06e60-77ac-4c5e-af1e-2110b602dc97",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/wildfire-prevention/about/overview"
+  },
+  {
+    "id": "ocd-organization/2b2275f1-9d17-4937-babe-6f341bd8aa6d",
+    "name": "Wine Industry Select",
+    "chamber": "senate",
+    "members": [
+      "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
+      "ocd-person/fe462917-df55-4a43-9fd8-970541544ca6",
+      "ocd-person/e9733632-df5d-48b4-b4a3-4768e7dcb5f7",
+      "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/d9462f08-2b27-4969-8436-9a1c21534a40",
+      "ocd-person/b6907bd6-05e1-44a4-bfc6-db4b672ff8b4",
+      "ocd-person/ee9910a2-0b27-46e0-be87-43c800596b41",
+      "ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0",
+      "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
+      "ocd-person/eb745b9e-4ced-494a-a298-fdffa9207b0d",
+      "ocd-person/fb1c2c06-108c-41bf-9f08-44a9f8e0cb08"
+    ],
+    "officialUrl": "https://cawine.senate.ca.gov"
+  },
+  {
+    "id": "ocd-organization/b1685a74-1e04-4933-9fb6-39e93ff55000",
+    "name": "Youth Mental Health and Treatment Accessibility Select",
+    "chamber": "house",
+    "members": [
+      "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
+      "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
+      "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
+      "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
+      "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/youth-mental-health/about/overview"
+  }
+]

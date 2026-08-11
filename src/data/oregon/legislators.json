@@ -1,0 +1,812 @@
+[
+  {
+    "id": "ocd-person/8a65569e-4ed6-4952-86b8-d499bcbf1cae",
+    "name": "Alek Skarlatos",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.oregonlegislature.gov/skarlatos",
+    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/121328.jpg"
+  },
+  {
+    "id": "ocd-person/3efec526-6660-45fa-9a10-b02716b2a779",
+    "name": "Andrea Valderrama",
+    "chamber": "house",
+    "party": "D",
+    "district": "47",
+    "bioUrl": "https://www.oregonlegislature.gov/valderrama",
+    "imageUrl": "https://www.oregonlegislature.gov/valderrama/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/a22ec130-3ba7-4304-9e6f-3a950b8454cb",
+    "name": "Anna Scharf",
+    "chamber": "house",
+    "party": "R",
+    "district": "23",
+    "bioUrl": "https://www.oregonlegislature.gov/scharf",
+    "imageUrl": "https://www.oregonlegislature.gov/scharf/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/7a36fd6a-105a-44b3-b7e3-b3447979db49",
+    "name": "Annessa Hartman",
+    "chamber": "house",
+    "party": "D",
+    "district": "40",
+    "bioUrl": "https://www.oregonlegislature.gov/hartman",
+    "imageUrl": "https://www.clackamas.us/sites/default/files/2021-12/annessa_hartman.jpg"
+  },
+  {
+    "id": "ocd-person/305e1426-2193-4e49-accf-6b26d224e92b",
+    "name": "Anthony Broadman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.oregonlegislature.gov/broadman",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Anthony_Broadman.jpg"
+  },
+  {
+    "id": "ocd-person/571be1bf-e0ba-45a3-97be-d5df3bc98738",
+    "name": "April Dobson",
+    "chamber": "house",
+    "party": "D",
+    "district": "39",
+    "bioUrl": "https://www.oregonlegislature.gov/dobson",
+    "imageUrl": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1753906547/nclackk12orus/tvxc3ditrbsdipxxntfk/CopyofAprilDobsonPhoto2.jpg"
+  },
+  {
+    "id": "ocd-person/a19e8e1f-4859-4d05-8dc7-6f0a352c0757",
+    "name": "Ben Bowman",
+    "chamber": "house",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.oregonlegislature.gov/bowman",
+    "imageUrl": "https://www.oregonlegislature.gov/bowman/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/4c9f2660-6dd3-49f5-a503-6fe5bc5c7787",
+    "name": "Bobby Levy",
+    "chamber": "house",
+    "party": "R",
+    "district": "58",
+    "bioUrl": "https://www.oregonlegislature.gov/levy",
+    "imageUrl": "https://www.oregonlegislature.gov/levy/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/a95c31b3-9bfa-4ab1-93d1-278082ead92a",
+    "name": "Boomer Wright",
+    "chamber": "house",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.oregonlegislature.gov/wright",
+    "imageUrl": "https://www.oregonlegislature.gov/wright/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/e420fffb-7b56-42db-8cc4-531526ad6802",
+    "name": "Bruce Starr",
+    "chamber": "senate",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.oregonlegislature.gov/starr",
+    "imageUrl": "https://www.oregonlegislature.gov/starr/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/95da50da-34df-41f5-8900-ff8bec038272",
+    "name": "Cedric Hayden",
+    "chamber": "senate",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.oregonlegislature.gov/hayden",
+    "imageUrl": "https://www.oregonlegislature.gov/hayden/PublishingImages/Pages/default/Sen%20Hayden%202023%20closer.jpg"
+  },
+  {
+    "id": "ocd-person/d5d3b10e-9a5c-464a-93ad-bd824af1cbc0",
+    "name": "Chris Gorsek",
+    "chamber": "senate",
+    "party": "D",
+    "district": "25",
+    "bioUrl": "https://www.oregonlegislature.gov/gorsek",
+    "imageUrl": "http://www.oregonlegislature.gov/house/MemberPhotos/gorsek.jpg"
+  },
+  {
+    "id": "ocd-person/9c7dcacb-50b9-4338-924b-cf6d333dc43a",
+    "name": "Christine Drazan",
+    "chamber": "senate",
+    "party": "R",
+    "district": "26",
+    "bioUrl": "https://www.oregonlegislature.gov/drazan",
+    "imageUrl": "https://www.oregonlegislature.gov/drazan/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/aa0eac5e-9089-4c72-8edb-4493e1c4a0ad",
+    "name": "Court Boice",
+    "chamber": "house",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.oregonlegislature.gov/boice",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Court_Boice.png"
+  },
+  {
+    "id": "ocd-person/2bf5a8ca-cadb-4544-89e2-749f13673599",
+    "name": "Courtney Neron Misslin",
+    "chamber": "senate",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.oregonlegislature.gov/neron",
+    "imageUrl": "https://www.oregonlegislature.gov/neron/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/1b0e1c41-4914-4f3d-8a49-fd11a019526a",
+    "name": "Cyrus Javadi",
+    "chamber": "house",
+    "party": "D",
+    "district": "32",
+    "bioUrl": "https://www.oregonlegislature.gov/javadi",
+    "imageUrl": "https://www.oregonlegislature.gov/javadi/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/f08a3b2f-8e56-41e4-bf5f-84a43fd5aab5",
+    "name": "Dacia Grayber",
+    "chamber": "house",
+    "party": "D",
+    "district": "28",
+    "bioUrl": "https://www.oregonlegislature.gov/grayber",
+    "imageUrl": "https://www.oregonlegislature.gov/grayber/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/4b30682c-7833-4375-815b-2412cb9c61c7",
+    "name": "Daniel Nguyen",
+    "chamber": "house",
+    "party": "D",
+    "district": "38",
+    "bioUrl": "https://www.oregonlegislature.gov/nguyend",
+    "imageUrl": "https://www.oregonlegislature.gov/nguyend/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/e8deb6b6-9cd0-498d-9422-81d731972da5",
+    "name": "Darcey Edwards",
+    "chamber": "house",
+    "party": "R",
+    "district": "31",
+    "bioUrl": "https://www.oregonlegislature.gov/edwards",
+    "imageUrl": "https://www.oregonlegislature.gov/edwards/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/69c394b0-4299-4776-82aa-f847907f5308",
+    "name": "Darin Harbick",
+    "chamber": "house",
+    "party": "R",
+    "district": "12",
+    "bioUrl": "https://www.oregonlegislature.gov/harbick",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/DarinHarbick.png"
+  },
+  {
+    "id": "ocd-person/db52dfee-b099-4ec9-800c-075d09710ca6",
+    "name": "David Gomberg",
+    "chamber": "house",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://www.oregonlegislature.gov/gomberg",
+    "imageUrl": "https://www.oregonlegislature.gov/gomberg/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/26a734f0-51f9-4959-a213-bc345c1050ec",
+    "name": "David Smith",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.oregonlegislature.gov/smithd",
+    "imageUrl": "https://www.oregonlegislature.gov/smithd/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/6c867cbf-9d0b-4dd8-9537-55e834a42dc4",
+    "name": "Deb Patterson",
+    "chamber": "senate",
+    "party": "D",
+    "district": "10",
+    "bioUrl": "https://www.oregonlegislature.gov/patterson",
+    "imageUrl": "https://www.oregonlegislature.gov/patterson/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/5ab0368e-6434-46c6-a7f4-7ee34b596fd1",
+    "name": "Diane Linthicum",
+    "chamber": "senate",
+    "party": "R",
+    "district": "28",
+    "bioUrl": "https://www.oregonlegislature.gov/linthicumd",
+    "imageUrl": "https://ormoneywatch.com/wp-content/uploads/2023/11/Diane-Linthicum-Senate-1.jpeg"
+  },
+  {
+    "id": "ocd-person/5e28a30c-5ca9-4221-a331-9321267fbae6",
+    "name": "Dick Anderson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "5",
+    "bioUrl": "https://www.oregonlegislature.gov/anderson",
+    "imageUrl": "https://www.oregonlegislature.gov/anderson/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/497f7e2e-b1d8-4803-8fb8-22dc045bc0b0",
+    "name": "Dwayne Yunker",
+    "chamber": "house",
+    "party": "R",
+    "district": "3",
+    "bioUrl": "https://www.oregonlegislature.gov/yunker",
+    "imageUrl": "https://www.oregonlegislature.gov/yunker/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/fa290a38-0cea-4dc8-a981-33ee4ff341f4",
+    "name": "Ed Diehl",
+    "chamber": "house",
+    "party": "R",
+    "district": "17",
+    "bioUrl": "https://www.oregonlegislature.gov/diehl",
+    "imageUrl": "https://www.oregonlegislature.gov/diehl/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/2be8d7ed-5767-4a67-a5e9-b519691c14ef",
+    "name": "Em Levy",
+    "chamber": "house",
+    "party": "D",
+    "district": "53",
+    "bioUrl": "https://www.oregonlegislature.gov/levye",
+    "imageUrl": "https://www.oregonlegislature.gov/levye/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/2ef0c138-ff50-4a2b-9914-1a5edb506b49",
+    "name": "Emily McIntire",
+    "chamber": "house",
+    "party": "R",
+    "district": "56",
+    "bioUrl": "https://www.oregonlegislature.gov/mcintire",
+    "imageUrl": "https://www.oregonlegislature.gov/mcintire/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/bec9a2c9-a77c-4ac9-b649-2a7360a5c0ad",
+    "name": "Farrah Chaichi",
+    "chamber": "house",
+    "party": "D",
+    "district": "35",
+    "bioUrl": "https://www.oregonlegislature.gov/chaichi",
+    "imageUrl": "https://www.oregonlegislature.gov/chaichi/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/a36ed400-bbdd-4053-9ae4-576ba52e95ca",
+    "name": "Floyd Prozanski",
+    "chamber": "senate",
+    "party": "D",
+    "district": "4",
+    "bioUrl": "https://www.oregonlegislature.gov/prozanski",
+    "imageUrl": "http://www.oregonlegislature.gov/senate/MemberPhotos/prozanski.jpg"
+  },
+  {
+    "id": "ocd-person/aba97bd3-cdf6-4860-9b2c-cbd62e825e79",
+    "name": "Fred Girod",
+    "chamber": "senate",
+    "party": "R",
+    "district": "9",
+    "bioUrl": "https://www.oregonlegislature.gov/girod",
+    "imageUrl": "http://www.oregonlegislature.gov/senate/MemberPhotos/girod.jpg"
+  },
+  {
+    "id": "ocd-person/72dc94e8-e5d5-4376-aab5-06f6b3a771c7",
+    "name": "Greg Smith",
+    "chamber": "house",
+    "party": "R",
+    "district": "57",
+    "bioUrl": "https://www.oregonlegislature.gov/smithg",
+    "imageUrl": "http://www.oregonlegislature.gov/house/MemberPhotos/smithg.jpg"
+  },
+  {
+    "id": "ocd-person/a13db125-e6e2-4621-a1a7-7de714796b90",
+    "name": "Hai Pham",
+    "chamber": "house",
+    "party": "D",
+    "district": "36",
+    "bioUrl": "https://www.oregonlegislature.gov/phamh",
+    "imageUrl": "https://www.oregonlegislature.gov/phamh/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/f1be7436-8ea5-48b2-8997-53dd566633b9",
+    "name": "James Manning",
+    "chamber": "senate",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://www.oregonlegislature.gov/Manning",
+    "imageUrl": "https://www.oregonlegislature.gov/manning/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/e0ac3b1f-565d-4766-b83d-3f08d6c0116b",
+    "name": "Jami Cate",
+    "chamber": "house",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.oregonlegislature.gov/cate",
+    "imageUrl": "https://www.oregonlegislature.gov/cate/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/9d3f5669-f452-4926-91ec-a74a4c4a48e5",
+    "name": "Janeen Sollman",
+    "chamber": "senate",
+    "party": "D",
+    "district": "15",
+    "bioUrl": "https://www.oregonlegislature.gov/sollman",
+    "imageUrl": "https://www.oregonlegislature.gov/sollman/PublishingImages/Pages/staff/alteza_films-66_43format.jpg"
+  },
+  {
+    "id": "ocd-person/47e270fe-abc4-4f5d-9bad-2b7979442f5d",
+    "name": "Jason Kropf",
+    "chamber": "house",
+    "party": "D",
+    "district": "54",
+    "bioUrl": "https://www.oregonlegislature.gov/kropf",
+    "imageUrl": "https://www.oregonlegislature.gov/kropf/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/0240017c-38e7-45da-8841-c40b007965dc",
+    "name": "Jeff Golden",
+    "chamber": "senate",
+    "party": "D",
+    "district": "3",
+    "bioUrl": "https://www.oregonlegislature.gov/golden",
+    "imageUrl": "https://www.oregonlegislature.gov/golden/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/936e2bdf-97c6-4297-80e7-faef3bb2e3d7",
+    "name": "Jeff Helfrich",
+    "chamber": "house",
+    "party": "R",
+    "district": "52",
+    "bioUrl": "https://www.oregonlegislature.gov/helfrich",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api/storage/uploads/thumbs/200/300/crop/best/Jeffrey_Helfrich.jpg"
+  },
+  {
+    "id": "ocd-person/13afc78a-1028-462e-8f98-6df3f7f028d5",
+    "name": "John Lively",
+    "chamber": "house",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://www.oregonlegislature.gov/lively",
+    "imageUrl": "https://www.oregonlegislature.gov/lively/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/55ecfa8d-e89f-4a7b-af2d-6822f1025607",
+    "name": "Jules Walters",
+    "chamber": "house",
+    "party": "D",
+    "district": "37",
+    "bioUrl": "https://www.oregonlegislature.gov/walters",
+    "imageUrl": "https://www.oregonlegislature.gov/house/MemberPhotos/walters.jpg"
+  },
+  {
+    "id": "ocd-person/b523dd9a-d913-4a8e-95e2-c546016f2b1a",
+    "name": "Julie Fahey",
+    "chamber": "house",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.oregonlegislature.gov/fahey",
+    "imageUrl": "https://www.oregonlegislature.gov/fahey/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/cc87cb36-e12e-42e1-ac5e-c2d50e1d2018",
+    "name": "Kate Lieber",
+    "chamber": "senate",
+    "party": "D",
+    "district": "14",
+    "bioUrl": "https://www.oregonlegislature.gov/lieber",
+    "imageUrl": "https://www.oregonlegislature.gov/lieber/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/97c2b8fd-9e87-43b7-b202-6541af36bab7",
+    "name": "Kathleen Taylor",
+    "chamber": "senate",
+    "party": "D",
+    "district": "21",
+    "bioUrl": "https://www.oregonlegislature.gov/taylor",
+    "imageUrl": "https://www.oregonlegislature.gov/taylor/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/7532bf1f-c85e-4683-a401-ca87af088e5e",
+    "name": "Kayse Jama",
+    "chamber": "senate",
+    "party": "D",
+    "district": "24",
+    "bioUrl": "https://www.oregonlegislature.gov/jama",
+    "imageUrl": "https://www.oregonlegislature.gov/Jama/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/3770e09c-3492-4388-8047-e3dc83f026f3",
+    "name": "Ken Helm",
+    "chamber": "house",
+    "party": "D",
+    "district": "27",
+    "bioUrl": "https://www.oregonlegislature.gov/helm",
+    "imageUrl": "https://www.oregonlegislature.gov/helm/PublishingImages/HD18-784-Edit.jpg"
+  },
+  {
+    "id": "ocd-person/af99b8a9-452f-44e0-8404-83dfe05dbfd7",
+    "name": "Kevin Mannix",
+    "chamber": "house",
+    "party": "R",
+    "district": "21",
+    "bioUrl": "https://www.oregonlegislature.gov/mannix",
+    "imageUrl": "https://www.oregonlegislature.gov/mannix/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/3b7edee5-fb20-48d2-98db-541721e24e65",
+    "name": "Khanh Pham",
+    "chamber": "senate",
+    "party": "D",
+    "district": "23",
+    "bioUrl": "https://www.oregonlegislature.gov/pham",
+    "imageUrl": "https://www.oregonlegislature.gov/pham/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/5947e2cd-aa8b-4df1-869f-961357705a3c",
+    "name": "Kim Thatcher",
+    "chamber": "senate",
+    "party": "R",
+    "district": "11",
+    "bioUrl": "https://www.oregonlegislature.gov/thatcher",
+    "imageUrl": "https://www.oregonlegislature.gov/thatcher/PublishingImages/thatcher2023.jpg"
+  },
+  {
+    "id": "ocd-person/a2e34475-ba6f-41af-bf61-83c7160d6c10",
+    "name": "Kim Wallan",
+    "chamber": "house",
+    "party": "R",
+    "district": "6",
+    "bioUrl": "https://www.oregonlegislature.gov/wallan",
+    "imageUrl": "https://www.oregonlegislature.gov/wallan/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/c4974690-b877-4f28-a731-a29fdbd811c4",
+    "name": "Lamar Wise",
+    "chamber": "house",
+    "party": "D",
+    "district": "48",
+    "bioUrl": "https://www.oregonlegislature.gov/wise",
+    "imageUrl": "https://www.oregonlegislature.gov/wise/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/d452f3a7-efea-4ae5-8765-cbd5533462f2",
+    "name": "Lesly Mu\\xF1oz",
+    "chamber": "house",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.oregonlegislature.gov/munoz",
+    "imageUrl": "https://www.oregonlegislature.gov/munoz/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/2256d4a8-f19b-4e1d-ba35-771cc0349b0b",
+    "name": "Lew Frederick",
+    "chamber": "senate",
+    "party": "D",
+    "district": "22",
+    "bioUrl": "https://www.oregonlegislature.gov/frederick",
+    "imageUrl": "https://www.oregonlegislature.gov/frederick/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/d75fd48f-fff7-4ccb-a46e-93854b4de3eb",
+    "name": "Lisa Fragala",
+    "chamber": "house",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://www.oregonlegislature.gov/fragala",
+    "imageUrl": "https://www.oregonlegislature.gov/fragala/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/53afaba4-8ddc-4784-87c3-aaede576ac44",
+    "name": "Lisa Reynolds",
+    "chamber": "senate",
+    "party": "D",
+    "district": "17",
+    "bioUrl": "https://www.oregonlegislature.gov/reynolds",
+    "imageUrl": "https://www.oregonlegislature.gov/reynolds/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/20f31b04-63fd-45a8-8075-5e6e1beae485",
+    "name": "Lucetta Elmer",
+    "chamber": "house",
+    "party": "R",
+    "district": "24",
+    "bioUrl": "https://www.oregonlegislature.gov/elmer",
+    "imageUrl": "https://www.oregonlegislature.gov/elmer/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/2b313ed5-ef42-4c8f-ae67-5dbac7346118",
+    "name": "Mari Watanabe",
+    "chamber": "house",
+    "party": "D",
+    "district": "34",
+    "bioUrl": "https://www.oregonlegislature.gov/watanabe",
+    "imageUrl": "https://www.oregonlive.com/resizer/v2/NV2ILLLSBNAY7DMKF7SP6EY5UU.jpeg?auth=2bd1feb1c12fa2e0f581e2670cead324d4c2e630233f41037e778e6ade02f6cf&width=1280&quality=90"
+  },
+  {
+    "id": "ocd-person/6adb2361-6526-450f-b2b1-e9f32311ca7d",
+    "name": "Mark Gamba",
+    "chamber": "house",
+    "party": "D",
+    "district": "41",
+    "bioUrl": "https://www.oregonlegislature.gov/gamba",
+    "imageUrl": "https://www.oregonlegislature.gov/gamba/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/d6379fd3-d283-4c6e-864b-7dca170b593d",
+    "name": "Mark Meek",
+    "chamber": "senate",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.oregonlegislature.gov/meek",
+    "imageUrl": "https://www.oregonlegislature.gov/meek/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/f73d5af2-f2b6-47d0-a55a-84ac528343ff",
+    "name": "Mark Owens",
+    "chamber": "house",
+    "party": "R",
+    "district": "60",
+    "bioUrl": "https://www.oregonlegislature.gov/owens",
+    "imageUrl": "https://www.oregonlegislature.gov/owens/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/fe73a3b7-97cd-43cc-bf41-26a952a9ee8f",
+    "name": "Matt Bunch",
+    "chamber": "house",
+    "party": "R",
+    "district": "51",
+    "bioUrl": "https://www.oregonlegislature.gov/bunch",
+    "imageUrl": "https://www.oregonlegislature.gov/bunch/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/f0091fb4-4207-4663-be23-7c9e77994048",
+    "name": "Mike McLane",
+    "chamber": "senate",
+    "party": "R",
+    "district": "30",
+    "bioUrl": "https://www.oregonlegislature.gov/mclane",
+    "imageUrl": "http://www.oregonlegislature.gov/house/MemberPhotos/mclane.jpg"
+  },
+  {
+    "id": "ocd-person/dd5774a0-d6fe-44cc-86b3-b197225666eb",
+    "name": "Nancy Nathanson",
+    "chamber": "house",
+    "party": "D",
+    "district": "13",
+    "bioUrl": "https://www.oregonlegislature.gov/nathanson",
+    "imageUrl": "https://www.oregonlegislature.gov/nathanson/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/5615af6a-5232-45e0-b85b-bcb41e08391e",
+    "name": "Nathan Sosa",
+    "chamber": "house",
+    "party": "D",
+    "district": "30",
+    "bioUrl": "https://www.oregonlegislature.gov/sosa",
+    "imageUrl": "https://www.oregonlegislature.gov/sosa/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/15862ba2-3cdd-4a2e-a22e-28acdea73055",
+    "name": "Noah Robinson",
+    "chamber": "senate",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.oregonlegislature.gov/robinsonn",
+    "imageUrl": "https://ormoneywatch.b-cdn.net/wp-content/uploads/2023/11/Noah-Robinson.jpg"
+  },
+  {
+    "id": "ocd-person/ec643441-bffe-4f43-80a4-ab834ae0f1bd",
+    "name": "Pam Marsh",
+    "chamber": "house",
+    "party": "D",
+    "district": "5",
+    "bioUrl": "https://www.oregonlegislature.gov/marsh",
+    "imageUrl": "https://www.oregonlegislature.gov/marsh/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/8334f7e1-d712-44b4-8570-d0d0a6d131d3",
+    "name": "Paul Evans",
+    "chamber": "house",
+    "party": "D",
+    "district": "20",
+    "bioUrl": "https://www.oregonlegislature.gov/evans",
+    "imageUrl": "https://www.oregonlegislature.gov/evans/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/dc371425-a173-439f-903c-6e2e3fd145cd",
+    "name": "Rick Lewis",
+    "chamber": "house",
+    "party": "R",
+    "district": "18",
+    "bioUrl": "https://www.oregonlegislature.gov/lewis",
+    "imageUrl": "https://www.oregonlegislature.gov/lewis/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/fce6eed7-4438-4f31-b47a-ee054c28d4f7",
+    "name": "Ricki Ruiz",
+    "chamber": "house",
+    "party": "D",
+    "district": "50",
+    "bioUrl": "https://www.oregonlegislature.gov/ruiz",
+    "imageUrl": "https://www.oregonlegislature.gov/ruiz/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/2aa7ebf4-d8a7-42c6-8e20-1edef58aa545",
+    "name": "Rob Nosse",
+    "chamber": "house",
+    "party": "D",
+    "district": "42",
+    "bioUrl": "https://www.oregonlegislature.gov/nosse",
+    "imageUrl": "http://www.oregonlegislature.gov/house/MemberPhotos/nosse.jpg"
+  },
+  {
+    "id": "ocd-person/e40f7f2c-4c6a-4064-9fde-e6b380dde2aa",
+    "name": "Rob Wagner",
+    "chamber": "senate",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://www.oregonlegislature.gov/wagner",
+    "imageUrl": "https://www.oregonlegislature.gov/wagner/PublishingImages/Headshot%20in%20the%20shrub.jpg"
+  },
+  {
+    "id": "ocd-person/10b42647-1509-4e86-9155-4622c2d17315",
+    "name": "Sara Gelser Blouin",
+    "chamber": "senate",
+    "party": "D",
+    "district": "8",
+    "bioUrl": "https://www.oregonlegislature.gov/gelser",
+    "imageUrl": "http://www.oregonlegislature.gov/senate/MemberPhotos/gelser.jpg"
+  },
+  {
+    "id": "ocd-person/77cbf3a1-387e-424d-87fc-51a46d770921",
+    "name": "Sarah McDonald",
+    "chamber": "house",
+    "party": "D",
+    "district": "16",
+    "bioUrl": "https://www.oregonlegislature.gov/mcdonald",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Sarah_McDonald.jpg"
+  },
+  {
+    "id": "ocd-person/4a77ea61-457a-4111-bd2e-f2ee054ab4dc",
+    "name": "Shannon Isadore",
+    "chamber": "house",
+    "party": "D",
+    "district": "33",
+    "bioUrl": "https://www.oregonlegislature.gov/isadore",
+    "imageUrl": "https://www.oregonlegislature.gov/isadore/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/52af68c5-c141-4e35-912b-11d71b83af33",
+    "name": "Shelly Davis",
+    "chamber": "house",
+    "party": "R",
+    "district": "15",
+    "bioUrl": "https://www.oregonlegislature.gov/boshartdavis",
+    "imageUrl": "https://www.oregonlegislature.gov/boshartdavis/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/0f296591-6b7e-40b0-8a92-9198dd72bd7e",
+    "name": "Sue Rieke Smith",
+    "chamber": "house",
+    "party": "D",
+    "district": "26",
+    "bioUrl": "https://www.oregonlegislature.gov/riekesmith",
+    "imageUrl": "https://www.oregonlegislature.gov/riekesmith/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/62f98553-cc00-497f-ac14-97e0fc0e62c2",
+    "name": "Susan McLain",
+    "chamber": "house",
+    "party": "D",
+    "district": "29",
+    "bioUrl": "https://www.oregonlegislature.gov/mclain",
+    "imageUrl": "https://www.oregonlegislature.gov/mclain/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/835d23bd-afb1-4e82-93c4-4b1b1822aeb4",
+    "name": "Suzanne Weber",
+    "chamber": "senate",
+    "party": "R",
+    "district": "16",
+    "bioUrl": "https://www.oregonlegislature.gov/weber",
+    "imageUrl": "https://www.oregonlegislature.gov/weber/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/c138ec96-0a6f-4dee-be06-be286b68cfbb",
+    "name": "Tawna Sanchez",
+    "chamber": "house",
+    "party": "D",
+    "district": "43",
+    "bioUrl": "https://www.oregonlegislature.gov/sanchez",
+    "imageUrl": "https://www.oregonlegislature.gov/sanchez/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/52058824-2f35-4f6b-877f-d48301bd99a0",
+    "name": "Thuy Tran",
+    "chamber": "house",
+    "party": "D",
+    "district": "45",
+    "bioUrl": "https://www.oregonlegislature.gov/tran",
+    "imageUrl": "https://www.oregonlegislature.gov/tran/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/66c4922d-6b7e-4636-85a4-565e812df7a2",
+    "name": "Todd Nash",
+    "chamber": "senate",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://www.oregonlegislature.gov/nash",
+    "imageUrl": "https://www.oregonlegislature.gov/nash/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/4d850bbf-df69-4431-bad6-9444c63d4f0c",
+    "name": "Tom Andersen",
+    "chamber": "house",
+    "party": "D",
+    "district": "19",
+    "bioUrl": "https://www.oregonlegislature.gov/andersen",
+    "imageUrl": "https://www.oregonlegislature.gov/andersen/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/e2a96554-b503-4aad-856c-84266386e957",
+    "name": "Travis Nelson",
+    "chamber": "house",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://www.oregonlegislature.gov/nelson",
+    "imageUrl": "https://www.oregonlegislature.gov/nelson/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/a3140c7f-befe-4b83-bc54-1451b5fe00f5",
+    "name": "Vikki Breese Iverson",
+    "chamber": "house",
+    "party": "R",
+    "district": "59",
+    "bioUrl": "https://www.oregonlegislature.gov/breese-iverson",
+    "imageUrl": "https://www.oregonlegislature.gov/breese-iverson/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/f5938046-4558-441b-9e63-6bff0e114bf4",
+    "name": "Virgle Osborne",
+    "chamber": "house",
+    "party": "R",
+    "district": "2",
+    "bioUrl": "https://www.oregonlegislature.gov/osborne",
+    "imageUrl": "https://www.oregonlegislature.gov/osborne/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/709441c1-d716-47bc-8ac6-353abb1e039e",
+    "name": "Werner Reschke",
+    "chamber": "house",
+    "party": "R",
+    "district": "55",
+    "bioUrl": "https://www.oregonlegislature.gov/reschke",
+    "imageUrl": "https://www.oregonlegislature.gov/reschke/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/21e83410-a7f5-43f1-a4ef-7cdc1d41c6b6",
+    "name": "Willy Chotzen",
+    "chamber": "house",
+    "party": "D",
+    "district": "46",
+    "bioUrl": "https://www.oregonlegislature.gov/chotzen",
+    "imageUrl": "https://www.oregonlegislature.gov/chotzen/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/72027f00-3e3c-47c7-ab62-cc89ebb1ed72",
+    "name": "Wlnsvey Campos",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.oregonlegislature.gov/campos",
+    "imageUrl": "https://www.oregonlegislature.gov/campos/PublishingImages/member_photo.jpg"
+  },
+  {
+    "id": "ocd-person/83bbae41-6ba0-477e-a584-8ad7df1283d8",
+    "name": "Zach Hudson",
+    "chamber": "house",
+    "party": "D",
+    "district": "49",
+    "bioUrl": "https://www.oregonlegislature.gov/hudson",
+    "imageUrl": "https://www.oregonlegislature.gov/hudson/PublishingImages/member_photo.jpg"
+  }
+]
