@@ -1,0 +1,55 @@
+name: Refresh national calendars
+
+# Sessions, upcoming vote events and bill titles for the other 50 jurisdictions,
+# from the OpenStates (Plural) v3 API.
+#
+# Once a day, and only once: the free tier allows 250 requests/day and the script
+# stops itself at 230. A second run in the same day would either be refused by
+# the API or push this repo over the cap. At 10 requests/minute the full sweep
+# takes roughly 25-30 minutes of Actions time.
+#
+# Requires the OPENSTATES_API_KEY repository secret. Without it the script exits
+# non-zero with instructions rather than writing empty data.
+#
+# No dependency install step — see refresh-utah-roster.yml for why.
+
+on:
+  schedule:
+    - cron: "51 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # Generous: 230 requests at 7s spacing is ~27 minutes before any processing.
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Fetch sessions, events and bills for all states
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+        run: npm run data:states:calendars
+
+      - name: Commit if the data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data
+          if git diff --cached --quiet; then
+            echo "No calendar changes."
+          else
+            git commit -m "data: refresh national calendars and vote events"
+            git push || (git pull --rebase && git push)
+          fi

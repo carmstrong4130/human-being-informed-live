@@ -1,0 +1,48 @@
+name: Refresh national roster
+
+# Legislators and committee membership for the other 50 jurisdictions, read from
+# the `openstates/people` git repository as a tarball.
+#
+# Weekly, because it costs no API quota at all (one 5 MB download) and rosters
+# only move when someone resigns, is appointed, or switches committees. Running
+# it more often would just churn commits.
+#
+# No dependency install step — see refresh-utah-roster.yml for why.
+
+on:
+  schedule:
+    - cron: "23 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Fetch legislators and committees for all states
+        run: npm run data:states:roster
+
+      - name: Commit if the data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data
+          if git diff --cached --quiet; then
+            echo "No roster changes."
+          else
+            git commit -m "data: refresh national roster"
+            git push || (git pull --rebase && git push)
+          fi

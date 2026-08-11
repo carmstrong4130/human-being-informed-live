@@ -1,0 +1,70 @@
+name: Refresh Utah roster
+
+# Legislators, committee membership and official portraits for Utah, from the
+# Legislature's own API. The Legislature asks that the roster be polled no more
+# than once a day (https://le.utah.gov/data/developer.htm).
+#
+# This workflow also carries the keepalive: GitHub disables scheduled workflows
+# after 60 days without repository activity. Data commits normally reset that
+# clock, but between sessions the data can sit unchanged for months, so the
+# keepalive step commits a timestamp when nothing else did.
+#
+# No dependency install step: the fetchers import nothing outside Node's
+# standard library, and Node runs the TypeScript directly by stripping types.
+# That keeps this workflow independent of bun.lock and off the critical path of
+# any dependency change.
+
+on:
+  schedule:
+    - cron: "43 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# One group for every data workflow in this repo: they all commit to main, so
+# they must never run at the same time. Queued rather than cancelled — a skipped
+# refresh is a gap in the data.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Fetch legislators, committees and portraits
+        env:
+          UTAH_LEG_TOKEN: ${{ secrets.UTAH_LEG_TOKEN }}
+        run: npm run data:utah:roster
+
+      - name: Commit data changes, or a keepalive if there were none
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/utah public/legislators
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh Utah roster"
+            git push || (git pull --rebase && git push)
+            exit 0
+          fi
+
+          echo "No roster changes."
+          # GitHub disables schedules after 60 days of repository inactivity.
+          # Only touch the keepalive when the repo is actually going quiet, so
+          # this does not produce a commit (and a deploy) every single day.
+          age_days=$(( ( $(date -u +%s) - $(git log -1 --format=%ct) ) / 86400 ))
+          echo "Last commit was ${age_days} day(s) ago."
+          if [ "$age_days" -ge 40 ]; then
+            date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/keepalive
+            git add .github/keepalive
+            git commit -m "chore: keepalive"
+            git push || (git pull --rebase && git push)
+          fi

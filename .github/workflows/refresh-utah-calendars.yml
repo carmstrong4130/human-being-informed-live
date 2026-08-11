@@ -1,0 +1,50 @@
+name: Refresh Utah calendars
+
+# Bills, floor reading calendars and committee agendas for Utah. The Legislature
+# asks that these be polled no more than once an hour; every three hours is well
+# inside that and costs roughly 480 of the 2,000 free Linux minutes a month.
+#
+# GitHub's scheduler is best-effort — runs are often 5-30 minutes late and are
+# occasionally skipped entirely. That is fine for this data.
+#
+# No dependency install step — see refresh-utah-roster.yml for why.
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Fetch calendars and vote events
+        env:
+          UTAH_LEG_TOKEN: ${{ secrets.UTAH_LEG_TOKEN }}
+        run: npm run data:utah:calendars
+
+      - name: Commit if the data changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/utah
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: refresh Utah calendars and vote events"
+            git push || (git pull --rebase && git push)
+          fi
