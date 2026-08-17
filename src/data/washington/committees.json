@@ -601,7 +601,8 @@
       "ocd-person/a9d8dd35-6335-42b6-a93b-66be8bd92a56",
       "ocd-person/a45d8fe7-d052-4d18-bc5f-b5911948d42c",
       "ocd-person/fed97a36-088f-46e6-9b96-ca2d679c955b",
-      "ocd-person/4b9b64c6-60eb-4d41-8b52-2f0b3f1ce2a8"
+      "ocd-person/4b9b64c6-60eb-4d41-8b52-2f0b3f1ce2a8",
+      "ocd-person/74dcb0ee-cec8-4a8f-be68-954b2c0fa5f7"
     ],
     "officialUrl": "https://leg.wa.gov/about-the-legislature/legislative-agencies/jlarc"
   },
@@ -648,6 +649,22 @@
       "ocd-person/0999a0d6-1c62-47cf-aa0d-8250967d3a10"
     ],
     "officialUrl": "https://leg.wa.gov/about-the-legislature/committees/joint/lohac"
+  },
+  {
+    "id": "ocd-organization/0ba4efd3-bfab-45f8-bfb3-f5d45568d203",
+    "name": "Legislative-Executive Committee on Budget Transparency and Fiscal Sustainability",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/c9f41cc2-815d-4a97-b354-b6ef3383c1e1",
+      "ocd-person/4f14e499-9199-43c4-a4c0-9d7320b9d769",
+      "ocd-person/1e20aaf3-ffbb-4666-82c2-374b232b41ac",
+      "ocd-person/25a5746b-d7c3-425c-a5b4-a942f86576f2",
+      "ocd-person/e42edd00-010a-4144-8df0-5da6088095d7",
+      "ocd-person/989733b9-6846-465f-9ed6-44b1b823e7c4",
+      "ocd-person/10ad8a88-bd96-4a0d-9b8f-099b8cdfa35b",
+      "ocd-person/d1fd0f7b-a1d2-4af6-a9b7-3212e9fadc72"
+    ],
+    "officialUrl": "https://leg.wa.gov/about-the-legislature/committees/joint/jbtfs"
   },
   {
     "id": "ocd-organization/6f6ba80b-2fd2-4e36-b307-da411ef72277",

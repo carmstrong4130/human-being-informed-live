@@ -269,6 +269,24 @@
     "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/arrangements-senate-committee-rooms"
   },
   {
+    "id": "ocd-organization/5f5895f6-e248-46d8-b3b8-e50dffbfec9c",
+    "name": "Artificial Intelligence and Data Center",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
+      "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
+      "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
+      "ocd-person/cc65fd55-6d87-4ef9-95ff-b98592bebc8f",
+      "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
+      "ocd-person/2abbe0b0-fc8b-47f0-8b29-78e7c1315322",
+      "ocd-person/891c379b-f866-4029-9f52-a416b5005272",
+      "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
+      "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
+      "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08"
+    ],
+    "officialUrl": "https://ndlegis.gov/assembly/69-2025/committees/interim/artificial-intelligence-and-data-center-committee"
+  },
+  {
     "id": "ocd-organization/a9a41c78-0f84-4877-b7cc-1362013681f5",
     "name": "Budget Section",
     "chamber": "legislature",
@@ -294,7 +312,6 @@
       "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
       "ocd-person/b3f127cc-2ec4-434b-8258-b5b29a7690ca",
       "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
       "ocd-person/03924b26-a081-4722-947b-2738200f9063",
       "ocd-person/3075343c-75ba-4957-a1a2-411eb1708c6b",
@@ -419,7 +436,6 @@
       "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
       "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
       "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/03924b26-a081-4722-947b-2738200f9063",
       "ocd-person/f96d48d1-23a3-4516-a3a5-5bf873f05eda",
       "ocd-person/edf5f43d-33f6-4b77-a7c1-0b0e05a6b0be"
@@ -592,7 +608,6 @@
     "members": [
       "ocd-person/f01e3e40-01d3-4290-a85b-760683d4292e",
       "ocd-person/c8e63920-e054-4bb3-aff3-e9caeb012d2c",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/17f0bfb4-083b-460d-9b3f-483079df42c6",
       "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
       "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8"
@@ -614,7 +629,6 @@
       "ocd-person/da7774ec-8498-4094-b7d7-87d301911015",
       "ocd-person/6c9671e4-274f-41cd-b1ba-d6b2dd55ba5e",
       "ocd-person/967219db-3714-49e4-8642-5fb444ef882c",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/a1829243-52bf-4ade-9ed8-6955241120c3",
       "ocd-person/1f5bad71-f1e2-4729-896b-293137ed6a84",
       "ocd-person/94b03c1b-39a3-495a-8a11-0c21a5f30f08"
@@ -632,7 +646,6 @@
       "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
       "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
       "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/3e2f8712-9190-4c2d-887a-7e479e27dd81",
       "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
       "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
@@ -661,7 +674,6 @@
     "members": [
       "ocd-person/afb1de56-a1cf-439a-8a9f-3fcaa73c691a",
       "ocd-person/49d467a4-d6ad-49bb-b498-445117bd1669",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
       "ocd-person/c7d25cc2-0a28-4001-b046-df3e3a996f21"
     ],
@@ -835,7 +847,6 @@
       "ocd-person/d313121d-2b0d-41e9-94a2-fe819a6e82b4",
       "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
       "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/981c4da0-4ab9-46cb-aa42-397253399cba",
       "ocd-person/5bcd9ecd-d547-4336-aa69-b4b258085802",
       "ocd-person/705643fb-7605-4c42-9d55-6e774edf9fc6"
@@ -850,7 +861,6 @@
       "ocd-person/e0da9b3a-45c3-4776-b6cc-eebd3d64d785",
       "ocd-person/fdaab7d3-77b8-4cf4-bda2-1cb927f675a9",
       "ocd-person/f8720088-51ae-4178-87f8-abbb73faf444",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/a7fba7c3-b0ee-4b95-976e-4b38c0b8fa53",
       "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
       "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
@@ -1085,7 +1095,6 @@
       "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
       "ocd-person/714275ca-f81c-4fae-af2e-248a5ba4d697",
       "ocd-person/35e63cc0-2313-4f4b-80f8-0d7356fa684a",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/2674934f-59c0-4caa-8ff4-be3deecc31b3",
       "ocd-person/03924b26-a081-4722-947b-2738200f9063",
       "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
@@ -1108,7 +1117,6 @@
       "ocd-person/e911d1c9-258a-47c6-acd4-d0f8a3befc2f",
       "ocd-person/489ce19c-875b-49c9-aa02-d8c05c09b3f5",
       "ocd-person/752ba791-ab73-4945-b632-64fcae50c118",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/03924b26-a081-4722-947b-2738200f9063",
       "ocd-person/dd6fc6e2-9b7f-405a-9121-28afd911ecdd",
       "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
@@ -1225,7 +1233,6 @@
       "ocd-person/86d15ce1-f1e9-40f8-894c-490f3d960e15",
       "ocd-person/00d22ac4-d0e4-4b26-a521-729b177b3a01",
       "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/03924b26-a081-4722-947b-2738200f9063",
       "ocd-person/4412269d-782d-4ea2-a649-e62a30cd1739",
       "ocd-person/704150b0-5d7f-43ea-afd5-b6f059463575"
@@ -1284,7 +1291,6 @@
       "ocd-person/c40382fd-ce08-46af-8649-afd1f5e04091",
       "ocd-person/1caabacc-b2df-41c9-a0ff-5719a1d9dea5",
       "ocd-person/364ea7b0-8ff8-42b6-ac54-1453cc9d7785",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/84b51f7f-dbd2-4d17-b698-4650964514cd",
       "ocd-person/f233c739-2bfe-4a96-ba9b-f3c4cbff539c",
       "ocd-person/3a13b8c4-9366-4af8-b137-d3f959572a2a",
@@ -1408,7 +1414,6 @@
       "ocd-person/a5665c05-d239-4297-a3dc-08557280d5f8",
       "ocd-person/281253e2-e075-4cde-92dd-20d097bc2b3b",
       "ocd-person/9844a188-809c-4711-8147-2c30206721ee",
-      "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
       "ocd-person/3f38bb4c-1371-4b8c-851f-cc441b5c853b"
     ],
     "officialUrl": "https://ndlegis.gov/assembly/68-2023/committees/senate/workforce-development"

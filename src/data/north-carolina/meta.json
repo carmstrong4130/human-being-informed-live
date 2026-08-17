@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "lastUpdated": "2026-08-17T10:07:01.331Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 170,
-    "committees": 95,
+    "committees": 94,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "North Carolina General Assembly",
     "url": "https://www.ncleg.gov"
   },
-  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+  "lastUpdatedRoster": "2026-08-17T10:07:01.331Z"
 }

@@ -48,7 +48,6 @@
       "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
       "ocd-person/0e3e261d-437a-4e04-8328-70adb16c82d9",
       "ocd-person/19a4841c-4571-4803-8f5d-262f664fb31a",
-      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
       "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
       "ocd-person/edf90069-7569-4cd7-9a8e-e3890e395ac7",
       "ocd-person/164b3ba9-47d4-4c24-870d-4e6679e15cf8",
@@ -127,7 +126,6 @@
       "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
       "ocd-person/74fd77d2-ffa9-42cd-9849-0b64464bcc6f",
       "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
-      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
       "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
       "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
       "ocd-person/8e22d71d-fd9a-4d9d-aa7c-09af3da43118",
@@ -268,7 +266,6 @@
       "ocd-person/78900b72-692c-4b5f-ac8b-290577d6abd4",
       "ocd-person/7e356581-ff96-4e5d-b6bc-94b3c8e0005c",
       "ocd-person/19a4841c-4571-4803-8f5d-262f664fb31a",
-      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
       "ocd-person/6bf75215-5df0-4dfc-adfb-98c60a6871bd",
       "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
       "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
@@ -281,9 +278,9 @@
     "name": "Children, Youth and Family Services",
     "chamber": "house",
     "members": [
-      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
       "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
       "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
       "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
       "ocd-person/b0168a8a-bf16-4ddb-85ef-a7503cdb4d66",
       "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9"
@@ -312,16 +309,23 @@
     "name": "Commerce and Economic Development Oversight",
     "chamber": "house",
     "members": [
+      "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
+      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
+      "ocd-person/3a5828d9-b8bf-491c-adfe-19f5331d1e20",
+      "ocd-person/4d0b52d3-ad1f-45c9-b46e-3676194ef82c",
       "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
-      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae",
-      "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
-      "ocd-person/14d6a46d-124c-4274-ae72-bfe5541a4a0a",
-      "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
-      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/f4d5b128-a016-4eda-b6c6-e298fe29bc29",
+      "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
+      "ocd-person/d8c6a83e-cdac-439d-af83-d90d9f543541",
+      "ocd-person/97351530-ef54-4859-acdd-effcb11eaf1f",
       "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
+      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae",
       "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
-      "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
-      "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c"
+      "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
+      "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a",
+      "ocd-person/d93d9d8d-1299-423a-bb9e-ade2bcb0fa11",
+      "ocd-person/1d6bc21f-6774-45de-b805-23cd8b5c32aa",
+      "ocd-person/fc634688-e6d0-4b9b-919c-0c1f001d51a7"
     ],
     "officialUrl": "https://www.okhouse.gov/committees/house/ced"
   },
@@ -413,17 +417,15 @@
     "name": "Education Oversight",
     "chamber": "house",
     "members": [
-      "ocd-person/dc094bcd-66c1-47f4-b9b0-94272636a7fe",
-      "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
+      "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
       "ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862",
-      "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
-      "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
-      "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
-      "ocd-person/df4d2b89-39a6-4157-90ea-fd229c84f98b",
-      "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
-      "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f",
-      "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
-      "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a"
+      "ocd-person/dc094bcd-66c1-47f4-b9b0-94272636a7fe",
+      "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
+      "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
+      "ocd-person/190ef3e9-fdd4-4434-80da-06ebb08f2eaf",
+      "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
+      "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b",
+      "ocd-person/25f65ce4-eb63-4beb-92d0-0d07db7f851a"
     ],
     "officialUrl": "https://www.okhouse.gov/committees/house/edu"
   },
@@ -486,6 +488,7 @@
     "members": [
       "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
       "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
+      "ocd-person/4d0b52d3-ad1f-45c9-b46e-3676194ef82c",
       "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
       "ocd-person/612db560-defe-471a-a45f-cf259a4ffeaa",
       "ocd-person/3af08d09-7d36-4f0b-b257-a0206a8c2778",
@@ -651,6 +654,7 @@
       "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
       "ocd-person/0b9df925-a78c-4ee4-a58c-5d7c2ace10fd",
       "ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb",
+      "ocd-person/bdd6a3f7-c76a-459e-aad3-e833a9e110f8",
       "ocd-person/a6aa7540-02db-458d-9031-e6af94d63b44",
       "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b"
     ],
@@ -816,14 +820,13 @@
     "name": "Public Safety",
     "chamber": "senate",
     "members": [
-      "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
       "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055",
+      "ocd-person/4d4f5043-830c-498d-806c-5b1e9eb183df",
       "ocd-person/8c8517c3-75ee-4b27-8d8c-3444c036ba78",
       "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
       "ocd-person/077e2743-495e-4198-a096-5675796d78a4",
       "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
-      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19",
-      "ocd-person/4d4f5043-830c-498d-806c-5b1e9eb183df"
+      "ocd-person/2d438999-104f-4405-8cdc-d53ba4715a19"
     ],
     "officialUrl": "https://oksenate.gov/committees/public-safety"
   },
@@ -1062,7 +1065,8 @@
       "ocd-person/1120aff3-9773-4cc8-9c47-18026559363a",
       "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
       "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
-      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae"
+      "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae",
+      "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
     ],
     "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=441&SubCommID=0"
   },

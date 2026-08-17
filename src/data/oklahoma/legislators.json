@@ -333,15 +333,6 @@
     "imageUrl": "https://oksenate.gov/sites/default/files/1200px-DarcyJech_0.jpg"
   },
   {
-    "id": "ocd-person/bea1fd3e-9a8e-4cd6-bdb8-abedd9f8a888",
-    "name": "Darrell Weaver",
-    "chamber": "senate",
-    "party": "R",
-    "district": "24",
-    "bioUrl": "https://oksenate.gov/contact-senator?sid=1894",
-    "imageUrl": "https://oksenate.gov/sites/default/files/Weaver%2C%20Darrell_flags.jpg"
-  },
-  {
     "id": "ocd-person/3714523f-ea6d-4bd5-a801-1397dd508208",
     "name": "Dave Rader",
     "chamber": "senate",
@@ -1159,6 +1150,15 @@
     "district": "22",
     "bioUrl": "https://www.okhouse.gov/representatives/ryan-eaves",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/RyanEaves2024.jpg"
+  },
+  {
+    "id": "ocd-person/2e541dab-e87d-431a-91f5-e524aa301d5f",
+    "name": "Sam Wargin Grimaldo",
+    "chamber": "house",
+    "party": "D",
+    "district": "92",
+    "bioUrl": "https://www.okhouse.gov/representatives/sam-wargingrimaldo",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",

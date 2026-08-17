@@ -5,7 +5,7 @@
     "chamber": "house",
     "party": "D",
     "district": "11",
-    "bioUrl": "https://sites.google.com/view/adamgoldwyn/home",
+    "bioUrl": "https://ndlegis.gov/biography/adam-goldwyn",
     "imageUrl": "https://www.ndsu.edu/sites/default/files/styles/content_profile_full_medium/public/fileadmin/english.ndsu.edu/IMG_7188.JPG.webp?itok=Fwkfn24a&cb=44eb361c"
   },
   {
@@ -249,7 +249,7 @@
     "party": "R",
     "district": "20",
     "bioUrl": "https://ndlegis.gov/biography/dave-rustebakke",
-    "imageUrl": "https://img.legistorm.com/people/034/208034.jpg?rand=18313"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e93f45b9-72c9-4e10-bc05-4896381f29f4",

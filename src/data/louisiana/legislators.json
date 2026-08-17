@@ -747,15 +747,6 @@
     "imageUrl": "https://house.louisiana.gov/H_Reps/RepPics20/rep7.jpg"
   },
   {
-    "id": "ocd-person/52035a94-6995-4ea4-b463-1109d683048b",
-    "name": "Larry Selders",
-    "chamber": "senate",
-    "party": "D",
-    "district": "14",
-    "bioUrl": "https://house.louisiana.gov/H_Reps/members.aspx?ID=67",
-    "imageUrl": "https://house.louisiana.gov/H_Reps/RepPics20/rep67.jpg"
-  },
-  {
     "id": "ocd-person/d2ecd14d-09ce-4e45-8969-149531759584",
     "name": "Lauren Ventrella",
     "chamber": "house",

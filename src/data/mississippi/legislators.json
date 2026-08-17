@@ -117,15 +117,6 @@
     "imageUrl": "http://billstatus.ls.state.ms.us/members/house/calvert.jpg"
   },
   {
-    "id": "ocd-person/b8541474-47fd-4dd2-8576-53b7fe911039",
-    "name": "Bo Brown",
-    "chamber": "house",
-    "party": "D",
-    "district": "70",
-    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/brown.xml",
-    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/brown_(70th).jpg"
-  },
-  {
     "id": "ocd-person/7fe0478b-3777-490c-93cb-20f83baf3d3f",
     "name": "Bob Evans",
     "chamber": "house",
@@ -1195,15 +1186,6 @@
     "district": "46",
     "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/ladner.xml",
     "imageUrl": "https://billstatus.ls.state.ms.us/members/senate/Ladner.jpg"
-  },
-  {
-    "id": "ocd-person/35bf01bd-be16-4ce6-b07c-bfff3d25e7e3",
-    "name": "Price Wallace",
-    "chamber": "house",
-    "party": "R",
-    "district": "77",
-    "bioUrl": "https://billstatus.ls.state.ms.us/members/house/wallace.xml",
-    "imageUrl": "http://billstatus.ls.state.ms.us/members/house/wallace.jpg"
   },
   {
     "id": "ocd-person/defa75f7-917e-42da-9d2c-403ad80d1995",

@@ -11,7 +11,6 @@
       "ocd-person/c2fb0283-189c-4b0c-9d99-7b70d2f62c40",
       "ocd-person/5b9af862-0f9f-42b2-a694-f80055129d6c",
       "ocd-person/a36bdc41-5666-4208-b8f0-8d9012d31f22",
-      "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f",
       "ocd-person/f2394325-2797-4403-8f77-7f4dd3db0bb9"
     ],
     "officialUrl": "https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=HAAWC"
@@ -37,7 +36,6 @@
       "ocd-person/a36bdc41-5666-4208-b8f0-8d9012d31f22",
       "ocd-person/2904a9a3-7e21-4c6f-b40a-e79288ca1b49",
       "ocd-person/a9377979-b109-4e11-b338-89b203c04527",
-      "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f",
       "ocd-person/a564eb5c-5c29-43ef-a40f-241efb70ef8d"
     ],
     "officialUrl": "https://www.nmlegis.gov/Committee/Standing_Committee?CommitteeCode=HAFC"
@@ -114,7 +112,6 @@
     "name": "Consumer and Public Affairs",
     "chamber": "house",
     "members": [
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/ea2a9403-248c-4474-aea0-47b45265e0be",
       "ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7",
       "ocd-person/ed0ba54a-4fc3-4c50-aa0d-f74b1f0e86f6",
@@ -137,7 +134,6 @@
       "ocd-person/19ad7971-bfe4-49e2-bc0f-c5416df1f241",
       "ocd-person/9564298b-dc55-4037-8205-5eca1c2063dc",
       "ocd-person/e5d44d75-76df-41fc-87ae-27bc4c943d50",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0",
       "ocd-person/930a9ffb-d292-49d5-8c43-c42bdab290ff",
       "ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db",
@@ -306,7 +302,6 @@
       "ocd-person/a9377979-b109-4e11-b338-89b203c04527",
       "ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7",
       "ocd-person/82ac8832-cb59-4ea3-b6e7-a74e2115f37d",
-      "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f",
       "ocd-person/75986bbd-3629-4520-a770-f86c46f423ab",
       "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7",
       "ocd-person/2e2ecadf-7236-48c5-8145-e7fea6fcd393",
@@ -353,7 +348,6 @@
       "ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06",
       "ocd-person/810e1619-ebae-4139-be1e-778e252a09b0",
       "ocd-person/19ad7971-bfe4-49e2-bc0f-c5416df1f241",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09",
       "ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd",
       "ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9"
@@ -528,8 +522,7 @@
       "ocd-person/e3affc46-1790-48ba-ae36-5c00473d6c35",
       "ocd-person/3363aa83-2490-4631-b04b-9a52fdbad14b",
       "ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de",
-      "ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7",
-      "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f"
+      "ocd-person/eef5df5d-b9da-4ac3-9a3e-7f6ba775e6d7"
     ],
     "officialUrl": "https://www.nmlegis.gov/Committee/Interim_Committee?CommitteeCode=LGC"
   },
@@ -543,9 +536,12 @@
       "ocd-person/ed0ba54a-4fc3-4c50-aa0d-f74b1f0e86f6",
       "ocd-person/948ee9a0-a718-46f1-a1fe-35eb97f01fad",
       "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7",
+      "ocd-person/71b8feb5-0bbd-45bd-9b25-c6dc7642962b",
       "ocd-person/13ad8eb1-a64f-4a08-8c68-a1488466128f",
       "ocd-person/48969449-b004-4ca3-a72b-8508e95e0051",
+      "ocd-person/f2ed2dd1-ba2d-48cd-8365-cbb149b459e9",
       "ocd-person/20dc90cf-7805-4609-8631-45db1973cd5c",
+      "ocd-person/948ba2f7-fd71-42ed-a35a-e692b76d2ca2",
       "ocd-person/69fcccf7-9cfb-4c8f-978a-c85fbd55922d",
       "ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06",
       "ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372",
@@ -676,8 +672,7 @@
       "ocd-person/6a28626b-9919-4d77-9b62-44ad1d45215d",
       "ocd-person/e2f7dd70-36fc-4b65-8dfd-19fcc1d63e38",
       "ocd-person/2904a9a3-7e21-4c6f-b40a-e79288ca1b49",
-      "ocd-person/82ac8832-cb59-4ea3-b6e7-a74e2115f37d",
-      "ocd-person/d5d0e9d9-bd6f-4f28-9a3f-13a56cadcc0f"
+      "ocd-person/82ac8832-cb59-4ea3-b6e7-a74e2115f37d"
     ],
     "officialUrl": "https://www.nmlegis.gov/Entity/LFC/Default"
   },
@@ -697,7 +692,6 @@
       "ocd-person/c8e6de13-632b-4e09-8d1f-ff8ab2431acc",
       "ocd-person/810e1619-ebae-4139-be1e-778e252a09b0",
       "ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0",
       "ocd-person/73fc9839-619a-4ad5-bbbd-dfaf7f308e09",
       "ocd-person/cce76180-bf09-413a-9d9d-1cc8ae7cf2db",
@@ -741,6 +735,7 @@
       "ocd-person/713e2881-4ecb-4d66-9bd3-6422c898df91",
       "ocd-person/8cb27ec7-dc78-49b1-bc3f-18ad2beb76b6",
       "ocd-person/be61f240-c0ad-4a98-8ad5-d30f4c5f4a06",
+      "ocd-person/c4caca3c-faa3-445f-91e0-cce9edd53a5a",
       "ocd-person/75986bbd-3629-4520-a770-f86c46f423ab",
       "ocd-person/35f36593-4252-4205-b123-cc7236e96954",
       "ocd-person/365e015d-5011-4126-8b07-0b0f90a949c7",
@@ -817,7 +812,6 @@
     "chamber": "legislature",
     "members": [
       "ocd-person/601202fc-f916-4be1-ae20-8c437293817e",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/02d806fd-fb8f-4d66-b9b8-6dacd2bd9656",
       "ocd-person/1ed6a003-54c1-4da3-b297-0cec8ddf4882",
       "ocd-person/fd2e3bdc-3ca7-495c-b853-8a4db020e4d0",
@@ -847,8 +841,8 @@
       "ocd-person/3dcac810-1d9b-4a4d-9e82-8b6e49eba735",
       "ocd-person/810e1619-ebae-4139-be1e-778e252a09b0",
       "ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/0dd8a8ff-99c5-4d1a-90fb-3b74398a4141",
+      "ocd-person/570bb94a-0500-44de-8983-ca259e0d4a60",
       "ocd-person/2913173a-2bfe-4474-8bdc-d145f868c4de",
       "ocd-person/e347c564-d1f5-4fb8-a24d-47218fa754e7",
       "ocd-person/221a42af-f54f-4e66-b648-9b0028165595",
@@ -948,6 +942,7 @@
       "ocd-person/ee5fab91-b6eb-43be-bf26-300302eec5d1",
       "ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88",
       "ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7",
+      "ocd-person/570bb94a-0500-44de-8983-ca259e0d4a60",
       "ocd-person/4cbcf352-3f7a-412d-afc6-568dc4b94400",
       "ocd-person/bc194113-8c8a-4cba-b1f4-25269c72a9fd",
       "ocd-person/ac49b3cf-9fb8-4fa1-af55-4b35a6570c87",
@@ -1011,7 +1006,6 @@
     "chamber": "legislature",
     "members": [
       "ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/05f3609c-c2a6-42fc-bf6a-5141f8050ff8",
       "ocd-person/6677ca7f-f961-44f1-a241-d14280762f5d",
       "ocd-person/febbd8f4-a85e-476c-b96f-52f4f759f8c7",
@@ -1067,7 +1061,6 @@
       "ocd-person/221a42af-f54f-4e66-b648-9b0028165595",
       "ocd-person/601202fc-f916-4be1-ae20-8c437293817e",
       "ocd-person/667a8a3c-dbe9-4aba-b768-e90be503df88",
-      "ocd-person/05309266-c7a0-455b-94f2-ebf1d436daff",
       "ocd-person/14f0186e-bf9b-46aa-aa00-1ccc8f58490b",
       "ocd-person/3c29303f-1a07-4767-9172-b7f453918d77",
       "ocd-person/854e0c8a-0093-4282-8544-8d20bafde8f6",

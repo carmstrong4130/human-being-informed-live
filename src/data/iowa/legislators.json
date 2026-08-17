@@ -783,15 +783,6 @@
     "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=37392"
   },
   {
-    "id": "ocd-person/67f25420-8ea1-49d1-aa86-488136b5f9f5",
-    "name": "Julian Garrett",
-    "chamber": "senate",
-    "party": "R",
-    "district": "11",
-    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=88&personID=9404",
-    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=9404"
-  },
-  {
     "id": "ocd-person/ef7b8c3c-3cd0-4f95-8b4f-9e4daa061479",
     "name": "Kara Warme",
     "chamber": "senate",

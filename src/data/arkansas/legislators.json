@@ -81,15 +81,6 @@
     "imageUrl": "https://www.arkleg.state.ar.us/Content/photos/2023/House/614_sm.jpg"
   },
   {
-    "id": "ocd-person/821d4077-0022-48a9-86b1-eb4d3bdef2e7",
-    "name": "Ben Gilmore",
-    "chamber": "senate",
-    "party": "R",
-    "district": "1",
-    "bioUrl": "https://arkleg.state.ar.us/Legislators/Detail?member=Gilmore",
-    "imageUrl": "https://www.arkleg.state.ar.us/Content/photos/2023/Senate/583_sm.jpg"
-  },
-  {
     "id": "ocd-person/6bbe436a-67bc-4003-80eb-1ce79c52413f",
     "name": "Blake Johnson",
     "chamber": "senate",

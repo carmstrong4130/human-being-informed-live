@@ -36,6 +36,15 @@
     "imageUrl": "https://mgaleg.maryland.gov/2023RS/images/mccaskill01.jpg"
   },
   {
+    "id": "ocd-person/39fb5148-7e60-4df3-b538-3bee07dd8a68",
+    "name": "Alex Harlan",
+    "chamber": "house",
+    "party": "R",
+    "district": "42A",
+    "bioUrl": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/harlan01",
+    "imageUrl": "https://mgaleg.maryland.gov/2026RS/images/harlan01.jpg"
+  },
+  {
     "id": "ocd-person/0ddc9257-e4a4-4414-b21d-3467c8285806",
     "name": "Alonzo Washington",
     "chamber": "senate",
@@ -1312,15 +1321,6 @@
     "district": "22",
     "bioUrl": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/williams01",
     "imageUrl": "https://mgaleg.maryland.gov/2025RS/images/williams01.jpg"
-  },
-  {
-    "id": "ocd-person/7817a7bd-51a6-456a-a2df-4b9e3523d181",
-    "name": "Nino Mangione",
-    "chamber": "house",
-    "party": "R",
-    "district": "42A",
-    "bioUrl": "https://mgaleg.maryland.gov/mgawebsite/Members/Details/mangione01",
-    "imageUrl": "http://mgaleg.maryland.gov/2019RS/images/mangione01.jpg"
   },
   {
     "id": "ocd-person/15921e4d-a07c-4ad7-863c-1d8dfd2d6725",

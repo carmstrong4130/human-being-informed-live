@@ -1,5 +1,19 @@
 [
   {
+    "id": "ocd-organization/f23a2b85-a4d8-4315-b0b9-e3cf25377a9b",
+    "name": "Agricultural Promotion and Regulation Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2ca76c73-5db4-499b-b718-c83294b5f68e",
+      "ocd-person/dcba8890-86e8-4a0c-a4a5-77b2fa98a267",
+      "ocd-person/40ea5143-d0ab-4b9a-a0bc-2cc04f984888",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4",
+      "ocd-person/a0b2ce58-2c2d-4b71-a9e2-7b8ae153d53f",
+      "ocd-person/0f97a586-0089-4eb8-86c1-40f42bc1f594"
+    ],
+    "officialUrl": "https://iga.in.gov/2026/committees/interim/agricultural-promotion-and-regulation-task-force"
+  },
+  {
     "id": "ocd-organization/1ecc8a63-8e55-4103-b77b-24df83152070",
     "name": "Agriculture",
     "chamber": "senate",
@@ -15,6 +29,28 @@
       "ocd-person/75d45200-93a5-45b7-90c2-9b3014d7f827"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/senate/agriculture"
+  },
+  {
+    "id": "ocd-organization/8712cc8c-1ce1-42a2-80b3-36eced767f63",
+    "name": "Agriculture and Natural Resources Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/2ca76c73-5db4-499b-b718-c83294b5f68e",
+      "ocd-person/40ea5143-d0ab-4b9a-a0bc-2cc04f984888",
+      "ocd-person/a8ed53f7-00fb-428b-a629-7532efaf902d",
+      "ocd-person/08d4ca65-7f96-4df8-80cf-33b1cb156a47",
+      "ocd-person/06fded2a-c138-46b5-9966-7662c0f28c41",
+      "ocd-person/ba72879f-42bd-4735-a3e0-d5edd0358f98",
+      "ocd-person/0950736c-1a85-4534-91dd-3538759e75cf",
+      "ocd-person/c2c98fe8-fef2-4d38-93f6-9eff4d591bed",
+      "ocd-person/0f97edaa-0f48-4c61-82dd-c70aeb05a5ff",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/74acd892-bd86-453a-8a48-87954ad68c19",
+      "ocd-person/cd2f0bde-b248-4ba3-81ad-042acd7d60c8",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4",
+      "ocd-person/0f97a586-0089-4eb8-86c1-40f42bc1f594"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/agriculture-and-natural-resources-interim-study-committee"
   },
   {
     "id": "ocd-organization/5c6df0fd-45a5-4d67-a63a-6810015696a4",
@@ -58,6 +94,74 @@
       "ocd-person/aa948d0d-f7d1-4a11-a58b-986b0d61ebf7"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/senate/appropriations"
+  },
+  {
+    "id": "ocd-organization/2d8c5277-fdf0-450c-a807-573b13c4fa1e",
+    "name": "Artificial Intelligence Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/d9013459-1dea-46ee-bdd5-5b2874b76e0a",
+      "ocd-person/423b3123-c1b6-4e2f-92f4-5610130de844",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/c66bcc9b-d5e6-478b-b11e-25be7f4e0aaa"
+    ],
+    "officialUrl": "https://iga.in.gov/2026/committees/interim/artificial-intelligence-task-force"
+  },
+  {
+    "id": "ocd-organization/fb0ada12-65e4-44dc-aa7a-ced49b6b27f1",
+    "name": "Child Services Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/da8afc87-2b9a-4544-8fb9-2f03f426a451",
+      "ocd-person/0bee6f8c-db8b-4e92-8bd4-799c71c55c2c",
+      "ocd-person/ea9905ae-ca94-4184-853c-d7d622dd46ee",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/df8a1659-63b2-4e11-8dce-17bce11f8162",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/d96c807a-9e72-4861-bca4-67d787cbf49f",
+      "ocd-person/b2c735b9-54fb-4e12-9fef-36ffda822b43",
+      "ocd-person/5e19b0fa-7bdc-4732-826c-adf5fbad4e21",
+      "ocd-person/51d00dd2-d18c-4d77-9ad1-710016d30448"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/child-services-interim-study-committee"
+  },
+  {
+    "id": "ocd-organization/614f46c0-28fc-4f43-b9b3-a59d315d36d8",
+    "name": "Code Revision",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b5d0a278-d77b-49fe-88d4-2bd473055144",
+      "ocd-person/b5e2b0b8-ae2a-4852-9c40-c9bf4a32fe1a",
+      "ocd-person/7daef9db-7675-4d8e-8e78-b943a24fd5b7",
+      "ocd-person/45d8ea46-0d3f-4a80-bf4e-ca016bd458a8",
+      "ocd-person/39798614-3cb2-40b7-adad-4f5c53ff59e5",
+      "ocd-person/01cb22d6-e0f5-478e-99b2-801ffbf32d2b",
+      "ocd-person/4c9685ab-f2a4-46e0-980a-699bb01d26cf",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/code-revision-commission"
+  },
+  {
+    "id": "ocd-organization/739c9cd9-712f-4781-82c4-12234aa3e486",
+    "name": "Commerce and Economic Development Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/20851625-bc7c-41ed-841e-27af062bc03e",
+      "ocd-person/0482a330-c9fb-4f41-b136-88a4aef2de6a",
+      "ocd-person/f22b3c5a-950d-4e0c-83c8-bf9a7c005c73",
+      "ocd-person/5fd5f8d8-b47c-4b69-ba1a-d89f0fb106a7",
+      "ocd-person/fe83212e-72d8-4d9c-80cb-338c7f318f09",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/a67ee82c-450c-49ed-8862-f58e34a3dfbb",
+      "ocd-person/38ca634d-bbf0-42f3-bf01-4d6cdcb84bbd",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/423b3123-c1b6-4e2f-92f4-5610130de844",
+      "ocd-person/acd45b79-7930-459f-8118-70b9574ba481",
+      "ocd-person/7aea558c-2623-446e-9870-9ee2b8fe5e47",
+      "ocd-person/5f8f629e-daed-4a92-ab9b-98c4127d8a0e",
+      "ocd-person/0761bcc1-6fbf-4a37-8b52-46c2bc6912fa"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/commerce-and-economic-development-interim-study-committee"
   },
   {
     "id": "ocd-organization/591cbe16-efe8-4c4c-9220-41448ad78529",
@@ -113,6 +217,28 @@
     "officialUrl": "https://iga.in.gov/2024/committees/house/committee-on-joint-rules"
   },
   {
+    "id": "ocd-organization/6a6b53b7-4341-4a8b-bee7-54926d73a514",
+    "name": "Corrections and Criminal Code Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ac2c89af-df39-4057-bdeb-15ca57b7ef9f",
+      "ocd-person/b5e2b0b8-ae2a-4852-9c40-c9bf4a32fe1a",
+      "ocd-person/08d4ca65-7f96-4df8-80cf-33b1cb156a47",
+      "ocd-person/8f56f62b-e700-4fdc-b35a-bba408d3e6cf",
+      "ocd-person/f15e7d77-05df-4875-88a3-0a1aa40822ec",
+      "ocd-person/3ee97114-199a-4084-903f-5eaa231ca656",
+      "ocd-person/39798614-3cb2-40b7-adad-4f5c53ff59e5",
+      "ocd-person/98849cb4-9559-40c1-bd56-414eaef4e22a",
+      "ocd-person/a48f9631-3436-4445-b8fc-87c143f373cd",
+      "ocd-person/c66bcc9b-d5e6-478b-b11e-25be7f4e0aaa",
+      "ocd-person/7e493895-2f49-4a56-a4a3-f888373769b5",
+      "ocd-person/30a1de33-efbb-41e1-bf59-bf8171089a3a",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/a0b2ce58-2c2d-4b71-a9e2-7b8ae153d53f"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/corrections-and-criminal-code-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/89bfc37a-c4bb-4245-add7-d34362a40601",
     "name": "Corrections and Criminal Law",
     "chamber": "senate",
@@ -149,6 +275,28 @@
       "ocd-person/df749cfb-56e8-482f-bf4b-183a1fb52594"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/house/courts-and-criminal-code"
+  },
+  {
+    "id": "ocd-organization/ca9adaf5-c3c4-4a0e-8f28-6022c4671e92",
+    "name": "Courts and the Judiciary Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/8f56f62b-e700-4fdc-b35a-bba408d3e6cf",
+      "ocd-person/f15e7d77-05df-4875-88a3-0a1aa40822ec",
+      "ocd-person/ea9905ae-ca94-4184-853c-d7d622dd46ee",
+      "ocd-person/a7974310-0d01-4bc1-9c14-29561ec68a60",
+      "ocd-person/552456a4-62fc-4f94-a9f9-1c5dd8ebe57a",
+      "ocd-person/3ee97114-199a-4084-903f-5eaa231ca656",
+      "ocd-person/39798614-3cb2-40b7-adad-4f5c53ff59e5",
+      "ocd-person/98849cb4-9559-40c1-bd56-414eaef4e22a",
+      "ocd-person/d9013459-1dea-46ee-bdd5-5b2874b76e0a",
+      "ocd-person/7e493895-2f49-4a56-a4a3-f888373769b5",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4",
+      "ocd-person/a0b2ce58-2c2d-4b71-a9e2-7b8ae153d53f",
+      "ocd-person/58922dd9-3295-4d8f-a1ca-60356b1b4ad8"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/courts-and-the-judiciary-interim-study-committee"
   },
   {
     "id": "ocd-organization/e514f677-1f17-44aa-827e-bb19e4b347f9",
@@ -193,6 +341,28 @@
     "officialUrl": "https://iga.in.gov/2024/committees/senate/education-and-career-development"
   },
   {
+    "id": "ocd-organization/46234983-53cb-464c-90f0-0d525ff78708",
+    "name": "Education Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3d215bfb-c08a-47f0-91d3-eb114b33c56d",
+      "ocd-person/4267823b-aec1-452a-a040-25b337f04c54",
+      "ocd-person/f22b3c5a-950d-4e0c-83c8-bf9a7c005c73",
+      "ocd-person/aa12c3a4-7207-4474-af92-7a1f9dcf62a3",
+      "ocd-person/a5c26055-cf9f-4d9c-979a-f8964c48c4da",
+      "ocd-person/0950736c-1a85-4534-91dd-3538759e75cf",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/d0f113c5-ffad-4c18-867b-417fea0d0a52",
+      "ocd-person/d88b76c4-5b6b-4f93-9347-6ae335208679",
+      "ocd-person/68f44f31-ba0b-4641-a656-f05e91c02cd8",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4",
+      "ocd-person/5f8f629e-daed-4a92-ab9b-98c4127d8a0e",
+      "ocd-person/0f97a586-0089-4eb8-86c1-40f42bc1f594",
+      "ocd-person/86b7914b-08e6-4ac7-bcd6-b4afa4dceb09"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/education-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/7b8e91a8-b225-42fe-9add-eec921db638c",
     "name": "Elections",
     "chamber": "senate",
@@ -231,6 +401,50 @@
     "officialUrl": "https://iga.in.gov/2024/committees/house/elections-and-apportionment"
   },
   {
+    "id": "ocd-organization/8c857c61-2014-4477-bcce-13f0a209e8ae",
+    "name": "Elections Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/fbcd4d2c-32c6-4c97-837b-4e4ed80c43df",
+      "ocd-person/01cb22d6-e0f5-478e-99b2-801ffbf32d2b",
+      "ocd-person/ea2c35cb-7071-43de-8dc6-e91756d03f11",
+      "ocd-person/16ded3c5-7034-4910-b5d1-76efa7b2f02f",
+      "ocd-person/8db4d04c-3afe-44c1-940b-7761cd035800",
+      "ocd-person/ba72879f-42bd-4735-a3e0-d5edd0358f98",
+      "ocd-person/0bee6f8c-db8b-4e92-8bd4-799c71c55c2c",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/0b35c9d0-f21d-41a3-b7b6-15759df5bc59",
+      "ocd-person/da010a7d-0344-48cb-b9ba-2eca71007cc6",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/98feacbe-3be5-407e-a437-66d65a836a5e",
+      "ocd-person/5e19b0fa-7bdc-4732-826c-adf5fbad4e21",
+      "ocd-person/a74de022-873d-4a31-986c-66e81356a6f2"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/elections-interim-study-committee"
+  },
+  {
+    "id": "ocd-organization/972a9693-b72b-47f2-91ef-80e44506e8d1",
+    "name": "Employment and Labor Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b5f001ff-6e60-49b9-b074-bb83139410b4",
+      "ocd-person/113063ff-6e21-4bf7-b9d0-f06aafc349f2",
+      "ocd-person/f22b3c5a-950d-4e0c-83c8-bf9a7c005c73",
+      "ocd-person/17fd494d-905d-4c82-a828-6d975cbf02f3",
+      "ocd-person/a080b584-c899-4694-a797-73cca22610fe",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/a5c26055-cf9f-4d9c-979a-f8964c48c4da",
+      "ocd-person/5ceabc0e-ec47-41b5-b014-5eddcdc154f3",
+      "ocd-person/be7ad6b3-da1b-4b8d-b41b-6b6e48a9bdfa",
+      "ocd-person/30a1de33-efbb-41e1-bf59-bf8171089a3a",
+      "ocd-person/acd45b79-7930-459f-8118-70b9574ba481",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/b2c735b9-54fb-4e12-9fef-36ffda822b43",
+      "ocd-person/e75ceaff-b623-4887-90a3-2b5328d184c5"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/employment-and-labor-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/e0212309-7e81-4e58-b2c4-ee47ae99faeb",
     "name": "Employment, Labor and Pensions",
     "chamber": "house",
@@ -250,6 +464,28 @@
       "ocd-person/a74de022-873d-4a31-986c-66e81356a6f2"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/house/employment-labor-and-pensions"
+  },
+  {
+    "id": "ocd-organization/240542cf-4038-4f88-adc3-7b03ef8000d4",
+    "name": "Energy, Utilities and Telecommunications Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3fbcc2a9-c620-456c-b38f-03e0f9063c3f",
+      "ocd-person/a7974310-0d01-4bc1-9c14-29561ec68a60",
+      "ocd-person/3564d02c-d1d7-4c46-87b7-dbc1c5f1dc14",
+      "ocd-person/ea9905ae-ca94-4184-853c-d7d622dd46ee",
+      "ocd-person/f22b3c5a-950d-4e0c-83c8-bf9a7c005c73",
+      "ocd-person/a1002ff1-ffd8-4d82-8db9-3a8295ca5e06",
+      "ocd-person/20851625-bc7c-41ed-841e-27af062bc03e",
+      "ocd-person/ec6a3cce-3eca-4020-8809-a7a1875e1663",
+      "ocd-person/e1599f41-bd7d-45c4-8a43-c25d8b519f53",
+      "ocd-person/aa12c3a4-7207-4474-af92-7a1f9dcf62a3",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/c66bcc9b-d5e6-478b-b11e-25be7f4e0aaa",
+      "ocd-person/b5f773c4-4e25-4fac-b905-5aca0023100d"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/energy-utilities-and-telecommunications-interim-study-committee"
   },
   {
     "id": "ocd-organization/ed346f6c-2ea4-4e46-b3e1-76e7822b662e",
@@ -290,6 +526,28 @@
       "ocd-person/7aea558c-2623-446e-9870-9ee2b8fe5e47"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/senate/environmental-affairs"
+  },
+  {
+    "id": "ocd-organization/86b118b3-b632-4619-a5ef-f6a76e157fd9",
+    "name": "Environmental Affairs Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a8ed53f7-00fb-428b-a629-7532efaf902d",
+      "ocd-person/0b243d61-c607-4711-bc54-aecc21281540",
+      "ocd-person/16ded3c5-7034-4910-b5d1-76efa7b2f02f",
+      "ocd-person/006e6bcf-0a2c-4eef-92e3-44714f31aa4e",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/39798614-3cb2-40b7-adad-4f5c53ff59e5",
+      "ocd-person/fc270bf0-2220-476a-ad9c-15db82d62192",
+      "ocd-person/0b35c9d0-f21d-41a3-b7b6-15759df5bc59",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/62c64f60-2fb9-4edc-86ee-6c0d7cccff75",
+      "ocd-person/b5f773c4-4e25-4fac-b905-5aca0023100d",
+      "ocd-person/acd45b79-7930-459f-8118-70b9574ba481",
+      "ocd-person/74acd892-bd86-453a-8a48-87954ad68c19",
+      "ocd-person/98feacbe-3be5-407e-a437-66d65a836a5e"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/environmental-affairs-interim-study-committee"
   },
   {
     "id": "ocd-organization/f497cc46-58f7-4ba8-9237-e233005a7612",
@@ -365,6 +623,50 @@
     "officialUrl": "https://iga.in.gov/2024/committees/house/financial-institutions"
   },
   {
+    "id": "ocd-organization/7968df3e-029a-42fa-8b41-180d6006a0fb",
+    "name": "Financial Institutions and Insurance Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/1b9ddafb-fca9-4924-b565-d651c2ca133b",
+      "ocd-person/7aea558c-2623-446e-9870-9ee2b8fe5e47",
+      "ocd-person/791928fe-00bb-46bf-9b57-36b7a40e0250",
+      "ocd-person/fe83212e-72d8-4d9c-80cb-338c7f318f09",
+      "ocd-person/a2b2e61b-e27c-4ead-8c81-6703ea817037",
+      "ocd-person/ba72879f-42bd-4735-a3e0-d5edd0358f98",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/d0f113c5-ffad-4c18-867b-417fea0d0a52",
+      "ocd-person/4267823b-aec1-452a-a040-25b337f04c54",
+      "ocd-person/da010a7d-0344-48cb-b9ba-2eca71007cc6",
+      "ocd-person/a48f9631-3436-4445-b8fc-87c143f373cd",
+      "ocd-person/14aac431-636f-483e-ac39-bf45be53af2f",
+      "ocd-person/9569c3da-b86b-4b33-a9ad-8d6174323569",
+      "ocd-person/d15f8f7e-148b-47fc-858d-84ad23347f64"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/financial-institutions-and-insurance-interim-study-committee"
+  },
+  {
+    "id": "ocd-organization/7dbe8acc-bf66-4f6e-84fa-4abb9f27315b",
+    "name": "Fiscal Policy Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6835c75a-05e6-44d8-9d8b-7ee4559892b2",
+      "ocd-person/aa948d0d-f7d1-4a11-a58b-986b0d61ebf7",
+      "ocd-person/8db4d04c-3afe-44c1-940b-7761cd035800",
+      "ocd-person/dc07e0d2-7372-46c2-967c-878ec522879d",
+      "ocd-person/d9c1cb89-9943-4afd-9353-8c771dcac356",
+      "ocd-person/ed771fd3-4bd9-4c99-bb42-4bd9f5d1ff8d",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/45d8ea46-0d3f-4a80-bf4e-ca016bd458a8",
+      "ocd-person/ba72879f-42bd-4735-a3e0-d5edd0358f98",
+      "ocd-person/6bc40502-e00f-4b16-8c1d-9f5a613a4e88",
+      "ocd-person/12a4df88-7cf2-453c-9cb8-dc5d4a2f6b55",
+      "ocd-person/da010a7d-0344-48cb-b9ba-2eca71007cc6",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/7aea558c-2623-446e-9870-9ee2b8fe5e47"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/fiscal-policy-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/fd3c0625-8a5c-4b15-9fb4-aaa267b43420",
     "name": "Government and Regulatory Reform",
     "chamber": "house",
@@ -386,6 +688,28 @@
     "officialUrl": "https://iga.in.gov/2024/committees/house/government-and-regulatory-reform"
   },
   {
+    "id": "ocd-organization/11f0549e-efbf-4989-a200-aef4c0b67263",
+    "name": "Government Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5b58dd7d-acb3-4554-9e4e-c1281155f4ab",
+      "ocd-person/8c8f7869-329e-4063-ab55-30e4eca00529",
+      "ocd-person/5fd5f8d8-b47c-4b69-ba1a-d89f0fb106a7",
+      "ocd-person/f1571a79-9c64-42b2-82d2-ec9f512722eb",
+      "ocd-person/f15e7d77-05df-4875-88a3-0a1aa40822ec",
+      "ocd-person/06fded2a-c138-46b5-9966-7662c0f28c41",
+      "ocd-person/0f97edaa-0f48-4c61-82dd-c70aeb05a5ff",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/3568c1ff-87a5-4121-a468-ced11a824691",
+      "ocd-person/1f2380f8-be03-4499-a72a-8dac376d6aaa",
+      "ocd-person/4c9685ab-f2a4-46e0-980a-699bb01d26cf",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/75d45200-93a5-45b7-90c2-9b3014d7f827",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/government-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/4bd9215c-1968-4e77-a1e9-258d3e672cdd",
     "name": "Health and Provider Services",
     "chamber": "senate",
@@ -404,6 +728,19 @@
       "ocd-person/b6be97c1-d574-443d-b493-224dcb6e2a7f"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/senate/health-and-provider-services"
+  },
+  {
+    "id": "ocd-organization/1f83b57a-3135-49d0-a1c1-cb1c6373c304",
+    "name": "Health Care Cost Oversight Task Force",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6629fcea-f482-4e63-872d-d2f8734502ca",
+      "ocd-person/dc07e0d2-7372-46c2-967c-878ec522879d",
+      "ocd-person/a2b2e61b-e27c-4ead-8c81-6703ea817037",
+      "ocd-person/ce2c81c3-e2d6-4394-b960-8787d896bfe5",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/health-care-cost-oversight-task-force"
   },
   {
     "id": "ocd-organization/e6f05b09-2dff-41d1-911c-144699afb0fa",
@@ -577,6 +914,22 @@
     "officialUrl": "https://iga.in.gov/2024/committees/senate/local-government"
   },
   {
+    "id": "ocd-organization/da5ce1a2-2438-487f-b608-5407a8a31553",
+    "name": "Medicaid Oversight",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6629fcea-f482-4e63-872d-d2f8734502ca",
+      "ocd-person/010e5ebe-683c-4fe2-9696-46f7f0b4bea6",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/ce2c81c3-e2d6-4394-b960-8787d896bfe5",
+      "ocd-person/6bc40502-e00f-4b16-8c1d-9f5a613a4e88",
+      "ocd-person/b71e9f3a-2c59-4e18-80e6-da0a7cc51648",
+      "ocd-person/6835c75a-05e6-44d8-9d8b-7ee4559892b2",
+      "ocd-person/aa948d0d-f7d1-4a11-a58b-986b0d61ebf7"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/medicaid-oversight-committee"
+  },
+  {
     "id": "ocd-organization/d3adb740-d06f-4029-a0e7-837eafe4abb4",
     "name": "Natural Resources",
     "chamber": "house",
@@ -615,6 +968,28 @@
     "officialUrl": "https://iga.in.gov/2024/committees/senate/natural-resources"
   },
   {
+    "id": "ocd-organization/53c98143-467f-475c-a3cb-552a082e985b",
+    "name": "Pension Management Oversight Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/6835c75a-05e6-44d8-9d8b-7ee4559892b2",
+      "ocd-person/b5f001ff-6e60-49b9-b074-bb83139410b4",
+      "ocd-person/f22b3c5a-950d-4e0c-83c8-bf9a7c005c73",
+      "ocd-person/a1002ff1-ffd8-4d82-8db9-3a8295ca5e06",
+      "ocd-person/0482a330-c9fb-4f41-b136-88a4aef2de6a",
+      "ocd-person/35824e09-976c-44b7-9825-0787030f0e4e",
+      "ocd-person/17fd494d-905d-4c82-a828-6d975cbf02f3",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/e0aaea95-033f-49d8-9be6-3875fc3b8efe",
+      "ocd-person/113063ff-6e21-4bf7-b9d0-f06aafc349f2",
+      "ocd-person/1b9ddafb-fca9-4924-b565-d651c2ca133b",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/75d45200-93a5-45b7-90c2-9b3014d7f827",
+      "ocd-person/58922dd9-3295-4d8f-a1ca-60356b1b4ad8"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/pension-management-oversight-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/330e569a-d918-47e0-b530-0a9815bb17e7",
     "name": "Pensions and Labor",
     "chamber": "senate",
@@ -632,6 +1007,20 @@
       "ocd-person/b2c735b9-54fb-4e12-9fef-36ffda822b43"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/senate/pensions-and-labor"
+  },
+  {
+    "id": "ocd-organization/406d499f-d35e-4d96-839a-897e5c89470e",
+    "name": "Probate Code Study Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/8f56f62b-e700-4fdc-b35a-bba408d3e6cf",
+      "ocd-person/f15e7d77-05df-4875-88a3-0a1aa40822ec",
+      "ocd-person/a7974310-0d01-4bc1-9c14-29561ec68a60",
+      "ocd-person/98849cb4-9559-40c1-bd56-414eaef4e22a",
+      "ocd-person/4058ba4c-30a9-46a7-80a1-1f3de1e44a2f",
+      "ocd-person/16b01fca-3a93-41a3-ad6a-f2bf9209ddf7"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/probate-code-study-commission"
   },
   {
     "id": "ocd-organization/c89c9ddd-9e10-4353-90ee-0cc52d7dc584",
@@ -653,6 +1042,28 @@
       "ocd-person/58922dd9-3295-4d8f-a1ca-60356b1b4ad8"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/house/public-health"
+  },
+  {
+    "id": "ocd-organization/c10d068d-b017-4dad-9024-335be79cc595",
+    "name": "Public Health, Behavioral Health and Human Services Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ac2c89af-df39-4057-bdeb-15ca57b7ef9f",
+      "ocd-person/ce2c81c3-e2d6-4394-b960-8787d896bfe5",
+      "ocd-person/e3cfa300-8d75-4217-9cc4-371aca7f77dd",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/fc270bf0-2220-476a-ad9c-15db82d62192",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/4647c4f2-f1d1-4151-a85a-74db23a7fb5d",
+      "ocd-person/1b9ddafb-fca9-4924-b565-d651c2ca133b",
+      "ocd-person/d15f8f7e-148b-47fc-858d-84ad23347f64",
+      "ocd-person/872447dd-3b06-421e-af8c-25ea68aa5ae4",
+      "ocd-person/5f8f629e-daed-4a92-ab9b-98c4127d8a0e",
+      "ocd-person/51d00dd2-d18c-4d77-9ad1-710016d30448",
+      "ocd-person/b6be97c1-d574-443d-b493-224dcb6e2a7f",
+      "ocd-person/58922dd9-3295-4d8f-a1ca-60356b1b4ad8"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/public-health-behavioral-health-and-human-services-interim-study-committee"
   },
   {
     "id": "ocd-organization/437a1026-866b-469c-b112-d7ab8686e244",
@@ -694,6 +1105,50 @@
     "officialUrl": "https://iga.in.gov/2024/committees/senate/public-policy"
   },
   {
+    "id": "ocd-organization/8d1f7252-9876-413b-a0da-c52a70cd119a",
+    "name": "Public Policy Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/bdae77c7-d89e-426d-b6f6-52e1a48bc87a",
+      "ocd-person/91572a47-dcdf-4be5-8fec-99630da33a39",
+      "ocd-person/5fd5f8d8-b47c-4b69-ba1a-d89f0fb106a7",
+      "ocd-person/e4588f99-2084-4b0f-9260-f73a8f6aeb62",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/fc270bf0-2220-476a-ad9c-15db82d62192",
+      "ocd-person/0f97edaa-0f48-4c61-82dd-c70aeb05a5ff",
+      "ocd-person/da010a7d-0344-48cb-b9ba-2eca71007cc6",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/0acb3367-1e1e-404e-89c8-82e3c6754235",
+      "ocd-person/df749cfb-56e8-482f-bf4b-183a1fb52594",
+      "ocd-person/51d00dd2-d18c-4d77-9ad1-710016d30448",
+      "ocd-person/b6be97c1-d574-443d-b493-224dcb6e2a7f"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/public-policy-interim-study-committee"
+  },
+  {
+    "id": "ocd-organization/2eb09ec2-ecda-4454-a416-aa4ecfe933d0",
+    "name": "Public Safety and Military Affairs Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/df749cfb-56e8-482f-bf4b-183a1fb52594",
+      "ocd-person/c2c98fe8-fef2-4d38-93f6-9eff4d591bed",
+      "ocd-person/08d4ca65-7f96-4df8-80cf-33b1cb156a47",
+      "ocd-person/35824e09-976c-44b7-9825-0787030f0e4e",
+      "ocd-person/17fd494d-905d-4c82-a828-6d975cbf02f3",
+      "ocd-person/006e6bcf-0a2c-4eef-92e3-44714f31aa4e",
+      "ocd-person/1fad6d9f-7d2c-4b2e-a74f-26a2ea44f371",
+      "ocd-person/8c8f7869-329e-4063-ab55-30e4eca00529",
+      "ocd-person/e2a84cfb-4ec9-4c0c-879b-27e51dbd6674",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/6ffd10c6-9fd6-4378-8841-63ce4ca88764",
+      "ocd-person/8b2a92f1-4b70-4dfc-8f4f-789aca1b5e8b",
+      "ocd-person/68f44f31-ba0b-4641-a656-f05e91c02cd8"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/public-safety-and-military-affairs-interim-study-committee"
+  },
+  {
     "id": "ocd-organization/e89be621-1c79-477a-a2da-a1e6a6f15879",
     "name": "Roads and Transportation",
     "chamber": "house",
@@ -713,6 +1168,28 @@
       "ocd-person/ac2c89af-df39-4057-bdeb-15ca57b7ef9f"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/house/roads-and-transportation"
+  },
+  {
+    "id": "ocd-organization/019a34c0-c0cf-4a44-ad95-c4c948cd053a",
+    "name": "Roads and Transportation Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/3918dc6e-fbf5-4ea0-b62a-376729b463ec",
+      "ocd-person/6ffd10c6-9fd6-4378-8841-63ce4ca88764",
+      "ocd-person/f1571a79-9c64-42b2-82d2-ec9f512722eb",
+      "ocd-person/bb961150-43c0-4535-bc67-a63127c90047",
+      "ocd-person/e0aaea95-033f-49d8-9be6-3875fc3b8efe",
+      "ocd-person/bab7e849-4075-4199-b251-34d5f35cc157",
+      "ocd-person/ba72879f-42bd-4735-a3e0-d5edd0358f98",
+      "ocd-person/85b8c0cf-3df4-45a1-8c38-d220b7122226",
+      "ocd-person/8c8f7869-329e-4063-ab55-30e4eca00529",
+      "ocd-person/62c64f60-2fb9-4edc-86ee-6c0d7cccff75",
+      "ocd-person/c553dcc6-1c2c-49d8-be04-e89e4d123d8b",
+      "ocd-person/14aac431-636f-483e-ac39-bf45be53af2f",
+      "ocd-person/b2c735b9-54fb-4e12-9fef-36ffda822b43",
+      "ocd-person/0761bcc1-6fbf-4a37-8b52-46c2bc6912fa"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/roads-and-transportation-interim-study-committee"
   },
   {
     "id": "ocd-organization/9480826e-280a-4849-847f-01426e89e9fe",
@@ -751,6 +1228,22 @@
       "ocd-person/16b01fca-3a93-41a3-ad6a-f2bf9209ddf7"
     ],
     "officialUrl": "https://iga.in.gov/2024/committees/house/rules-and-legislative-procedures"
+  },
+  {
+    "id": "ocd-organization/9435bfc2-0b15-48c4-b652-2d05f9f6fc4d",
+    "name": "State Fair Advisory",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/40ea5143-d0ab-4b9a-a0bc-2cc04f984888",
+      "ocd-person/a8ed53f7-00fb-428b-a629-7532efaf902d",
+      "ocd-person/0482a330-c9fb-4f41-b136-88a4aef2de6a",
+      "ocd-person/39798614-3cb2-40b7-adad-4f5c53ff59e5",
+      "ocd-person/6bc40502-e00f-4b16-8c1d-9f5a613a4e88",
+      "ocd-person/6c8d86c3-4157-4673-a7d9-524c9d49f859",
+      "ocd-person/cd2f0bde-b248-4ba3-81ad-042acd7d60c8",
+      "ocd-person/68f44f31-ba0b-4641-a656-f05e91c02cd8"
+    ],
+    "officialUrl": "https://iga.in.gov/2023/committees/interim/state-fair-advisory-committee"
   },
   {
     "id": "ocd-organization/7b25b7f6-61b3-4dd5-9dcd-6fa94658910b",

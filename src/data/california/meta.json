@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T01:22:14.049Z",
+  "lastUpdated": "2026-08-17T10:07:01.331Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,8 +8,8 @@
     "next": null
   },
   "counts": {
-    "legislators": 120,
-    "committees": 116,
+    "legislators": 119,
+    "committees": 118,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "California State Legislature",
     "url": "https://leginfo.legislature.ca.gov"
   },
-  "lastUpdatedRoster": "2026-08-11T01:22:14.049Z"
+  "lastUpdatedRoster": "2026-08-17T10:07:01.331Z"
 }

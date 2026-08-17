@@ -1,5 +1,14 @@
 [
   {
+    "id": "ocd-person/feedb0b5-72da-4529-ab31-630805452e1a",
+    "name": "Aaron Holley",
+    "chamber": "house",
+    "party": "R",
+    "district": "22",
+    "bioUrl": "https://ballotpedia.org/Aaron_Holley",
+    "imageUrl": "https://aaronholleywv.com/headshot.jpg"
+  },
+  {
     "id": "ocd-person/76544899-58ec-4065-a3e8-4a4d8a12b4eb",
     "name": "Adam Burkhammer",
     "chamber": "house",
@@ -88,15 +97,6 @@
     "district": "8",
     "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Bell",
     "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/bell_bill.jpg"
-  },
-  {
-    "id": "ocd-person/84ae4ee5-01d1-402d-8267-787a78dd58e5",
-    "name": "Bill Flanigan",
-    "chamber": "house",
-    "party": "R",
-    "district": "4",
-    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Flanigan",
-    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/flanigan_bill.jpg"
   },
   {
     "id": "ocd-person/8bd21671-34c1-4ba3-aced-0dcaa110029c",
@@ -270,15 +270,6 @@
     "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/ferrell_dana.jpg"
   },
   {
-    "id": "ocd-person/32c4e5cf-81f5-4564-bb9b-568d13156dec",
-    "name": "Daniel Linville",
-    "chamber": "house",
-    "party": "R",
-    "district": "22",
-    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Linville",
-    "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/linville_daniel.jpg"
-  },
-  {
     "id": "ocd-person/60b7f294-2c42-40ab-ab7d-2a639e5be5e5",
     "name": "Darren Thorne",
     "chamber": "senate",
@@ -358,15 +349,6 @@
     "district": "67",
     "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Coop-Gonzalez",
     "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/coopgonzalez_elias.jpg"
-  },
-  {
-    "id": "ocd-person/d7f119af-3e41-40a1-9541-bfa1a1e7a9b4",
-    "name": "Elliott Pritt",
-    "chamber": "house",
-    "party": "R",
-    "district": "50",
-    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Pritt",
-    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/pritt_david.jpg"
   },
   {
     "id": "ocd-person/db5d813b-3cd2-4a6d-b656-b48624f61094",
@@ -1096,6 +1078,15 @@
     "district": "25",
     "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Hornbuckle",
     "imageUrl": "http://www.wvlegislature.gov/images/members/2023/house/hornbuckle_sean.jpg"
+  },
+  {
+    "id": "ocd-person/290eeecf-40a3-4418-a80d-15a61b809607",
+    "name": "Shane Stack",
+    "chamber": "house",
+    "party": "R",
+    "district": "4",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Stack",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/stack_shane.jpg"
   },
   {
     "id": "ocd-person/bd0e9ba2-fe37-4251-96f2-44715a186750",

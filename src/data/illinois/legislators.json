@@ -531,15 +531,6 @@
     "imageUrl": "https://cdn.ilga.gov/assets/img/members/{8746A238-F14D-428E-A0AD-E3D3F28F80F5}.jpg"
   },
   {
-    "id": "ocd-person/1574a50f-6d50-4d7d-87ee-db0254e5093e",
-    "name": "Harry Benton",
-    "chamber": "house",
-    "party": "D",
-    "district": "97",
-    "bioUrl": "https://ilga.gov/house/Rep.asp?GA=103&MemberID=3241",
-    "imageUrl": "https://cdn.ilga.gov/assets/img/members/{591DB385-5E0D-41CC-8B13-2FDA10A73D7F}.jpg"
-  },
-  {
     "id": "ocd-person/c7156dc3-31a6-4582-bf3a-b325c9dc868f",
     "name": "Hoan Huynh",
     "chamber": "house",
@@ -655,6 +646,15 @@
     "district": "48",
     "bioUrl": "https://ilga.gov/house/Rep.asp?GA=103&MemberID=3231",
     "imageUrl": "https://cdn.ilga.gov/assets/img/members/{07C35999-DEF2-49BA-8A46-7D9D8204BCEA}.jpg"
+  },
+  {
+    "id": "ocd-person/5ea8a157-c31c-407b-8378-6d80aa7280f9",
+    "name": "Jess Heitman",
+    "chamber": "house",
+    "party": "D",
+    "district": "97",
+    "bioUrl": "https://www.ilga.gov/House/Members/Details/3465",
+    "imageUrl": "https://www.chicagotribune.com/wp-content/uploads/2026/07/ctc-l-Dixon-Heitman_264932049_246515.jpg?w=1392"
   },
   {
     "id": "ocd-person/be85f354-7f46-48aa-afc7-850502fda3cb",
@@ -1271,9 +1271,9 @@
   {
     "id": "ocd-person/2febe0de-8b57-43c9-b8cd-a5363af4eae3",
     "name": "Paul Jacobs",
-    "chamber": "house",
+    "chamber": "senate",
     "party": "R",
-    "district": "118",
+    "district": "59",
     "bioUrl": "https://ilga.gov/house/Rep.asp?GA=102&MemberID=3003",
     "imageUrl": "https://cdn.ilga.gov/assets/img/members/{0E151A06-57C8-4261-9577-278F5DD4B717}.jpg"
   },
@@ -1375,6 +1375,15 @@
     "district": "6",
     "bioUrl": "https://ilga.gov/senate/Senator.asp?GA=101&MemberID=2778",
     "imageUrl": "https://cdn.ilga.gov/assets/img/members/{E77394AE-D896-4FEB-A325-B33A553554EB}.jpg"
+  },
+  {
+    "id": "ocd-person/4f34a22a-48e9-4439-8cab-cf5360cd8433",
+    "name": "Scott Doody",
+    "chamber": "house",
+    "party": "R",
+    "district": "118",
+    "bioUrl": "https://www.ilga.gov/House/Members/Details/3464",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0b9e2838-eeb0-4d10-8292-64a9e9f54dc1",

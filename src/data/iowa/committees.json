@@ -5,8 +5,8 @@
     "chamber": "legislature",
     "members": [
       "ocd-person/cad5e110-d7b3-45b3-b7c3-9e8232e2dbc7",
+      "ocd-person/c29c02a4-8429-4846-bc19-817f545f3935",
       "ocd-person/8e969687-4903-4f3c-a76f-2e35a2232d09",
-      "ocd-person/ba713234-dc5e-4646-9f74-c25d84f648cc",
       "ocd-person/1c841d58-bdbe-4021-9126-055184cecdd5",
       "ocd-person/955a4d7c-a378-4bd2-8a74-dac94f74ba52",
       "ocd-person/82dcdad5-7974-4b38-a44c-7007e8111a5c"
@@ -210,9 +210,9 @@
       "ocd-person/97a4ef03-4b50-4fcd-9ebc-3d76482f2150",
       "ocd-person/9b68d2a2-ead2-401e-a225-1edae68f6099",
       "ocd-person/3fa8bceb-666f-4480-a957-1928e2b5fec6",
-      "ocd-person/0af01ef4-f982-4239-9ffc-56d33cee3b7b",
       "ocd-person/9c6428d6-af30-4a4f-bb9c-666d3d6d84c5",
       "ocd-person/3089e8af-0071-4298-822c-2d16ac01fe9f",
+      "ocd-person/4bb97641-21a7-4aaa-b4d8-7f0dfcacd3a0",
       "ocd-person/8ee06272-1977-4810-8c40-5d007fb31ac8"
     ],
     "officialUrl": "https://www.legis.iowa.gov/committees/committee?ga=90&groupID=672"
@@ -537,12 +537,12 @@
       "ocd-person/f8bf5332-b8b7-4d55-8652-e9b883cae35e",
       "ocd-person/ef7b8c3c-3cd0-4f95-8b4f-9e4daa061479",
       "ocd-person/9aa42801-ba2e-4f2e-9448-cf5e6114fba7",
-      "ocd-person/e7b268b8-c922-4e66-8327-cc4c49854d5e",
+      "ocd-person/3dea807e-b6b5-4531-a5d6-d51ae8811aca",
       "ocd-person/c9679bfc-5a21-405a-bae1-e2de9a85baf8",
       "ocd-person/37b1879c-5435-4c28-bb62-fa71fbabbbdb",
       "ocd-person/cad5e110-d7b3-45b3-b7c3-9e8232e2dbc7",
       "ocd-person/d675a03b-f474-4e1c-b48a-b78b399488c4",
-      "ocd-person/ce66871e-57e7-471d-b231-d772dd41eb63",
+      "ocd-person/6d119d13-56ee-4aef-a7b0-602efef0b995",
       "ocd-person/82dcdad5-7974-4b38-a44c-7007e8111a5c"
     ],
     "officialUrl": "https://www.legis.iowa.gov/committees/committee?ga=90&groupID=24165"
@@ -565,6 +565,20 @@
       "ocd-person/427b416b-eca9-4863-a8c2-c54ad2769bc1"
     ],
     "officialUrl": "https://www.legis.iowa.gov/committees/committee?ga=91&groupID=41010"
+  },
+  {
+    "id": "ocd-organization/14761e84-d98a-4094-9346-62f300af7ce3",
+    "name": "Industrial New Jobs Training Program Interim Study",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/9788064e-fad9-4130-9084-69e829884d9c",
+      "ocd-person/82dcdad5-7974-4b38-a44c-7007e8111a5c",
+      "ocd-person/29efffba-9a8b-473f-a66e-8be5441cbb83",
+      "ocd-person/fe90f2b2-0892-4abd-9d6d-4b2ac1dae632",
+      "ocd-person/75ee3e5c-bf95-4f36-8366-264872631c3c",
+      "ocd-person/ba2c7b09-df43-4428-b268-1f5a4995282e"
+    ],
+    "officialUrl": "https://www.legis.iowa.gov/committees/committee?ga=91&session=2&groupID=44367"
   },
   {
     "id": "ocd-organization/ae9fced4-d8d1-4966-8f93-85c8171f6c54",
@@ -677,7 +691,6 @@
       "ocd-person/43530aa9-bb74-4e1b-845c-e9491c9a410c",
       "ocd-person/cad5e110-d7b3-45b3-b7c3-9e8232e2dbc7",
       "ocd-person/8e969687-4903-4f3c-a76f-2e35a2232d09",
-      "ocd-person/c1174a56-68c9-4103-aaee-fa3f1a2b25ca",
       "ocd-person/657c7d2d-2444-4809-93fb-d1701d77f528",
       "ocd-person/141dec61-26f0-4155-a86b-9b2179c9546c",
       "ocd-person/9b68d2a2-ead2-401e-a225-1edae68f6099",
@@ -687,15 +700,16 @@
       "ocd-person/e0df02a4-7910-4538-8c3b-8152fb8f657c",
       "ocd-person/75ee3e5c-bf95-4f36-8366-264872631c3c",
       "ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108",
-      "ocd-person/0af01ef4-f982-4239-9ffc-56d33cee3b7b",
       "ocd-person/37952941-d329-4c96-8458-654fa495ec76",
       "ocd-person/1c841d58-bdbe-4021-9126-055184cecdd5",
       "ocd-person/955a4d7c-a378-4bd2-8a74-dac94f74ba52",
       "ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056",
+      "ocd-person/4bb97641-21a7-4aaa-b4d8-7f0dfcacd3a0",
       "ocd-person/84f3edbd-f0e1-4220-a670-f7d39d57bda5",
       "ocd-person/068a7290-ab67-4ff5-abe5-8e23a7715097",
       "ocd-person/8ee06272-1977-4810-8c40-5d007fb31ac8",
       "ocd-person/293487d6-a28b-48a2-8cfc-c3daabb8abbe",
+      "ocd-person/ba2c7b09-df43-4428-b268-1f5a4995282e",
       "ocd-person/be302cfd-09b1-4a29-974d-479aa24469eb"
     ],
     "officialUrl": "https://www.legis.iowa.gov/committees/committee?ga=90&groupID=703"
@@ -964,7 +978,7 @@
     "name": "State Government Efficiency Review",
     "chamber": "legislature",
     "members": [
-      "ocd-person/37952941-d329-4c96-8458-654fa495ec76",
+      "ocd-person/98672aab-5ba5-4994-964a-f53d8bcdd108",
       "ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056",
       "ocd-person/0ed1d7f1-1471-4055-b674-582bf19c28b3",
       "ocd-person/1a5372b1-e23d-4877-a614-a32f552c58b4",
@@ -980,14 +994,14 @@
     "members": [
       "ocd-person/43530aa9-bb74-4e1b-845c-e9491c9a410c",
       "ocd-person/cad5e110-d7b3-45b3-b7c3-9e8232e2dbc7",
+      "ocd-person/c29c02a4-8429-4846-bc19-817f545f3935",
       "ocd-person/8e969687-4903-4f3c-a76f-2e35a2232d09",
-      "ocd-person/c1174a56-68c9-4103-aaee-fa3f1a2b25ca",
       "ocd-person/657c7d2d-2444-4809-93fb-d1701d77f528",
       "ocd-person/75ee3e5c-bf95-4f36-8366-264872631c3c",
-      "ocd-person/ba713234-dc5e-4646-9f74-c25d84f648cc",
       "ocd-person/1c841d58-bdbe-4021-9126-055184cecdd5",
       "ocd-person/955a4d7c-a378-4bd2-8a74-dac94f74ba52",
-      "ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056"
+      "ocd-person/1cfc824d-740a-4e35-a4e2-3728e2d43056",
+      "ocd-person/4bb97641-21a7-4aaa-b4d8-7f0dfcacd3a0"
     ],
     "officialUrl": "https://www.legis.iowa.gov/committees/committee?ga=90&groupID=663"
   },

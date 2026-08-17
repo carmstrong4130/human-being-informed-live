@@ -652,6 +652,78 @@
     "officialUrl": "https://docs.legis.wisconsin.gov/2023/committees/joint/2648"
   },
   {
+    "id": "ocd-organization/abd851fb-7374-4aaf-b005-a3dac2f1dc38",
+    "name": "Legislative Council Study Committee on Cemeteries",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/23c03244-880a-4263-8e2f-18c0c5556b45",
+      "ocd-person/49d245a5-ad19-46cf-9857-581573c0b99b",
+      "ocd-person/1c95c957-d9c9-4905-8dc6-37b13272c1f0",
+      "ocd-person/7743646d-bb5a-4771-9c2b-df3a8271609c"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3037"
+  },
+  {
+    "id": "ocd-organization/86e0c89f-4a34-4950-be75-8033079c14ac",
+    "name": "Legislative Council Study Committee on Cryptocurrency",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/a1407176-afc6-45ce-ad6c-d7f69b5b3b78",
+      "ocd-person/58b31138-e0a5-41ae-bd2f-5713e6c0cc0c",
+      "ocd-person/798979da-9683-41b4-b663-d5c73ec93364",
+      "ocd-person/a3db3b70-1e27-44a4-a5ae-025450ae4d3d"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3038"
+  },
+  {
+    "id": "ocd-organization/9edbccae-c3db-4ea6-b77d-f5e1730a4b5f",
+    "name": "Legislative Council Study Committee on District Attorney Funding Formula",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/1c2038cc-ee27-475c-a578-0236dba3f3f3",
+      "ocd-person/b2ad4345-9408-4238-a1f9-13e747f599b3",
+      "ocd-person/92eb51fb-7865-4b2f-8ea1-c56b5f287b5c",
+      "ocd-person/5d4675a4-34f3-47ea-8821-69669a2a8d05"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3039"
+  },
+  {
+    "id": "ocd-organization/c7f9d4e0-1e45-4221-8598-96f738e1e3be",
+    "name": "Legislative Council Study Committee on Floodplain Restoration",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/b8666d84-956f-40a7-8faa-75709f9d4a12",
+      "ocd-person/003644e8-cb82-45c6-b875-e52bc28424bb",
+      "ocd-person/225f946c-4812-435d-83f1-dad22a2fb0d6",
+      "ocd-person/b4fedde3-c1a5-4cb5-976d-05f4c541e382"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3040"
+  },
+  {
+    "id": "ocd-organization/46e09002-79a0-45c7-aff6-d77097b36f3c",
+    "name": "Legislative Council Study Committee on State Veterans\\u2019 Benefits",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/1332581f-d860-43a0-b7d9-ddf619451efa",
+      "ocd-person/365aa5a9-3584-4baa-86b5-51f096764f69",
+      "ocd-person/dc69e926-a090-4561-bb0f-2f81ec0dc977",
+      "ocd-person/f8f3683e-3615-4a4b-bafe-d4d042f291d0"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3041"
+  },
+  {
+    "id": "ocd-organization/cf9326bd-98cd-4c09-ba78-d93c4dc43f00",
+    "name": "Legislative Council Study Committee on the Use of Artificial Intelligence in Health Care",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5fec547c-aff0-4c6c-880b-bc0f52d28e30",
+      "ocd-person/22d8a510-3b36-432a-9d3d-08efe7e74d5e",
+      "ocd-person/1b0b0777-af08-40f2-a45b-3c2431b37722",
+      "ocd-person/c7bbb253-91be-4cf1-ab53-ab7c1d902b48"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3042"
+  },
+  {
     "id": "ocd-organization/9876a0fb-74b3-4423-a7bc-33f5d606598f",
     "name": "Legislative Organization",
     "chamber": "legislature",
@@ -1041,6 +1113,20 @@
       "ocd-person/91423371-a92c-4006-ad7d-e21f2f7e666b"
     ],
     "officialUrl": "https://docs.legis.wisconsin.gov/2025/committees/assembly/2946"
+  },
+  {
+    "id": "ocd-organization/2906da2a-44a8-4471-a28a-d581909a2741",
+    "name": "State-Tribal Relations Special",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/5254db79-a23b-4496-ad9b-cc0e7a9b7f3a",
+      "ocd-person/73b2bf4c-54e5-4da3-9a8c-c2c5bf4f102d",
+      "ocd-person/68856392-7181-4a63-bcc0-2c414a67045e",
+      "ocd-person/2a047fc5-2adb-4c4b-9c67-0eda3aa07233",
+      "ocd-person/de5dfe78-e3a2-4a58-a7f1-bb184bfd1ade",
+      "ocd-person/c67b7b29-0932-4667-bb92-63f46cdfaef0"
+    ],
+    "officialUrl": "https://docs.legis.wisconsin.gov/misc/lc/study/2026/3043"
   },
   {
     "id": "ocd-organization/9598d00c-62ac-437a-a2de-1becb581190f",

@@ -59,7 +59,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "11",
-    "bioUrl": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168&year=2023",
+    "bioUrl": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=168",
     "imageUrl": "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/fukunaga.jpg"
   },
   {
@@ -493,15 +493,6 @@
     "district": "1",
     "bioUrl": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=297",
     "imageUrl": "https://storage.googleapis.com/enview-public-general/legislative-people-photos/149765.jpg"
-  },
-  {
-    "id": "ocd-person/511d674b-1e98-4a1f-8af2-24f986a165d9",
-    "name": "Michelle Kidani",
-    "chamber": "senate",
-    "party": "D",
-    "district": "18",
-    "bioUrl": "https://capitol.hawaii.gov/memberpage.aspx?member=kidani&year=2019",
-    "imageUrl": "http://www.capitol.hawaii.gov/MemberFiles/RepSenPhotos/kidani.jpg"
   },
   {
     "id": "ocd-person/9f87e7d6-a307-45ab-b384-96a8599dab56",

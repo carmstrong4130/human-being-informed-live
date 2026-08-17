@@ -1026,15 +1026,6 @@
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73218.jpg"
   },
   {
-    "id": "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
-    "name": "Gary Daniels",
-    "chamber": "house",
-    "party": "R",
-    "district": "Hillsborough 43",
-    "bioUrl": "https://www.gencourt.state.nh.us/Senate/members/webpages/district11.aspx",
-    "imageUrl": "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg"
-  },
-  {
     "id": "ocd-person/26cadaaa-59d2-4c71-b23b-9f103dbd3e81",
     "name": "Gary Gilmore",
     "chamber": "house",
@@ -1195,15 +1186,6 @@
     "district": "Rockingham 36",
     "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
     "imageUrl": "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2020-08/JDBernardy.png?itok=IhGAlNMd"
-  },
-  {
-    "id": "ocd-person/26f01212-5287-4735-aa1f-77e4f0d2acb6",
-    "name": "Jaci Grote",
-    "chamber": "house",
-    "party": "D",
-    "district": "Rockingham 24",
-    "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
-    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73222.jpg"
   },
   {
     "id": "ocd-person/0772e02f-5d9a-45d3-aa62-81a5416b06e2",
@@ -1656,15 +1638,6 @@
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/50380.jpg"
   },
   {
-    "id": "ocd-person/4df69dca-ac45-46e2-a42d-26d77ddcdde4",
-    "name": "Jon Morton",
-    "chamber": "house",
-    "party": "R",
-    "district": "Hillsborough 39",
-    "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11371",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jonathan_Morton_20240826_041814.jpg"
-  },
-  {
     "id": "ocd-person/87b1ae9f-d7ad-4fc2-b96c-a03c1926c4b1",
     "name": "Jonah Wheeler",
     "chamber": "house",
@@ -2068,15 +2041,6 @@
     "district": "Hillsborough 10",
     "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73173.jpg"
-  },
-  {
-    "id": "ocd-person/ad3c3841-fa56-4055-bd86-8a3c504d36a9",
-    "name": "Linda Haskins",
-    "chamber": "house",
-    "party": "D",
-    "district": "Rockingham 11",
-    "bioUrl": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10855",
-    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/123187.jpg"
   },
   {
     "id": "ocd-person/4b68fc91-27b5-4065-af3d-b541877116f5",
@@ -3301,15 +3265,6 @@
     "district": "5",
     "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/93792.jpg"
-  },
-  {
-    "id": "ocd-person/ce985799-268d-4190-b078-955fc63a8c3c",
-    "name": "Sue Vail",
-    "chamber": "house",
-    "party": "D",
-    "district": "Hillsborough 6",
-    "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
-    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/76050.jpg"
   },
   {
     "id": "ocd-person/b3316ac6-b023-4dec-9e07-33600f4027bb",

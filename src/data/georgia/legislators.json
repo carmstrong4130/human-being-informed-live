@@ -1,5 +1,14 @@
 [
   {
+    "id": "ocd-person/3cfc8d4f-68d4-44b2-81f4-a162465e1aed",
+    "name": "Adrienne White",
+    "chamber": "senate",
+    "party": "D",
+    "district": "7",
+    "bioUrl": "https://www.legis.ga.gov/members/senate/5097",
+    "imageUrl": null
+  },
+  {
     "id": "ocd-person/938f2479-c51f-446a-87f0-76d4f07c61e5",
     "name": "Akbar Ali",
     "chamber": "house",
@@ -25,6 +34,15 @@
     "district": "33",
     "bioUrl": "https://www.legis.ga.gov/members/house",
     "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/powell-alan-187.jpg"
+  },
+  {
+    "id": "ocd-person/8aa7ee05-bf64-4c51-8821-ad905d25741b",
+    "name": "Alvin Payton",
+    "chamber": "house",
+    "party": "D",
+    "district": "177",
+    "bioUrl": "https://www.legis.ga.gov/members/house/5096?session=1034",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b001a55f-61fa-4e62-85fd-ac6c282f2711",

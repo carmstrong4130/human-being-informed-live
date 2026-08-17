@@ -68,7 +68,7 @@
     "chamber": "house",
     "party": "D",
     "district": "21",
-    "bioUrl": "http://www.maine.gov/housedems/rana",
+    "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1464",
     "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/1f89f046-4256-4341-9236-68c67e6efd77_ARANA.jpg"
   },
   {
@@ -1150,6 +1150,15 @@
     "district": "127",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1414",
     "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/81d0ef8c-588c-417c-84c1-77b41cad5120_RiellyNEW.jpg"
+  },
+  {
+    "id": "ocd-person/58e6cfa5-f375-4619-b8b3-2ce7d176cb55",
+    "name": "Nancy Theriault",
+    "chamber": "house",
+    "party": "R",
+    "district": "29",
+    "bioUrl": "https://legislature.maine.gov/house/MemberProfiles/Details/3142",
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Nancy_Theriault_20260419_055420.jpg"
   },
   {
     "id": "ocd-person/bed16528-b0ae-40e0-89a0-7303b946fb71",

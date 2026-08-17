@@ -81,17 +81,6 @@
     "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_h_ag_nat_res_bdgt_1"
   },
   {
-    "id": "ocd-organization/de470356-4404-4b95-b71a-6d969606f623",
-    "name": "Alvin Sykes Cold Case DNA Task Force",
-    "chamber": "legislature",
-    "members": [
-      "ocd-person/85a66c0d-6f9e-4a55-947e-4d3dc28af0d8",
-      "ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d",
-      "ocd-person/0ce6641b-4793-4194-8a6b-de220fcb20d5"
-    ],
-    "officialUrl": "https://www.kslegislature.org/li/b2023_24/committees/ctte_tf_alvin_sykes_cold_case_dna_task_force_1"
-  },
-  {
     "id": "ocd-organization/6b8366d3-b1f8-4c85-99e5-b1c2a2c25e8f",
     "name": "Appropriations",
     "chamber": "house",
@@ -219,25 +208,14 @@
       "ocd-person/2c46aedb-f7a4-4f9a-bade-5ae192acc2a3",
       "ocd-person/e9245d69-ed9f-456c-9c78-01fc5a1f4244",
       "ocd-person/9c36b31f-b9e7-43cd-8aab-6148c8f6cac8",
+      "ocd-person/96643a66-5a00-41ba-9aa6-fc126a92849c",
       "ocd-person/567cbef1-19d5-4e90-9b32-d7f2d45428d6",
-      "ocd-person/9f48288b-b1a9-43a1-884b-5cc2abfa4e4f",
       "ocd-person/3093633a-62dc-4e93-a305-258a20bfd0f2",
       "ocd-person/4ab616b7-79d2-4d89-ae25-cd4ea4e8c4c8",
-      "ocd-person/c06bc779-d072-495b-95f8-e5f4e67bdd4c",
       "ocd-person/ecff64bf-dfd7-4df4-a1c2-681348e68fa8",
       "ocd-person/80f9f23c-fa36-43ef-b97e-a9563bd4237b"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_child_welfare_ovst_1"
-  },
-  {
-    "id": "ocd-organization/020f28db-bc75-4703-964c-7f1da5128042",
-    "name": "Child Welfare System Task Force",
-    "chamber": "legislature",
-    "members": [
-      "ocd-person/65fa3818-4803-4821-8533-51a7802694ec",
-      "ocd-person/b4774ff4-de16-4716-8956-65ecc740eb8c"
-    ],
-    "officialUrl": "https://www.kslegislature.org/li/b2023_24/committees/ctte_tf_child_welfare_system_1"
   },
   {
     "id": "ocd-organization/90dbe4ee-3fb8-47e6-bd42-39c3102bf852",
@@ -338,15 +316,6 @@
       "ocd-person/241d0891-9169-443e-be77-d3d00a57f401"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_h_corr_juv_jus_1"
-  },
-  {
-    "id": "ocd-organization/f3f351db-2bf6-480a-9f6f-3b6544c52d09",
-    "name": "Criminal Justice Reform Commission",
-    "chamber": "legislature",
-    "members": [
-      "ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d"
-    ],
-    "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_ot_criminal_justice_reform_1"
   },
   {
     "id": "ocd-organization/19814ca1-4b2c-451d-a426-62577a8b43d6",
@@ -534,7 +503,7 @@
       "ocd-person/df19b642-2877-4b6d-ab29-bbdd26deaa26",
       "ocd-person/57c530cc-4575-431e-9118-11f64fa3a573",
       "ocd-person/d9b94e4b-d2b0-4139-8135-cba9ff03e8b7",
-      "ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719",
+      "ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d",
       "ocd-person/0ebc0742-f24c-4ab3-9155-7a4c37e2fa87",
       "ocd-person/a0787678-986f-459f-bba3-38d46ef55d8b",
       "ocd-person/59368846-3703-44a5-a898-d7ab00c32c8b",
@@ -705,11 +674,11 @@
       "ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60",
       "ocd-person/71b474cb-1732-41fc-b525-4d53911cbbbe",
       "ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04",
-      "ocd-person/b4963502-06af-4855-bc95-8db7972d2e04",
       "ocd-person/0c2ba27f-4208-475d-a625-a12c5f0581b5",
       "ocd-person/a81f29c0-88a5-4984-a36e-214eddb912fb",
       "ocd-person/57e6524f-40c5-4708-89ad-c80570bf31b1",
-      "ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26"
+      "ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545",
+      "ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_it_1"
   },
@@ -769,16 +738,17 @@
     "name": "J. Russell (Russ) Jennings Corrections and Juvenile Justice Oversight",
     "chamber": "legislature",
     "members": [
-      "ocd-person/05ca3b77-c9d8-4d8e-92bf-603b2f71eda6",
       "ocd-person/85a66c0d-6f9e-4a55-947e-4d3dc28af0d8",
+      "ocd-person/05ca3b77-c9d8-4d8e-92bf-603b2f71eda6",
       "ocd-person/f66696d0-6a3c-4b91-9f41-ed016e74d4ef",
       "ocd-person/d7dd1de1-73e2-438a-bf25-c70e12ede30d",
       "ocd-person/35630402-1f6a-4a3e-b6cf-48c1b93bd6ae",
+      "ocd-person/cb7f246f-5619-4086-8e6a-79614bcbaca6",
+      "ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d",
       "ocd-person/416dbc91-431f-4dc6-8c8a-ca2db2cd3300",
-      "ocd-person/76d729c5-1b4d-4966-8c99-5ac8b74d8719",
+      "ocd-person/55f1cbff-5420-44f1-8d6e-1970317cd150",
       "ocd-person/0ce6641b-4793-4194-8a6b-de220fcb20d5",
       "ocd-person/8a353296-bd2d-4fd6-b1b9-d8b3c8b3f771",
-      "ocd-person/0f185c85-3f64-4f47-9a64-048b1e009181",
       "ocd-person/9f48288b-b1a9-43a1-884b-5cc2abfa4e4f",
       "ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1",
       "ocd-person/9e2cc4ba-4ac7-4554-ac51-b41f2c3667d1"
@@ -862,9 +832,9 @@
       "ocd-person/cb7f246f-5619-4086-8e6a-79614bcbaca6",
       "ocd-person/65fa3818-4803-4821-8533-51a7802694ec",
       "ocd-person/6a7f0eed-6a34-4bd2-842c-2978ca9c6008",
-      "ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26",
       "ocd-person/241d0891-9169-443e-be77-d3d00a57f401",
       "ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545",
+      "ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475",
       "ocd-person/90f4cf61-cce8-4f87-8495-c0dc298c8d27"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_ks_security_1"
@@ -878,9 +848,9 @@
       "ocd-person/e5d951f2-88c7-47d4-ac28-08c175ba440d",
       "ocd-person/3bf41768-e1b5-4017-8ab5-8d1fb1d6521c",
       "ocd-person/81803637-3bf0-4bbe-9ae4-7724488955b7",
+      "ocd-person/c51517ec-db1e-433d-a1d0-683547ae34a2",
       "ocd-person/148ed29a-4c96-4e69-9791-29b2bd3f09b6",
-      "ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545",
-      "ocd-person/695c8e66-9ee6-4431-8bd4-b7435b04e2c7"
+      "ocd-person/5281ab3e-91a8-43be-bcc7-5d9d4c2a2545"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2023_24/committees/ctte_leg_budget_1"
   },
@@ -953,20 +923,12 @@
       "ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04",
       "ocd-person/9c36b31f-b9e7-43cd-8aab-6148c8f6cac8",
       "ocd-person/81803637-3bf0-4bbe-9ae4-7724488955b7",
+      "ocd-person/4d244ceb-6d50-4670-93db-22ad153b3961",
       "ocd-person/148ed29a-4c96-4e69-9791-29b2bd3f09b6",
       "ocd-person/cc0df3af-9c8b-4834-a629-c16e4c8debcb",
       "ocd-person/8d608ede-12f3-4ec4-8206-2c3dde0db6b7"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2023_24/committees/ctte_jt_lpa_1"
-  },
-  {
-    "id": "ocd-organization/68c5a7b9-15fa-4b41-bb2f-42dde3a0afb7",
-    "name": "Legislative Task Force on Dyslexia",
-    "chamber": "legislature",
-    "members": [
-      "ocd-person/b4774ff4-de16-4716-8956-65ecc740eb8c"
-    ],
-    "officialUrl": "https://www.kslegislature.org/li/b2023_24/committees/ctte_tf_dyslexia_1"
   },
   {
     "id": "ocd-organization/4ad2219e-9ad8-41f6-a2f8-039fcbd8a875",
@@ -1234,9 +1196,8 @@
       "ocd-person/05ca3b77-c9d8-4d8e-92bf-603b2f71eda6",
       "ocd-person/65fa3818-4803-4821-8533-51a7802694ec",
       "ocd-person/f29363f0-8ac1-4c25-a8a7-74db5cefd9a4",
-      "ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26",
       "ocd-person/e5d951f2-88c7-47d4-ac28-08c175ba440d",
-      "ocd-person/413cc3ff-a3b9-465b-827d-4aeb4b0b42c1"
+      "ocd-person/38e5e1b5-72d2-4968-be98-032e8320d475"
     ],
     "officialUrl": "https://www.kslegislature.org/li/b2021_22/committees/ctte_jt_bldg_constr_1"
   },
@@ -1249,10 +1210,8 @@
       "ocd-person/4c340817-c498-4df6-afe4-d3251ce6594b",
       "ocd-person/6c410bc7-76fd-4488-aca4-5158a5a55d70",
       "ocd-person/b4963502-06af-4855-bc95-8db7972d2e04",
-      "ocd-person/0a700e33-0ae7-4627-936c-982317c26b9d",
       "ocd-person/416dbc91-431f-4dc6-8c8a-ca2db2cd3300",
       "ocd-person/f29363f0-8ac1-4c25-a8a7-74db5cefd9a4",
-      "ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60",
       "ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c",
       "ocd-person/4ab616b7-79d2-4d89-ae25-cd4ea4e8c4c8"
     ],
@@ -1390,10 +1349,9 @@
     "name": "Unemployment Compensation Modernization and Improvement Council",
     "chamber": "legislature",
     "members": [
-      "ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c",
+      "ocd-person/3093633a-62dc-4e93-a305-258a20bfd0f2",
       "ocd-person/cc84252c-b7c6-484d-a036-dd38a90b1b04",
-      "ocd-person/4c340817-c498-4df6-afe4-d3251ce6594b",
-      "ocd-person/8a08b0a9-eeff-495c-8fc8-7bbfe3e4dc26",
+      "ocd-person/a65df523-1cb7-4ee3-ac85-1eec82b3fe2c",
       "ocd-person/6c410bc7-76fd-4488-aca4-5158a5a55d70",
       "ocd-person/075f264c-efcf-408f-baf8-b3f9306bae36"
     ],
@@ -1493,6 +1451,7 @@
       "ocd-person/c333ddca-e5a2-4638-910c-a816bcddd666",
       "ocd-person/782cdea1-59a1-4930-8126-ffd1264420f9",
       "ocd-person/4a16a87e-2567-4361-9874-aaee47278840",
+      "ocd-person/4fca7c3e-1f7c-455e-b555-a293ff578e60",
       "ocd-person/a0787678-986f-459f-bba3-38d46ef55d8b",
       "ocd-person/8b446a75-944d-4292-8af0-f5114be39021"
     ],

@@ -23,7 +23,7 @@
     "name": "Aging and Long-Term Care",
     "chamber": "house",
     "members": [
-      "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
+      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
       "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
       "ocd-person/c3921173-9680-4387-a70e-ebba5c599846",
       "ocd-person/82cbb6e9-8486-44ec-8450-86d1e700f828",
@@ -246,12 +246,12 @@
       "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
       "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
       "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
-      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
       "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
       "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
       "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
       "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
       "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
+      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
       "ocd-person/54e48d10-22e1-43da-b114-c1d3f741faff",
       "ocd-person/926d1337-0318-4c12-a291-178f10199b23",
       "ocd-person/cc6eb833-e16b-472a-83ec-31e7df1b1cd9",
@@ -421,6 +421,7 @@
       "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
       "ocd-person/66bd4b32-5536-4bae-ab55-08c0b70ca5fd",
       "ocd-person/6c2a35d5-c04c-44d0-8bd9-92a625e2b525",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
       "ocd-person/39e3ce0f-c2e2-4480-9e99-76e1e62f366d",
       "ocd-person/c766abf8-06ca-4a98-9665-82b87149ca96",
       "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
@@ -672,12 +673,12 @@
     "chamber": "house",
     "members": [
       "ocd-person/2944d19a-c288-4f32-b6a0-72e35f48e570",
-      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
       "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
       "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
       "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1",
-      "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
       "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea",
+      "ocd-person/01fddc24-a5ac-40b7-a9e1-80e918fee609",
       "ocd-person/1e0ccfc0-2d57-4e57-8d16-589d07c1bc72"
     ],
     "officialUrl": "https://aelc.assembly.ca.gov"
@@ -852,7 +853,6 @@
       "ocd-person/d2a8e29a-5eac-4e2a-a686-d1bdb04927e7",
       "ocd-person/50e55c91-8b18-45ea-a074-bf500e7a299e",
       "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
-      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
       "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
       "ocd-person/407f6fda-8638-4cca-9704-7aa8df7de26e",
       "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
@@ -861,6 +861,7 @@
       "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
       "ocd-person/3a7bde9c-8709-49c7-89e4-0835ea1f9eb6",
       "ocd-person/404dbee4-6b74-4249-ab26-9644cab7c7d5",
+      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
       "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
       "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9",
       "ocd-person/75229920-399d-4216-9b76-c27ea398665a"
@@ -913,16 +914,16 @@
     "chamber": "house",
     "members": [
       "ocd-person/a467d09d-289d-4e5a-a2af-a0ce20af14e1",
-      "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
       "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
       "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
       "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
       "ocd-person/86218623-ea63-4b2a-ab5c-7694e3f4a18a",
       "ocd-person/eddfcfb5-2d07-4e5b-81a0-88e5703dc0bb",
+      "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
       "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
       "ocd-person/c7a404d9-03f7-4e82-b730-1623da31d4cc",
       "ocd-person/092bda0e-23a9-4d25-92a9-5808e996702b",
-      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
       "ocd-person/895f777d-ae7b-429a-aa0f-1b2895c13945",
       "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
       "ocd-person/0c47a1ba-99a2-44a9-8c65-fcad12aeee97",
@@ -1077,10 +1078,10 @@
     "chamber": "house",
     "members": [
       "ocd-person/5d0057a2-e04d-44ca-b1d5-fc55e113351a",
-      "ocd-person/06d4d543-2374-436f-978d-b924c7ec7d53",
+      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
       "ocd-person/1dbf574d-4c03-40ce-8c30-a6727c4bd5ab",
       "ocd-person/e351eaa3-8aa1-4f26-a8ff-2a260a0ad383",
-      "ocd-person/748ce69c-a2bc-41a7-95e2-b09fba6e5ecd",
+      "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
       "ocd-person/ed58ae30-ffe5-4395-9353-141e4018cbe3",
       "ocd-person/6d83a613-6815-48c9-bb31-94adb1ee92ea"
     ],
@@ -1352,7 +1353,7 @@
     "members": [
       "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
       "ocd-person/6ba768a4-2756-42b5-a5c5-f6b8b5db0491",
-      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
       "ocd-person/1b3ac39e-7b50-4263-bd1d-add1e91d71b9",
       "ocd-person/24facf9e-7fb1-4475-9120-05cd0145c7c1"
     ],
@@ -1773,12 +1774,12 @@
     "members": [
       "ocd-person/f2ba8154-6bf3-4e5e-af05-9412e2a189f2",
       "ocd-person/7476789f-49a4-491a-b294-9d1486f24193",
+      "ocd-person/eb9c8103-ac9d-4342-9d95-5086d867a9bd",
       "ocd-person/564f2203-7cae-4a40-bc93-5c05a935b98f",
       "ocd-person/434bcfb4-1279-40cc-916b-f89af5805a9c",
       "ocd-person/8833976f-b95a-45bf-bbd9-ccdb66946d20",
       "ocd-person/0fa65d2c-6020-4586-a6f1-5dfd41db38ff",
       "ocd-person/0c4e1b43-c3d7-4a13-87c4-92e29903cb73",
-      "ocd-person/c830a90c-8964-4c0f-b31b-729cab1144fd",
       "ocd-person/e7ad99fd-fda5-4114-af3e-320f5be9be3c",
       "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
       "ocd-person/cb6cc457-59f8-4dd8-aeb5-691c3795ffb7",
@@ -1787,7 +1788,6 @@
       "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
       "ocd-person/a1394aeb-094a-4fc0-b4d5-005104ceddc0",
       "ocd-person/e924a3ec-c7c0-4094-8504-7611bcf8979f",
-      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
       "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
       "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d",
       "ocd-person/68f5ee30-aa70-489b-84b7-6501e6188751",
@@ -1815,7 +1815,6 @@
       "ocd-person/76378b56-7ad9-463c-a4fd-47c665b26ee8",
       "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
       "ocd-person/c8e36b71-c739-4afb-b8e9-cbdd4d362693",
-      "ocd-person/a86994f3-ffe3-4dc6-9e79-bcba7346f919",
       "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
       "ocd-person/8b2f37bc-65b7-40ed-af14-5d93cb765a5d"
     ],
@@ -1869,6 +1868,43 @@
       "ocd-person/972cffb0-32a6-4cef-8a0f-a8cd901395b0"
     ],
     "officialUrl": "https://www.senate.ca.gov/committees/selectcommitteeonbayareapublictransit"
+  },
+  {
+    "id": "ocd-organization/f1ca6a89-e93f-4da2-957e-e419598b1951",
+    "name": "Select Committee on California and Armenia Mutual Trade, Art, and Cultural Exchange",
+    "chamber": "house",
+    "members": [
+      "ocd-person/0253bb3f-2fcb-49ed-a85d-578fee726be8",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/b9c75c1e-6ea8-4fae-9efa-a7bf0a0cb2cc",
+      "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
+      "ocd-person/4a6f5a5d-275e-4fb2-a8bf-bb1272d4dfbb",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/d12d3275-2086-4bf5-886b-c4de3823fbf9",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/select-committee-california-and-armenia-mutual-trade-art-and-cultural-exchange/about/overview"
+  },
+  {
+    "id": "ocd-organization/7367ee25-5cad-4638-a9c4-83ff907b66c3",
+    "name": "Select Committee on Growing and Retaining the Creative Economy in California",
+    "chamber": "house",
+    "members": [
+      "ocd-person/3864202e-3b40-430e-a218-cfe56d83cee5",
+      "ocd-person/71590420-10d6-4deb-8d59-453256d625b6",
+      "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
+      "ocd-person/20c72bef-f518-4677-bbcb-83c502c36ede",
+      "ocd-person/e9e56c3e-1c7d-4eab-a3ac-35cfc7c6a651",
+      "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
+      "ocd-person/71aa54c0-3fad-499c-928e-ffbb692a970b",
+      "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
+      "ocd-person/6b7e3458-361f-4fce-8a8c-069282db2af7",
+      "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",
+      "ocd-person/1aa5dff4-3d71-4642-a5e6-e3d00a5b99f9"
+    ],
+    "officialUrl": "https://committees.assembly.ca.gov/select-committee-on-growing-and-retaining-the-creative-economy-in-california/about/overview"
   },
   {
     "id": "ocd-organization/39348da2-526e-44ff-a9ba-93d42090998d",
@@ -2074,7 +2110,7 @@
       "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
       "ocd-person/52f6ccc1-eb4a-4c09-8614-5e4022395605",
       "ocd-person/57f76b8e-63ba-4aa7-93c9-0b0853ce2279",
-      "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
+      "ocd-person/3b125433-5362-42e2-a2b5-b608962c9481",
       "ocd-person/b08199e4-63d9-4bd4-9be3-99e628fa7059",
       "ocd-person/81d9225e-7584-43c9-9e9b-f12b7e7dbd4e",
       "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",

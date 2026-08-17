@@ -194,17 +194,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "4",
-    "bioUrl": "https://ballotpedia.org/Brett_Ligon",
-    "imageUrl": "https://www.bihmfirm.com/images/att_brett.jpg"
-  },
-  {
-    "id": "ocd-person/44a23037-5ccd-4781-9e93-c4b950f74355",
-    "name": "Brian Birdwell",
-    "chamber": "senate",
-    "party": "R",
-    "district": "22",
-    "bioUrl": "https://senate.texas.gov/member.php?d=22",
-    "imageUrl": "https://senate.texas.gov/members/d22/img/headshot.jpg"
+    "bioUrl": "https://senate.texas.gov/member.php?d=4",
+    "imageUrl": "https://senate.texas.gov/members/d04/img/Ligon_Brett_Headshot_web.jpg"
   },
   {
     "id": "ocd-person/b1bf46ac-e99e-49f6-8f40-cf07aca12187",
@@ -1123,15 +1114,6 @@
     "district": "108",
     "bioUrl": "https://house.texas.gov/members/3075",
     "imageUrl": "https://house.texas.gov/images/members/3075.jpg?v=1"
-  },
-  {
-    "id": "ocd-person/c6308fcd-b1e1-4ce3-9a29-c05e420e8012",
-    "name": "Nate Schatzline",
-    "chamber": "house",
-    "party": "R",
-    "district": "93",
-    "bioUrl": "https://house.texas.gov/members/4355",
-    "imageUrl": "https://house.texas.gov/images/members/4355.jpg?v=1"
   },
   {
     "id": "ocd-person/dee454b1-6da0-4b1b-a232-033e7de8551f",

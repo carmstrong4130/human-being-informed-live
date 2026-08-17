@@ -113,7 +113,7 @@
     "chamber": "house",
     "party": "D",
     "district": "48",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/48",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_48.jpg"
   },
   {
@@ -212,7 +212,7 @@
     "chamber": "house",
     "party": "D",
     "district": "78",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/78",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_78.jpg"
   },
   {
@@ -230,7 +230,7 @@
     "chamber": "house",
     "party": "D",
     "district": "60",
-    "bioUrl": "https://lcmspubcontact.lc.ca.gov/PublicLCMS/ContactPopup.php?district=AD60&inframe=N",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/60",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_60.jpg"
   },
   {
@@ -311,7 +311,7 @@
     "chamber": "house",
     "party": "D",
     "district": "21",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/21",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_21.jpg"
   },
   {
@@ -338,7 +338,7 @@
     "chamber": "house",
     "party": "D",
     "district": "28",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://women.ca.gov/gail-pellerin",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_28.jpg"
   },
   {
@@ -356,7 +356,7 @@
     "chamber": "house",
     "party": "D",
     "district": "37",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/37",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_37.jpg"
   },
   {
@@ -365,7 +365,7 @@
     "chamber": "house",
     "party": "R",
     "district": "9",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/09",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_09.jpg"
   },
   {
@@ -392,7 +392,7 @@
     "chamber": "house",
     "party": "D",
     "district": "55",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/55",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_55.jpg"
   },
   {
@@ -401,17 +401,8 @@
     "chamber": "house",
     "party": "D",
     "district": "42",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/42",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_42.jpg"
-  },
-  {
-    "id": "ocd-person/5d93a1cb-7a01-43ab-a26c-a2abecdee135",
-    "name": "James Gallagher",
-    "chamber": "house",
-    "party": "R",
-    "district": "3",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
-    "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_03.jpg"
   },
   {
     "id": "ocd-person/156660b1-4c3f-45e3-8384-53cda60d7ea5",
@@ -419,7 +410,7 @@
     "chamber": "house",
     "party": "D",
     "district": "45",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/45",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_45.jpg"
   },
   {
@@ -428,7 +419,7 @@
     "chamber": "house",
     "party": "D",
     "district": "35",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/35",
     "imageUrl": null
   },
   {
@@ -554,7 +545,7 @@
     "chamber": "house",
     "party": "R",
     "district": "22",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/22",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_22.jpg"
   },
   {
@@ -563,7 +554,7 @@
     "chamber": "house",
     "party": "D",
     "district": "39",
-    "bioUrl": "https://hsr.ca.gov/juan-carrillo",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/39",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_39.jpg"
   },
   {
@@ -662,7 +653,7 @@
     "chamber": "house",
     "party": "D",
     "district": "11",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/11",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_11.jpg"
   },
   {
@@ -689,7 +680,7 @@
     "chamber": "house",
     "party": "D",
     "district": "23",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/23",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_23.jpg"
   },
   {
@@ -761,7 +752,7 @@
     "chamber": "house",
     "party": "D",
     "district": "49",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/49",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_49.jpg"
   },
   {
@@ -770,7 +761,7 @@
     "chamber": "house",
     "party": "D",
     "district": "65",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/65",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_65.jpg"
   },
   {
@@ -824,7 +815,7 @@
     "chamber": "house",
     "party": "R",
     "district": "59",
-    "bioUrl": "https://assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/59",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_59.jpg"
   },
   {
@@ -833,7 +824,7 @@
     "chamber": "house",
     "party": "D",
     "district": "40",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/40",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_40.jpg"
   },
   {
@@ -860,7 +851,7 @@
     "chamber": "house",
     "party": "D",
     "district": "51",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers/51",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_51.jpg"
   },
   {
@@ -968,7 +959,7 @@
     "chamber": "house",
     "party": "D",
     "district": "10",
-    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
+    "bioUrl": "https://women.ca.gov/assemblymember-stephanie-nguyen",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_10.jpg"
   },
   {

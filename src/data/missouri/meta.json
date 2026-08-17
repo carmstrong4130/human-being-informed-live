@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T01:22:52.531Z",
+  "lastUpdated": "2026-08-17T10:07:01.331Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 192,
+    "legislators": 191,
     "committees": 78,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "Missouri General Assembly",
     "url": "https://www.moga.mo.gov"
   },
-  "lastUpdatedRoster": "2026-08-11T01:22:52.531Z"
+  "lastUpdatedRoster": "2026-08-17T10:07:01.331Z"
 }
