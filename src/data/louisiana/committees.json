@@ -307,7 +307,6 @@
     "chamber": "senate",
     "members": [
       "ocd-person/c89a156e-8426-4001-8364-94a179482d76",
-      "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
       "ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15",
       "ocd-person/7dac3861-2ffb-45ba-b690-a8e199eb2acd",
       "ocd-person/92439b80-4646-445b-939f-5414e309f183",
@@ -370,12 +369,12 @@
       "ocd-person/a8344aaa-aff7-42b3-b1a2-59539191fbb2",
       "ocd-person/cfe19d33-7048-4fb7-9d56-0fa0f5f985f5",
       "ocd-person/75f165af-66d1-464e-99b0-4176b8636501",
-      "ocd-person/addae848-cfaf-4637-a23e-595e45c6e14f",
+      "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
       "ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a",
       "ocd-person/379e9992-463c-4188-9702-668457a75c3d",
-      "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
       "ocd-person/ce11601e-9a67-48a1-9408-b80943312303",
       "ocd-person/acdaa5e6-3b22-44b9-8b47-480b801483dd",
+      "ocd-person/addae848-cfaf-4637-a23e-595e45c6e14f",
       "ocd-person/750a2868-c9b0-4124-95c7-3516f93ff087",
       "ocd-person/e49647e3-b5c3-4329-9472-27048115441c",
       "ocd-person/577fe2a3-275b-4b82-b508-c0ce29deb2fa"
@@ -584,7 +583,7 @@
     "name": "Judiciary B",
     "chamber": "senate",
     "members": [
-      "ocd-person/723f3444-f927-44b0-8659-7ac00370aa92",
+      "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
       "ocd-person/ce11601e-9a67-48a1-9408-b80943312303",
       "ocd-person/cfe19d33-7048-4fb7-9d56-0fa0f5f985f5",
       "ocd-person/f6f401f7-7fb4-40df-84a0-b5a3f0fe9ec2",
@@ -814,6 +813,7 @@
     "chamber": "legislature",
     "members": [
       "ocd-person/723f3444-f927-44b0-8659-7ac00370aa92",
+      "ocd-person/75f165af-66d1-464e-99b0-4176b8636501",
       "ocd-person/2ace9f60-8f90-43ab-a45d-d1c64bdb7462",
       "ocd-person/1899dc2e-bac6-4951-b3fc-87ea5e2d4969",
       "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
@@ -1008,7 +1008,6 @@
       "ocd-person/a8344aaa-aff7-42b3-b1a2-59539191fbb2",
       "ocd-person/fc43b9e1-5e0d-4767-a12e-b2e801444d22",
       "ocd-person/25923053-3679-443e-bbb1-e2f63a50585c",
-      "ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61",
       "ocd-person/dd47283c-c202-461f-b56a-8cc2c0b14f15",
       "ocd-person/0d1a7b74-9ed8-4d8c-a1fc-f2caafc3d364",
       "ocd-person/b6e8a5cf-ec5c-494b-b9ff-efa0fb92e1c1",
@@ -1017,8 +1016,8 @@
       "ocd-person/60ffe8d0-0469-4eca-a69a-deec93c203b3",
       "ocd-person/b4a4657a-e588-4036-9a0f-48847e22a140",
       "ocd-person/9d6aa1d9-76b2-41ad-a3e0-4fa86da08645",
-      "ocd-person/723f3444-f927-44b0-8659-7ac00370aa92",
-      "ocd-person/a5240587-95aa-4135-befc-de2ea2aa1d51"
+      "ocd-person/a5240587-95aa-4135-befc-de2ea2aa1d51",
+      "ocd-person/655ddc35-ecd0-4db2-a3fe-cd86f1cb7d61"
     ],
     "officialUrl": "https://www.legis.la.gov/legis/Committees.aspx?c=S"
   },
@@ -1031,8 +1030,8 @@
       "ocd-person/8574f94d-93ed-49b0-a5f6-aa1832b5542a",
       "ocd-person/25923053-3679-443e-bbb1-e2f63a50585c",
       "ocd-person/77166b5f-e299-431c-869d-ab2fff79cd33",
+      "ocd-person/e8c847e2-5ee6-4f9c-a4e4-d7d8daa8464c",
       "ocd-person/750a2868-c9b0-4124-95c7-3516f93ff087",
-      "ocd-person/723f3444-f927-44b0-8659-7ac00370aa92",
       "ocd-person/8710f3da-9aea-41a9-acd2-181377cc6ae7",
       "ocd-person/7d852e7a-ae99-4f89-b4c0-4d7cb7e816db",
       "ocd-person/fc43b9e1-5e0d-4767-a12e-b2e801444d22"

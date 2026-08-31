@@ -468,6 +468,15 @@
     "imageUrl": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/gdobervich2023.jpg?itok=zDWXbvGB"
   },
   {
+    "id": "ocd-person/b6b20b68-a6e2-4d3a-abf1-84a019c197d9",
+    "name": "Jamie Selzler",
+    "chamber": "senate",
+    "party": "D",
+    "district": "44",
+    "bioUrl": "https://jamieselzler.com",
+    "imageUrl": "https://demnpl.com/wp-content/uploads/2024/02/JamieS-4websitesquare-1.jpg"
+  },
+  {
     "id": "ocd-person/4a64529e-c299-4979-a564-909dc9f2edd2",
     "name": "Janne Myrdal",
     "chamber": "senate",
@@ -619,15 +628,6 @@
     "district": "40",
     "bioUrl": "https://ndlegis.gov/biography/jose-l-castaneda",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTIu5mvWkZ1XTWpTaME5yn0rBIdqWZN3EUtg&s"
-  },
-  {
-    "id": "ocd-person/50d67a3d-7267-4f21-93af-6827c45077f0",
-    "name": "Josh Boschee",
-    "chamber": "senate",
-    "party": "D",
-    "district": "44",
-    "bioUrl": "https://www.legis.nd.gov/assembly/65-2017/members/house/representative-joshua-a-boschee",
-    "imageUrl": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/jboschee2023.jpg?itok=dn-POEYf"
   },
   {
     "id": "ocd-person/75e58364-853b-4b08-b902-7c84deb98e4a",

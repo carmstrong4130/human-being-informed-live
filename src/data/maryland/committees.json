@@ -545,6 +545,15 @@
     "officialUrl": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=hlt"
   },
   {
+    "id": "ocd-organization/3b6cec9a-2380-4962-8f9e-43d272327e06",
+    "name": "Health Centralization Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/88aa2d42-9bca-4df7-b961-1516d5c1f73a"
+    ],
+    "officialUrl": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=cen"
+  },
+  {
     "id": "ocd-organization/711bc37c-a0ef-45f5-ae5e-dc48168adbaa",
     "name": "Judicial Proceedings",
     "chamber": "senate",
@@ -570,6 +579,7 @@
     "members": [
       "ocd-person/9fbc0383-4845-42ae-a2db-06b16c6f6728",
       "ocd-person/64b23008-9889-4fd1-9353-42888d9bc4bb",
+      "ocd-person/39fb5148-7e60-4df3-b538-3bee07dd8a68",
       "ocd-person/0ec36459-c974-4c63-8c06-5f268766dbc6",
       "ocd-person/0692b705-a577-4edb-9da0-8c828e2473ab",
       "ocd-person/cded392e-47da-4c74-998d-7276520db9ad",

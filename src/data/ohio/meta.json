@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:07:01.331Z",
+  "lastUpdated": "2026-08-31T16:11:41.052Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 132,
+    "legislators": 131,
     "committees": 61,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "Ohio General Assembly",
     "url": "https://www.legislature.ohio.gov"
   },
-  "lastUpdatedRoster": "2026-08-17T10:07:01.331Z"
+  "lastUpdatedRoster": "2026-08-31T16:11:41.052Z"
 }

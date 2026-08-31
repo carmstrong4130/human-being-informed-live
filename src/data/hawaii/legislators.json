@@ -117,6 +117,15 @@
     "imageUrl": null
   },
   {
+    "id": "ocd-person/f0a277d4-dbc5-4dfe-952b-bdee42260d39",
+    "name": "Danielle Bass",
+    "chamber": "senate",
+    "party": "D",
+    "district": "18",
+    "bioUrl": "https://www.capitol.hawaii.gov/legislature/memberpage.aspx?member=313",
+    "imageUrl": null
+  },
+  {
     "id": "ocd-person/76c9a0ff-a9f0-47ac-bf3d-9f8ee134c411",
     "name": "Darius Kila",
     "chamber": "house",

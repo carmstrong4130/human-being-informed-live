@@ -54,15 +54,6 @@
     "imageUrl": "https://www.arkleg.state.ar.us/Content/photos/2023/House/566_sm.jpg"
   },
   {
-    "id": "ocd-person/30ea7268-a48a-424e-aadf-007b61874985",
-    "name": "Austin McCollum",
-    "chamber": "house",
-    "party": "R",
-    "district": "8",
-    "bioUrl": "https://arkleg.state.ar.us/Legislators/Detail?member=McCollum",
-    "imageUrl": "https://www.arkleg.state.ar.us/Content/photos/2023/House/531_sm.jpg"
-  },
-  {
     "id": "ocd-person/0dee8795-58dd-48a8-980e-044d8d2ac646",
     "name": "Bart Hester",
     "chamber": "senate",
@@ -79,6 +70,15 @@
     "district": "28",
     "bioUrl": "https://arkleg.state.ar.us/Legislators/Detail?member=Schulz",
     "imageUrl": "https://www.arkleg.state.ar.us/Content/photos/2023/House/614_sm.jpg"
+  },
+  {
+    "id": "ocd-person/a9eb9004-ed2b-41b1-a51a-81e59790718f",
+    "name": "Bill Teeter",
+    "chamber": "house",
+    "party": "R",
+    "district": "44",
+    "bioUrl": "https://arkleg.state.ar.us/Legislators/Detail?member=Teeter",
+    "imageUrl": "https://static.wixstatic.com/media/1e7b93_82c600f3f8754e95b4320e4c18b3696b~mv2.jpg/v1/crop/x_134,y_594,w_1019,h_1171/fill/w_339,h_392,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6621_JPG.jpg"
   },
   {
     "id": "ocd-person/6bbe436a-67bc-4003-80eb-1ce79c52413f",

@@ -1148,9 +1148,9 @@
     "officialUrl": "https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=28&CteeBody=H"
   },
   {
-    "id": "ocd-organization/aecd4cdb-f596-4c8b-9a2d-548b843427d2",
+    "id": "ocd-organization/92cee94d-f000-4924-8ca5-fbb25b5b764e",
     "name": "Local Government",
-    "chamber": "legislature",
+    "chamber": "house",
     "members": [
       "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
       "ocd-person/1a6e36d3-ff44-4e21-bb9d-397a56482b34",
@@ -1179,7 +1179,7 @@
       "ocd-person/7f6b3c0e-4446-4243-ae49-d2d33ab30273",
       "ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08"
     ],
-    "officialUrl": "https://www.lgc.state.pa.us/index.cfm"
+    "officialUrl": "https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=30&CteeBody=H"
   },
   {
     "id": "ocd-organization/9c7389e6-49c0-41cb-8047-5da84b641f41",
@@ -1201,9 +1201,9 @@
     "officialUrl": "https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=15&CteeBody=S"
   },
   {
-    "id": "ocd-organization/92cee94d-f000-4924-8ca5-fbb25b5b764e",
+    "id": "ocd-organization/aecd4cdb-f596-4c8b-9a2d-548b843427d2",
     "name": "Local Government Commission",
-    "chamber": "house",
+    "chamber": "legislature",
     "members": [
       "ocd-person/5d3e2203-b11c-4471-8f35-5106c30263ec",
       "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
@@ -1216,7 +1216,7 @@
       "ocd-person/b5ff17d0-36e8-4f29-8c9b-e51bb9b3ea29",
       "ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f"
     ],
-    "officialUrl": "https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=30&CteeBody=H"
+    "officialUrl": "https://www.lgc.state.pa.us/index.cfm"
   },
   {
     "id": "ocd-organization/3d81840f-2992-4489-b5b5-dcf8d237400e",
@@ -1319,74 +1319,6 @@
     "officialUrl": "https://www.palegis.us/senate/committees/17/rules-and-executive-nominations"
   },
   {
-    "id": "ocd-organization/6340d100-eb9d-4e53-a8ad-a2091d0feffc",
-    "name": "State Government",
-    "chamber": "legislature",
-    "members": [
-      "ocd-person/cafbffed-be4d-4e5b-9d99-9aec024675e2",
-      "ocd-person/979ea568-4c43-41bd-ba1e-4c2da172bb82",
-      "ocd-person/68e26db9-10ba-414b-9d06-440dd1fd3f10",
-      "ocd-person/d18ccbd7-270a-46c2-8bbd-a19ea82d0e51",
-      "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
-      "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
-      "ocd-person/d881386d-8aad-45c7-8705-27f3288f20ea",
-      "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
-      "ocd-person/d5f1bbaf-5daf-4266-9b18-16042f49db1b",
-      "ocd-person/4657c161-af68-44a8-bd60-8b8e88e702d1",
-      "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
-      "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
-      "ocd-person/676410b6-c3aa-4c17-856f-7d896e6fbc83",
-      "ocd-person/0b0beeaf-a1b0-4049-95cb-4ad5a3952336",
-      "ocd-person/f451e90b-e93a-4768-a294-67d1ff000396",
-      "ocd-person/96711736-a47d-4bd6-bcc3-92297ec01516",
-      "ocd-person/2cb7688e-e8ea-431e-9f56-34ee9a9a3ecc",
-      "ocd-person/c7f76970-11d0-483e-81b4-b4750220932c",
-      "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
-      "ocd-person/c3ad9b17-c8f5-450e-9aaa-f002e1414bd5",
-      "ocd-person/5348e28d-bbbe-493f-8f77-a509cb315abe",
-      "ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415",
-      "ocd-person/8caab7df-f601-45f0-9be5-35d94175e766",
-      "ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29",
-      "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
-      "ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08"
-    ],
-    "officialUrl": "https://jsg.legis.state.pa.us"
-  },
-  {
-    "id": "ocd-organization/c8314237-bcf1-46ee-a38e-176baf1b31ec",
-    "name": "State Government",
-    "chamber": "house",
-    "members": [
-      "ocd-person/cafbffed-be4d-4e5b-9d99-9aec024675e2",
-      "ocd-person/979ea568-4c43-41bd-ba1e-4c2da172bb82",
-      "ocd-person/68e26db9-10ba-414b-9d06-440dd1fd3f10",
-      "ocd-person/d18ccbd7-270a-46c2-8bbd-a19ea82d0e51",
-      "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
-      "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
-      "ocd-person/d881386d-8aad-45c7-8705-27f3288f20ea",
-      "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
-      "ocd-person/d5f1bbaf-5daf-4266-9b18-16042f49db1b",
-      "ocd-person/4657c161-af68-44a8-bd60-8b8e88e702d1",
-      "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
-      "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
-      "ocd-person/676410b6-c3aa-4c17-856f-7d896e6fbc83",
-      "ocd-person/0b0beeaf-a1b0-4049-95cb-4ad5a3952336",
-      "ocd-person/f451e90b-e93a-4768-a294-67d1ff000396",
-      "ocd-person/96711736-a47d-4bd6-bcc3-92297ec01516",
-      "ocd-person/2cb7688e-e8ea-431e-9f56-34ee9a9a3ecc",
-      "ocd-person/c7f76970-11d0-483e-81b4-b4750220932c",
-      "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
-      "ocd-person/c3ad9b17-c8f5-450e-9aaa-f002e1414bd5",
-      "ocd-person/5348e28d-bbbe-493f-8f77-a509cb315abe",
-      "ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415",
-      "ocd-person/8caab7df-f601-45f0-9be5-35d94175e766",
-      "ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29",
-      "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
-      "ocd-person/1300735f-1441-4861-b20f-c1fa3e222c08"
-    ],
-    "officialUrl": "https://jsg.legis.state.pa.us"
-  },
-  {
     "id": "ocd-organization/4a05f531-2b82-4c40-8883-82916db509c9",
     "name": "State Government",
     "chamber": "senate",
@@ -1404,6 +1336,50 @@
       "ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de"
     ],
     "officialUrl": "https://www.legis.state.pa.us/cfdocs/CteeInfo/index.cfm?Code=41&CteeBody=S"
+  },
+  {
+    "id": "ocd-organization/6340d100-eb9d-4e53-a8ad-a2091d0feffc",
+    "name": "State Government Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/ee6b52c3-d92c-4cd6-a6ea-6869a8c93df0",
+      "ocd-person/865dbfc4-e6ec-400e-bd5c-257f9a947519",
+      "ocd-person/1951ae06-881a-4c43-9635-224878c3ecb5",
+      "ocd-person/722f324f-db47-4ce2-9cbc-93f29ae38158",
+      "ocd-person/c48a0179-5770-410d-ba97-bdbc05d20786",
+      "ocd-person/cb724e4a-0e5e-4ebd-ac0c-f3dfda73aef6",
+      "ocd-person/323c52e8-f841-4a0b-a49e-91103949fbc8",
+      "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
+      "ocd-person/a15da78b-2475-4606-854f-7477dfc4233d",
+      "ocd-person/fc1f0752-9166-4d7f-987a-ec15b8bf4048",
+      "ocd-person/a7b2e50f-90a6-4f35-b1fb-c33406dc4277",
+      "ocd-person/2c5551d6-71a8-4099-b1a4-a30721320869",
+      "ocd-person/f3b4fe8c-05f9-4610-81ef-354c0fcb0cdd",
+      "ocd-person/7b3a6244-335b-4407-957d-b7d6b6ab1d97"
+    ],
+    "officialUrl": "https://jsg.legis.state.pa.us"
+  },
+  {
+    "id": "ocd-organization/c8314237-bcf1-46ee-a38e-176baf1b31ec",
+    "name": "State Government Commission",
+    "chamber": "house",
+    "members": [
+      "ocd-person/ee6b52c3-d92c-4cd6-a6ea-6869a8c93df0",
+      "ocd-person/865dbfc4-e6ec-400e-bd5c-257f9a947519",
+      "ocd-person/1951ae06-881a-4c43-9635-224878c3ecb5",
+      "ocd-person/722f324f-db47-4ce2-9cbc-93f29ae38158",
+      "ocd-person/c48a0179-5770-410d-ba97-bdbc05d20786",
+      "ocd-person/cb724e4a-0e5e-4ebd-ac0c-f3dfda73aef6",
+      "ocd-person/323c52e8-f841-4a0b-a49e-91103949fbc8",
+      "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
+      "ocd-person/a15da78b-2475-4606-854f-7477dfc4233d",
+      "ocd-person/fc1f0752-9166-4d7f-987a-ec15b8bf4048",
+      "ocd-person/a7b2e50f-90a6-4f35-b1fb-c33406dc4277",
+      "ocd-person/2c5551d6-71a8-4099-b1a4-a30721320869",
+      "ocd-person/f3b4fe8c-05f9-4610-81ef-354c0fcb0cdd",
+      "ocd-person/7b3a6244-335b-4407-957d-b7d6b6ab1d97"
+    ],
+    "officialUrl": "https://jsg.legis.state.pa.us"
   },
   {
     "id": "ocd-organization/69158604-d70b-468b-aba5-4eaf43cccb6f",

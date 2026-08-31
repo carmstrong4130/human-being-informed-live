@@ -657,13 +657,13 @@
     "imageUrl": "https://www.legislature.ohio.gov/assets/people/kristina-d-roegner/headshots/thumbnails/medium/kristina-d-roegner-may-2023-headshot_medium.jpg"
   },
   {
-    "id": "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+    "id": "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
     "name": "Kyle Koehler",
     "chamber": "senate",
     "party": "R",
     "district": "10",
     "bioUrl": "https://ohiosenate.gov/members/kyle-koehler",
-    "imageUrl": "http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg"
+    "imageUrl": "https://img.legistorm.com/people/980/46980.jpg?rand=272124"
   },
   {
     "id": "ocd-person/b2c76bf8-569f-4e80-bd3d-fa8273a8356c",
@@ -844,15 +844,6 @@
     "district": "9",
     "bioUrl": "https://www.legislature.ohio.gov/legislators/house-directory",
     "imageUrl": "https://www.legislature.ohio.gov/assets/people/munira-abdullahi/headshots/thumbnails/medium/munira-yasin-abdullahi-february-2023-headshot_medium.jpg"
-  },
-  {
-    "id": "ocd-person/d3508136-3927-461f-a2f0-a85665845ab1",
-    "name": "Nathan Manning",
-    "chamber": "senate",
-    "party": "R",
-    "district": "13",
-    "bioUrl": "https://www.legislature.ohio.gov/legislators/senate-directory",
-    "imageUrl": "https://www.legislature.ohio.gov/assets/people/nathan-h-manning/headshots/thumbnails/medium/nathan-h-manning-may-2023-headshot_medium.jpg"
   },
   {
     "id": "ocd-person/64305698-f25c-486e-b57f-00298cfbe15d",

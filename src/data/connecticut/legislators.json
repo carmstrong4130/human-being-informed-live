@@ -504,6 +504,15 @@
     "imageUrl": "http://www2.housedems.ct.gov/Haddad/images/Haddad_19.jpg"
   },
   {
+    "id": "ocd-person/f0ce3c59-536e-4e79-9fe6-20eb59d66c06",
+    "name": "H\\xE9ctor Arzeno",
+    "chamber": "house",
+    "party": "D",
+    "district": "151",
+    "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
+    "imageUrl": null
+  },
+  {
     "id": "ocd-person/a648c360-3b9e-408d-ba2a-c171edada365",
     "name": "Heather Somers",
     "chamber": "senate",
@@ -511,15 +520,6 @@
     "district": "18",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S18%27&dist_name=Somers,%20Heather%20S.",
     "imageUrl": "https://ctsenaterepublicans.com/wp-content/uploads/2020/12/HeatherHeadshot-e1608139012865.jpg"
-  },
-  {
-    "id": "ocd-person/f0ce3c59-536e-4e79-9fe6-20eb59d66c06",
-    "name": "Hector Arzeno",
-    "chamber": "house",
-    "party": "D",
-    "district": "151",
-    "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
   },
   {
     "id": "ocd-person/ca8be710-988a-4415-bc37-6d3a92d1afcd",

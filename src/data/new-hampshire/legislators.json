@@ -1026,6 +1026,15 @@
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73218.jpg"
   },
   {
+    "id": "ocd-person/281c916b-4280-41ff-9ee1-ba183d838536",
+    "name": "Gary Daniels",
+    "chamber": "house",
+    "party": "R",
+    "district": "Hillsborough 43",
+    "bioUrl": "https://www.gencourt.state.nh.us/Senate/members/webpages/district11.aspx",
+    "imageUrl": "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg"
+  },
+  {
     "id": "ocd-person/26cadaaa-59d2-4c71-b23b-9f103dbd3e81",
     "name": "Gary Gilmore",
     "chamber": "house",
