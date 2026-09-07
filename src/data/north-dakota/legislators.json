@@ -473,7 +473,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "44",
-    "bioUrl": "https://jamieselzler.com",
+    "bioUrl": "https://ndlegis.gov/biography/jamie-selzler",
     "imageUrl": "https://demnpl.com/wp-content/uploads/2024/02/JamieS-4websitesquare-1.jpg"
   },
   {
@@ -916,6 +916,15 @@
     "district": "46",
     "bioUrl": "https://ndlegis.gov/biography/michelle-powers",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/620c3de64a803d6ee0289ebc/77db1b9d-8c96-49d6-9730-72bf488d1b28/Michelle+Powers+Headshot.jpg"
+  },
+  {
+    "id": "ocd-person/2e1bbdc9-a4e1-4ab2-953f-2e51910b7b58",
+    "name": "Mike Beltz",
+    "chamber": "house",
+    "party": "R",
+    "district": "20",
+    "bioUrl": "https://www.legis.nd.gov/assembly/67-2021/members/house/representative-mike-beltz",
+    "imageUrl": "https://www.ndlegis.gov/sites/default/files/styles/member_list_photo/public/person/photo/mbeltz2023.jpg?itok=VV6jACpR"
   },
   {
     "id": "ocd-person/00959142-f06a-4e5d-aab2-21abfd9aa261",

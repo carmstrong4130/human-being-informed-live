@@ -171,15 +171,6 @@
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Bob_Brinson.jpg"
   },
   {
-    "id": "ocd-person/8911db0d-01aa-4e61-a0f5-727d07a5d232",
-    "name": "Bobby Hanig",
-    "chamber": "senate",
-    "party": "R",
-    "district": "1",
-    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/435",
-    "imageUrl": "https://www.ncleg.gov/Members/MemberImage/S/435/Low"
-  },
-  {
     "id": "ocd-person/dfacde1f-3324-4ebe-bc96-ae473548e951",
     "name": "Brad Overcash",
     "chamber": "senate",

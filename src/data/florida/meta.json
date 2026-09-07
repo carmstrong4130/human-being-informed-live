@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T16:11:41.052Z",
+  "lastUpdated": "2026-09-07T14:16:50.254Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 157,
+    "legislators": 155,
     "committees": 36,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "Florida Legislature",
     "url": "https://www.leg.state.fl.us"
   },
-  "lastUpdatedRoster": "2026-08-31T16:11:41.052Z"
+  "lastUpdatedRoster": "2026-09-07T14:16:50.254Z"
 }

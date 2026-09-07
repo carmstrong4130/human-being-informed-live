@@ -72,7 +72,7 @@
     "chamber": "senate",
     "members": [
       "ocd-person/01a80305-a667-4dda-9676-1e678bddde12",
-      "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+      "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
       "ocd-person/3329274c-22b6-4b0a-b12a-e64c5733bef9",
       "ocd-person/debec71d-fcfb-4422-9c9e-c6a8709cbb3a",
       "ocd-person/2d01ff0c-25a8-49a2-b571-ab3a7866fcf2",
@@ -289,7 +289,7 @@
       "ocd-person/94ba65dd-57c5-4ab0-b607-5e310d50cae0",
       "ocd-person/6a1fc3b1-ebfd-47b7-adec-ddcd84d137c9",
       "ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f",
-      "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+      "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
       "ocd-person/b21d9dcd-21e9-4071-936d-f89fc5d8f643"
     ],
     "officialUrl": "https://ohiosenate.gov/committees/education"
@@ -613,7 +613,7 @@
       "ocd-person/10733ff7-ee19-4e86-9b5e-65619ddbf7bf",
       "ocd-person/d7949531-f267-4e99-9611-87b3ec3e04ac",
       "ocd-person/b27fdceb-e9c1-46b8-9fc2-323c3f6f784c",
-      "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148"
+      "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5"
     ],
     "officialUrl": "https://ohiosenate.gov/committees/workforce-and-higher-education"
   },
@@ -679,12 +679,13 @@
     "name": "Judiciary",
     "chamber": "senate",
     "members": [
+      "ocd-person/0fe32749-fe89-4f96-87d3-3d831bea2459",
       "ocd-person/79af20c0-6eb6-44a2-ba79-9c7e5e10ea04",
       "ocd-person/3329274c-22b6-4b0a-b12a-e64c5733bef9",
       "ocd-person/6a1fc3b1-ebfd-47b7-adec-ddcd84d137c9",
       "ocd-person/5a9b2a16-6827-4e00-961a-f3de39538749",
-      "ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f",
-      "ocd-person/0fe32749-fe89-4f96-87d3-3d831bea2459"
+      "ocd-person/c3b1dc5e-4913-4e2f-b2a8-4db5b3faa1bd",
+      "ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f"
     ],
     "officialUrl": "https://ohiosenate.gov/committees/judiciary"
   },
@@ -758,7 +759,7 @@
       "ocd-person/0fe32749-fe89-4f96-87d3-3d831bea2459",
       "ocd-person/d9c3dfce-8b7f-402f-9dec-5179e38b528f",
       "ocd-person/debec71d-fcfb-4422-9c9e-c6a8709cbb3a",
-      "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+      "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
       "ocd-person/3329274c-22b6-4b0a-b12a-e64c5733bef9",
       "ocd-person/bb1ae016-cdfe-48aa-8bc5-9e3636e430f3"
     ],
@@ -1027,7 +1028,7 @@
     "chamber": "legislature",
     "members": [
       "ocd-person/64305698-f25c-486e-b57f-00298cfbe15d",
-      "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+      "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
       "ocd-person/debec71d-fcfb-4422-9c9e-c6a8709cbb3a",
       "ocd-person/de0a6483-7c16-43e1-a76b-c0cc98a9d7ed",
       "ocd-person/bdc3493a-a22f-4a6b-b50e-b590216d8cfd",
@@ -1175,7 +1176,7 @@
     "name": "Workforce Development",
     "chamber": "senate",
     "members": [
-      "ocd-person/9578948b-5af3-46fd-9567-8438c67fa148",
+      "ocd-person/f2e79c7c-7e3a-496d-8f87-d43b62eb54a5",
       "ocd-person/79af20c0-6eb6-44a2-ba79-9c7e5e10ea04",
       "ocd-person/94ba65dd-57c5-4ab0-b607-5e310d50cae0",
       "ocd-person/445d3fc7-d9a5-48d8-8869-f023aa274ae7",

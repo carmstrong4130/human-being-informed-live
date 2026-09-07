@@ -213,7 +213,7 @@
     "party": "R",
     "district": "19",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=55&legislator=2053",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/GRIFFIN.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/GRIFFIN.jpg"
   },
   {
     "id": "ocd-person/a739b3e9-8161-4b10-b007-3d1e90de791f",
@@ -267,7 +267,7 @@
     "party": "D",
     "district": "8",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2357",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JaneenConnolly2024.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CONNOLLY.jpg"
   },
   {
     "id": "ocd-person/de8a5959-6572-44a9-bea5-ed73c27dd0ce",
@@ -294,7 +294,7 @@
     "party": "R",
     "district": "3",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=55&legislator=2056",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/KAVANAGH.jpg"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/KAVANAGH.jpg"
   },
   {
     "id": "ocd-person/d19ab410-5bc3-4160-b279-765e25d959ab",
@@ -303,7 +303,7 @@
     "party": "R",
     "district": "13",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2270",
-    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/56leg/House/WILLOUGHBY.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/WILLOUGHBY.jpg"
   },
   {
     "id": "ocd-person/94895484-6eda-42d7-823b-a4eab17071e8",
@@ -321,7 +321,7 @@
     "party": "R",
     "district": "10",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=57&legislator=2359",
-    "imageUrl": "http://www.azleg.gov/alisImages/MemberPhotos/51leg/House/OLSON.gif"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/OLSON.jpg"
   },
   {
     "id": "ocd-person/2706e746-45b7-4586-8d06-8b80e99d3869",
@@ -375,7 +375,7 @@
     "party": "D",
     "district": "8",
     "bioUrl": "https://www.azleg.gov/senate-member/?legislature=57&legislator=2390",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/LaurenKuby24.jpg"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/KUBY.jpg"
   },
   {
     "id": "ocd-person/45d0b998-57ed-4c6f-ae22-bdbc4262f3e3",
@@ -420,7 +420,7 @@
     "party": "D",
     "district": "9",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2206",
-    "imageUrl": "https://thestoryexchange.org/app/uploads/2022/08/Lorena-Austin.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/AUSTIN.jpg"
   },
   {
     "id": "ocd-person/095a6754-d7ca-4f1f-b562-974d92e7eb3c",
@@ -483,7 +483,7 @@
     "party": "R",
     "district": "4",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2163",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattGress.png"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/GRESS.jpg"
   },
   {
     "id": "ocd-person/8db06598-a7e1-4b25-9e76-6a2be0d9eae3",
@@ -573,7 +573,7 @@
     "party": "R",
     "district": "4",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2354",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/PamelaCarter2024.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CARTER_P.jpg"
   },
   {
     "id": "ocd-person/61dc96d8-140a-4042-b832-ac51bf0796f3",
@@ -582,7 +582,7 @@
     "party": "D",
     "district": "12",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2157",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Patty_Contreras.jpeg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CONTRERAS_P.jpg"
   },
   {
     "id": "ocd-person/7ff01dde-5112-436f-a267-dd7a7f91ec9b",
@@ -609,7 +609,7 @@
     "party": "D",
     "district": "26",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2272",
-    "imageUrl": "https://static.wixstatic.com/media/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg/v1/fill/w_925,h_1156,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/adaad5_bffecd22c43440d18ef9083b2464b1fd~mv2.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/CREWS.jpg"
   },
   {
     "id": "ocd-person/11b313a8-0f20-4d81-8060-4ec7e65f1a29",
@@ -627,7 +627,7 @@
     "party": "R",
     "district": "10",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=57&session=129&legislator=2360",
-    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Ralph_Heap.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/HEAP.jpg"
   },
   {
     "id": "ocd-person/6de57177-1b9e-4864-bb87-97c528842030",
@@ -636,7 +636,7 @@
     "party": "D",
     "district": "21",
     "bioUrl": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/GABALD%C3%93N.gif"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GABALD%C3%93N.jpg"
   },
   {
     "id": "ocd-person/3c965e03-1e51-4f10-a037-4fb2f35292c5",
@@ -672,7 +672,7 @@
     "party": "D",
     "district": "9",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=56&session=127&legislator=2148",
-    "imageUrl": "https://cdn.runforsomething.net/candidates/2020/w9466-blattman.jpg"
+    "imageUrl": "https://azleg.gov/alisImages/MemberPhotos/57leg/House/BLATTMAN.jpg"
   },
   {
     "id": "ocd-person/355be281-2f88-4108-b894-62c54b67fba3",
@@ -681,7 +681,7 @@
     "party": "R",
     "district": "2",
     "bioUrl": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/BOLICK.jpg"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/BOLICK.jpg"
   },
   {
     "id": "ocd-person/7bd58fc8-e6df-4091-86c6-c64f54b96c35",
@@ -735,7 +735,7 @@
     "party": "R",
     "district": "16",
     "bioUrl": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1871",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/54leg/House/SHOPE.png"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/SHOPE.jpg"
   },
   {
     "id": "ocd-person/0fa874b7-acab-4f29-b800-56bd54f375fe",
@@ -762,7 +762,7 @@
     "party": "R",
     "district": "25",
     "bioUrl": "https://www.azleg.gov/house-member/?legislature=55&legislator=2031",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/House/DUNN.jpg"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/DUNN.jpg"
   },
   {
     "id": "ocd-person/ec93f89c-d32f-4f34-bbe9-1aeb8305a065",
@@ -780,7 +780,7 @@
     "party": "R",
     "district": "17",
     "bioUrl": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1965",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/LEACH.jpg"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/LEACH.jpg"
   },
   {
     "id": "ocd-person/d4068bfb-d487-4fde-b36e-7db0ac5cae38",
@@ -807,6 +807,6 @@
     "party": "R",
     "district": "7",
     "bioUrl": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1960",
-    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/ROGERS.jpg"
+    "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/ROGERS.jpg"
   }
 ]

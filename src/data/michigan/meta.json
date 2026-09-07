@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:07:01.331Z",
+  "lastUpdated": "2026-09-07T14:16:50.254Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 148,
-    "committees": 48,
+    "committees": 49,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "Michigan Legislature",
     "url": "https://www.legislature.mi.gov"
   },
-  "lastUpdatedRoster": "2026-08-17T10:07:01.331Z"
+  "lastUpdatedRoster": "2026-09-07T14:16:50.254Z"
 }

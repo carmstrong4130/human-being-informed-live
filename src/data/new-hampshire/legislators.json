@@ -423,15 +423,6 @@
     "imageUrl": "https://img.youtube.com/vi/47TkmRoel30/hqdefault.jpg"
   },
   {
-    "id": "ocd-person/643751f4-6db0-4021-bf76-b8f2483d640d",
-    "name": "Charlie St. Clair",
-    "chamber": "house",
-    "party": "D",
-    "district": "Belknap 5",
-    "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=8956",
-    "imageUrl": "https://images.dailykos.com/images/448207/story_image/Charlie_St._Clair.jpg?1505263188"
-  },
-  {
     "id": "ocd-person/7eb393f4-db93-4fbd-95bc-3491d9a6ca93",
     "name": "Chris Herbert",
     "chamber": "house",
@@ -1773,15 +1764,6 @@
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/73176.jpg"
   },
   {
-    "id": "ocd-person/79bb2147-ea4b-4706-8b38-ee2309613ea0",
-    "name": "Kate Murray",
-    "chamber": "house",
-    "party": "D",
-    "district": "Rockingham 22",
-    "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
-    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/59307.jpg"
-  },
-  {
     "id": "ocd-person/b7d43cab-3399-4022-a2a4-9415937b3daa",
     "name": "Katelyn Kuttab",
     "chamber": "house",
@@ -2400,7 +2382,7 @@
     "party": "R",
     "district": "Rockingham 30",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11420",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Matt_Sabourin_dit_Choiniere_by_Gage_Skidmore.jpg/220px-Matt_Sabourin_dit_Choiniere_by_Gage_Skidmore.jpg"
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/MattSabourin2024.JPG"
   },
   {
     "id": "ocd-person/61d2e8f3-f2b9-4357-81af-fe982ee1821f",
@@ -2805,7 +2787,7 @@
     "party": "D",
     "district": "Cheshire 3",
     "bioUrl": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10749",
-    "imageUrl": "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/c/45/c457ee2b-e565-5b59-b3ae-0c2e9b900599/6352dd6e9dda8.image.jpg"
+    "imageUrl": "https://cheshiredemocrats.org/wp-content/uploads/2022/08/philjonespic-300x200.jpg"
   },
   {
     "id": "ocd-person/19404ada-b556-4609-9814-f19db9c0a0ad",
@@ -3402,15 +3384,6 @@
     "imageUrl": "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/candidate-images/tkaczynskisth22.jpg"
   },
   {
-    "id": "ocd-person/077af83c-d03f-45d9-8bcd-28574d9422c0",
-    "name": "Thomas Oppel",
-    "chamber": "house",
-    "party": "D",
-    "district": "Grafton 9",
-    "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11182",
-    "imageUrl": "https://www.nhnonprofits.org/sites/default/files/profile-photos/consultants/ThomasPOppel%20Close%20Up.jpeg"
-  },
-  {
     "id": "ocd-person/e325954b-c90e-4b1e-aadb-3f5cc7ec1671",
     "name": "Thomas Walsh",
     "chamber": "house",
@@ -3418,15 +3391,6 @@
     "district": "Merrimack 10",
     "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/49464.jpg"
-  },
-  {
-    "id": "ocd-person/5b26425f-330d-458b-b8f6-b6a2b1997b41",
-    "name": "Tim Hartnett",
-    "chamber": "house",
-    "party": "D",
-    "district": "Hillsborough 41",
-    "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11220",
-    "imageUrl": "https://www.citizenscount.org/sites/default/files/2024-09/tim-hartnett.jpg"
   },
   {
     "id": "ocd-person/5330ad05-ce69-47c0-9093-6286233c7a7d",
