@@ -635,7 +635,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "21",
-    "bioUrl": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1956",
+    "bioUrl": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1867",
     "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/GABALD%C3%93N.jpg"
   },
   {
@@ -680,7 +680,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "2",
-    "bioUrl": "https://www.azleg.gov/senate-member/?legislature=56&legislator=2273",
+    "bioUrl": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1905",
     "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/57leg/Senate/BOLICK.jpg"
   },
   {
@@ -797,7 +797,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "14",
-    "bioUrl": "https://www.azleg.gov/senate-member/?legislature=55&legislator=1966",
+    "bioUrl": "https://www.azleg.gov/House/House-member/?legislature=54&session=122&legislator=1914",
     "imageUrl": "https://www.azleg.gov/alisImages/MemberPhotos/55leg/Senate/PETERSEN.jpg"
   },
   {

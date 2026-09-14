@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:07:01.331Z",
+  "lastUpdated": "2026-09-14T15:03:18.147Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 90,
-    "committees": 52,
+    "committees": 51,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "Oregon Legislative Assembly",
     "url": "https://www.oregonlegislature.gov"
   },
-  "lastUpdatedRoster": "2026-08-17T10:07:01.331Z"
+  "lastUpdatedRoster": "2026-09-14T15:03:18.147Z"
 }
