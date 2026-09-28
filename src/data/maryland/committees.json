@@ -139,13 +139,15 @@
     "name": "Committee on Children, Youth and Families",
     "chamber": "legislature",
     "members": [
+      "ocd-person/4edadbc3-1635-4ce9-9b8c-1220f07e7b23",
       "ocd-person/72a5c405-0523-4ea4-9029-024c49d76cb3",
+      "ocd-person/5037901c-64bd-472c-a440-a440841cbb13",
       "ocd-person/76812cdb-3d6d-458a-b864-feb72f363a8e",
       "ocd-person/c5a06a0d-f611-4526-8674-23e035caab74",
       "ocd-person/d8938e62-87cd-420e-a009-f78a418ed138",
+      "ocd-person/d0ca1dc9-5ac3-42ea-8ec5-c86a229ccba5",
       "ocd-person/a111b899-ab75-4934-a6e9-a9c8be9bc70d",
       "ocd-person/cbf6aefa-a6aa-4de5-9237-d1c34e5c4930",
-      "ocd-person/4edadbc3-1635-4ce9-9b8c-1220f07e7b23",
       "ocd-person/0218a7f4-9904-426e-b676-be22eb714185",
       "ocd-person/a5a952f8-f001-4619-9056-103a1f4e4d8e",
       "ocd-person/0b93e4f5-9d81-4c35-a9d3-04ad1375bae9",
@@ -635,6 +637,20 @@
       "ocd-person/6e1c09ac-57e7-4a54-bd83-74905670ad7f"
     ],
     "officialUrl": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=lpc"
+  },
+  {
+    "id": "ocd-organization/dccfec83-f516-48ea-a846-fa47d1d418b7",
+    "name": "Maryland Health Insurance Coverage Protection Commission",
+    "chamber": "legislature",
+    "members": [
+      "ocd-person/de3cab57-1771-4805-b984-618ad887e38e",
+      "ocd-person/be00c352-4825-4b80-97cd-954097e3a482",
+      "ocd-person/b002bdd1-0622-4462-8623-e8bb52fde504",
+      "ocd-person/84e203b4-277c-4e10-aeb3-a80158bdf525",
+      "ocd-person/9ec0fe7d-36ae-437b-9bcf-754da8e4e247",
+      "ocd-person/d8ab28c1-cdd0-4bef-80a6-9712887594b0"
+    ],
+    "officialUrl": "https://mgaleg.maryland.gov/mgawebsite/Committees/Details?cmte=HIP"
   },
   {
     "id": "ocd-organization/0f6f4813-b639-40fe-89f4-82a4e33973c6",

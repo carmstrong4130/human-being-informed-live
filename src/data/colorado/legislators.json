@@ -549,15 +549,6 @@
     "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFpUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16f693f706022e86e268da5a37a9a93ff4aef1ba/Lindsay,%20Mandy.jpg"
   },
   {
-    "id": "ocd-person/ce4bd827-c1bc-4736-a580-f4f0215e727d",
-    "name": "Manny Rutinel",
-    "chamber": "house",
-    "party": "D",
-    "district": "32",
-    "bioUrl": "https://leg.colorado.gov/legislators/manny-rutinel",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelZUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef4c74094f42d481f610cc35459aa4ca3a78b6eb/Rutinel,%20Manny.jpg"
-  },
-  {
     "id": "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
     "name": "Marc Catlin",
     "chamber": "senate",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T16:11:41.052Z",
+  "lastUpdated": "2026-09-28T16:47:16.387Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 177,
-    "committees": 81,
+    "committees": 82,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "Illinois General Assembly",
     "url": "https://www.ilga.gov"
   },
-  "lastUpdatedRoster": "2026-08-31T16:11:41.052Z"
+  "lastUpdatedRoster": "2026-09-28T16:47:16.387Z"
 }

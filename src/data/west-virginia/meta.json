@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T16:11:41.052Z",
+  "lastUpdated": "2026-09-28T16:47:16.387Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 133,
+    "legislators": 134,
     "committees": 52,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "West Virginia Legislature",
     "url": "https://www.wvlegislature.gov"
   },
-  "lastUpdatedRoster": "2026-08-31T16:11:41.052Z"
+  "lastUpdatedRoster": "2026-09-28T16:47:16.387Z"
 }

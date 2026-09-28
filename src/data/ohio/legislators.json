@@ -113,7 +113,7 @@
     "chamber": "house",
     "party": "D",
     "district": "4",
-    "bioUrl": "https://ohiohouse.gov/members/beryl-piccolantonio",
+    "bioUrl": "https://ohiohouse.gov/members/beryl-brown-piccolantonio",
     "imageUrl": null
   },
   {
@@ -988,15 +988,6 @@
     "district": "17",
     "bioUrl": "https://www.legislature.ohio.gov/legislators/senate-directory",
     "imageUrl": "https://www.legislature.ohio.gov/assets/people/shane-wilkin/headshots/thumbnails/medium/shane-wilkin-may-2023-headshot_medium.jpg"
-  },
-  {
-    "id": "ocd-person/352d7ee9-256c-4195-a673-17b7ee200948",
-    "name": "Sharon Ray",
-    "chamber": "house",
-    "party": "R",
-    "district": "66",
-    "bioUrl": "https://www.legislature.ohio.gov/legislators/house-directory",
-    "imageUrl": "https://www.legislature.ohio.gov/assets/people/sharon-a-ray/headshots/thumbnails/medium/sharon-a-ray-january-2021-headshot_medium.jpg"
   },
   {
     "id": "ocd-person/854b6ce3-a4e1-46db-959a-aa286e4e8942",

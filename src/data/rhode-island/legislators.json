@@ -522,15 +522,6 @@
     "imageUrl": "http://www.rilegislature.gov/representatives/Pictures/Giraldo.jpg"
   },
   {
-    "id": "ocd-person/6e1cd170-ab5c-4095-9fb2-8e92138f6db3",
-    "name": "Julie Casimiro",
-    "chamber": "house",
-    "party": "D",
-    "district": "31",
-    "bioUrl": "https://www.rilegislature.gov/representatives/carson/default.aspx",
-    "imageUrl": "http://www.rilegislature.gov/representatives/Pictures/casimiro.jpg"
-  },
-  {
     "id": "ocd-person/9386224e-9603-4695-8f46-a1033d8534a5",
     "name": "June Speakman",
     "chamber": "house",

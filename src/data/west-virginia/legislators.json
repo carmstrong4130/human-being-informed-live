@@ -126,6 +126,15 @@
     "imageUrl": "https://www.wvlegislature.gov/images/members/2024/house/roop_carl.jpg"
   },
   {
+    "id": "ocd-person/a49643ec-8dac-4464-8658-1cf68602be17",
+    "name": "Bill Vest",
+    "chamber": "house",
+    "party": "R",
+    "district": "50",
+    "bioUrl": "https://www.wvlegislature.gov/House/lawmaker.cfm?member=Delegate%20Vest",
+    "imageUrl": "https://www.wvlegislature.gov/images/members/2025/house/vest_william.jpg"
+  },
+  {
     "id": "ocd-person/a70a295b-82a5-44a0-ba22-a462823f7abb",
     "name": "Bob Fehrenbacher",
     "chamber": "house",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T15:03:18.147Z",
+  "lastUpdated": "2026-09-28T16:47:16.387Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 188,
-    "committees": 42,
+    "committees": 43,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "Maryland General Assembly",
     "url": "https://mgaleg.maryland.gov"
   },
-  "lastUpdatedRoster": "2026-09-14T15:03:18.147Z"
+  "lastUpdatedRoster": "2026-09-28T16:47:16.387Z"
 }

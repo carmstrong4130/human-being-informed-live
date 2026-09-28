@@ -42,7 +42,7 @@
     "party": "R",
     "district": "68",
     "bioUrl": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H68",
-    "imageUrl": "https://www.cmcss.net/wp-content/uploads/elementor/thumbs/L10A9877-2-scaled-qx0h1ahjmd2n4yug9v0d3onejmbo99kwtpl6ybvbxo.jpg"
+    "imageUrl": "https://votemaberry.com/wp-content/uploads/2024/11/AronMaberryHomeBackground2-3.jpg"
   },
   {
     "id": "ocd-person/5110ee0d-fc68-4126-8ff2-7db3814afe66",
@@ -520,15 +520,6 @@
     "district": "69",
     "bioUrl": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H69",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jody-Barrett.PNG"
-  },
-  {
-    "id": "ocd-person/7a3177a1-118c-48ce-bbb8-17ebb1240e00",
-    "name": "Joe Towns",
-    "chamber": "house",
-    "party": "D",
-    "district": "84",
-    "bioUrl": "https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=H84",
-    "imageUrl": "http://www.capitol.tn.gov/house/members/images/h84.jpg"
   },
   {
     "id": "ocd-person/fccb09fc-b331-4bba-8b84-fbd4ab3e3227",

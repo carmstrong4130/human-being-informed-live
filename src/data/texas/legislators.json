@@ -271,7 +271,7 @@
   },
   {
     "id": "ocd-person/5c40c2b0-07c1-4c73-b15b-14d0ef6df40e",
-    "name": "Caroline Fairly",
+    "name": "Caroline Dunmoyer",
     "chamber": "house",
     "party": "R",
     "district": "87",
@@ -592,15 +592,6 @@
     "district": "28",
     "bioUrl": "https://house.texas.gov/members/3920",
     "imageUrl": "https://house.texas.gov/images/members/3920.jpg?v=1"
-  },
-  {
-    "id": "ocd-person/26617394-4276-4aa7-878c-d20552b260a4",
-    "name": "Gary VanDeaver",
-    "chamber": "house",
-    "party": "R",
-    "district": "1",
-    "bioUrl": "https://house.texas.gov/members/2540",
-    "imageUrl": "https://house.texas.gov/images/members/2540.jpg?v=1"
   },
   {
     "id": "ocd-person/5556a81a-eca2-451d-bb29-74cfb00d1959",

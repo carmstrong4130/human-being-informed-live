@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T14:16:50.254Z",
+  "lastUpdated": "2026-09-28T16:47:16.387Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 133,
+    "legislators": 132,
     "committees": 41,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "Arkansas General Assembly",
     "url": "https://www.arkleg.state.ar.us"
   },
-  "lastUpdatedRoster": "2026-09-07T14:16:50.254Z"
+  "lastUpdatedRoster": "2026-09-28T16:47:16.387Z"
 }

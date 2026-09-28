@@ -2484,15 +2484,6 @@
     "imageUrl": "https://www.citizenscount.org/sites/default/files/styles/profile_140x176/public/2022-09/michael-granger.jpg"
   },
   {
-    "id": "ocd-person/1aa8819a-e1bd-4569-93ec-305ad61e8ea4",
-    "name": "Michael Vose",
-    "chamber": "house",
-    "party": "R",
-    "district": "Rockingham 5",
-    "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
-    "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/61167.jpg"
-  },
-  {
     "id": "ocd-person/75ad73cd-6591-4a64-9f6b-7558bbaf3689",
     "name": "Mike Belcher",
     "chamber": "house",

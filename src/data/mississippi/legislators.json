@@ -810,15 +810,6 @@
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/80182230_83452a1c-4a99-4e85-9c86-d12418dab31b.jpeg"
   },
   {
-    "id": "ocd-person/fcb35ef2-7463-4f8a-9a8a-3bc45b235ecb",
-    "name": "Juan Barnett",
-    "chamber": "senate",
-    "party": "D",
-    "district": "34",
-    "bioUrl": "https://billstatus.ls.state.ms.us/members/senate/barnett.xml",
-    "imageUrl": "https://static.votesmart.org/static/canphoto/156222.jpg"
-  },
-  {
     "id": "ocd-person/2289ffac-b812-4f76-89a8-d8e77df4de2c",
     "name": "Justin Crosby",
     "chamber": "house",
@@ -1365,7 +1356,7 @@
     "party": "R",
     "district": "86",
     "bioUrl": "https://billstatus.ls.state.ms.us/members/house/barnett.xml",
-    "imageUrl": "https://images.squarespace-cdn.com/content/v1/5472abbae4b0859145039552/1519227639852-W83BICPBB7LGL856WGBQ/Shane.jpg?format=500w"
+    "imageUrl": "https://billstatus.ls.state.ms.us/members/house/barnett.jpg"
   },
   {
     "id": "ocd-person/4b5fb3d4-b284-4886-bb0b-4c00febb1724",

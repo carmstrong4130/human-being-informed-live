@@ -1,14 +1,5 @@
 [
   {
-    "id": "ocd-person/ba6eb394-0402-49ba-9917-c5618d8a1589",
-    "name": "Aaron Crossley",
-    "chamber": "house",
-    "party": "D",
-    "district": "29",
-    "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=29",
-    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2366"
-  },
-  {
     "id": "ocd-person/f436aa10-c006-4128-9748-050bf50c4e21",
     "name": "Adam Schnelting",
     "chamber": "senate",
@@ -549,15 +540,6 @@
     "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2400"
   },
   {
-    "id": "ocd-person/914b9a95-6dd2-4d1d-8dc4-eed597b02e53",
-    "name": "Dirk Deaton",
-    "chamber": "house",
-    "party": "R",
-    "district": "159",
-    "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=159",
-    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2090"
-  },
-  {
     "id": "ocd-person/af64f0a2-f3ff-4c6d-b24f-62c3941d1da4",
     "name": "Don Mayhew",
     "chamber": "house",
@@ -673,15 +655,6 @@
     "district": "88",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=088",
     "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2388"
-  },
-  {
-    "id": "ocd-person/b93bdb73-001b-43ed-a436-99ad2efe4937",
-    "name": "Ian Mackey",
-    "chamber": "house",
-    "party": "D",
-    "district": "99",
-    "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=099",
-    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2080"
   },
   {
     "id": "ocd-person/b7335950-e605-45b7-9c64-1e725315deca",

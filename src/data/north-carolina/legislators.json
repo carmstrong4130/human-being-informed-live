@@ -720,6 +720,15 @@
     "imageUrl": "https://www.ncleg.gov/Members/MemberImage/H/820/Low"
   },
   {
+    "id": "ocd-person/de679003-a07a-4f53-bb87-fd9bab0af532",
+    "name": "Jerry Tillett",
+    "chamber": "senate",
+    "party": "R",
+    "district": "1",
+    "bioUrl": "https://www.ncleg.gov/Members/Biography/S/1003",
+    "imageUrl": "https://tillettforsenate.com/wp-content/uploads/2025/11/1-scaled-450x450.jpg"
+  },
+  {
     "id": "ocd-person/9793e1e4-641c-4a5c-b1bc-7f6d0a65a655",
     "name": "Jim Burgin",
     "chamber": "senate",
