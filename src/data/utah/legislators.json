@@ -135,15 +135,6 @@
     "imageUrl": "/legislators/DEFAYA.jpg"
   },
   {
-    "id": "LEETA",
-    "name": "Trevor Lee",
-    "chamber": "house",
-    "party": "R",
-    "district": "16",
-    "bioUrl": "https://house.utleg.gov/rep/LEETA/",
-    "imageUrl": "/legislators/LEETA.jpg"
-  },
-  {
     "id": "BARLOSE",
     "name": "Stewart E. Barlow",
     "chamber": "house",
