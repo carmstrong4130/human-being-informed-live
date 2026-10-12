@@ -15,7 +15,7 @@
     "party": "D",
     "district": "74",
     "bioUrl": "https://www.rilegislature.gov/representatives/finkelman/Pages/biography.aspx",
-    "imageUrl": "https://www.rilegislature.gov/representatives/Pictures/Alex%20Finkelman.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7769ff96-3f6e-4747-b14b-de0a8648af61",
@@ -77,7 +77,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "18",
-    "bioUrl": "https://www.rilegislature.gov/senators/britor/Pages/Biography.aspx",
+    "bioUrl": "https://www.rilegislature.gov/senators/britto/Pages/Biography.aspx",
     "imageUrl": "https://www.rilegislature.gov/senators/Pictures/Britto%202023.jpg"
   },
   {
@@ -114,7 +114,7 @@
     "party": "D",
     "district": "57",
     "bioUrl": "https://www.rilegislature.gov/representatives/voas/pages/biography.aspx",
-    "imageUrl": "https://www.rilegislature.gov/representatives/Pictures/Brandon%20Voas.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/632b3bf0-a3f8-4c0d-9818-d03c861318dc",
@@ -177,7 +177,7 @@
     "party": "D",
     "district": "58",
     "bioUrl": "https://www.rilegislature.gov/representatives/cruz/Pages/Biography.aspx",
-    "imageUrl": "https://www.rilegislature.gov/representatives/Pictures/Cruz%20preferred%20pic.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a9ba95ac-22f3-4aeb-8fdd-eb236675d8d4",
@@ -960,7 +960,7 @@
     "party": "D",
     "district": "36",
     "bioUrl": "https://www.rilegislature.gov/representatives/spears/pages/biography.aspx",
-    "imageUrl": "https://www.rilegislature.gov/representatives/Pictures/Tina%20Spears.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/9f4a0209-d8b0-42e5-9217-d4fd2f0d67e6",

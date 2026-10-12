@@ -141,7 +141,7 @@
     "party": "R",
     "district": "56",
     "bioUrl": "https://leg.colorado.gov/legislators/chris-richardson",
-    "imageUrl": "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2022/10/20221012-100004-Richardson20for20Facebook.jpg?resize=1200%2C782&ssl=1"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/715df6f2-cef6-4b88-b745-0207c8ffb4ff",
@@ -150,7 +150,7 @@
     "party": "R",
     "district": "6",
     "bioUrl": "https://leg.colorado.gov/legislators/cleave-simpson",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3hTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7513585dd62fce02f81a3e6d3a1c44d08d397b9b/Simpson,%20Cleave.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/df050043-0b4f-4b51-8df0-ffd6cd6cd5b2",
@@ -267,7 +267,7 @@
     "party": "R",
     "district": "7",
     "bioUrl": "https://leg.colorado.gov/legislators/janice-rich",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzVTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--afd770f3635f91909fdcc0bde3b95c1599089da7/Rich,%20Janice.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/544a4247-320e-456a-b5dd-f0373bdad788",
@@ -330,7 +330,7 @@
     "party": "R",
     "district": "30",
     "bioUrl": "https://leg.colorado.gov/legislators/john-carson",
-    "imageUrl": "https://i0.wp.com/coloradocommunitymedia.com/wp-content/uploads/2024/06/DCO-0613-Commissioner-D3-race-2.jpg?w=768&ssl=1"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/829879ea-a9a3-42b6-8f5f-d209b1cc961d",
@@ -438,7 +438,7 @@
     "party": "R",
     "district": "10",
     "bioUrl": "https://leg.colorado.gov/legislators/larry-liston",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1pTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4e7ce4fd5e7d42b1e4e7ad102c27293ed3fd28c6/Liston,%20Larry.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a2745e24-bcf2-40f8-aa77-fad08d873ab1",
@@ -509,7 +509,7 @@
     "chamber": "house",
     "party": "D",
     "district": "35",
-    "bioUrl": "https://leg.colorado.gov/legislators/lorena-garc%C3%ADa",
+    "bioUrl": "https://leg.colorado.gov/legislators/lorena-garcia",
     "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVZUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--000f403a3a00241cbcadbe814acab9558e10dde4/Garcia,%20Lorena.jpg"
   },
   {
@@ -546,7 +546,7 @@
     "party": "D",
     "district": "42",
     "bioUrl": "https://leg.colorado.gov/legislators/mandy-lindsay",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFpUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16f693f706022e86e268da5a37a9a93ff4aef1ba/Lindsay,%20Mandy.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c0cfa7d3-2c5e-4b68-8692-2e1b6f1b3372",
@@ -609,7 +609,7 @@
     "party": "R",
     "district": "54",
     "bioUrl": "https://leg.colorado.gov/legislators/matt-soper",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVdUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--767a7057ff5fd758ce0cbddae6aa4c7b1ef907f2/Soper,%20Matthew.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/fe11081d-5ca9-4f88-a143-04aed94e45f9",
@@ -726,7 +726,7 @@
     "party": "D",
     "district": "32",
     "bioUrl": "https://leg.colorado.gov/legislators/robert-rodriguez",
-    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVZTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d263d3105ce58458603b07ad78a431ab0fa5a38/Rodriguez,Robert.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/45cd06eb-9967-4468-9e4e-677549e7638d",

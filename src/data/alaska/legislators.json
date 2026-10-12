@@ -150,7 +150,7 @@
     "party": "R",
     "district": "18",
     "bioUrl": "https://www.akleg.gov/basis/Member/Detail/32?code=ned",
-    "imageUrl": "http://akleg.gov/images/legislators/ned.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d7d4a21d-942e-46f7-92b6-237f1741b025",
@@ -456,7 +456,7 @@
     "party": "R",
     "district": "N",
     "bioUrl": "https://www.akleg.gov/basis/Member/Detail/34?code=yun",
-    "imageUrl": "https://ktna.org/wp-content/uploads/2023/06/YundtThumb.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/697cb834-6aa1-44f1-9c6e-9cf57ad30774",

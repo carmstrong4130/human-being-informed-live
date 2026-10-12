@@ -69,7 +69,7 @@
     "party": "D",
     "district": "Strafford 20",
     "bioUrl": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10903",
-    "imageUrl": "https://www.ci.durham.nh.us/sites/default/files/styles/full_node_primary/public/imageattachments/administration/page/19301/allan_howland_2_-_town_council.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0bc83772-75ee-453c-868c-8d2a034788b1",
@@ -96,7 +96,7 @@
     "party": "D",
     "district": "Strafford 9",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11278",
-    "imageUrl": "https://straffordcountydemocraticcommittee.org/wp-content/uploads/2024/08/Amy-Malone-NH-candidate-300x300.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/da5fb901-d16d-430f-b5cb-7ab556f8d4ee",
@@ -177,7 +177,7 @@
     "party": "D",
     "district": "Hillsborough 9",
     "bioUrl": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10784",
-    "imageUrl": "http://dolanforrep.com/wp-content/uploads/2022/10/Professional-Photo-SMALL.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d3c437bd-532d-458b-961f-4f6dccec1e4b",
@@ -474,7 +474,7 @@
     "party": "R",
     "district": "Rockingham 4",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11395",
-    "imageUrl": "https://raymondrepublicans.com/wp-content/uploads/Bennett-Headshot.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f3e949ce-6d98-4826-bbca-08039cea4ea4",
@@ -699,7 +699,7 @@
     "party": "R",
     "district": "1",
     "bioUrl": "https://gencourt.state.nh.us/senate/members/webpages/district01.aspx",
-    "imageUrl": "https://a4pc.org/files/Rochefort_July-2022-450x600.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/91c36b59-79ca-4370-b855-43c3d1c78b61",
@@ -762,7 +762,7 @@
     "party": "R",
     "district": "Strafford 6",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11425",
-    "imageUrl": "https://dedepoulin.com/wp-content/uploads/2024/07/DeniseDedePoulin.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8dc59c94-caba-41b2-a6ba-6bca0f595118",
@@ -834,7 +834,7 @@
     "party": "R",
     "district": "Hillsborough 13",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11348",
-    "imageUrl": "https://www.hudsonnh.gov/sites/default/files/styles/full_node_primary/public/imageattachments/directory/53200/d._dumont_-_4-21-23.jpg?itok=u_RPt8Z2"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/538f12b2-0914-4107-9b08-6f498e7eec66",
@@ -1023,7 +1023,7 @@
     "party": "R",
     "district": "Hillsborough 43",
     "bioUrl": "https://www.gencourt.state.nh.us/Senate/members/webpages/district11.aspx",
-    "imageUrl": "http://www.livefreeordiealliance.org/Portals/0/images_candidates/GDanielsHH40.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/26cadaaa-59d2-4c71-b23b-9f103dbd3e81",
@@ -1149,7 +1149,7 @@
     "party": "D",
     "district": "Hillsborough 5",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=10779",
-    "imageUrl": "https://nhhousedems.org/wp-content/uploads/2022/09/632c91a44ffa8-768x1152.jpeg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/1a1bb56f-cf92-4af0-b65e-3831e8a07b64",
@@ -1617,7 +1617,7 @@
     "party": "D",
     "district": "Strafford 12",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11284",
-    "imageUrl": "https://straffordcountydemocraticcommittee.org/wp-content/uploads/2024/08/John-Stone-Candidate-Profile-300x300.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/fe4b2b32-0709-486c-910c-fa3bcfc54056",
@@ -1626,7 +1626,7 @@
     "party": "R",
     "district": "Hillsborough 36",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11369",
-    "imageUrl": "https://www.ledgertranscript.com/attachments/35/47349035.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/81a14b0b-f5dd-4e7a-b500-c9dc0a56c2be",
@@ -2193,7 +2193,7 @@
     "party": "D",
     "district": "Hillsborough 3",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=10998",
-    "imageUrl": "https://d1fdloi71mui9q.cloudfront.net/wxHeDOlTmrng9JXrmHMA_PzA4v4H07EpaEbgi"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/20e7dbe4-40e8-4a11-bf8b-c7f7d2658725",
@@ -2814,7 +2814,7 @@
     "party": "D",
     "district": "Hillsborough 4",
     "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
-    "imageUrl": "https://www.citizenscount.org/sites/default/files/styles/candidate_detail_page_-_thumb/public/candidate-images/raynewman.jpg?itok=fz_-ogHQ"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c67b2f9d-8f52-4ce4-b613-781763f0bfe4",

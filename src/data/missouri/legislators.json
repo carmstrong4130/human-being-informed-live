@@ -32,8 +32,8 @@
     "chamber": "senate",
     "party": "D",
     "district": "13",
-    "bioUrl": "https://www.senate.mo.gov/mem13",
-    "imageUrl": "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Mosley2021-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=20",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/fff43ce1-d209-4556-ba74-32f9ba46d3c0",
@@ -95,7 +95,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "26",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/26",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=271",
     "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Brown26.jpg"
   },
   {
@@ -275,8 +275,8 @@
     "chamber": "senate",
     "party": "D",
     "district": "14",
-    "bioUrl": "https://www.senate.mo.gov/mem14",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/05/Williams2019-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=34",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d29468e7-eb61-45e7-89ad-4dfb93a0baf2",
@@ -392,8 +392,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "18",
-    "bioUrl": "https://www.senate.mo.gov/mem18",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/OLaughlin2019-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=21",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0c02ea62-5611-4292-bf13-316c50c3a866",
@@ -564,7 +564,7 @@
     "party": "D",
     "district": "1",
     "bioUrl": "https://www.house.mo.gov/MemberDetails.aspx?district=92",
-    "imageUrl": "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Beck2021-683x1024.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c2ccbec5-9ad2-4210-9029-3c9968b72d2f",
@@ -689,8 +689,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "25",
-    "bioUrl": "https://www.senate.mo.gov/mem25",
-    "imageUrl": "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Bean-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=2",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/100ec26e-d90f-4707-822c-db61c8f1b370",
@@ -761,7 +761,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "32",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/32/",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=273",
     "imageUrl": null
   },
   {
@@ -806,7 +806,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "11",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/11",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=6370",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/JoeNicola2023.jpeg"
   },
   {
@@ -825,7 +825,7 @@
     "party": "R",
     "district": "120",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=120",
-    "imageUrl": "https://dailyjournalonline.com/wp-content/uploads/2023/09/Hewkin-1.jpeg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6e5b11bc-fc9c-4822-9a82-1a5a59771c00",
@@ -878,8 +878,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "16",
-    "bioUrl": "https://www.senate.mo.gov/mem16",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/Brown2019-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=6",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/fbeafead-44b9-4f08-9854-ad516fb6c838",
@@ -887,8 +887,8 @@
     "chamber": "senate",
     "party": "D",
     "district": "4",
-    "bioUrl": "https://www.senate.mo.gov/mem04",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/KarlaMay-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=18",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6ee52a1a-7c1b-4ebb-ac4f-8602d03b2034",
@@ -1013,8 +1013,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "30",
-    "bioUrl": "https://www.senate.mo.gov/mem30",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/10/Hough-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=15",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5f182358-80ec-4463-a8b0-2dd660ac97ab",
@@ -1139,7 +1139,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "22",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/22",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=272",
     "imageUrl": null
   },
   {
@@ -1220,8 +1220,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "6",
-    "bioUrl": "https://www.senate.mo.gov/mem06",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/01/Bernskoetter-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=4",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/70c04c22-b1a9-4c3c-96f9-36761e63f3f8",
@@ -1229,8 +1229,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "8",
-    "bioUrl": "https://www.senate.mo.gov/mem08",
-    "imageUrl": "https://www.senate.mo.gov/20web/wp-content/uploads/2020/01/Cierpiot2020-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=8",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c08a9151-fdfe-4da9-97c2-5536ed96f255",
@@ -1310,7 +1310,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "2",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/02",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=276",
     "imageUrl": null
   },
   {
@@ -1436,7 +1436,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "12",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/12",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=270",
     "imageUrl": null
   },
   {
@@ -1445,8 +1445,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "28",
-    "bioUrl": "https://www.senate.mo.gov/mem28",
-    "imageUrl": "https://www.senate.mo.gov/19web/wp-content/uploads/2019/09/Crawford2019-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=9",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/515b97f2-7c88-40e5-b127-04146435e50e",
@@ -1508,7 +1508,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "19",
-    "bioUrl": "https://senate.mo.gov/Senators/Member/19",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=6373",
     "imageUrl": "https://storage.googleapis.com/enview-dev-public-general/legislative-people-photos/5569.jpg"
   },
   {
@@ -1535,8 +1535,8 @@
     "chamber": "senate",
     "party": "D",
     "district": "5",
-    "bioUrl": "https://www.senate.mo.gov/mem05",
-    "imageUrl": "https://www.senate.mo.gov/21web/wp-content/uploads/2020/12/Roberts-2021-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=26",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/ae8a2d25-fbb2-4254-976a-f9dcf0c92c6f",
@@ -1598,8 +1598,8 @@
     "chamber": "senate",
     "party": "R",
     "district": "34",
-    "bioUrl": "https://www.senate.mo.gov/mem34",
-    "imageUrl": "https://www.senate.mo.gov/20web/wp-content/uploads/2020/01/010720-002-200x300.jpg"
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=17",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b45073a9-ed4d-4d2c-89cd-edf310e7d373",
@@ -1616,7 +1616,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "24",
-    "bioUrl": "https://www.senate.mo.gov/Senators/Member/24",
+    "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=277",
     "imageUrl": null
   },
   {

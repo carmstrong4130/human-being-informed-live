@@ -402,7 +402,7 @@
     "party": "R",
     "district": "42",
     "bioUrl": "https://ndlegis.gov/biography/doug-osowski",
-    "imageUrl": "https://dougd42.com/media/b208def4183d2d0b123d6b0bf3dcfd78.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a7b8cf9d-a22f-479f-ad25-07bd47aab2ba",
@@ -717,7 +717,7 @@
     "party": "R",
     "district": "25",
     "bioUrl": "https://www.legis.nd.gov/assembly/65-2017/members/house/representative-kathy-skroch",
-    "imageUrl": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/kskroch.jpg?itok=QIurj_0Y"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/61200f69-4501-4cfb-a9cf-a37e86d6604c",
@@ -1086,7 +1086,7 @@
     "party": "D",
     "district": "9",
     "bioUrl": "https://www.legis.nd.gov/assembly/65-2017/members/senate/senator-richard-marcellais",
-    "imageUrl": "https://www.legis.nd.gov/files/styles/medium/public/person/photo/rmarcellais.jpg?itok=0dcpvpyI"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e3f498cc-b127-4f43-be89-1ad84b3b4e78",

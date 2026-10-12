@@ -168,7 +168,7 @@
     "party": "R",
     "district": "87",
     "bioUrl": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2899",
-    "imageUrl": "https://jacobsonforassembly.com/wp-content/uploads/2024/03/IMG_0484.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f8f3683e-3615-4a4b-bafe-d4d042f291d0",
@@ -348,7 +348,7 @@
     "party": "R",
     "district": "53",
     "bioUrl": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2852",
-    "imageUrl": "http://legis.wisconsin.gov/sitecollectionimages/2013/asm55.jpeg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/bcca1ebf-1a4c-4624-97a6-dbfd3e255191",
@@ -897,7 +897,7 @@
     "party": "R",
     "district": "28",
     "bioUrl": "https://docs.legis.wisconsin.gov/2025/legislators/assembly/2885",
-    "imageUrl": "https://www.kreibichforassembly.com/hobenug/themes/kreibich-wi/assets/kreibich_1.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a1407176-afc6-45ce-ad6c-d7f69b5b3b78",

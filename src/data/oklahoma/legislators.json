@@ -50,8 +50,8 @@
     "chamber": "house",
     "party": "D",
     "district": "94",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=94",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Fugate,%20Andy.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/andy-fugate",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/3a5828d9-b8bf-491c-adfe-19f5331d1e20",
@@ -59,8 +59,8 @@
     "chamber": "house",
     "party": "D",
     "district": "45",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=45",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Menz,%20Annie.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/annie-menz",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c1f71291-89c1-4109-a15c-2483743d333a",
@@ -68,8 +68,8 @@
     "chamber": "house",
     "party": "R",
     "district": "57",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=57",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Moore,%20Anthony.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/anthony-moore",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/4d0b52d3-ad1f-45c9-b46e-3676194ef82c",
@@ -77,8 +77,8 @@
     "chamber": "house",
     "party": "D",
     "district": "89",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=89",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Alonso,%20Arturo.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/arturo-alonsosandoval",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f2bc8c9d-050a-4531-84eb-1f233ad7042a",
@@ -87,7 +87,7 @@
     "party": "R",
     "district": "9",
     "bioUrl": "https://oksenate.gov/senators/avery-frix",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Frix,%20Avery.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/446468ba-e7a8-49ff-8edc-e9f96da9d613",
@@ -104,8 +104,8 @@
     "chamber": "house",
     "party": "R",
     "district": "4",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=4",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Culver,%20BobEd.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/bob-culver",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/be4edaae-b522-4ce0-bc1d-98b813424f57",
@@ -113,8 +113,8 @@
     "chamber": "house",
     "party": "R",
     "district": "51",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=51",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Boles,%20Brad.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/brad-boles",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/55b572a7-2951-4597-b70c-e37b51163b03",
@@ -149,8 +149,8 @@
     "chamber": "house",
     "party": "R",
     "district": "47",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=47",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Hill,%20Brian.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/brian-hill",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a3c36ebe-151f-4632-ab04-31963f55f9d8",
@@ -167,8 +167,8 @@
     "chamber": "house",
     "party": "R",
     "district": "58",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=58",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Newton,%20Carl.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/carl-newton",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6ecf8a12-033a-41da-9b5f-3fbcf41f4841",
@@ -194,8 +194,8 @@
     "chamber": "house",
     "party": "R",
     "district": "40",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=40",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Caldwell,%20Chad.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/chad-caldwell",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/442374ea-1ad4-4793-bdbc-a5db81a1d219",
@@ -203,8 +203,8 @@
     "chamber": "house",
     "party": "R",
     "district": "24",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=24",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Banning,%20Chris.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/59th-chris-banning",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5b2d71b9-21c7-4291-ac09-e2840fee2919",
@@ -212,8 +212,8 @@
     "chamber": "house",
     "party": "R",
     "district": "91",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=91",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Kannady,%20Chris.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/chris-kannady",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f4d5b128-a016-4eda-b6c6-e298fe29bc29",
@@ -221,8 +221,8 @@
     "chamber": "house",
     "party": "R",
     "district": "14",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=14",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Sneed,%20Chris.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/chris-sneed",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b8b4337f-5741-4fad-bcf3-38c526cf6c5a",
@@ -248,8 +248,8 @@
     "chamber": "house",
     "party": "R",
     "district": "42",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=42",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Cindy-Roe.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/cynthia-roe",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/82e04ad9-64c8-4439-9853-cbc3e273d637",
@@ -257,8 +257,8 @@
     "chamber": "house",
     "party": "R",
     "district": "66",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=66",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Staires,%20Clay.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/clay-staires",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
@@ -266,8 +266,8 @@
     "chamber": "house",
     "party": "R",
     "district": "21",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=21",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Maynard,%20Cody.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/cody-maynard",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0cffa048-1b45-4609-a1b6-9e741ca1948c",
@@ -275,8 +275,8 @@
     "chamber": "house",
     "party": "R",
     "district": "31",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=31",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Duel,%20Collin.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/collin-duel",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
@@ -284,8 +284,8 @@
     "chamber": "house",
     "party": "D",
     "district": "85",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=85",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Munson,%20Cyndie.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/cyndi-munson",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/74fd77d2-ffa9-42cd-9849-0b64464bcc6f",
@@ -302,8 +302,8 @@
     "chamber": "house",
     "party": "R",
     "district": "62",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=62",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Pae,%20Daniel.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/daniel-pae",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/61966500-f9d7-4f45-ad6b-761d6d839036",
@@ -311,8 +311,8 @@
     "chamber": "house",
     "party": "R",
     "district": "27",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=27",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Danny-Sterling.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/danny-sterling",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
@@ -320,8 +320,8 @@
     "chamber": "house",
     "party": "R",
     "district": "28",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=28",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Williams,%20Danny.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/danny-williams",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7143be5e-df9e-40ad-8591-dd4c9ea51261",
@@ -356,8 +356,8 @@
     "chamber": "house",
     "party": "R",
     "district": "86",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=86",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Hardin,%20David.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/david-hardin",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/84087e63-a192-4be6-9367-64b2c93a2dcc",
@@ -365,8 +365,8 @@
     "chamber": "house",
     "party": "R",
     "district": "18",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=18",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Smith,%20David.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/david-smith",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/4d473c48-88f9-495a-a8da-b8e2d0310280",
@@ -374,8 +374,8 @@
     "chamber": "house",
     "party": "R",
     "district": "26",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=26",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Kerbs,%20Dell.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/dell-kerbs",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e825fe1a-a46d-4a07-b9e4-c9e82e357c90",
@@ -383,8 +383,8 @@
     "chamber": "house",
     "party": "R",
     "district": "41",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=41",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Crosswhite%20Hader,%20Denise.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/denise-crosswhitehader",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a7eb5f03-0a2a-4235-b2f8-b4983e1a8cf2",
@@ -401,8 +401,8 @@
     "chamber": "house",
     "party": "R",
     "district": "56",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=56",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Lowe,%20Dick.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/dick-lowe",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/14d6a46d-124c-4274-ae72-bfe5541a4a0a",
@@ -428,8 +428,8 @@
     "chamber": "house",
     "party": "R",
     "district": "1",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=1",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Dempsey,%20Eddy.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/eddy-dempsey",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
@@ -446,8 +446,8 @@
     "chamber": "house",
     "party": "D",
     "district": "87",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=87",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Hefner,%20Ellyn.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/ellyn-hefner",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
@@ -456,7 +456,7 @@
     "party": "R",
     "district": "90",
     "bioUrl": "https://www.okhouse.gov/representatives/emily-gise",
-    "imageUrl": "https://www.cairoklahoma.com/wp-content/uploads/2024/09/emily-200x200.jpeg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/752b02fd-2ce1-46d3-88a3-337d64df6b1a",
@@ -464,8 +464,8 @@
     "chamber": "house",
     "party": "R",
     "district": "83",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=83",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Roberts,%20Eric.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/eric-roberts",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/57fd0b98-5608-470a-a70b-971165572afb",
@@ -483,7 +483,7 @@
     "party": "R",
     "district": "98",
     "bioUrl": "https://www.okhouse.gov/representatives/gabe-woolley",
-    "imageUrl": "https://www.cairoklahoma.com/wp-content/uploads/2024/06/gabe-960x958.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a0948c13-b3a0-4040-b0db-9f8f8c67eeac",
@@ -500,8 +500,8 @@
     "chamber": "house",
     "party": "R",
     "district": "52",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=52",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Kendrix,%20Gerrid.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/gerrid-kendrix",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/9f0cacea-112a-425a-b212-4fa3cfd3b3a0",
@@ -527,8 +527,8 @@
     "chamber": "house",
     "party": "D",
     "district": "46",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=46",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Rosecrants,%20Jacob.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/jacob-rosecrants",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
@@ -536,8 +536,8 @@
     "chamber": "house",
     "party": "D",
     "district": "44",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=44",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Deck,%20Jared.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/jared-deck",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
@@ -554,8 +554,8 @@
     "chamber": "house",
     "party": "R",
     "district": "43",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=43",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Steagall,%20Jay.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/jay-steagall",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/edf90069-7569-4cd7-9a8e-e3890e395ac7",
@@ -572,8 +572,8 @@
     "chamber": "house",
     "party": "R",
     "district": "17",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=17",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Grego,%20Jim.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/jim-grego",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062",
@@ -581,8 +581,8 @@
     "chamber": "house",
     "party": "R",
     "district": "2",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=2",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Olsen,%20Jim.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/jim-olsen",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/df9c291c-e14f-487a-8ff6-9182734ababf",
@@ -608,8 +608,8 @@
     "chamber": "house",
     "party": "R",
     "district": "36",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=36",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/George,%20John.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/john-george",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/08dca8d5-4264-4509-aebd-bbf7736b9e90",
@@ -626,8 +626,8 @@
     "chamber": "house",
     "party": "R",
     "district": "11",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=11",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Kane,%20John.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/john-kane",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/671bd947-18c8-4b39-906e-675209b80b73",
@@ -635,8 +635,8 @@
     "chamber": "house",
     "party": "R",
     "district": "38",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=38",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Pfeiffer,%20John.JPG"
+    "bioUrl": "https://www.okhouse.gov/representatives/john-pfeiffer",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
@@ -644,8 +644,8 @@
     "chamber": "house",
     "party": "D",
     "district": "77",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=77",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Waldron,%20John.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/john-waldron",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d8c6a83e-cdac-439d-af83-d90d9f543541",
@@ -671,8 +671,8 @@
     "chamber": "house",
     "party": "R",
     "district": "49",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=49",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Cantrell,%20Josh.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/josh-cantrell",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6b71e61a-6f78-49b0-90ef-64b233dab860",
@@ -680,8 +680,8 @@
     "chamber": "house",
     "party": "R",
     "district": "5",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=5",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/West,%20Josh.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/josh-west",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/47e6f0cc-bf0d-4375-b0f7-3e0c88779ca5",
@@ -689,8 +689,8 @@
     "chamber": "house",
     "party": "R",
     "district": "10",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=10",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Strom,%20Judd.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/judd-strom",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/986cbe76-2b10-4fc8-92b0-39432b761e1a",
@@ -725,8 +725,8 @@
     "chamber": "house",
     "party": "R",
     "district": "19",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=19",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Humphrey,%20Justin.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/justin-humphrey",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/595024d3-b5fd-45e4-a980-4774f531d051",
@@ -743,8 +743,8 @@
     "chamber": "house",
     "party": "R",
     "district": "37",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=37",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Luttrell,%20Ken.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/ken-luttrell",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8a183515-ff32-4660-8e9c-1317f274a603",
@@ -761,8 +761,8 @@
     "chamber": "house",
     "party": "R",
     "district": "61",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=61",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Kenton-Patzkowsky,.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/kenton-patzkowsky",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a",
@@ -779,8 +779,8 @@
     "chamber": "house",
     "party": "R",
     "district": "54",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=54",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Kevin-West.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/kevin-west",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c768c730-142e-4582-a137-ee09a0240784",
@@ -797,8 +797,8 @@
     "chamber": "house",
     "party": "R",
     "district": "29",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=29",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Hilbert,%20Kyle.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/kyle-hilbert",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6bf75215-5df0-4dfc-adfb-98c60a6871bd",
@@ -807,7 +807,7 @@
     "party": "R",
     "district": "15",
     "bioUrl": "https://oksenate.gov/senators/lisa-standridge",
-    "imageUrl": "https://www.cairoklahoma.com/wp-content/uploads/2024/08/lisa-474x474.jpeg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/fe64cfd8-d85e-472e-8761-27b6a3774971",
@@ -824,8 +824,8 @@
     "chamber": "house",
     "party": "R",
     "district": "100",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=100",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Stark,%20Marilyn.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/marilyn-stark",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a688f8ac-d265-4830-963f-617b726524ed",
@@ -842,8 +842,8 @@
     "chamber": "house",
     "party": "R",
     "district": "30",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=30",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Lawson,%20Mark.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/mark-lawson",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a1d5d401-d767-4088-b9b6-e03af9d5ed49",
@@ -851,8 +851,8 @@
     "chamber": "house",
     "party": "R",
     "district": "9",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=9",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Lepak,%20Mark.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/mark-lepak",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7bf07db8-9661-4f98-859d-9817cb4362dd",
@@ -869,8 +869,8 @@
     "chamber": "house",
     "party": "R",
     "district": "69",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=69",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Tedford,%20Mark.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/mark-tedford",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0172970c-3434-470b-98c8-6f7f0b167afb",
@@ -887,8 +887,8 @@
     "chamber": "house",
     "party": "R",
     "district": "95",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=95",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Wolfley,%20Max.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/max-wolfley",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
@@ -896,8 +896,8 @@
     "chamber": "house",
     "party": "D",
     "district": "79",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=79",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Melissa-Provenzano.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/melissa-provenzano",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9",
@@ -905,8 +905,8 @@
     "chamber": "house",
     "party": "D",
     "district": "78",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=78",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Blancett,%20Meloyde.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/meloyde-blancett",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/faabecda-dfa0-4995-b574-2b0a33b039ef",
@@ -941,8 +941,8 @@
     "chamber": "house",
     "party": "D",
     "district": "93",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=93",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Mickey-Dollens.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/mickey-dollens",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/527c315f-7d62-4de1-a543-6c81a0ac11a3",
@@ -950,8 +950,8 @@
     "chamber": "house",
     "party": "R",
     "district": "59",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=59",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Dobrinski,%20Mike.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/mike-dobrinski",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8746752e-619b-454d-9ef6-7f4434acdd71",
@@ -977,8 +977,8 @@
     "chamber": "house",
     "party": "R",
     "district": "81",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=81",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Osburn,%20Mike.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/mike-osburn",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f",
@@ -995,8 +995,8 @@
     "chamber": "house",
     "party": "R",
     "district": "13",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=13",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Hays,%20Neil.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/neil-hays",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/479b4def-b284-426b-8290-86bdce854bce",
@@ -1004,8 +1004,8 @@
     "chamber": "house",
     "party": "R",
     "district": "55",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=55",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Archer,%20Nick.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/nick-archer",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/4af77a1a-7011-4901-89fe-4619d558d34c",
@@ -1013,8 +1013,8 @@
     "chamber": "house",
     "party": "R",
     "district": "82",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=82",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Nicole-Miller.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/nicole-miller",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/365647a0-0840-4a40-aac8-697ab21dbcd5",
@@ -1040,8 +1040,8 @@
     "chamber": "house",
     "party": "R",
     "district": "96",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=96",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Stinson,%20Preston.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/preston-stinson",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb",
@@ -1049,8 +1049,8 @@
     "chamber": "house",
     "party": "R",
     "district": "64",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=64",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Rande-Worthen.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/rande-worthen",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/812abf8c-ed2d-4b91-8d69-0917a39adeed",
@@ -1068,7 +1068,7 @@
     "party": "D",
     "district": "11",
     "bioUrl": "https://oksenate.gov/senators/regina-goodwin",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Goodwin,%20Regina.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/bae91554-72c9-4dbd-b042-b4bd800e4732",
@@ -1076,8 +1076,8 @@
     "chamber": "house",
     "party": "R",
     "district": "3",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=3",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/West,%20Rick.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/rick-west",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
@@ -1094,8 +1094,8 @@
     "chamber": "house",
     "party": "R",
     "district": "101",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=101",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Manger,%20Robert.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/robert-manger",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c0db5455-8d12-4525-ab57-afa8ed7e1d7f",
@@ -1121,8 +1121,8 @@
     "chamber": "house",
     "party": "R",
     "district": "25",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=25",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Johns,%20Ronny.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/ronny-johns",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a6aa7540-02db-458d-9031-e6af94d63b44",
@@ -1130,8 +1130,8 @@
     "chamber": "house",
     "party": "R",
     "district": "76",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=76",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Ford,%20Ross.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/ross-ford",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/818eac04-d5b7-49be-b740-84a8432cf5b3",
@@ -1139,8 +1139,8 @@
     "chamber": "house",
     "party": "R",
     "district": "6",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=6",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Cornwell,%20Rusty.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/rusty-cornwell",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
@@ -1166,8 +1166,8 @@
     "chamber": "house",
     "party": "R",
     "district": "16",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=16",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Fetgatter,%20Scott.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/scott-fetgatter",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/97650810-9219-451e-97d1-e3d3318c5d53",
@@ -1202,8 +1202,8 @@
     "chamber": "house",
     "party": "R",
     "district": "80",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=80",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/May,%20Stan.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/stan-may",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/bf810dce-34f8-4db5-b242-efc008311228",
@@ -1211,8 +1211,8 @@
     "chamber": "house",
     "party": "R",
     "district": "7",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=7",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Bashore,%20Steve.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/steve-bashore",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b",
@@ -1220,8 +1220,8 @@
     "chamber": "house",
     "party": "D",
     "district": "70",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=70",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Schreiber,%20Suzanne.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/suzanne-schreiber",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a",
@@ -1229,8 +1229,8 @@
     "chamber": "house",
     "party": "R",
     "district": "75",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=75",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Marti,%20TJ.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/tj-marti",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/1d6bc21f-6774-45de-b805-23cd8b5c32aa",
@@ -1238,8 +1238,8 @@
     "chamber": "house",
     "party": "R",
     "district": "48",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=48",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Townley,%20Tammy.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/tammy-townley",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b",
@@ -1247,8 +1247,8 @@
     "chamber": "house",
     "party": "R",
     "district": "84",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=84",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Tammy-West.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/tammy-west",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158",
@@ -1274,8 +1274,8 @@
     "chamber": "house",
     "party": "R",
     "district": "8",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=8",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Gann,%20Tom.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/tom-gann",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/9b993707-70c1-4e3f-96ee-4257c0cf04e6",
@@ -1292,8 +1292,8 @@
     "chamber": "house",
     "party": "R",
     "district": "65",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=65",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Hasenbeck,%20Toni.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/toni-hasenbeck",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0",
@@ -1301,8 +1301,8 @@
     "chamber": "house",
     "party": "R",
     "district": "63",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=63",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Caldwell,%20Trey.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/trey-caldwell",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be",
@@ -1310,8 +1310,8 @@
     "chamber": "house",
     "party": "D",
     "district": "34",
-    "bioUrl": "https://www.okhouse.gov/Members/Contact.aspx?District=34",
-    "imageUrl": "https://www.okhouse.gov/Members/Pictures/HiRes/Ranson,%20Trish.jpg"
+    "bioUrl": "https://www.okhouse.gov/representatives/trish-ranson",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/48d6aa7c-97e1-4c69-8014-8818ae9ad055",

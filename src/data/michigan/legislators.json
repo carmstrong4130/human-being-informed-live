@@ -42,7 +42,7 @@
     "party": "D",
     "district": "76",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D071_Angela_Witwer/071_Witwer.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/3a9d71dc-da5b-4bd3-8062-c8387292dc52",
@@ -105,7 +105,7 @@
     "party": "D",
     "district": "53",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D029_Brenda_Carter/029_Carter.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/172b6e7c-3765-4978-bc03-3d19a92d5164",
@@ -168,7 +168,7 @@
     "party": "R",
     "district": "102",
     "bioUrl": "https://senate.michigan.gov/senatorinfo_list.html",
-    "imageUrl": "https://senate.michigan.gov/_images/35th.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7e3c6932-35bd-43f6-b1ca-d8fd6d5c0040",
@@ -258,7 +258,7 @@
     "party": "R",
     "district": "59",
     "bioUrl": "https://senate.michigan.gov/senatorinfo_list.html",
-    "imageUrl": "https://senate.michigan.gov/_images/8th.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/07ff51f1-6cd0-4004-b618-bc70e5a2e551",
@@ -528,7 +528,7 @@
     "party": "D",
     "district": "9",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D002_Joe_Tate/002_Tate.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/fd51ab83-f1b7-4044-b794-871ba167b504",
@@ -609,7 +609,7 @@
     "party": "D",
     "district": "73",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D069_Julie_Brixie/069_Brixie.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5154033e-e367-449c-a719-9437a309e269",
@@ -627,7 +627,7 @@
     "party": "D",
     "district": "74",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D067_Kara_Hope/067_Hope.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/1b71cbce-bf12-4009-b1cd-79da2f22b9aa",
@@ -636,7 +636,7 @@
     "party": "D",
     "district": "4",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D009_Karen_Whitsett/009_Whitsett.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e3bae1dd-d4b9-48c3-8e40-112987214638",
@@ -726,7 +726,7 @@
     "party": "D",
     "district": "17",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D019_Laurie_Pohutsky/019_Pohutsky.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/187a5c10-ccc0-4c94-a4c9-4c208ace4776",
@@ -807,7 +807,7 @@
     "party": "D",
     "district": "22",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D020_Matt_Koleszar/020_Koleszar.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/cf865d78-f3ea-43f7-b843-a06dbb4bf4be",
@@ -1230,7 +1230,7 @@
     "party": "R",
     "district": "93",
     "bioUrl": "https://gophouse.org/member/RepTimKelly/",
-    "imageUrl": "http://gophouse.org/wp-content/uploads/2015/01/HS_Kelly_0213_DSC6086_hr94-192x300.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/6b7aadaf-f690-487f-bec8-95f095f6b565",
@@ -1284,7 +1284,7 @@
     "party": "D",
     "district": "1",
     "bioUrl": "https://www.house.mi.gov/AllRepresentatives",
-    "imageUrl": "https://housedems.com/sites/default/files/Images/Representative_Images/D006_Tyrone_Carter/006_Carter.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/3cef42f4-ef0b-43c2-b0b8-01f7f399af2f",

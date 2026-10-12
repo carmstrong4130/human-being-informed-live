@@ -407,13 +407,13 @@
     "chamber": "house",
     "members": [
       "ocd-person/52046189-0464-4140-9cdf-b6c66312d49d",
+      "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
       "ocd-person/3d737a2a-6fdf-4939-838d-4f035a647e23",
       "ocd-person/a5d0ab78-e643-4ea1-86f2-2dad948b498a",
       "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
       "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
       "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
       "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
-      "ocd-person/cff09a3a-b81e-433d-80f5-45f6472f4642",
       "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
       "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02",
       "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b"
@@ -616,6 +616,7 @@
       "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
       "ocd-person/723a971e-91d9-4717-8f19-45f16e18690f",
       "ocd-person/dc6e41ae-d1b3-47c7-b225-1d5ec88a9fdc",
+      "ocd-person/3a86c192-f9b1-4b58-9f5b-2119d1fe4e0d",
       "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
       "ocd-person/78f07b0c-9939-4e03-81f8-f851511a46cb",
       "ocd-person/d9d5a3a8-71f6-4c2e-8805-3fa715b315f4",
@@ -807,7 +808,8 @@
       "ocd-person/03d6bca3-9630-4173-a3c0-4ab4b5aaaedb",
       "ocd-person/6b644492-bb54-496c-8ad3-22ec002056d4",
       "ocd-person/9ec989cb-f503-46c1-aa2a-2913e2bc16bd",
-      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0"
+      "ocd-person/15372a5d-6a78-40f2-aebf-fd7692c41cb0",
+      "ocd-person/730c7d27-9f0a-4a8b-839b-8de86f6b012e"
     ],
     "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
   },
@@ -991,7 +993,6 @@
       "ocd-person/2ba6dc9a-31db-4371-9d69-7fa000e7a08a",
       "ocd-person/39a26498-6bb6-4627-8c49-d9c453c9aab8",
       "ocd-person/63c5bc01-757d-474a-9c75-286da0076e3e",
-      "ocd-person/050e1a72-402d-46ae-a9c3-1c5dff003ee6",
       "ocd-person/c4b563a3-2b20-4c2d-8f54-2b7ed6a3af3f",
       "ocd-person/397cb6b4-54fe-42e2-9135-7b440d925649",
       "ocd-person/bd08d7a5-b1f3-484f-80c1-bddf2d636413"
@@ -1109,12 +1110,15 @@
       "ocd-person/4cb1aeb5-d822-4f2c-a7e6-ae2a132acf17",
       "ocd-person/95f7541d-5429-41aa-85e5-7fc9cf33d688",
       "ocd-person/f4133b43-f822-4d95-b1e0-a0a524de56f6",
+      "ocd-person/d54b8dfc-7921-4f35-ad22-ad2efdaad100",
       "ocd-person/18af5645-53f2-4571-b24d-3173abf2b567",
+      "ocd-person/f2489dbf-ac57-427f-8200-4cf6e6610980",
+      "ocd-person/37a5dfa8-e69f-4567-b8c0-3ea35a69f181",
       "ocd-person/7c93c20f-6b0b-4743-8118-3cb4e9194c26",
       "ocd-person/451a4cb7-3585-46d3-86c7-61b345f7a601",
       "ocd-person/7e00e45e-24bf-4939-83b8-a56a90e3ea61",
-      "ocd-person/9877dd5b-c3ee-459f-bb8d-d9d954ae343c",
-      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b"
+      "ocd-person/6a24df4b-b8e2-449a-8f18-d12d15f2bc5b",
+      "ocd-person/04f7bd8e-094b-433c-9e91-7ebe64c75604"
     ],
     "officialUrl": "https://alison.legislature.state.al.us/committees-house-standing-current"
   },
@@ -1147,7 +1151,6 @@
     "name": "Shelby County Legislation",
     "chamber": "house",
     "members": [
-      "ocd-person/02655110-0839-4b2e-9f4b-b3a43788e275",
       "ocd-person/af4e689f-d9f8-4a90-a883-1ed68e476aa9",
       "ocd-person/3b1a631d-35d4-47bd-a37c-a98fed7a5bd4",
       "ocd-person/0d7f5989-df17-4c90-8267-4914f5598712",
@@ -1356,12 +1359,13 @@
     "name": "Tuscaloosa County",
     "chamber": "house",
     "members": [
+      "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02",
       "ocd-person/b57cc6b9-3627-431f-8a01-4c3c7ba973d4",
       "ocd-person/474c3552-b3cd-4015-ac15-3c6301a0ce0e",
       "ocd-person/f470053d-6f95-4ed1-b641-5d0e7b236ed5",
       "ocd-person/ed6f9cbb-3180-4e8e-b9c1-c56dd888ce38",
       "ocd-person/583c130d-a97a-48c9-9a18-03e94aa93930",
-      "ocd-person/b94526a8-1564-43f5-ad38-98b795e95f02"
+      "ocd-person/3a86c192-f9b1-4b58-9f5b-2119d1fe4e0d"
     ],
     "officialUrl": "https://www.legislature.state.al.us"
   },

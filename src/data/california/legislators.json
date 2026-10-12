@@ -186,7 +186,7 @@
     "party": "D",
     "district": "43",
     "bioUrl": "https://www.assembly.ca.gov/assemblymembers/43",
-    "imageUrl": "https://ci.san-fernando.ca.us/wp-content/uploads/2021/07/Rodriguez-Celeste-2021-267x300.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/84a80bdb-37d5-4f52-8f55-e116fb97ca58",
@@ -770,7 +770,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "21",
-    "bioUrl": "https://sd19.senate.ca.gov/",
+    "bioUrl": "https://sd21.senate.ca.gov/",
     "imageUrl": "https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/limon_monique_d-19_2.jpg"
   },
   {
@@ -1049,7 +1049,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "36",
-    "bioUrl": "https://cssrc.us/web/19/",
+    "bioUrl": "https://sr36.senate.ca.gov/",
     "imageUrl": "http://votesmart.org/canphoto/16765.jpg"
   },
   {
@@ -1058,7 +1058,7 @@
     "chamber": "house",
     "party": "R",
     "district": "70",
-    "bioUrl": "https://www.ci.westminster.ca.us/",
+    "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
     "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_70.jpg"
   }
 ]

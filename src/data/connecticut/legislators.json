@@ -78,7 +78,7 @@
     "party": "R",
     "district": "131",
     "bioUrl": "https://www.cthousegop.com/jensen/",
-    "imageUrl": "https://cdn.rep-am.com/wp-content/uploads/2024/10/20241024-161212-pic-447309389.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/32ad6577-b1ee-411f-9dca-e40e06226703",
@@ -132,7 +132,7 @@
     "party": "D",
     "district": "25",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S25%27&dist_name=Duff,%20Bob",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/duff/images/duff-headshot.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/97e1ed70-218e-41d6-abad-73cf8c717c5b",
@@ -195,7 +195,7 @@
     "party": "D",
     "district": "19",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S19%27&dist_name=Osten,%20Catherine%20A.",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/osten/images/osten1x1.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5310d199-fa92-40aa-8d0b-efad6d3027b2",
@@ -249,7 +249,7 @@
     "party": "D",
     "district": "12",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S12%27&dist_name=Cohen,%20Christine",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/Cohen/images/Cohen-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/ea0027a9-6952-4b74-a771-a14ced4e647e",
@@ -330,7 +330,7 @@
     "party": "D",
     "district": "5",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S05%27&dist_name=Slap,%20Derek",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/slap/images/slap-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/56582153-80dd-4de6-9b79-2427316eeb6c",
@@ -384,7 +384,7 @@
     "party": "D",
     "district": "2",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S02%27&dist_name=McCrory,%20Douglas",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/mccrory/images/mccrory-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/46ffabcf-724a-453e-89c4-797662a75e40",
@@ -465,7 +465,7 @@
     "party": "D",
     "district": "10",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S10%27&dist_name=Winfield,%20Gary%20A.",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/winfield/images/winfield-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/37f6cb6c-888c-44c1-8c21-b273d967a62d",
@@ -609,7 +609,7 @@
     "party": "D",
     "district": "14",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S14%27&dist_name=Maroney,%20James%20J.",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/Maroney/images/Maroney-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e823b348-fd0f-410b-b3c1-62fe7a2982f6",
@@ -726,7 +726,7 @@
     "party": "D",
     "district": "15",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/hartley/images/hartley-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5c3f590e-c576-43b7-ab1a-5607efbf7ad7",
@@ -780,7 +780,7 @@
     "party": "D",
     "district": "1",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S01%27&dist_name=Fonfara,%20John%20W.",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/fonfara/images/fonfara-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/da65a738-37c7-41c1-8cd4-abae65ef0167",
@@ -843,7 +843,7 @@
     "party": "D",
     "district": "17",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S17%27&dist_name=Cabrera,%20Jorge",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/cabrera/images/cabrera-hi.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/57461c01-e706-4ce5-9dfd-8982e1f29021",
@@ -879,7 +879,7 @@
     "party": "D",
     "district": "24",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S24%27&dist_name=Kushner,%20Julie",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/Kushner/images/Kushner-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d44bd84a-b02c-4c1b-94ee-05c8b1008e57",
@@ -1068,7 +1068,7 @@
     "party": "D",
     "district": "29",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S29%27&dist_name=Flexer,%20Mae",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/flexer/images/flexer-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/140d2d97-aae9-433a-b012-ce3775aa81a8",
@@ -1131,7 +1131,7 @@
     "party": "D",
     "district": "11",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S11%27&dist_name=Looney,%20Martin%20M.",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/looney/images/looney-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/f3b77c59-132b-4e51-a148-641a891a48a6",
@@ -1194,7 +1194,7 @@
     "party": "D",
     "district": "9",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S09%27&dist_name=Lesser,%20Matthew%20L.",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/Lesser/images/Lesser1x1.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/2a91c3d6-433a-4e8f-b5a5-38fc80b8ea57",
@@ -1203,7 +1203,7 @@
     "party": "D",
     "district": "1",
     "bioUrl": "https://www.cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27001%27&dist_name=001%20-%Ritter,%Matt",
-    "imageUrl": "http://www2.housedems.ct.gov/Ritter/images/Ritter_HS.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d16242a4-d3e1-45b3-9f95-8741980310cc",
@@ -1302,7 +1302,7 @@
     "party": "D",
     "district": "33",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S33%27&dist_name=Needleman,%20Norman",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/Needleman/images/Needleman-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/50e78f89-a9e7-43f5-9566-a9f2cb23a5c9",
@@ -1338,7 +1338,7 @@
     "party": "D",
     "district": "27",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S27%27&dist_name=Miller,%20Patricia%20Billie",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/miller/images/miller-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/9ddc7811-2c18-44e0-b0c9-dccded290a3e",
@@ -1356,7 +1356,7 @@
     "party": "R",
     "district": "34",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S34%27&dist_name=Cicarella,%20Paul",
-    "imageUrl": "https://ctsenaterepublicans.com/wp-content/uploads/2020/11/Paul-Cicarella.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/98ba1778-693a-41a5-9f4a-94f10d1c9fcd",
@@ -1401,7 +1401,7 @@
     "party": "D",
     "district": "6",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S06%27&dist_name=Lopes,%20Rick",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/lopes/images/lopes-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0cdb540d-c360-4981-b7a9-2a67e2f91121",
@@ -1446,7 +1446,7 @@
     "party": "R",
     "district": "36",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S36%27&dist_name=Fazio,%20Ryan",
-    "imageUrl": "https://ctsenaterepublicans.com/wp-content/uploads/2021/08/225217195_346200893664334_4626743322505851539_n-scaled-e1629858004858.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7af92839-ae80-4370-a84a-e63799ed5a48",
@@ -1464,7 +1464,7 @@
     "party": "D",
     "district": "3",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27S03%27&dist_name=Anwar,%20Saud",
-    "imageUrl": "http://www.senatedems.ct.gov/templates/anwar/images/anwar-hi.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/09dcfeba-575f-44d2-9566-1ba8471c0b4f",

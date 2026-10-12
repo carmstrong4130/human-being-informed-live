@@ -50,7 +50,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Addison-1",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-1.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/24022",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Sheldon,%20Amy.jpg"
   },
   {
@@ -59,8 +59,8 @@
     "chamber": "senate",
     "party": "D",
     "district": "Washington",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WASDIST.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Perchlik.Andrew.jpg"
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/30982",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/91f08063-02d6-4167-aa23-bbfb2289bbf1",
@@ -77,7 +77,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "Washington",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WASDIST.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/14604",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Cummings,Ann%20064.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "Windsor",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-4-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30976",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/White,Rebecca.jpg"
   },
   {
@@ -149,7 +149,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Chittenden-18",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-1.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30948",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Hooper,Robert.jpg"
   },
   {
@@ -158,7 +158,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "Franklin",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/FRA-4.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/34702",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Norris,%20Bob.jpg"
   },
   {
@@ -185,7 +185,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Chittenden-15",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-4.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/27162",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Cina,Brian3.jpg"
   },
   {
@@ -194,7 +194,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "Rutland",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/RUTDIST.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/24031",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Collamore,Brian.jpg"
   },
   {
@@ -293,7 +293,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "Chittenden North",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-10.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/29153",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Mattos,Chris.jpg"
   },
   {
@@ -303,7 +303,7 @@
     "party": "D",
     "district": "Windham-Windsor-Bennington",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40437",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Morrow,Chris.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/482c508a-aefd-405c-a252-4d661dced9a4",
@@ -356,7 +356,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Lamoille-2",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/LAM-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/27171",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Noyes.Daniel.jpg"
   },
   {
@@ -366,7 +366,7 @@
     "party": "D",
     "district": "Washington-2",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Washington-2.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Torre,Dana.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/31f6e27d-151c-4878-845b-f600ea1742e2",
@@ -411,7 +411,7 @@
     "party": "R",
     "district": "Caledonia-Essex",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40405",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Dolgin,Deborah.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/59bc4503-ca5f-413d-ac29-0bf51790dcb8",
@@ -492,7 +492,7 @@
     "party": "D",
     "district": "Windham-5",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-5.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Long.Emily.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/ed272e8b-3ef7-47ce-84c9-9163efac3734",
@@ -501,7 +501,7 @@
     "party": "R",
     "district": "Rutland-5",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-5.pdf",
-    "imageUrl": "https://mountaintimes.info/wp-content/uploads/2022/06/Eric_Photo-2-300x300.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e334b770-4785-459a-89cd-1e16ef2444ad",
@@ -528,7 +528,7 @@
     "party": "D",
     "district": "Chittenden-20",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40412",
-    "imageUrl": "https://lccvermont.org/wp-content/uploads/2024/07/IMG_0519-gayle-pezzo-225x300.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/39c4dae9-aee7-46f6-858d-e1eece72d79e",
@@ -545,7 +545,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "Chittenden Southeast",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHIDIST.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/14616",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Lyons,Ginny.jpg"
   },
   {
@@ -626,7 +626,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Chittenden-16",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-6-3.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/19342",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Krowinski,%20Jill.jpg"
   },
   {
@@ -645,7 +645,7 @@
     "party": "R",
     "district": "Rutland-11",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Rutland-11.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Harrison,James.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5342eafc-7f58-4ebe-ad1e-0ec4aefe82fe",
@@ -653,7 +653,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Windsor-Orange-2",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-ORA-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/14523",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Masland,James.jpg"
   },
   {
@@ -689,7 +689,7 @@
     "chamber": "house",
     "party": "R",
     "district": "Essex-Caledonia",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CAL-4.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/36986",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRfTmE4t4EX7KkbsF2Leu84Nmy7GsSQrECA&s"
   },
   {
@@ -788,7 +788,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Bennington-4",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/BEN-4.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30945",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/James,Kathleen.jpg"
   },
   {
@@ -806,8 +806,8 @@
     "chamber": "house",
     "party": "R",
     "district": "Washington-1",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-1.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Goslant.Kenneth.jpg"
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30968",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/06f7e87d-e1f3-4d29-bd2c-11cadb89069e",
@@ -824,7 +824,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Windsor-6",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-4-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/15774",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/KChristie.jpg"
   },
   {
@@ -834,7 +834,7 @@
     "party": "R",
     "district": "Rutland-Windsor",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40430",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Winter,Kevin.jpeg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/60ea24d4-7a38-4d78-b07d-2fc414be2e4b",
@@ -851,7 +851,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Windsor-3",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WDR-3-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/33012",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/KristiMorris.jpg"
   },
   {
@@ -861,7 +861,7 @@
     "party": "R",
     "district": "Orange",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40393",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Hart,Lawrence.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b9ffa5dc-833e-4936-9d62-0b653ae44842",
@@ -905,7 +905,7 @@
     "chamber": "house",
     "party": "R",
     "district": "Grand Isle-Chittenden",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/GI-CHI.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30960",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Leland_Morgan_2024.jpg"
   },
   {
@@ -924,7 +924,7 @@
     "party": "D",
     "district": "Windham-3",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Windham-3.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Goldman,Leslie.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/99b59993-b8ed-4046-b343-2958d25a58a4",
@@ -932,7 +932,7 @@
     "chamber": "house",
     "party": "R",
     "district": "Franklin-5",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/FRA-5.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/31854",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/LHango.jpg"
   },
   {
@@ -977,8 +977,8 @@
     "chamber": "house",
     "party": "D",
     "district": "Addison-4",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-4.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Cordes.Mari.jpg"
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30939",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/67ac8d03-20fe-47a8-9997-61467b4a8e30",
@@ -1032,7 +1032,7 @@
     "party": "R",
     "district": "Bennington-5",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-5.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/MMorrissey.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/eda9290c-b27b-4b39-bfc2-c760a63506ef",
@@ -1049,7 +1049,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Addison-3",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-3.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30938",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Birong.Matt.jpg"
   },
   {
@@ -1076,7 +1076,7 @@
     "chamber": "house",
     "party": "R",
     "district": "Orleans-Lamoille",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/ORL-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/14568",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Marcotte.Michael.jpg"
   },
   {
@@ -1085,7 +1085,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Bennington-5",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/BEN-2-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/34714",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Michael-Nigro.jpg"
   },
   {
@@ -1131,7 +1131,7 @@
     "party": "R",
     "district": "Orange-1",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40418",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Tagliavia,Michael.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/2bf6abc2-667f-494f-896a-812721ee77d3",
@@ -1166,7 +1166,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "Grand Isle",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-9-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/14549",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Brennan,Pat.jpg"
   },
   {
@@ -1185,7 +1185,7 @@
     "party": "R",
     "district": "Franklin-7",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Franklin-7.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Demar,Allen.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/842ac286-38fb-428e-af54-1176d06b6144",
@@ -1220,7 +1220,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "Franklin",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/FRADIST.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/29338",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/RBrock.jpg"
   },
   {
@@ -1275,7 +1275,7 @@
     "party": "D",
     "district": "Bennington-4",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40401",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Hunter,Robert.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/825c4e6c-76c1-4c0c-85af-48be726a9108",
@@ -1284,7 +1284,7 @@
     "party": "R",
     "district": "Addison-3",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40396",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/North,Rob.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/aabafc36-7412-443d-9fbb-f94ed291dcf7",
@@ -1301,8 +1301,8 @@
     "chamber": "house",
     "party": "D",
     "district": "Addison-1",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/ADD-1.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Scheu,Robin.jpg"
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/27154",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/ec8b2fa8-32e3-43ef-a8e9-101958b5d652",
@@ -1319,7 +1319,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "Addison",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/ADDDIST.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/30978",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Hardy.Ruth.jpg"
   },
   {
@@ -1364,7 +1364,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "Caledonia",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CAL-3.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/23996",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Beck,Scott%20008.jpg"
   },
   {
@@ -1409,7 +1409,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "Chittenden Central",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-8-1.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/34715",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Vyhovsky,Tanya.jpg"
   },
   {
@@ -1436,7 +1436,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Washington-Chittenden",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-CHI.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/25699",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Wood.Theresa.jpg"
   },
   {
@@ -1445,7 +1445,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "Chittenden Southeast",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHIDIST.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2022/34724",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Chittenden,%20Thomas.jpg"
   },
   {
@@ -1464,7 +1464,7 @@
     "party": "D",
     "district": "Bennington-2",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Bennington-2.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/TCorcoran.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/81ee4925-031e-4d85-b35b-6561eefa9d24",
@@ -1473,7 +1473,7 @@
     "party": "R",
     "district": "Rutland-9",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40428",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Nielsen,Todd.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/68d53f5e-f99c-4167-9dff-3c802fc6e857",
@@ -1481,7 +1481,7 @@
     "chamber": "house",
     "party": "R",
     "district": "Rutland-2",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/RUT-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/15771",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/TBurditt.jpg"
   },
   {
@@ -1508,8 +1508,8 @@
     "chamber": "house",
     "party": "D",
     "district": "Washington-Chittenden",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-CHI.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Stevens.Thomas.jpg"
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/14689",
+    "imageUrl": null
   },
   {
     "id": "ocd-person/9a5bf877-6bb2-4135-a3de-fc344e84c1c6",
@@ -1526,7 +1526,7 @@
     "chamber": "house",
     "party": "R",
     "district": "Washington-Orange",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/WAS-2.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/14579",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/McFaun,Topper.jpg"
   },
   {
@@ -1535,7 +1535,7 @@
     "chamber": "house",
     "party": "D",
     "district": "Chittenden-3",
-    "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/CHI-3.pdf",
+    "bioUrl": "https://legislature.vermont.gov/people/single/2020/27159",
     "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Squirell,Trevor.jpg"
   },
   {
@@ -1554,7 +1554,7 @@
     "party": "R",
     "district": "Windsor-2",
     "bioUrl": "https://legislature.vermont.gov/people/single/2026/40438",
-    "imageUrl": "https://www.vnews.com/attachments/46/46923146.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/1ae38fee-1328-4298-aa0a-11b5d0265730",
@@ -1599,7 +1599,7 @@
     "party": "R",
     "district": "Orleans-2",
     "bioUrl": "https://legislature.vermont.gov/Documents/SmallMaps/2022/House/Orleans-2.pdf",
-    "imageUrl": "https://legislature.vermont.gov/Documents/Legislators/Page,%20Woody.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/55538705-111f-48b3-9495-7877bbecb1f3",

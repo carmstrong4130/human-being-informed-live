@@ -24,7 +24,7 @@
     "party": "R",
     "district": "34",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1369",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/fa129957-8083-482b-93f5-318d0cfc0718_griffin.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/dff0e200-fd8c-4ada-ac3d-e014a529dd59",
@@ -42,7 +42,7 @@
     "party": "R",
     "district": "61",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3119",
-    "imageUrl": "https://aliciaformaine.com/images/d8140e2917dbb338d1ef9980ee0d0557.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/82b51bea-5f96-46d6-bbcf-4d973f701b27",
@@ -51,7 +51,7 @@
     "party": "D",
     "district": "49",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1353",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/a75da791-060e-45cd-b1bd-95bc7c00c6e8_hepler.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/1e7a6a8f-7160-4bee-80d1-b1dc47b3db4f",
@@ -60,7 +60,7 @@
     "party": "R",
     "district": "68",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1432",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/24f65326-81e9-48f3-a7cc-a5dc8e7d74e6_Collamore.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8f61f208-cf99-489a-aa36-847438b0ed60",
@@ -78,7 +78,7 @@
     "party": "R",
     "district": "104",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1356",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/73657768-20f5-4692-8934-16f6b9a3cacd_arata.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d9825f86-280b-4b70-9a6e-2bb7f02e239a",
@@ -96,7 +96,7 @@
     "party": "D",
     "district": "23",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1437",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/3265b5dc-e744-46e5-8ff5-317b5e4842ae_RoederNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8646c09c-1d84-4065-bcf2-8be6a8baf494",
@@ -105,7 +105,7 @@
     "party": "R",
     "district": "143",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1468",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/d04ae08f-1582-4de6-a34e-bdd72386622e_FREDRICKS.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/187c138c-d84d-4813-884e-553b8a9354f1",
@@ -114,7 +114,7 @@
     "party": "D",
     "district": "43",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1364",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/e8bdda16-c44f-4ced-9b15-4a11e3496fa9_Matlack.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/50f75f0e-328c-413c-8733-de2872c5b7b0",
@@ -122,7 +122,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "29",
-    "bioUrl": "https://legislature.maine.gov/District-29",
+    "bioUrl": "https://legislature.maine.gov/District29",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/carney-web-1-1024x854.jpg"
   },
   {
@@ -132,7 +132,7 @@
     "party": "D",
     "district": "142",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/111",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/989eebc7-717b-474a-9a55-203b709d019b_AMASTRACCIO.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/2f7e7649-5c68-4f8f-8c9a-7993b66d383a",
@@ -150,7 +150,7 @@
     "party": "D",
     "district": "103",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1419",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/e376b676-cec4-4774-bb44-7cc0d25425d2_BellNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/28891c40-a850-4e37-a339-4f60976ab515",
@@ -195,7 +195,7 @@
     "party": "I",
     "district": "44",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1383",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/592ffe4b-8d79-4017-bf5c-d39d0730d8aa_pluecker.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/43c2650b-6248-46f9-a553-8c2bd0bab294",
@@ -213,7 +213,7 @@
     "party": "R",
     "district": "145",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/64",
-    "imageUrl": "http://www.maine.gov/legis/house/photo128/folera.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/32f4600c-1bc1-4758-8d94-69878c863e00",
@@ -230,7 +230,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "3",
-    "bioUrl": "https://legislature.maine.gov/District-3",
+    "bioUrl": "https://legislature.maine.gov/District3",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/farrin-bradlee-1.jpg"
   },
   {
@@ -311,7 +311,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "11",
-    "bioUrl": "https://legislature.maine.gov/District-11",
+    "bioUrl": "https://legislature.maine.gov/District11",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/chipcurry-web-1024x683.jpg"
   },
   {
@@ -321,7 +321,7 @@
     "party": "D",
     "district": "110",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3135",
-    "imageUrl": "https://mitchell.mainecandidate.com/images/2155.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/14000c75-b0e9-451c-a081-9121970897de",
@@ -330,7 +330,7 @@
     "party": "D",
     "district": "121",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1384",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/7b6f510d-1915-4b36-846c-7be39a62c2f6_kessler.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/5a475e6f-5277-425e-bb09-1c55facbc736",
@@ -338,7 +338,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "14",
-    "bioUrl": "https://legislature.maine.gov/District-14",
+    "bioUrl": "https://legislature.maine.gov/District14",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/hickman-1024x1024.jpg"
   },
   {
@@ -366,7 +366,7 @@
     "party": "D",
     "district": "55",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1503",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/b6eec5f0-d0b2-41c8-9295-fe2051a0e061_SHAGOURY.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/49a5c100-0379-4ce8-af49-de4c4f817abc",
@@ -393,7 +393,7 @@
     "party": "R",
     "district": "87",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1489",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/c6b23ace-404f-4ba8-9f4d-c551acec8ca5_DBOYER.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b3f3ab98-9169-42f8-b7d7-c04b3bdfb545",
@@ -473,7 +473,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "31",
-    "bioUrl": "https://legislature.maine.gov/District-31",
+    "bioUrl": "https://legislature.maine.gov/District31",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/bailey-donna-6.jpg"
   },
   {
@@ -501,7 +501,7 @@
     "party": "I",
     "district": "112",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1351",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/ff383c77-b5c1-424d-9de3-1e8a5603b1c9_crockett.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/65c05666-3d38-4098-b2fc-6a519f21f71f",
@@ -537,7 +537,7 @@
     "party": "D",
     "district": "14",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3109",
-    "imageUrl": "https://www.electgaryfriedmann.com/wp-content/uploads/2024/10/Gary-Headshot-683x1024.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7dea9101-48ec-4f1a-871e-a4f1c98b8914",
@@ -555,7 +555,7 @@
     "party": "D",
     "district": "113",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1416",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/bce0954f-21de-45f6-a3a2-2b5485271493_LooknerNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/90989c27-4cd8-409e-8325-9bd50dac9cf4",
@@ -618,7 +618,7 @@
     "party": "R",
     "district": "71",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1434",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/c1e35f04-f37a-4b52-b892-dc74d53b510c_DucharmeNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b7b97724-7abc-44fb-bace-d3606d3fadb2",
@@ -644,7 +644,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "17",
-    "bioUrl": "https://legislature.maine.gov/District-22",
+    "bioUrl": "https://legislature.maine.gov/District17",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/timberlake-jeff-3.jpg"
   },
   {
@@ -654,7 +654,7 @@
     "party": "R",
     "district": "70",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1433",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/8e43d53c-3390-4bb4-9adb-b5a728cb3263_Poirier.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c2268745-e66c-42d5-93bf-3b52819006e9",
@@ -671,7 +671,7 @@
     "chamber": "house",
     "party": "D",
     "district": "26",
-    "bioUrl": "https://legislature.maine.gov/District-5",
+    "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/253",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/dill-5x7.jpg"
   },
   {
@@ -707,7 +707,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "9",
-    "bioUrl": "https://legislature.maine.gov/District-9",
+    "bioUrl": "https://legislature.maine.gov/District9",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/baldacci-1024x683.jpg"
   },
   {
@@ -725,7 +725,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "34",
-    "bioUrl": "https://legislature.maine.gov/District-34",
+    "bioUrl": "https://legislature.maine.gov/District34",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/rafferty-1.jpg"
   },
   {
@@ -744,7 +744,7 @@
     "party": "R",
     "district": "5",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1444",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/5f2f5dbd-c70a-49a9-87bd-de2f2a42cfc5_UnderwoodNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/64a07a85-a469-4c9d-9b7c-bf4de46ade74",
@@ -762,7 +762,7 @@
     "party": "D",
     "district": "93",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3130",
-    "imageUrl": "https://mccabe.mainecandidate.com/images/2186.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/80900bc0-7e26-4195-a0af-ec56b9f34fe0",
@@ -852,7 +852,7 @@
     "party": "R",
     "district": "90",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1423",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/12533ded-aef6-4f67-a45a-d9c25b51d38a_Libby.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/051d0089-f1cc-4523-a48d-ae98700165f8",
@@ -861,7 +861,7 @@
     "party": "D",
     "district": "25",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1436",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/62af6ace-cea8-45d3-b863-ada1f65c3a25_Osher.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/12fc57e0-db0e-4112-a7c0-226b952a11b8",
@@ -915,7 +915,7 @@
     "party": "D",
     "district": "130",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1410",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/df46c4c5-9e8b-4b1d-85e2-a4f88aec8b09_Copeland.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0bb988f9-6dca-4fd8-ac06-3603af31094f",
@@ -941,7 +941,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "6",
-    "bioUrl": "https://legislature.maine.gov/District-6",
+    "bioUrl": "https://legislature.maine.gov/District6",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/moore-5x7.jpg"
   },
   {
@@ -977,7 +977,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "35",
-    "bioUrl": "https://legislature.maine.gov/District-35",
+    "bioUrl": "https://legislature.maine.gov/District35",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/lawrence-5x7-1.jpg"
   },
   {
@@ -1049,7 +1049,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "23",
-    "bioUrl": "https://legislature.maine.gov/District-24",
+    "bioUrl": "https://legislature.maine.gov/District23",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/daughtry-matthea-2.jpg"
   },
   {
@@ -1059,7 +1059,7 @@
     "party": "D",
     "district": "102",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1420",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/5e4515a3-52f4-43e9-beaa-2fe8ac45c90d_Sachs.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b0c25078-ee4b-4638-9523-17997681a6e7",
@@ -1095,7 +1095,7 @@
     "party": "D",
     "district": "123",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3138",
-    "imageUrl": "https://boyer.mainecandidate.com/images/2080.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/c3185181-4ae9-42ce-8bf5-9a2f04c2422b",
@@ -1149,7 +1149,7 @@
     "party": "D",
     "district": "127",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1414",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/81d0ef8c-588c-417c-84c1-77b41cad5120_RiellyNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/58e6cfa5-f375-4619-b8b3-2ce7d176cb55",
@@ -1176,7 +1176,7 @@
     "party": "R",
     "district": "137",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1411",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/a06a6e19-aeb1-4d9f-b827-7ff997065c8d_CarlowNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/e53a09e6-a38e-4622-97e4-c40bf2d93faa",
@@ -1184,7 +1184,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "7",
-    "bioUrl": "https://legislature.maine.gov/district-7",
+    "bioUrl": "https://legislature.maine.gov/District7",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/senator-grohoski-photo-web.jpg"
   },
   {
@@ -1194,7 +1194,7 @@
     "party": "D",
     "district": "16",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1462",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/d61581cd-0cf9-4ffa-a29e-f767f25dec5f_NMILLIKEN.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/a3686503-340d-4f8b-91d3-6f8de4d8a55d",
@@ -1203,7 +1203,7 @@
     "party": "D",
     "district": "108",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3133",
-    "imageUrl": "https://parnellterry.mainecandidate.com/images/2143.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/ff5fbabd-df54-46a9-a36c-e78dad524105",
@@ -1293,7 +1293,7 @@
     "party": "R",
     "district": "56",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/208",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/46650f82-b988-4d47-8cb9-0a5abc26a0a2_Greenwood.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/8a7d14ca-669e-4984-8a28-0086e2b9b2ae",
@@ -1302,7 +1302,7 @@
     "party": "R",
     "district": "74",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1375",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/34a33c5a-2116-406e-8a63-e77dbb049077_hall.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/76ab2f9a-14e8-4eb5-ae0e-1a26e4a3a04c",
@@ -1311,7 +1311,7 @@
     "party": "R",
     "district": "37",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1496",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/7b5328a9-249c-464f-b943-d0fa3fe16d1c_RPAUL.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/4276be86-7dfa-4817-9792-52622b93ff40",
@@ -1319,7 +1319,7 @@
     "chamber": "senate",
     "party": "I",
     "district": "18",
-    "bioUrl": "https://legislature.maine.gov/District-19",
+    "bioUrl": "https://legislature.maine.gov/District18",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/bennett-5x7.jpg"
   },
   {
@@ -1364,7 +1364,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "5",
-    "bioUrl": "https://legislature.maine.gov/District-17",
+    "bioUrl": "https://legislature.maine.gov/District5",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/black-5x7.jpg"
   },
   {
@@ -1374,7 +1374,7 @@
     "party": "D",
     "district": "132",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/63",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/af773fba-d491-4e93-8680-460d93e4a3aa_FecteauRNEW.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d91a8965-c40d-481f-af61-5acb9b953fd3",
@@ -1400,7 +1400,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "16",
-    "bioUrl": "https://legislature.maine.gov/District-16",
+    "bioUrl": "https://legislature.maine.gov/District16",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/cyrway-5x7-1.jpg"
   },
   {
@@ -1428,7 +1428,7 @@
     "party": "I",
     "district": "58",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/3117",
-    "imageUrl": "https://frost.mainecandidate.com/images/2105.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/7498179f-e3de-47b7-9aee-9abee716522a",
@@ -1446,7 +1446,7 @@
     "party": "R",
     "district": "67",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1371",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/f5ef18ca-04bc-4226-a57d-0857e0087153_rudnicki.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/140459ab-ba63-410a-819c-aec28c2f2f66",
@@ -1463,7 +1463,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "4",
-    "bioUrl": "https://legislature.maine.gov/District-10",
+    "bioUrl": "https://legislature.maine.gov/District4",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/guerin-headshot-outdoors-rgb.jpg"
   },
   {
@@ -1472,7 +1472,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "30",
-    "bioUrl": "https://legislature.maine.gov/District-30",
+    "bioUrl": "https://legislature.maine.gov/District30",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/brenner-1022x1024.jpg"
   },
   {
@@ -1509,7 +1509,7 @@
     "party": "R",
     "district": "32",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1370",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/dc1e3209-322d-403d-b1b6-6290ee06199b_Foster.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/2c0651f3-bbea-49c8-9da3-a713953ff4d8",
@@ -1625,7 +1625,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "2",
-    "bioUrl": "https://legislature.maine.gov/District-2",
+    "bioUrl": "https://legislature.maine.gov/District2",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/stewart-harold-trey-1.jpg"
   },
   {
@@ -1644,7 +1644,7 @@
     "party": "D",
     "district": "41",
     "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1365",
-    "imageUrl": "https://legislature.maine.gov/house/house/Repository/MemberProfiles/b23e405e-96d3-42e0-8cea-8c5bb8949003_Doudera.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/674df0e4-1997-4d43-b377-274485c0cd42",
@@ -1679,7 +1679,7 @@
     "chamber": "house",
     "party": "R",
     "district": "139",
-    "bioUrl": "https://legislature.maine.gov/District-33",
+    "bioUrl": "https://legislature.maine.gov/house/house/MemberProfiles/Details/1480",
     "imageUrl": "https://legislature.maine.gov/uploads/visual_edit/woodsome-5x7-2.jpg"
   },
   {

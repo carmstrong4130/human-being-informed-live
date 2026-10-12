@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T15:03:18.147Z",
+  "lastUpdated": "2026-10-12T17:59:27.850Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 149,
-    "committees": 54,
+    "committees": 55,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "Iowa General Assembly",
     "url": "https://www.legis.iowa.gov"
   },
-  "lastUpdatedRoster": "2026-09-14T15:03:18.147Z"
+  "lastUpdatedRoster": "2026-10-12T17:59:27.850Z"
 }

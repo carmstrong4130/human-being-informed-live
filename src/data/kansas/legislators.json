@@ -14,7 +14,7 @@
     "chamber": "house",
     "party": "R",
     "district": "120",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_smith_adam_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_adam_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_smith_adam_1.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "23",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_thomas_adam_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_thomas_adam_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_thomas_adam_1.jpg"
   },
   {
@@ -32,7 +32,7 @@
     "chamber": "house",
     "party": "R",
     "district": "117",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_turk_adam_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_turk_adam_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_turk_adam_1.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "chamber": "house",
     "party": "D",
     "district": "103",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_martinez_angela_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_martinez_angela_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_martinez_angela_1.jpg"
   },
   {
@@ -77,7 +77,7 @@
     "chamber": "house",
     "party": "R",
     "district": "39",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_stiens_angela_1/",
+    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_stiens_angela_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_stiens_angela_1.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "chamber": "house",
     "party": "R",
     "district": "72",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_anderson_avery_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_anderson_avery_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_anderson_avery_1.jpg"
   },
   {
@@ -95,7 +95,7 @@
     "chamber": "house",
     "party": "R",
     "district": "111",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_wasinger_barbara_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_wasinger_barbara_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_wasinger_barbara_1.jpg"
   },
   {
@@ -104,7 +104,7 @@
     "chamber": "house",
     "party": "D",
     "district": "44",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_ballard_barbara_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ballard_barbara_1",
     "imageUrl": "https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2016/07/20043350/candidate_Barbara_Ballard003-714x1024.jpg"
   },
   {
@@ -113,7 +113,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "9",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/sen_gossage_beverly_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_gossage_beverly_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_gossage_beverly_1.jpg"
   },
   {
@@ -122,7 +122,7 @@
     "chamber": "house",
     "party": "R",
     "district": "64",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_bloom_lewis_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bloom_lewis_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_bloom_lewis_1.jpg"
   },
   {
@@ -131,7 +131,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "39",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_clifford_bill_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_clifford_bill_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_clifford_william_1.jpg"
   },
   {
@@ -140,7 +140,7 @@
     "chamber": "house",
     "party": "R",
     "district": "80",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_rhiley_bill_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_rhiley_bill_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_rhiley_bill_1.jpg"
   },
   {
@@ -149,7 +149,7 @@
     "chamber": "house",
     "party": "R",
     "district": "43",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_sutton_william_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sutton_william_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_sutton_william_1.jpg"
   },
   {
@@ -158,7 +158,7 @@
     "chamber": "house",
     "party": "R",
     "district": "81",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_carpenter_blake_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carpenter_blake_1",
     "imageUrl": "https://www.carpenterforkansas.com/wp-content/uploads/2022/07/Carpenter-Blues-Photo.png"
   },
   {
@@ -167,7 +167,7 @@
     "chamber": "house",
     "party": "R",
     "district": "123",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_lewis_bob_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_lewis_bob_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_lewis_bob_1.jpg"
   },
   {
@@ -194,7 +194,7 @@
     "chamber": "house",
     "party": "D",
     "district": "108",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_woodard_brandon_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_woodard_brandon_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_woodard_brandon_1.jpg"
   },
   {
@@ -203,7 +203,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "20",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_dietrich_brenda_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_dietrich_brenda_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_dietrich_brenda_1.jpg"
   },
   {
@@ -212,7 +212,7 @@
     "chamber": "house",
     "party": "R",
     "district": "113",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_fairchild_brett_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_fairchild_brett_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_fairchild_brett_1.jpg"
   },
   {
@@ -221,7 +221,7 @@
     "chamber": "house",
     "party": "R",
     "district": "93",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_bergkamp_brian_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergkamp_brian_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Brian-Bergkamp.jpg"
   },
   {
@@ -239,7 +239,7 @@
     "chamber": "house",
     "party": "R",
     "district": "28",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_turner_carl_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_turner_carl_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_turner_carl_1.jpg"
   },
   {
@@ -257,7 +257,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "12",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_tyson_caryn_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_tyson_caryn_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_tyson_caryn_1.jpg"
   },
   {
@@ -266,7 +266,7 @@
     "chamber": "house",
     "party": "R",
     "district": "14",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_esau_charlotte_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_esau_charlotte_1",
     "imageUrl": "https://jcrpks.org/wp-content/uploads/2024/07/MbZyrxoRqtLO-EsauMediaHeadshot-3-668x900.jpg"
   },
   {
@@ -275,7 +275,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "26",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/sen_blasi_chase_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_blasi_chase_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_blasi_chase_1.jpg"
   },
   {
@@ -293,7 +293,7 @@
     "chamber": "house",
     "party": "R",
     "district": "8",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_croft_chris_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_croft_chris_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_croft_chris_1.jpg"
   },
   {
@@ -302,7 +302,7 @@
     "chamber": "house",
     "party": "R",
     "district": "3",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_smith_charles_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_smith_charles_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_smith_charles_1.jpg"
   },
   {
@@ -311,7 +311,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "8",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_holscher_cindy_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_holscher_cindy_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Cindy-Holscher.jpg"
   },
   {
@@ -320,7 +320,7 @@
     "chamber": "house",
     "party": "D",
     "district": "18",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_neighbor_cindy_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_neighbor_cindy_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_neighbor_cindy_1.jpg"
   },
   {
@@ -329,7 +329,7 @@
     "chamber": "house",
     "party": "R",
     "district": "69",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_sanders_clarke_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sanders_clarke_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_sanders_clarke_1.jpg"
   },
   {
@@ -356,7 +356,7 @@
     "chamber": "house",
     "party": "R",
     "district": "98",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_howerton_cyndi_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howerton_cyndi_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_howerton_cyndi_1.jpg"
   },
   {
@@ -374,7 +374,7 @@
     "chamber": "house",
     "party": "R",
     "district": "7",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_goddard_dan_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_goddard_dan_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_goddard_dan_1.jpg"
   },
   {
@@ -383,7 +383,7 @@
     "chamber": "house",
     "party": "R",
     "district": "100",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_hawkins_daniel_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hawkins_daniel_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_hawkins_daniel_1.jpg"
   },
   {
@@ -392,7 +392,7 @@
     "chamber": "house",
     "party": "D",
     "district": "48",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_osman_dan_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_osman_dan_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_osman_dan_1.jpg"
   },
   {
@@ -401,7 +401,7 @@
     "chamber": "house",
     "party": "R",
     "district": "40",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_buehler_david_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_buehler_david_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_buehler_david_1.jpg"
   },
   {
@@ -410,7 +410,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "4",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_haley_david_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_haley_david_1",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/606b1f70a46bfa6ea792c03e/1618942086989-LIN2C4WCFMR47RKYDJ5V/Haley.jpg?format=1000w"
   },
   {
@@ -428,7 +428,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "21",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_sykes_dinah_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_sykes_dinah_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_sykes_dinah_1.jpg"
   },
   {
@@ -437,7 +437,7 @@
     "chamber": "house",
     "party": "R",
     "district": "12",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_blex_doug_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_blex_doug_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_blex_doug_1.jpg"
   },
   {
@@ -455,7 +455,7 @@
     "chamber": "house",
     "party": "R",
     "district": "13",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_droge_duane_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_droge_duane_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_droge_duane_1.jpg"
   },
   {
@@ -464,7 +464,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "36",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_bowers_elaine_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_bowers_elaine_1",
     "imageUrl": "https://img1.wsimg.com/isteam/ip/80c40439-022d-4960-b9db-9edee1fb7239/116288352_1853414708116161_8330522447916288057.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=h:500,cg:true"
   },
   {
@@ -473,7 +473,7 @@
     "chamber": "house",
     "party": "R",
     "district": "91",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_bergquist_emil_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bergquist_emil_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_bergquist_emil_1.jpg"
   },
   {
@@ -482,7 +482,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "7",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/sen_corson_ethan_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_corson_ethan_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_corson_ethan_1.jpg"
   },
   {
@@ -491,7 +491,7 @@
     "chamber": "house",
     "party": "D",
     "district": "84",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_carr_ford_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carr_ford_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_carr_ford_1.jpg"
   },
   {
@@ -500,7 +500,7 @@
     "chamber": "house",
     "party": "R",
     "district": "61",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_awerkamp_francis_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_awerkamp_francis_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_awerkamp_francis_1.jpg"
   },
   {
@@ -509,7 +509,7 @@
     "chamber": "house",
     "party": "R",
     "district": "9",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_gardner_fred_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_gardner_fred_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_gardner_fred_1.jpg"
   },
   {
@@ -518,7 +518,7 @@
     "chamber": "house",
     "party": "R",
     "district": "115",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_white_gary_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_white_gary_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Gary_White.jpeg"
   },
   {
@@ -536,7 +536,7 @@
     "chamber": "house",
     "party": "D",
     "district": "29",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_meyer_heather_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_meyer_heather_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_meyer_heather_1.jpg"
   },
   {
@@ -545,7 +545,7 @@
     "chamber": "house",
     "party": "D",
     "district": "83",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_helgerson_henry_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_helgerson_henry_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_helgerson_henry_1.jpg"
   },
   {
@@ -554,7 +554,7 @@
     "chamber": "house",
     "party": "D",
     "district": "24",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_ousley_jarrod_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ousley_jarrod_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_ousley_jarrod_1.jpg"
   },
   {
@@ -563,7 +563,7 @@
     "chamber": "house",
     "party": "R",
     "district": "119",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_goetz_jason_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_goetz_jason_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_goetz_jason_1.jpg"
   },
   {
@@ -581,7 +581,7 @@
     "chamber": "house",
     "party": "D",
     "district": "21",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_stogsdill_jerry_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_stogsdill_jerry_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_stogsdill_jerry_1.jpg"
   },
   {
@@ -590,7 +590,7 @@
     "chamber": "house",
     "party": "R",
     "district": "52",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_borjon_jesse_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_borjon_jesse_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_borjon_jesse_1.jpg"
   },
   {
@@ -608,7 +608,7 @@
     "chamber": "house",
     "party": "R",
     "district": "118",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_minnix_jim_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_minnix_jim_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_minnix_jim_1.jpg"
   },
   {
@@ -617,7 +617,7 @@
     "chamber": "house",
     "party": "D",
     "district": "17",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_hoye_jo_ella_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoye_jo_ella_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Jo-Ella-Hoye.PNG"
   },
   {
@@ -635,7 +635,7 @@
     "chamber": "house",
     "party": "R",
     "district": "101",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_seiwert_joe_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_seiwert_joe_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_seiwert_joe_1.jpg"
   },
   {
@@ -644,7 +644,7 @@
     "chamber": "house",
     "party": "D",
     "district": "57",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_alcala_john_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_alcala_john_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_alcala_john_1.jpg"
   },
   {
@@ -653,7 +653,7 @@
     "chamber": "house",
     "party": "D",
     "district": "92",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_carmichael_john_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carmichael_john_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/John_Carmichael.jpg"
   },
   {
@@ -662,7 +662,7 @@
     "chamber": "house",
     "party": "D",
     "district": "89",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_ohaebosim_kc_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ohaebosim_kc_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_ohaebosim_kc_1.jpg"
   },
   {
@@ -671,7 +671,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "11",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_warren_kellie_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_warren_kellie_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_warren_kellie_1.jpg"
   },
   {
@@ -680,7 +680,7 @@
     "chamber": "house",
     "party": "R",
     "district": "2",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_collins_kenneth_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_collins_kenneth_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_collins_kenneth_1.jpg"
   },
   {
@@ -689,7 +689,7 @@
     "chamber": "house",
     "party": "R",
     "district": "54",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_corbet_ken_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_corbet_ken_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_corbet_ken_1.jpg"
   },
   {
@@ -698,7 +698,7 @@
     "chamber": "house",
     "party": "R",
     "district": "110",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_rahjes_ken_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_rahjes_ken_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_rahjes_ken_1.jpg"
   },
   {
@@ -707,7 +707,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "18",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_titus_kenny_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_titus_kenny_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_titus_kenny_1.jpg"
   },
   {
@@ -725,7 +725,7 @@
     "chamber": "house",
     "party": "D",
     "district": "53",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_haskins_kirk_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_haskins_kirk_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_haskins_kirk_1.jpg"
   },
   {
@@ -734,7 +734,7 @@
     "chamber": "house",
     "party": "R",
     "district": "77",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_williams_kristey_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_williams_kristey_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_williams_kristey_1.jpg"
   },
   {
@@ -743,7 +743,7 @@
     "chamber": "house",
     "party": "R",
     "district": "116",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_hoffman_kyle_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoffman_kyle_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_hoffman_kyle_1.jpg"
   },
   {
@@ -752,7 +752,7 @@
     "chamber": "house",
     "party": "R",
     "district": "50",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_mcnorton_kyle_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcnorton_kyle_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_mcnorton_kyle_1.jpg"
   },
   {
@@ -770,7 +770,7 @@
     "chamber": "house",
     "party": "R",
     "district": "42",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_neelly_lance_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_neelly_lance_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_neelly_lance_1.jpg"
   },
   {
@@ -779,7 +779,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "32",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_alley_larry_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_alley_larry_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Larry_Alley.jpg"
   },
   {
@@ -788,7 +788,7 @@
     "chamber": "house",
     "party": "R",
     "district": "30",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_williams_laura_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_williams_laura_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_williams_laura_1.jpg"
   },
   {
@@ -806,7 +806,7 @@
     "chamber": "house",
     "party": "R",
     "district": "82",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_howell_leah_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howell_leah_1",
     "imageUrl": "https://img1.wsimg.com/isteam/ip/534758f8-3fcd-4777-8cd5-06b294ad98e6/Snapseed.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25"
   },
   {
@@ -815,7 +815,7 @@
     "chamber": "house",
     "party": "R",
     "district": "94",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_delperdang_leo_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_delperdang_leo_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rep_delperdang_leo_1.jpg"
   },
   {
@@ -824,7 +824,7 @@
     "chamber": "house",
     "party": "D",
     "district": "16",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_featherston_linda_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_featherston_linda_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Linda-Featherston.jpg"
   },
   {
@@ -833,7 +833,7 @@
     "chamber": "house",
     "party": "D",
     "district": "22",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_vaughn_lindsay_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_vaughn_lindsay_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_vaughn_lindsay_1.jpg"
   },
   {
@@ -842,7 +842,7 @@
     "chamber": "house",
     "party": "R",
     "district": "106",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_moser_lisa_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_moser_lisa_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_moser_lisa_1.jpg"
   },
   {
@@ -860,7 +860,7 @@
     "chamber": "house",
     "party": "D",
     "district": "31",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_ruiz_louis_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_louis_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_ruiz_louis_1.jpg"
   },
   {
@@ -869,7 +869,7 @@
     "chamber": "house",
     "party": "D",
     "district": "36",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_melton_lynn_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_melton_lynn_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_melton_lynn_1.jpg"
   },
   {
@@ -878,7 +878,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "2",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_francisco_marci_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_francisco_marci_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_francisco_marci_1.jpg"
   },
   {
@@ -887,7 +887,7 @@
     "chamber": "house",
     "party": "D",
     "district": "20",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_poskin_mari_lynn_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_poskin_mari_lynn_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_poskin_mari_lynn_1.jpg"
   },
   {
@@ -896,7 +896,7 @@
     "chamber": "house",
     "party": "R",
     "district": "60",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_schreiber_mark_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schreiber_mark_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_schreiber_mark_1.jpg"
   },
   {
@@ -905,7 +905,7 @@
     "chamber": "house",
     "party": "R",
     "district": "124",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_long_martin_1/",
+    "bioUrl": "https://www.kslegislature.org/li_2022/b2021_22/members/rep_long_martin_1/",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_long_martin_1.jpg"
   },
   {
@@ -923,7 +923,7 @@
     "chamber": "house",
     "party": "D",
     "district": "37",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_oropeza_melissa_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_oropeza_melissa_1",
     "imageUrl": "https://static.wixstatic.com/media/b85886_bf3234c73f3d4fc9860eabd10f95d123~mv2.jpg"
   },
   {
@@ -932,7 +932,7 @@
     "chamber": "house",
     "party": "D",
     "district": "45",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_amyx_mike_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_amyx_mike_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_amyx_mike_1.jpg"
   },
   {
@@ -950,7 +950,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "14",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/sen_fagg_michael_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_fagg_michael_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_fagg_michael_1.jpg"
   },
   {
@@ -968,7 +968,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "34",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_murphy_michael_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_murphy_michael_1",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvKwXLW2-GGx639WKAs10NgKJgmOprF8JoSnBrc3tSNe41yMEh6bGuVEiIvAulBU795Tk&usqp=CAU"
   },
   {
@@ -977,7 +977,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "28",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_petersen_mike_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_petersen_mike_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_petersen_mike_1.jpg"
   },
   {
@@ -995,7 +995,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "10",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_thompson_mike_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_thompson_mike_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_thompson_mike_1.jpg"
   },
   {
@@ -1004,7 +1004,7 @@
     "chamber": "house",
     "party": "R",
     "district": "68",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_butler_nathan_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_butler_nathan_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_butler_nathan_1.jpg"
   },
   {
@@ -1013,7 +1013,7 @@
     "chamber": "house",
     "party": "R",
     "district": "97",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_hoheisel_nick_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hoheisel_nick_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_hoheisel_nick_1.jpg"
   },
   {
@@ -1022,7 +1022,7 @@
     "chamber": "house",
     "party": "D",
     "district": "49",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_mcdonald_nikki_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_mcdonald_nikki_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_mcdonald_nikki_1.jpg"
   },
   {
@@ -1031,7 +1031,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "29",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_faust_goudeau_oletha_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_faust_goudeau_oletha_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Oletha_Faust-Goudeau.jpg"
   },
   {
@@ -1040,7 +1040,7 @@
     "chamber": "house",
     "party": "D",
     "district": "32",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_curtis_pam_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_curtis_pam_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_curtis_pam_1.jpg"
   },
   {
@@ -1049,7 +1049,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "6",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_pettey_pat_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_pettey_pat_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_pettey_pat_1.jpg"
   },
   {
@@ -1058,7 +1058,7 @@
     "chamber": "house",
     "party": "R",
     "district": "41",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_proctor_pat_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_proctor_pat_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_proctor_pat_1.jpg"
   },
   {
@@ -1076,7 +1076,7 @@
     "chamber": "house",
     "party": "R",
     "district": "104",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_waggoner_paul_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waggoner_paul_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_waggoner_paul_1.jpg"
   },
   {
@@ -1085,7 +1085,7 @@
     "chamber": "house",
     "party": "R",
     "district": "59",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_schmoe_rebecca_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schmoe_rebecca_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_schmoe_rebecca_1.jpg"
   },
   {
@@ -1094,7 +1094,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "30",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_erickson_renee_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_erickson_renee_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_erickson_renee_1.jpg"
   },
   {
@@ -1103,7 +1103,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "40",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_billinger_rick_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_billinger_rick_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_billinger_rick_1.jpg"
   },
   {
@@ -1121,7 +1121,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "3",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/sen_kloos_rick_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_kloos_rick_1",
     "imageUrl": "https://www.ksn.com/wp-content/uploads/sites/13/2018/10/20180607_Rick20Kloos20-20Govenor20Candidate_3420-20Alexandra20Martinez_1539633409099.jpg_59052445_ver1.0.jpg?w=2560&h=1440&crop=1"
   },
   {
@@ -1130,7 +1130,7 @@
     "chamber": "house",
     "party": "R",
     "district": "73",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_wilborn_rick_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_wilborn_rick_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_wilborn_rick_1.jpg"
   },
   {
@@ -1139,7 +1139,7 @@
     "chamber": "house",
     "party": "R",
     "district": "78",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_essex_robyn_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_essex_robyn_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_essex_robyn_1.jpg"
   },
   {
@@ -1148,7 +1148,7 @@
     "chamber": "house",
     "party": "R",
     "district": "11",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_bryce_ron_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_bryce_ron_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_bryce_ron_1.jpg"
   },
   {
@@ -1157,7 +1157,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "38",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/sen_ryckman_ronald_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_ryckman_ronald_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_ryckman_ronald_1.jpg"
   },
   {
@@ -1166,7 +1166,7 @@
     "chamber": "house",
     "party": "R",
     "district": "47",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_ellis_ronald_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ellis_ronald_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_ellis_ronald_1.jpg"
   },
   {
@@ -1175,7 +1175,7 @@
     "chamber": "house",
     "party": "D",
     "district": "25",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_xu_rui_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_xu_rui_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/rui_xu.jpg"
   },
   {
@@ -1184,7 +1184,7 @@
     "chamber": "house",
     "party": "R",
     "district": "6",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_poetter_samantha_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_poetter_samantha_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_poetter_samantha_1.jpg"
   },
   {
@@ -1193,7 +1193,7 @@
     "chamber": "house",
     "party": "R",
     "district": "88",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_pickert_sandy_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_pickert_sandy_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_pickert_sandy_1.jpg"
   },
   {
@@ -1202,7 +1202,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "24",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_hill_scott_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_hill_scott_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_hill_scott_1.jpg"
   },
   {
@@ -1211,7 +1211,7 @@
     "chamber": "house",
     "party": "R",
     "district": "27",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_tarwater_sean_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_tarwater_sean_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_tarwater_sean_1.jpg"
   },
   {
@@ -1229,7 +1229,7 @@
     "chamber": "house",
     "party": "R",
     "district": "125",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_francis_shannon_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_francis_shannon_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_francis_shannon_1.jpg"
   },
   {
@@ -1256,7 +1256,7 @@
     "chamber": "senate",
     "party": "D",
     "district": "25",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_miller_silas_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_miller_silas_1",
     "imageUrl": "https://media.sharethetrail.net/prod_d_1/images/silas-miller_5_sq.height-800.jpg"
   },
   {
@@ -1265,7 +1265,7 @@
     "chamber": "house",
     "party": "D",
     "district": "19",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_clayton_stephanie_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_clayton_stephanie_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_clayton_stephanie_1.jpg"
   },
   {
@@ -1274,7 +1274,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "31",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_owens_stephen_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_owens_stephen_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_owens_stephen_1.jpg"
   },
   {
@@ -1283,7 +1283,7 @@
     "chamber": "house",
     "party": "R",
     "district": "85",
-    "bioUrl": "https://www.kslegislature.org/li/b2015_16/members/rep_brunk_steve_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v7/rev-1/members/rep_brunk_steve_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_brunk_steve_1.jpg"
   },
   {
@@ -1292,7 +1292,7 @@
     "chamber": "house",
     "party": "R",
     "district": "71",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_howe_steven_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_howe_steven_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_howe_steven_1.jpg"
   },
   {
@@ -1301,7 +1301,7 @@
     "chamber": "house",
     "party": "R",
     "district": "90",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_huebert_steve_1/",
+    "bioUrl": "https://www.kslegislature.org/li_2022/b2021_22/members/rep_huebert_steve_1/",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_huebert_steve_1.jpg"
   },
   {
@@ -1310,7 +1310,7 @@
     "chamber": "house",
     "party": "R",
     "district": "87",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_estes_susan_2/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_estes_susan_2",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_estes_susan_2.jpg"
   },
   {
@@ -1319,7 +1319,7 @@
     "chamber": "house",
     "party": "R",
     "district": "99",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_humphries_susan_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_humphries_susan_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_humphries_susan_1.jpg"
   },
   {
@@ -1328,7 +1328,7 @@
     "chamber": "house",
     "party": "D",
     "district": "23",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_ruiz_susan_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_ruiz_susan_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_ruiz_susan_1.jpg"
   },
   {
@@ -1346,7 +1346,7 @@
     "chamber": "house",
     "party": "D",
     "district": "66",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_carlin_sydney_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carlin_sydney_1",
     "imageUrl": "https://assets.nationbuilder.com/carlinforkansas/pages/22/attachments/original/1473126263/IMG_0437.JPG?1473126263"
   },
   {
@@ -1364,7 +1364,7 @@
     "chamber": "house",
     "party": "R",
     "district": "38",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_johnson_timothy_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_johnson_timothy_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_johnson_timothy_1.jpg"
   },
   {
@@ -1373,7 +1373,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "13",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/sen_shallenburger_tim_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_shallenburger_tim_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_shallenburger_tim_1.jpg"
   },
   {
@@ -1382,7 +1382,7 @@
     "chamber": "house",
     "party": "D",
     "district": "55",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_schlingensiepen_tobias_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_schlingensiepen_tobias_1",
     "imageUrl": "https://images.squarespace-cdn.com/content/v1/62a93b88228a337fdf4f80e2/1655346125169-V2O5XAAA56EL7GFUJ9L6/Tobias+4KH+0422.jpg?format=500w"
   },
   {
@@ -1391,7 +1391,7 @@
     "chamber": "house",
     "party": "R",
     "district": "96",
-    "bioUrl": "https://www.kslegislature.org/li/b2021_22/members/rep_kessler_tom_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_kessler_tom_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_kessler_tom_1.jpg"
   },
   {
@@ -1400,7 +1400,7 @@
     "chamber": "house",
     "party": "D",
     "district": "95",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_sawyer_tom_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_sawyer_tom_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_sawyer_tom_1.jpg"
   },
   {
@@ -1409,7 +1409,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "33",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_arnberger_tory_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_arnberger_tory_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_blew_marie_1.jpg"
   },
   {
@@ -1418,7 +1418,7 @@
     "chamber": "house",
     "party": "R",
     "district": "109",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_waymaster_troy_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_waymaster_troy_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_waymaster_troy_1.jpg"
   },
   {
@@ -1427,7 +1427,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "16",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/sen_masterson_ty_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_masterson_ty_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_masterson_ty_1.jpg"
   },
   {
@@ -1436,7 +1436,7 @@
     "chamber": "house",
     "party": "D",
     "district": "34",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_winn_valdenia_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_winn_valdenia_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_winn_valdenia_1.jpg"
   },
   {
@@ -1445,7 +1445,7 @@
     "chamber": "senate",
     "party": "R",
     "district": "15",
-    "bioUrl": "https://www.kslegislature.org/li/b2015_16/members/rep_peck_virgil_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/sen_peck_virgil_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/sen_peck_virgil_1.jpg"
   },
   {
@@ -1454,7 +1454,7 @@
     "chamber": "house",
     "party": "D",
     "district": "56",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_weigel_virgil_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_weigel_virgil_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_weigel_virgil_1.jpg"
   },
   {
@@ -1463,7 +1463,7 @@
     "chamber": "house",
     "party": "D",
     "district": "35",
-    "bioUrl": "https://kslegislature.gov/li/b2023_24/members/rep_paige_wanda_1/",
+    "bioUrl": "https://www.kslegislature.gov/legislators/rep_paige_wanda_1/",
     "imageUrl": "https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1706627854/kckpsorg/nslthss5ye6gddnitdew/W_Paige.png"
   },
   {
@@ -1472,7 +1472,7 @@
     "chamber": "house",
     "party": "R",
     "district": "79",
-    "bioUrl": "https://www.kslegislature.org/li/b2023_24/members/rep_roth_webster_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_roth_webster_1",
     "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_roth_webster_1.jpg"
   },
   {
@@ -1481,7 +1481,7 @@
     "chamber": "house",
     "party": "R",
     "district": "75",
-    "bioUrl": "https://www.kslegislature.org/li/b2019_20/members/rep_carpenter_will_1/",
+    "bioUrl": "https://www.kslegislature.org/li/api/v11/rev-1/members/rep_carpenter_will_1",
     "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Will_Carpenter.jpg"
   }
 ]

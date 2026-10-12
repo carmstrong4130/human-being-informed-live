@@ -159,7 +159,7 @@
     "party": "R",
     "district": "32",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HEZZE",
-    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HEZZE.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/83df260f-2110-4d39-8e19-6a2edc33491d",
@@ -240,7 +240,7 @@
     "party": "R",
     "district": "35",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SBRAC",
-    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SDIAM.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/2e2ecadf-7236-48c5-8145-e7fea6fcd393",
@@ -447,7 +447,7 @@
     "party": "R",
     "district": "34",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTOWJ",
-    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HTOWJ.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/d92a32b1-e3ef-43d7-8e63-c24e59c52b3d",
@@ -492,7 +492,7 @@
     "party": "D",
     "district": "4",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHEJO",
-    "imageUrl": "https://progressivevotersguide.com/sites/default/files/styles/candidate/public/new%20mexico/2024/general/Joseph%20H.jpg?itok=DRcr52HE"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/0ed175a3-3c71-4b42-bf53-9435d0f93f52",
@@ -564,7 +564,7 @@
     "party": "R",
     "district": "42",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HSCOT",
-    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HSCOT.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/9b0d6912-d333-4ae7-b626-ce643099a43d",
@@ -600,7 +600,7 @@
     "party": "D",
     "district": "24",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HTRUL",
-    "imageUrl": "http://www.nmlegis.gov/Images/Legislators/House/HTRUL.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/1ed4e059-94c6-4404-b28e-0dc572112d03",

@@ -663,7 +663,7 @@
     "party": "R",
     "district": "10",
     "bioUrl": "https://ohiosenate.gov/members/kyle-koehler",
-    "imageUrl": "http://www.ohiohouse.gov/Assets/Headshots/Small/79.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/b2c76bf8-569f-4e80-bd3d-fa8273a8356c",
@@ -771,7 +771,7 @@
     "party": "R",
     "district": "77",
     "bioUrl": "https://ohiohouse.gov/members/meredith-craig",
-    "imageUrl": "https://www.meredithcraigforohio.com/dejilah/sites/522/2024/08/craig-new-photo.png"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/4b1e7c00-c159-407e-83d8-2eb24ba175db",
@@ -816,7 +816,7 @@
     "party": "R",
     "district": "17",
     "bioUrl": "https://www.ohiohouse.gov/members/michael-d-dovilla",
-    "imageUrl": "http://www.ohiohouse.gov/Assets/Headshots/Small/7.jpg"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/72bb7360-10c1-42d9-8781-32ddf8fef5fd",
@@ -1049,7 +1049,7 @@
     "chamber": "house",
     "party": "R",
     "district": "59",
-    "bioUrl": "https://ohiohouse.gov/houseapp/members/tex-fischer",
+    "bioUrl": "https://www.ohiohouse.gov/members/tex-fischer",
     "imageUrl": "https://ogden_images.s3.amazonaws.com/www.salemnews.net/images/2024/06/27232837/Fischer-Tex.jpg"
   },
   {

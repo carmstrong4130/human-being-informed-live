@@ -11,7 +11,6 @@
       "ocd-person/17d5c3a4-a468-4aca-b58c-314605214857",
       "ocd-person/0cffa048-1b45-4609-a1b6-9e741ca1948c",
       "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
-      "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
       "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7",
       "ocd-person/aefe24ff-5a23-48bd-a5df-faa7b3dd0af9",
       "ocd-person/a688f8ac-d265-4830-963f-617b726524ed",
@@ -19,7 +18,7 @@
       "ocd-person/cfa7e540-ce4e-4230-9f82-9784d11733cb",
       "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=417&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/admnrul"
   },
   {
     "id": "ocd-organization/d2c26213-42d5-498f-8d38-c7c6a7864600",
@@ -71,7 +70,7 @@
       "ocd-person/25f65ce4-eb63-4beb-92d0-0d07db7f851a",
       "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=499&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/agri"
   },
   {
     "id": "ocd-organization/e710abf6-f591-47b0-a052-fd74cc61f513",
@@ -108,7 +107,7 @@
       "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c",
       "ocd-person/fc634688-e6d0-4b9b-919c-0c1f001d51a7"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=475&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/alcohol"
   },
   {
     "id": "ocd-organization/8ea9eb08-781e-47f1-9a30-9bf80ec904e1",
@@ -220,7 +219,7 @@
       "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b",
       "ocd-person/d3a66cdd-0469-4c20-90da-620f60c4b4be"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/approp"
   },
   {
     "id": "ocd-organization/02199811-b2fb-44e2-ac28-78a5b892a7a0",
@@ -236,7 +235,7 @@
       "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
       "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=420&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/bank"
   },
   {
     "id": "ocd-organization/a96406e7-0ee4-4e19-a8b6-197cfff79923",
@@ -254,7 +253,7 @@
       "ocd-person/f61f3be0-ac28-411d-9641-917af1eb6753",
       "ocd-person/a2be8726-7870-43b3-bbac-381824466f9c"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=421&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/bus"
   },
   {
     "id": "ocd-organization/8705e3b1-807a-48c8-9879-d3b5268d86f5",
@@ -280,12 +279,11 @@
     "members": [
       "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
       "ocd-person/03af3716-0ac4-49f5-b25a-ff757420d87d",
-      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
       "ocd-person/09b3acaf-ac32-4f74-9bfe-37d84beb09c8",
       "ocd-person/b0168a8a-bf16-4ddb-85ef-a7503cdb4d66",
       "ocd-person/e9c3844d-e861-4848-8737-539fdb553eb9"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=422&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/child"
   },
   {
     "id": "ocd-organization/a7874ea4-655f-4df4-ac64-23405b4f4d07",
@@ -302,7 +300,7 @@
       "ocd-person/3d8b5070-b96a-4976-b886-e889214ffd0b",
       "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=433&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/jud/judciv"
   },
   {
     "id": "ocd-organization/cc7077a0-3b84-4b41-8421-15400002e410",
@@ -346,7 +344,7 @@
       "ocd-person/a73e2372-a002-448b-afbb-31398aed55b1",
       "ocd-person/e5d78f97-752b-4bff-a413-4704ed7c230a"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=423&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/comed"
   },
   {
     "id": "ocd-organization/66aa7d79-1dc3-4106-a28b-8b5fa74489c0",
@@ -360,7 +358,7 @@
       "ocd-person/a791f43c-0ca9-42aa-b90a-98968718a7e1",
       "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=424&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/county"
   },
   {
     "id": "ocd-organization/8a2850f1-9741-4af4-8695-dddd1e78de92",
@@ -374,7 +372,7 @@
       "ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062",
       "ocd-person/a865c489-d177-4058-af64-51c2f0abef68"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=474&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=515&SubCommID=0"
   },
   {
     "id": "ocd-organization/1dda842e-6f40-447f-8ac1-e33f9ff691f0",
@@ -421,7 +419,6 @@
       "ocd-person/c5909558-d02d-438e-9c0c-50eb8c88f862",
       "ocd-person/dc094bcd-66c1-47f4-b9b0-94272636a7fe",
       "ocd-person/f7ab3ee8-1ec5-4218-ac6b-dba652f2a6d6",
-      "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
       "ocd-person/190ef3e9-fdd4-4434-80da-06ebb08f2eaf",
       "ocd-person/4085a19f-1853-48e4-88c8-8b5b9089054a",
       "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b",
@@ -437,7 +434,6 @@
       "ocd-person/f7a4c019-6e5c-40d8-8faf-9f7d44b83062",
       "ocd-person/e825fe1a-a46d-4a07-b9e4-c9e82e357c90",
       "ocd-person/82e04ad9-64c8-4439-9853-cbc3e273d637",
-      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
       "ocd-person/2c065b7f-f5eb-4c15-bd69-10a7fa339b28",
       "ocd-person/82b98199-7b85-488b-b5e8-7f135aad668f"
     ],
@@ -454,13 +450,12 @@
       "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
       "ocd-person/752b02fd-2ce1-46d3-88a3-337d64df6b1a",
       "ocd-person/a4127dd3-e7f6-4bab-9910-8372e141f160",
-      "ocd-person/6a662cc1-492b-4c65-a77c-9b8b202b1ae5",
       "ocd-person/a1d5d401-d767-4088-b9b6-e03af9d5ed49",
       "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
       "ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83",
       "ocd-person/bf810dce-34f8-4db5-b242-efc008311228"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=426&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/energy"
   },
   {
     "id": "ocd-organization/1e6a735c-ecf7-4b64-938d-78896523267b",
@@ -519,7 +514,7 @@
       "ocd-person/d93d9d8d-1299-423a-bb9e-ade2bcb0fa11",
       "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=117"
+    "officialUrl": "https://www.okhouse.gov/committees/house/ced/govmod"
   },
   {
     "id": "ocd-organization/937bc0c1-4082-4c19-9683-2aba8ed91be2",
@@ -536,7 +531,7 @@
       "ocd-person/bdd6a3f7-c76a-459e-aad3-e833a9e110f8",
       "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=511&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/ced/govmod"
   },
   {
     "id": "ocd-organization/7611219e-cba9-41cf-afaa-87cc912a9951",
@@ -595,7 +590,6 @@
       "ocd-person/382dfd67-bd2a-4271-bb79-62fe045102ea",
       "ocd-person/f9153735-938a-418b-ac4f-6881904861ac",
       "ocd-person/62d0d568-33cf-4ec6-b90e-5c2b45be82ba",
-      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
       "ocd-person/84087e63-a192-4be6-9367-64b2c93a2dcc",
       "ocd-person/a7eb5f03-0a2a-4235-b2f8-b4983e1a8cf2",
       "ocd-person/c9e547ff-6762-49f8-807c-32c78ce569cf",
@@ -620,7 +614,7 @@
       "ocd-person/6cac2a71-37ce-41be-8e9a-059f7a8667c5",
       "ocd-person/71996394-7250-43ab-b69f-8c0afa3b144a"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=432&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/ced/insur"
   },
   {
     "id": "ocd-organization/d3737b0c-c1d3-4b14-b79a-d6f4f1af0532",
@@ -797,7 +791,7 @@
       "ocd-person/c63ddc9a-5f9d-4cb5-b152-4828f4870682",
       "ocd-person/fa002548-470f-4cf0-8365-f6f5aa0c50c7"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=434&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/pubhlth"
   },
   {
     "id": "ocd-organization/0b272dae-1a19-4f1b-b0d4-d7b9b3519091",
@@ -807,13 +801,12 @@
       "ocd-person/b2857b06-9290-4141-9bc4-2a105bc51ce8",
       "ocd-person/0b9df925-a78c-4ee4-a58c-5d7c2ace10fd",
       "ocd-person/a91af3e5-8f27-4aa3-9c5d-6166eeb7ec8a",
-      "ocd-person/db2c481d-6dc5-455e-905c-2daac4bbc631",
       "ocd-person/8746752e-619b-454d-9ef6-7f4434acdd71",
       "ocd-person/bdd6a3f7-c76a-459e-aad3-e833a9e110f8",
       "ocd-person/1ba99d3e-ebea-4426-b91a-0560da625e83",
       "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=122"
+    "officialUrl": "https://www.okhouse.gov/committees/house/jud/pubsfty"
   },
   {
     "id": "ocd-organization/07c5f1b6-4ac2-4d17-a624-db98b9b4bf7a",
@@ -881,7 +874,7 @@
       "ocd-person/479b4def-b284-426b-8290-86bdce854bce",
       "ocd-person/8a0a65fd-9a33-4f93-a94a-131e0ec39e6b"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=436&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/rules"
   },
   {
     "id": "ocd-organization/2e09cf75-2656-4b68-b3d9-69e5f577a917",
@@ -955,7 +948,7 @@
       "ocd-person/bae91554-72c9-4dbd-b042-b4bd800e4732",
       "ocd-person/fc634688-e6d0-4b9b-919c-0c1f001d51a7"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=437&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/gov/states"
   },
   {
     "id": "ocd-organization/2f25ed58-d70a-44e3-9f75-2a0e8bd355e6",
@@ -1031,7 +1024,7 @@
       "ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820",
       "ocd-person/da01678a-03b7-4c2f-b93b-f98338c638b0"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=473&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/ced/tour"
   },
   {
     "id": "ocd-organization/cbcc6d7a-390c-4176-bc80-3d4a6f29f00c",
@@ -1051,7 +1044,7 @@
       "ocd-person/5822cf27-1b1f-40bd-ace3-a06a7f304820",
       "ocd-person/527c315f-7d62-4de1-a543-6c81a0ac11a3"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=419&SubCommID=124"
+    "officialUrl": "https://www.okhouse.gov/committees/house/ced/trans"
   },
   {
     "id": "ocd-organization/1879d3fa-06ad-4bc0-9bbd-754215bf2f56",
@@ -1068,7 +1061,7 @@
       "ocd-person/65f17e9b-aa29-4241-80c8-a800aea8ddae",
       "ocd-person/d3bf80d0-be37-4e25-b7c6-7e30e54fe158"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=441&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/enr/utility"
   },
   {
     "id": "ocd-organization/d7d8314c-ac36-40f0-8c0e-a63218dce8f2",
@@ -1116,6 +1109,6 @@
       "ocd-person/d8c6a83e-cdac-439d-af83-d90d9f543541",
       "ocd-person/7a7aca64-e9e6-465e-a423-6e4cf939c67a"
     ],
-    "officialUrl": "https://www.okhouse.gov/Committees/CommitteeMembers.aspx?CommID=443&SubCommID=0"
+    "officialUrl": "https://www.okhouse.gov/committees/house/enr/wild"
   }
 ]

@@ -158,7 +158,7 @@
     "chamber": "house",
     "party": "D",
     "district": "125",
-    "bioUrl": "https://assembly.state.ny.us/mem/Anna-Kelles",
+    "bioUrl": "https://assembly.state.ny.us/mem/Anna-R-Kelles",
     "imageUrl": "https://assembly.state.ny.us/write/upload/member_files/125/headshot/125.jpg?hst=1660074752"
   },
   {
@@ -168,7 +168,7 @@
     "party": "D",
     "district": "63",
     "bioUrl": "https://www.nysenate.gov/senators/april-baskin",
-    "imageUrl": "https://www4.erie.gov/baskin/sites/www4.erie.gov.baskin/files/styles/large/public/2021-12/legislator-baskin.jpg?itok=CSDw5X2I"
+    "imageUrl": null
   },
   {
     "id": "ocd-person/38ed0365-1654-4a2d-bb23-4428736df57f",
@@ -536,7 +536,7 @@
     "chamber": "house",
     "party": "D",
     "district": "68",
-    "bioUrl": "https://assembly.state.ny.us/mem/Eddie-Gibbs",
+    "bioUrl": "https://assembly.state.ny.us/mem/Edward-Gibbs",
     "imageUrl": "https://assembly.state.ny.us/write/upload/member_files/068/headshot/068.jpg?hst=1662988090"
   },
   {
