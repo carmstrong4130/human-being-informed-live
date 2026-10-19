@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T17:59:27.850Z",
+  "lastUpdated": "2026-10-19T15:40:44.740Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 142,
+    "legislators": 141,
     "committees": 57,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "Louisiana Legislature",
     "url": "https://www.legis.la.gov"
   },
-  "lastUpdatedRoster": "2026-10-12T17:59:27.850Z"
+  "lastUpdatedRoster": "2026-10-19T15:40:44.740Z"
 }

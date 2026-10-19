@@ -981,6 +981,15 @@
     "imageUrl": "https://www.legislature.ohio.gov/assets/people/sean-p-brennan/headshots/thumbnails/medium/sean-p-brennan-january-2023-headshot_medium.jpg"
   },
   {
+    "id": "ocd-person/f578440a-e5ea-4775-bb41-94adad15fa73",
+    "name": "Sean Hutson",
+    "chamber": "house",
+    "party": "R",
+    "district": "66",
+    "bioUrl": "https://ohiohouse.gov/members/sean-hutson",
+    "imageUrl": "https://img.legistorm.com/people/550/217550.jpg?rand=304840"
+  },
+  {
     "id": "ocd-person/bb1ae016-cdfe-48aa-8bc5-9e3636e430f3",
     "name": "Shane Wilkin",
     "chamber": "senate",

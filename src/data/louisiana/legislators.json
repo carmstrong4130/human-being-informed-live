@@ -792,15 +792,6 @@
     "imageUrl": null
   },
   {
-    "id": "ocd-person/d3ecec03-0408-46f0-8c82-b775f787e6e1",
-    "name": "Mark Wright",
-    "chamber": "house",
-    "party": "R",
-    "district": "77",
-    "bioUrl": "https://house.louisiana.gov/H_Reps/members.aspx?ID=77",
-    "imageUrl": null
-  },
-  {
     "id": "ocd-person/22590bd7-29fe-454d-b61d-2c54c4562274",
     "name": "Michael Echols",
     "chamber": "house",

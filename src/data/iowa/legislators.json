@@ -747,15 +747,6 @@
     "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=13794"
   },
   {
-    "id": "ocd-person/7a97018b-eb0e-46cf-8bd8-26520ff0d1e0",
-    "name": "Jon Dunwell",
-    "chamber": "house",
-    "party": "R",
-    "district": "38",
-    "bioUrl": "https://www.legis.iowa.gov/legislators/legislator?ga=89&personID=32165",
-    "imageUrl": "https://www.legis.iowa.gov/photo?action=getPhoto&ga=91&pid=32165"
-  },
-  {
     "id": "ocd-person/b28ad297-8f6d-4f36-807e-0acfa35c7d4c",
     "name": "Josh Meggers",
     "chamber": "house",
