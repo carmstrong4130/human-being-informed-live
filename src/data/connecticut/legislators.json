@@ -87,7 +87,7 @@
     "party": "D",
     "district": "41",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/041.png"
   },
   {
     "id": "ocd-person/240d52a3-33df-495c-b1a0-142cc43f3fce",
@@ -105,7 +105,7 @@
     "party": "D",
     "district": "115",
     "bioUrl": "https://www.housedems.ct.gov/heffernan",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/115.png"
   },
   {
     "id": "ocd-person/f7127b57-a72f-4b84-abf6-77b021cddf3f",
@@ -114,7 +114,7 @@
     "party": "R",
     "district": "71",
     "bioUrl": "https://cga.ct.gov/asp/CGABillStatus/CGAMemberBills.asp?dist_code=%27071%27&dist_name=Pizzuto,%20William",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/071.png"
   },
   {
     "id": "ocd-person/1c270bf3-7cc6-4e11-93fb-e35f5d9a1774",
@@ -204,7 +204,7 @@
     "party": "D",
     "district": "26",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/S26.png"
   },
   {
     "id": "ocd-person/3dac820b-e022-4ee6-a5d5-4b194f8988ec",
@@ -213,7 +213,7 @@
     "party": "R",
     "district": "35",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/035.png"
   },
   {
     "id": "ocd-person/7fda8e36-f73d-43e2-bf43-8365c617d94e",
@@ -222,7 +222,7 @@
     "party": "D",
     "district": "81",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/081.png"
   },
   {
     "id": "ocd-person/fdce734b-2080-4a62-bf9c-baec09572938",
@@ -294,7 +294,7 @@
     "party": "D",
     "district": "40",
     "bioUrl": "https://www.housedems.ct.gov/gaiewski",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/040.png"
   },
   {
     "id": "ocd-person/9c30cf12-f07a-4c35-be3f-97bd3a778767",
@@ -339,7 +339,7 @@
     "party": "D",
     "district": "46",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/046.png"
   },
   {
     "id": "ocd-person/79d4059c-5faa-443f-a842-7b494ea2d57e",
@@ -357,7 +357,7 @@
     "party": "D",
     "district": "143",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/143.png"
   },
   {
     "id": "ocd-person/63461ed0-da6d-4423-82bc-5b83c2a811cf",
@@ -420,7 +420,7 @@
     "party": "D",
     "district": "109",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/109.png"
   },
   {
     "id": "ocd-person/c09f368c-d954-48e1-b94b-18728ab9b6bd",
@@ -438,7 +438,7 @@
     "party": "D",
     "district": "126",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/126.png"
   },
   {
     "id": "ocd-person/c60ec8d2-fcc3-414e-a122-cca6aeef901d",
@@ -510,7 +510,7 @@
     "party": "D",
     "district": "151",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/151.png"
   },
   {
     "id": "ocd-person/a648c360-3b9e-408d-ba2a-c171edada365",
@@ -546,7 +546,7 @@
     "party": "D",
     "district": "23",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/S23.png"
   },
   {
     "id": "ocd-person/568f232d-2133-4eee-a886-c1927f7f88bc",
@@ -591,7 +591,7 @@
     "party": "D",
     "district": "83",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/083.png"
   },
   {
     "id": "ocd-person/784a12cd-3ecc-4fed-8b47-4e090038c2f8",
@@ -618,7 +618,7 @@
     "party": "D",
     "district": "13",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/S13.png"
   },
   {
     "id": "ocd-person/fee3a7d8-7e51-4c5a-af29-190694152ccc",
@@ -681,7 +681,7 @@
     "party": "R",
     "district": "35",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/S35.png"
   },
   {
     "id": "ocd-person/15c5ac01-eb03-4dd3-8ab6-d162e7420559",
@@ -717,7 +717,7 @@
     "party": "D",
     "district": "6",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/006.png"
   },
   {
     "id": "ocd-person/2c22d680-9e92-423b-a943-20571186c91a",
@@ -897,7 +897,7 @@
     "party": "D",
     "district": "137",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/137.png"
   },
   {
     "id": "ocd-person/75ee19d6-dea2-4ef3-9682-0bfa9f53fb38",
@@ -906,7 +906,7 @@
     "party": "D",
     "district": "100",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/100.png"
   },
   {
     "id": "ocd-person/91e5bc44-6a8d-410d-bab5-5eb34b90d368",
@@ -933,7 +933,7 @@
     "party": "R",
     "district": "66",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/066.png"
   },
   {
     "id": "ocd-person/96fa444a-7e86-4ead-9d2e-c3ffef258be2",
@@ -960,7 +960,7 @@
     "party": "D",
     "district": "138",
     "bioUrl": "https://www.housedems.ct.gov/gucker",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/138.png"
   },
   {
     "id": "ocd-person/d71060b1-2bb9-4239-ab9b-fad7d1a4d903",
@@ -978,7 +978,7 @@
     "party": "D",
     "district": "56",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/056.png"
   },
   {
     "id": "ocd-person/ffa361d0-7471-450e-aee8-cb0c32ee2742",
@@ -1050,7 +1050,7 @@
     "party": "D",
     "district": "4",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/S04.png"
   },
   {
     "id": "ocd-person/79a30b4c-53c7-4031-9267-66fbae2df6c8",
@@ -1086,7 +1086,7 @@
     "party": "D",
     "district": "127",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/127.png"
   },
   {
     "id": "ocd-person/283ad876-68be-4235-a108-e0aedbadde40",
@@ -1113,7 +1113,7 @@
     "party": "R",
     "district": "48",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/048.png"
   },
   {
     "id": "ocd-person/e171a437-11bc-4200-ae58-f6f8c4971f39",
@@ -1122,7 +1122,7 @@
     "party": "D",
     "district": "20",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/S20.png"
   },
   {
     "id": "ocd-person/2d21e401-cb76-4001-b836-e57f667f550f",
@@ -1140,7 +1140,7 @@
     "party": "R",
     "district": "107",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/107.png"
   },
   {
     "id": "ocd-person/dba46a90-f765-4508-a9e1-9bfdeb4a03dd",
@@ -1149,7 +1149,7 @@
     "party": "D",
     "district": "79",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/079.png"
   },
   {
     "id": "ocd-person/817e17bf-a01c-4bf1-b70f-3e16aeef088e",
@@ -1212,7 +1212,7 @@
     "party": "D",
     "district": "16",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/016.png"
   },
   {
     "id": "ocd-person/1e5a518e-ddf5-4976-b239-9a5324339a47",
@@ -1266,7 +1266,7 @@
     "party": "D",
     "district": "98",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/098.png"
   },
   {
     "id": "ocd-person/2f3d7307-89cd-4dac-a9ca-4b12d7bf777e",
@@ -1383,7 +1383,7 @@
     "party": "D",
     "district": "22",
     "bioUrl": "https://www.housedems.ct.gov/martinez",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/022.png"
   },
   {
     "id": "ocd-person/ed6fd366-fcec-4d7c-91fc-847667f604c9",
@@ -1455,7 +1455,7 @@
     "party": "D",
     "district": "134",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/134.png"
   },
   {
     "id": "ocd-person/686df3d6-3199-4d48-a27e-7b3e7c65de66",
@@ -1482,7 +1482,7 @@
     "party": "R",
     "district": "70",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/070.png"
   },
   {
     "id": "ocd-person/f0f89d15-9682-4a2e-8096-57700ac5b8dc",
@@ -1518,7 +1518,7 @@
     "party": "R",
     "district": "55",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/055.png"
   },
   {
     "id": "ocd-person/17c7aeb7-7f31-4ca3-9d8c-041451663ff0",
@@ -1653,7 +1653,7 @@
     "party": "R",
     "district": "141",
     "bioUrl": "ftp://ftp.cga.ct.gov/pub/data/LegislatorDatabase.csv",
-    "imageUrl": null
+    "imageUrl": "https://www.cga.ct.gov/legpics/141.png"
   },
   {
     "id": "ocd-person/9e9d6f02-ee29-4ff3-a6fe-1b8a0cec0612",

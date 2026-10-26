@@ -411,7 +411,7 @@
     "party": "D",
     "district": "35",
     "bioUrl": "https://www.assembly.ca.gov/assemblymembers/35",
-    "imageUrl": null
+    "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_35.jpg"
   },
   {
     "id": "ocd-person/552b5bf7-472d-48a4-bb9a-132c1f044737",
@@ -528,7 +528,7 @@
     "party": "R",
     "district": "7",
     "bioUrl": "https://www.assembly.ca.gov/assemblymembers",
-    "imageUrl": null
+    "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_07.jpg"
   },
   {
     "id": "ocd-person/dfb00d6c-1d0d-410f-8a06-d54841495a62",
@@ -780,7 +780,7 @@
     "party": "R",
     "district": "63",
     "bioUrl": "https://www.assembly.ca.gov/assemblymembers/63",
-    "imageUrl": null
+    "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_63.jpg"
   },
   {
     "id": "ocd-person/06ae0707-255b-4af9-8e3e-c940e8f29600",
@@ -942,7 +942,7 @@
     "party": "R",
     "district": "32",
     "bioUrl": "https://www.assembly.ca.gov/assemblymembers/32",
-    "imageUrl": null
+    "imageUrl": "https://webapi.assembly.ca.gov/district-media/assets/members/assembly_member_32.jpg"
   },
   {
     "id": "ocd-person/62102f53-b531-4290-9699-05a0d7687cae",

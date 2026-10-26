@@ -42,7 +42,7 @@
     "party": "R",
     "district": "14",
     "bioUrl": "https://leg.colorado.gov/legislators/ava-flanell",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEJUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5304bfc622fea842363e0fa2e5cbcb23d63aa5cf/Rep%20Flanell.jpeg"
   },
   {
     "id": "ocd-person/6d1fcaf0-ed3d-4772-876f-09dc5e931556",
@@ -123,7 +123,7 @@
     "party": "D",
     "district": "37",
     "bioUrl": "https://leg.colorado.gov/legislators/chad-clifford",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmxUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--440e192273c07cd1802c3f80053294b1fc1466f0/Clifford,%20Chad.jpg"
   },
   {
     "id": "ocd-person/f72691ec-a5a0-413b-a344-e452009551a2",
@@ -393,7 +393,7 @@
     "party": "D",
     "district": "17",
     "bioUrl": "https://leg.colorado.gov/legislators/katie-wallace",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVpTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccec530ad3acc81ebd2174a2e748819018094813/wallace%20katie.jpg"
   },
   {
     "id": "ocd-person/767c8676-7cf0-45bf-9e20-e615d4d13c5e",
@@ -411,7 +411,7 @@
     "party": "D",
     "district": "33",
     "bioUrl": "https://leg.colorado.gov/legislators/kenny-nguyen",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2hWQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9b1ecc716972f212d3b5fa44d7984f6a797f367/Nguyen,-Kenny.jpg"
   },
   {
     "id": "ocd-person/f376a75e-e0b0-4bf7-95b1-0931ade3bdb8",
@@ -447,7 +447,7 @@
     "party": "R",
     "district": "58",
     "bioUrl": "https://leg.colorado.gov/legislators/larry-don-suckla",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUpUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b9d44adbd15e44548363ced61b10a873a3a90db/Suckla,%20Larry%20Don.jpg"
   },
   {
     "id": "ocd-person/475639af-fb56-4fde-9a78-213593db91d0",
@@ -528,7 +528,7 @@
     "party": "D",
     "district": "29",
     "bioUrl": "https://leg.colorado.gov/legislators/lori-goldstein",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c9f2d149165dbada9f3390e8d08ed879dc90f881/Goldstein,-Lori.jpg"
   },
   {
     "id": "ocd-person/e5055578-02cb-435c-9fe0-b877318e3b1b",
@@ -537,7 +537,7 @@
     "party": "R",
     "district": "9",
     "bioUrl": "https://leg.colorado.gov/legislators/lynda-zamora-wilson",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2hTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9f490eb4c61fa8d40c93bf6264c05d3e4471de6/Zamora%20Wilson.jpg"
   },
   {
     "id": "ocd-person/2582d3dd-20c0-4d15-83a0-3b6dab1e98d2",
@@ -780,7 +780,7 @@
     "party": "R",
     "district": "64",
     "bioUrl": "https://leg.colorado.gov/legislators/scott-slaugh",
-    "imageUrl": null
+    "imageUrl": "https://leg.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzVUQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e6191fb1cd75d1bcd0669b7105c3d347e0d598d/Slaugh,-Scott.jpg"
   },
   {
     "id": "ocd-person/56e058a4-2a75-4864-8d5e-18c1c98f6960",

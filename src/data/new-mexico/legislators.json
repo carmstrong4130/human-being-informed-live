@@ -114,7 +114,7 @@
     "party": "R",
     "district": "3",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HHABI",
-    "imageUrl": null
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HHABI.jpg"
   },
   {
     "id": "ocd-person/7a7be318-78b1-49c6-bd98-f2b9b7476372",
@@ -663,7 +663,7 @@
     "party": "R",
     "district": "59",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=HMURP",
-    "imageUrl": null
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HMURP.jpg"
   },
   {
     "id": "ocd-person/fb0443f9-b6d7-4b3b-a87e-0d8b143ed64b",
@@ -672,7 +672,7 @@
     "party": "D",
     "district": "6",
     "bioUrl": "https://www.nmlegis.gov/members/Legislator?SponCode=HGAMA",
-    "imageUrl": null
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/House/HGAMA.jpg"
   },
   {
     "id": "ocd-person/88fd357f-3fb1-4c2b-b49b-555231011c46",
@@ -906,7 +906,7 @@
     "party": "R",
     "district": "33",
     "bioUrl": "https://www.nmlegis.gov/Members/Legislator?SponCode=SWIRE",
-    "imageUrl": null
+    "imageUrl": "https://www.nmlegis.gov/Images/Legislators/Senate/SWIRE.jpg"
   },
   {
     "id": "ocd-person/948ba2f7-fd71-42ed-a35a-e692b76d2ca2",

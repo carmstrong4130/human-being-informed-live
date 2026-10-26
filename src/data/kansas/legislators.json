@@ -987,7 +987,7 @@
     "party": "R",
     "district": "121",
     "bioUrl": "https://www.kslegislature.gov/legislators/rep_storm_mike_1/",
-    "imageUrl": "https://www.kslegislature.gov/static/li_pics/rep_storm_mike_1.jpg"
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/thumbs/200/300/Mike_Storm.jpeg"
   },
   {
     "id": "ocd-person/97943c08-7d1f-400e-b71d-7a20e939b1d9",

@@ -6,7 +6,7 @@
     "party": "D",
     "district": "7",
     "bioUrl": "https://www.legis.ga.gov/members/senate/5097",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/carden-adrienne-white-5097.jpg"
   },
   {
     "id": "ocd-person/938f2479-c51f-446a-87f0-76d4f07c61e5",
@@ -15,7 +15,7 @@
     "party": "D",
     "district": "106",
     "bioUrl": "https://www.legis.ga.gov/members/house/5089",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/ali-akbar-5089.jpg"
   },
   {
     "id": "ocd-person/a5a0998b-3837-4c4e-a66b-a567dc2f9d77",
@@ -42,7 +42,7 @@
     "party": "D",
     "district": "177",
     "bioUrl": "https://www.legis.ga.gov/members/house/5096?session=1034",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/payton-alvin-5096.jpg"
   },
   {
     "id": "ocd-person/b001a55f-61fa-4e62-85fd-ac6c282f2711",
@@ -132,7 +132,7 @@
     "party": "R",
     "district": "23",
     "bioUrl": "https://www.legis.ga.gov/members/house/5092",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/fincher-bill-5092.jpg"
   },
   {
     "id": "ocd-person/4a9ef816-9130-4510-a19e-3124e3f2aeed",
@@ -699,7 +699,7 @@
     "party": "D",
     "district": "121",
     "bioUrl": "https://www.legis.ga.gov/members/house/5091",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/gisler-eric-5091.jpg"
   },
   {
     "id": "ocd-person/bdc621be-7296-4383-8c45-b4533d1c106c",
@@ -852,7 +852,7 @@
     "party": "D",
     "district": "35",
     "bioUrl": "https://www.legis.ga.gov/members/senate/5090",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/howard-jaha-5090.jpg"
   },
   {
     "id": "ocd-person/dbce462d-74e3-42d3-bd6c-3b9f8eeb69fe",
@@ -897,7 +897,7 @@
     "party": "R",
     "district": "21",
     "bioUrl": "https://www.legis.ga.gov/members/senate/5088",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/dickerson-jason-5088.jpg"
   },
   {
     "id": "ocd-person/594aa971-500b-42a4-9d7a-1ceb4c029220",
@@ -1140,7 +1140,7 @@
     "party": "D",
     "district": "126",
     "bioUrl": "https://www.legis.ga.gov/members/house/5079",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/myles-lc-5079.jpg"
   },
   {
     "id": "ocd-person/ae6e08e3-6971-4cd2-982a-48d650a343d5",
@@ -1374,7 +1374,7 @@
     "party": "R",
     "district": "23",
     "bioUrl": "https://www.legis.ga.gov/members/senate",
-    "imageUrl": null
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/burns-max-4979.jpg"
   },
   {
     "id": "ocd-person/f0af2586-d535-4e44-bcaa-65239f9390b1",

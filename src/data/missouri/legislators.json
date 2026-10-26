@@ -69,7 +69,7 @@
     "party": "D",
     "district": "9",
     "bioUrl": "https://www.house.mo.gov/MemberDetails.aspx?district=23",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Washington09.jpg"
   },
   {
     "id": "ocd-person/54f9145f-2529-448e-8238-b00d049a782c",
@@ -87,7 +87,7 @@
     "party": "R",
     "district": "117",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=117",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2517"
   },
   {
     "id": "ocd-person/c44ce433-7957-40b8-98dd-221b2f7d1436",
@@ -168,7 +168,7 @@
     "party": "R",
     "district": "115",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=115",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2516"
   },
   {
     "id": "ocd-person/d9dd5492-e605-4fc6-a18a-8772a7682a08",
@@ -249,7 +249,7 @@
     "party": "R",
     "district": "54",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=054",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2494"
   },
   {
     "id": "ocd-person/b7d28fcb-9563-420c-91bb-01d3202124fd",
@@ -330,7 +330,7 @@
     "party": "R",
     "district": "33",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=033",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2488"
   },
   {
     "id": "ocd-person/0d50b579-ab89-4b9c-ae24-eb0d4216f3bd",
@@ -366,7 +366,7 @@
     "party": "D",
     "district": "75",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=075",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2502"
   },
   {
     "id": "ocd-person/43f13a74-64cd-41b6-b03a-51af80dbfc10",
@@ -420,7 +420,7 @@
     "party": "R",
     "district": "20",
     "bioUrl": "https://www.senate.mo.gov/Senators/Member/20",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Trent20.jpg"
   },
   {
     "id": "ocd-person/616dd247-4438-44de-97b4-cd3a5a3e554d",
@@ -555,7 +555,7 @@
     "party": "D",
     "district": "28",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=028",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2486"
   },
   {
     "id": "ocd-person/f6f3c354-c65e-4d9a-a713-5fce1ad2c403",
@@ -717,7 +717,7 @@
     "party": "D",
     "district": "86",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=086",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2507"
   },
   {
     "id": "ocd-person/fa6c1b05-02e8-4c6f-9a84-d1f58885ea04",
@@ -762,7 +762,7 @@
     "party": "R",
     "district": "32",
     "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=273",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Carter32.jpg"
   },
   {
     "id": "ocd-person/49c68d0e-cf5d-4b46-9890-c887a428929e",
@@ -906,7 +906,7 @@
     "party": "R",
     "district": "153",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?district=153",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2528"
   },
   {
     "id": "ocd-person/e4b24233-89d2-41eb-b360-ae297e3385ba",
@@ -1023,7 +1023,7 @@
     "party": "R",
     "district": "154",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=154",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2529"
   },
   {
     "id": "ocd-person/9a78c55e-0f06-4dd9-b86e-287db7332d98",
@@ -1068,7 +1068,7 @@
     "party": "R",
     "district": "39",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=039",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2490"
   },
   {
     "id": "ocd-person/443938dd-c7a0-4061-890a-8bd4ec4a1924",
@@ -1077,7 +1077,7 @@
     "party": "R",
     "district": "51",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=051",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2493"
   },
   {
     "id": "ocd-person/0fddc5af-b1f0-49ca-84d9-fc6458edf362",
@@ -1095,7 +1095,7 @@
     "party": "D",
     "district": "74",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=074",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2501"
   },
   {
     "id": "ocd-person/47f4d77d-149c-410a-a324-067172efda3c",
@@ -1140,7 +1140,7 @@
     "party": "R",
     "district": "22",
     "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=272",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/coleman22.jpg"
   },
   {
     "id": "ocd-person/c22f94cc-641f-4a45-a2a6-610f829e7c43",
@@ -1176,7 +1176,7 @@
     "party": "D",
     "district": "27",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=027",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2485"
   },
   {
     "id": "ocd-person/7839a137-9de7-440a-bad8-20db1e0ead3b",
@@ -1275,7 +1275,7 @@
     "party": "R",
     "district": "29",
     "bioUrl": "https://www.house.mo.gov/MemberDetails.aspx?district=157",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Moon29.jpg"
   },
   {
     "id": "ocd-person/df4d176b-2a0b-41be-977f-efa722d6a321",
@@ -1311,7 +1311,7 @@
     "party": "R",
     "district": "2",
     "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=276",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Schroer02.jpg"
   },
   {
     "id": "ocd-person/a0be4ce1-fdbd-47d2-a74c-aaee85644992",
@@ -1401,7 +1401,7 @@
     "party": "R",
     "district": "31",
     "bioUrl": "https://www.house.mo.gov/MemberDetails.aspx?district=55",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Brattin31.jpg"
   },
   {
     "id": "ocd-person/bd63f6e7-ed53-4a4c-98b6-925588710b0b",
@@ -1419,7 +1419,7 @@
     "party": "R",
     "district": "31",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=031",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2487"
   },
   {
     "id": "ocd-person/fe941ee4-f34a-4685-873c-29adbb732b2c",
@@ -1437,7 +1437,7 @@
     "party": "R",
     "district": "12",
     "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=270",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/Black12.jpg"
   },
   {
     "id": "ocd-person/4f194218-3d95-4f08-8963-7e3440fdb671",
@@ -1572,7 +1572,7 @@
     "party": "D",
     "district": "26",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=026",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2484"
   },
   {
     "id": "ocd-person/14c919a7-4443-4bc7-8221-34a59cc3bfef",
@@ -1590,7 +1590,7 @@
     "party": "R",
     "district": "144",
     "bioUrl": "https://house.mo.gov/MemberDetails.aspx?&district=144",
-    "imageUrl": null
+    "imageUrl": "https://house.mo.gov/MemberPhoto.aspx?id=2524"
   },
   {
     "id": "ocd-person/98b8120c-7a9c-4415-9e7b-8bfcdc8fa8a5",
@@ -1617,7 +1617,7 @@
     "party": "D",
     "district": "24",
     "bioUrl": "https://www.senate.mo.gov/Senators/Member?id=277",
-    "imageUrl": null
+    "imageUrl": "https://www.senate.mo.gov/WebPhotos/SenatorPortraits/McCreery24.jpg"
   },
   {
     "id": "ocd-person/350514c2-7875-44c4-8ef3-20da25540793",
