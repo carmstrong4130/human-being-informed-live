@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T15:14:33.972Z",
+  "lastUpdated": "2026-11-02T18:27:06.145Z",
   "session": {
     "id": null,
     "label": "",
@@ -9,7 +9,7 @@
   },
   "counts": {
     "legislators": 212,
-    "committees": 107,
+    "committees": 108,
     "bills": 0,
     "voteEvents": 0
   },
@@ -17,5 +17,5 @@
     "name": "New York Legislature",
     "url": "http://public.leginfo.state.ny.us"
   },
-  "lastUpdatedRoster": "2026-10-26T15:14:33.972Z"
+  "lastUpdatedRoster": "2026-11-02T18:27:06.145Z"
 }

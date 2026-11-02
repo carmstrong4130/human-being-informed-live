@@ -69,7 +69,7 @@
     "party": "D",
     "district": "Strafford 20",
     "bioUrl": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10903",
-    "imageUrl": null
+    "imageUrl": "https://s3.amazonaws.com/ballotpedia-api4/files/AllanHowland24.jpg"
   },
   {
     "id": "ocd-person/0bc83772-75ee-453c-868c-8d2a034788b1",
@@ -96,7 +96,7 @@
     "party": "D",
     "district": "Strafford 9",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11278",
-    "imageUrl": null
+    "imageUrl": "https://www.citizenscount.org/sites/default/files/2024-10/amy-malone.jpg"
   },
   {
     "id": "ocd-person/da5fb901-d16d-430f-b5cb-7ab556f8d4ee",
@@ -177,7 +177,7 @@
     "party": "D",
     "district": "Hillsborough 9",
     "bioUrl": "https://www.gencourt.state.nh.us/house/members/member.aspx?pid=10784",
-    "imageUrl": null
+    "imageUrl": "https://www.citizenscount.org/sites/default/files/2022-08/william-dolan.jpg"
   },
   {
     "id": "ocd-person/d3c437bd-532d-458b-961f-4f6dccec1e4b",
@@ -834,7 +834,7 @@
     "party": "R",
     "district": "Hillsborough 13",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11348",
-    "imageUrl": null
+    "imageUrl": "https://assets.civicengine.com/uploads/candidate/headshot/829577/829577.jpg"
   },
   {
     "id": "ocd-person/538f12b2-0914-4107-9b08-6f498e7eec66",
@@ -1149,7 +1149,7 @@
     "party": "D",
     "district": "Hillsborough 5",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=10779",
-    "imageUrl": null
+    "imageUrl": "https://www.citizenscount.org/sites/default/files/2022-10/heather-raymond.jpg"
   },
   {
     "id": "ocd-person/1a1bb56f-cf92-4af0-b65e-3831e8a07b64",
@@ -1617,7 +1617,7 @@
     "party": "D",
     "district": "Strafford 12",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11284",
-    "imageUrl": null
+    "imageUrl": "https://assets.civicengine.com/uploads/candidate/headshot/830230/830230.jpg"
   },
   {
     "id": "ocd-person/fe4b2b32-0709-486c-910c-fa3bcfc54056",
@@ -1626,7 +1626,7 @@
     "party": "R",
     "district": "Hillsborough 36",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=11369",
-    "imageUrl": null
+    "imageUrl": "https://www.ledgertranscript.com/attachments/35/47349035.jpg"
   },
   {
     "id": "ocd-person/81a14b0b-f5dd-4e7a-b500-c9dc0a56c2be",
@@ -2193,7 +2193,7 @@
     "party": "D",
     "district": "Hillsborough 3",
     "bioUrl": "https://gencourt.state.nh.us/house/members/member.aspx?pid=10998",
-    "imageUrl": null
+    "imageUrl": "https://www.citizenscount.org/sites/default/files/2023-04/marc-plamondon.jpg"
   },
   {
     "id": "ocd-person/20e7dbe4-40e8-4a11-bf8b-c7f7d2658725",
@@ -2814,7 +2814,7 @@
     "party": "D",
     "district": "Hillsborough 4",
     "bioUrl": "https://gencourt.state.nh.us/downloads/Members.txt",
-    "imageUrl": null
+    "imageUrl": "https://www.citizenscount.org/sites/default/files/candidate-images/raynewman.jpg"
   },
   {
     "id": "ocd-person/c67b2f9d-8f52-4ce4-b613-781763f0bfe4",

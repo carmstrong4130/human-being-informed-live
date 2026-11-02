@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T15:14:33.972Z",
+  "lastUpdated": "2026-11-02T18:27:06.145Z",
   "session": {
     "id": null,
     "label": "",
@@ -8,7 +8,7 @@
     "next": null
   },
   "counts": {
-    "legislators": 235,
+    "legislators": 236,
     "committees": 76,
     "bills": 0,
     "voteEvents": 0
@@ -17,5 +17,5 @@
     "name": "Georgia General Assembly",
     "url": "https://www.legis.ga.gov"
   },
-  "lastUpdatedRoster": "2026-10-26T15:14:33.972Z"
+  "lastUpdatedRoster": "2026-11-02T18:27:06.145Z"
 }

@@ -729,6 +729,15 @@
     "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/ginn-frank-751.jpg"
   },
   {
+    "id": "ocd-person/a0bfdc0d-4110-4cd2-b83c-834bba4300f5",
+    "name": "Freddie Sims",
+    "chamber": "senate",
+    "party": "D",
+    "district": "12",
+    "bioUrl": "https://www.legis.ga.gov/members/senate",
+    "imageUrl": "https://www.legis.ga.gov/api/images/default-source/portraits/sims-freddie-209.jpg"
+  },
+  {
     "id": "ocd-person/dc99efc3-076b-4d00-b4b0-66a0507a4057",
     "name": "Gabe Okoye",
     "chamber": "house",
